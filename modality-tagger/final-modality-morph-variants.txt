@@ -1,0 +1,819 @@
+# Require
+require''VB$Require &require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, I5-CP-basic
+required''VBD$Require &required, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, I5-CP-basic
+required''VBN$Require &required, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, I5-CP-basic
+requires''VBZ$Require &requires, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, I5-CP-basic
+requiring''VBG$Require &requiring, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, I5-CP-basic
+requirement''NN$Require &requirement, Noun-compound, NN-for-basic
+required''JJ$Require &required, JJ-prenominal-basic
+should''MD$Require &should, modal-auxiliary-basic
+have''VB to''TO$Require &have, have-to
+had''VBD to''TO$Require &had, have-to
+had''VBN to''TO$Require &had, have-to
+has''VBZ to''TO$Require &has, have-to
+having''VB to''TO$Require &having, have-to
+must''MD$Require &must, must-without-have
+have''VB the''DT need''NN$Require &have, have-need-of
+had''VBD the''DT need''NN$Require &had, have-need-of
+had''VBN the''DT need''NN$Require &had, have-need-of
+has''VBZ the''DT need''NN$Require &has, have-need-of
+having''VBG the''DT need''NN$Require &having, have-need-of
+in''IN need''NN of''IN$Require &need, in-need-of
+need''VB$Require &need, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
+needed''VBD$Require &needed, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
+needed''VBN$Require &needed, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
+needs''VBZ$Require &needs, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
+needing''VBG$Require &needing, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
+needed''JJ$Require &need, JJ-prenominal-basic
+need''NN$Require &need, NN-for-basic,  NN-infinitive-basic
+needs''NNS$Require &need, NN-for-basic, NN-infinitive-basic
+obligate''VB$Require &obligate, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+obligated''VBD$Require &obligated, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+obligated''VBN$Require &obligated, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+obligates''VBZ$Require &obligates, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+obligating''VBG$Require &obligating, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+order''VB$Require &order, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, I5-CP-basic, X7-X9-basic
+ordered''VBD$Require &ordered, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, I5-CP-basic, X7-X9-basic
+ordered''VBN$Require &ordered, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, I5-CP-basic, X7-X9-basic
+orders''VBZ$Require &orders, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, I5-CP-basic, X7-X9-basic
+ordering''VBG$Require &ordering, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, I5-CP-basic, X7-X9-basic
+
+# Permit
+permit''VB$Permit &permit, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+permitted''VBD$Permit &permitted, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+permitted''VBN$Permit &permitted, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+permits''VBZ$Permit &permits, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+permitting''VBG$Permit &permitting, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+allow''VB$Permit &allow, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, X7-X9-basic
+allowed''VBD$Permit &allowed, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, X7-X9-basic
+allowed''VBN$Permit &allowed, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, X7-X9-basic
+allows''VBZ$Permit &allows, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, X7-X9-basic
+allowing''VBG$Permit &allowing, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-D1-verbs, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, D1-ditransitive-basic, X7-X9-basic
+authorize''VB$Permit &authorize, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+authorized''VBD$Permit &authorized, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+authorized''VBN$Permit &authorized, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+authorizes''VBZ$Permit &authorizes, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+authorizing''VBG$Permit &authorizing, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
+enable''VB$Permit &enable, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+enabled''VBD$Permit &enabled, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+enabled''VBN$Permit &enabled, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+enables''VBZ$Permit &enables, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+enabling''VBG$Permit &enabling, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+endorse''VB$Permit &endorse, T1-monotransitive-basic, T1-passive-basic
+endorsed''VBD$Permit &endorsed, T1-monotransitive-basic, T1-passive-basic
+endorsed''VBN$Permit &endorsed, T1-monotransitive-basic, T1-passive-basic
+endorses''VBZ$Permit &endorses, T1-monotransitive-basic, T1-passive-basic
+endorsing''VBG$Permit &endorsing, T1-monotransitive-basic, T1-passive-basic
+give''VB leave''NN$Permit &**NOT DONE**
+gave''VBD leave''NN$Permit &**NOT DONE**
+given''VBN leave''NN$Permit &**NOT DONE**
+gives''VBZ permission''NN$Permit &**NOT DONE**
+giving''VBG permission''NN$Permit &**NOT DONE**
+give''VB leave''NN$Permit &**NOT DONE**
+gave''VBD leave''NN$Permit &**NOT DONE**
+given''VBN leave''NN$Permit &**NOT DONE**
+gives''VBZ permission''NN$Permit &**NOT DONE**
+giving''VBG permission''NN$Permit &**NOT DONE**
+let''VB$Permit & let, let-s, let-vp
+let''VBD$Permit & let, let-s, let-vp
+let''VBN$Permit & let, let-s, let-vp
+lets''VBZ$Permit & lets, let-s, let-vp
+letting''VBG$Permit & letting, let-s, let-vp
+okay''VB$Permit &okay, T1-monotransitive-basic, T1-passive-basic
+okayed''VBD$Permit &okayed, T1-monotransitive-basic, T1-passive-basic
+okayed''VBN$Permit &okayed, T1-monotransitive-basic, T1-passive-basic
+okays''VBZ$Permit &okays, T1-monotransitive-basic, T1-passive-basic
+okaying''VBG$Permit &okaying, T1-monotransitive-basic, T1-passive-basic
+sanctify''VB$Permit &sanctify, T1-monotransitive-basic, T1-passive-basic
+sanctified''VBD$Permit &sanctified, T1-monotransitive-basic, T1-passive-basic
+sanctified''VBN$Permit &sanctified, T1-monotransitive-basic, T1-passive-basic
+sanctifies''VBZ$Permit &sanctifies, T1-monotransitive-basic, T1-passive-basic
+sanctifying''VBG$Permit &sanctifying, T1-monotransitive-basic, T1-passive-basic
+sanction''VB$Permit &sanction, T1-monotransitive-basic, T1-passive-basic
+sanctioned''VBD$Permit &sanctioned, T1-monotransitive-basic, T1-passive-basic
+sanctioned''VBN$Permit &sanctioned, T1-monotransitive-basic, T1-passive-basic
+sanctions''VBZ$Permit &sanctions, T1-monotransitive-basic, T1-passive-basic
+sanctioning''VBG$Permit &sanctioning, T1-monotransitive-basic, T1-passive-basic
+sign''VB off''RB$Permit &**NOT DONE**
+signed''VBD off''RB$Permit &**NOT DONE**
+signed''VBN off''RB$Permit &**NOT DONE**
+signs''VBZ off''RB$Permit &**NOT DONE**
+signing''VBG off''RB$Permit &**NOT DONE**
+sign''VB on''RB$Permit &**NOT DONE**
+signed''VBD on''RB$Permit &**NOT DONE**
+signed''VBN on''RB$Permit &**NOT DONE**
+signs''VBZ on''RB$Permit &**NOT DONE**
+signing''VBG on''RB$Permit &**NOT DONE**
+suffer''VB$Permit &suffer, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+suffered''VBD$Permit &suffered, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+suffered''VBN$Permit &suffered, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+suffers''VBZ$Permit &suffers, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+suffering''VBG$Permit &suffering, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+tolerate''VB$Permit &tolerate, T1-monotransitive-basic, T1-passive-basic
+tolerated''VBD$Permit &tolerated, T1-monotransitive-basic, T1-passive-basic
+tolerated''VBN$Permit &tolerated, T1-monotransitive-basic, T1-passive-basic
+tolerates''VBZ$Permit &tolerates, T1-monotransitive-basic, T1-passive-basic
+tolerating''VBG$Permit &tolerating, T1-monotransitive-basic, T1-passive-basic
+
+# NotPermit
+deny''VB$NotPermit &deny, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+denied''VBD$NotPermit &denied, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+denied''VBN$NotPermit &denied, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+denies''VBZ$NotPermit &denies, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+denying''VBG$NotPermit &denying, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+disallow''VB$NotPermit &disallow, T1-monotransitive-basic, T1-passive-basic
+disallowed''VBD$NotPermit &disallowed, T1-monotransitive-basic, T1-passive-basic
+disallowed''VBN$NotPermit &disallowed, T1-monotransitive-basic, T1-passive-basic
+disallows''VBZ$NotPermit &disallows, T1-monotransitive-basic, T1-passive-basic
+disallowing''VBG$NotPermit &disallowing, T1-monotransitive-basic, T1-passive-basic
+refuse''VB$NotPermit &refuse, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, V3-passive-basic, V3-I3-basic
+refused''VBD$NotPermit &refused, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, V3-passive-basic, V3-I3-basic
+refused''VBN$NotPermit &refused, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, V3-passive-basic, V3-I3-basic
+refuses''VBZ$NotPermit &refuses, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, V3-passive-basic, V3-I3-basic
+refusing''VBG$NotPermit &refusing, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, V3-passive-basic, V3-I3-basic
+exclude''VB$NotPermit &exclude, T1-monotransitive-basic, T1-passive-basic
+excluded''VBD$NotPermit &excluded, T1-monotransitive-basic, T1-passive-basic
+excluded''VBN$NotPermit &excluded, T1-monotransitive-basic, T1-passive-basic
+excludes''VBZ$NotPermit &excludes, T1-monotransitive-basic, T1-passive-basic
+excluding''VBG$NotPermit &excluding, T1-monotransitive-basic, T1-passive-basic
+enjoin''VB from''IN$NotPermit &**NOT DONE**
+enjoined''VBD from''IN$NotPermit &**NOT DONE**
+enjoined''VBN from''IN$NotPermit &**NOT DONE**
+enjoins''VBZ from''IN$NotPermit &**NOT DONE**
+enjoining''VBG from''IN$NotPermit &**NOT DONE**
+restrain''VB$NotPermit &restrain, T1-monotransitive-basic, T1-passive-basic
+restrained''VBD$NotPermit &restrained, T1-monotransitive-basic, T1-passive-basic
+restrained''VBN$NotPermit &restrained, T1-monotransitive-basic, T1-passive-basic
+restrains''VBZ$NotPermit &restrains, T1-monotransitive-basic, T1-passive-basic
+restraining''VBG$NotPermit &restraining, T1-monotransitive-basic, T1-passive-basic
+veto''VB$NotPermit &veto, T1-monotransitive-basic, T1-passive-basic
+vetoed''VBD$NotPermit &vetoed, T1-monotransitive-basic, T1-passive-basic
+vetoed''VBN$NotPermit &vetoed, T1-monotransitive-basic, T1-passive-basic
+vetoes''VBZ$NotPermit &vetoes, T1-monotransitive-basic, T1-passive-basic
+vetoing''VBG$NotPermit &vetoing, T1-monotransitive-basic, T1-passive-basic
+
+# Succeed
+attain''VB$Succeed &attain, T1-monotransitive-basic, T1-passive-basic
+attained''VBD$Succeed &attained, T1-monotransitive-basic, T1-passive-basic
+attained''VBN$Succeed &attained, T1-monotransitive-basic, T1-passive-basic
+attains''VBZ$Succeed &attains, T1-monotransitive-basic, T1-passive-basic
+attaining''VBG$Succeed &attaining, T1-monotransitive-basic, T1-passive-basic
+arrive''VB$Succeed &arrive, I-at-intransitive-basic.txt
+arrived''VBD$Succeed &arrived, I-at-intransitive-basic.txt
+arrived''VBN$Succeed &arrived, I-at-intransitive-basic.txt
+arrives''VBZ$Succeed &arrives, I-at-intransitive-basic.txt
+arriving''VBG$Succeed &arriving, I-at-intransitive-basic.txt
+come''VB through''IN with''IN$Succeed &**NOT DONE**
+came''VBD through''IN with''IN$Succeed &**NOT DONE**
+came''VBN through''IN with''IN$Succeed &**NOT DONE**
+comes''VBZ through''IN with''IN$Succeed &**NOT DONE**
+coming''VBG through''IN with''IN$Succeed &**NOT DONE**
+manage''VB$Succeed &manage, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+managed''VBD$Succeed &managed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+managed''VBN$Succeed &managed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+manages''VBZ$Succeed &manages, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+managing''VBG$Succeed &managing, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+manage''VB to''TO$Succeed &**NOT DONE**
+managed''VBD to''TO$Succeed &**NOT DONE**
+managed''VBN to''TO$Succeed &**NOT DONE**
+manages''VBZ to''TO$Succeed &**NOT DONE**
+managing''VBG to''TO$Succeed &**NOT DONE**
+reach''VB$Succeed &reach, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+reached''VBD$Succeed &reached, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+reached''VBN$Succeed &reached, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+reaches''VBZ$Succeed &reaches, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+reaching''VBG$Succeed &reaching, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+succeed''VB$Succeed &succeed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+succeeded''VBD$Succeed &succeeded, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+succeeded''VBN$Succeed &succeeded, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+succeeds''VBZ$Succeed &succeeds, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+succeeding''VBG$Succeed &succeeding, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+successful''JJ$Succeed & successful, JJ-prenominal-basic, JJ-predicative-for-JJ-in, JJ-in-basic, JJ-in-VBG
+accomplish''VB$Succeed &accomplish, T1-monotransitive-basic, T1-passive-basic
+accomplished''VBD$Succeed &accomplished, T1-monotransitive-basic, T1-passive-basic
+accomplished''VBN$Succeed &accomplished, T1-monotransitive-basic, T1-passive-basic
+accomplishes''VBZ$Succeed &accomplishes, T1-monotransitive-basic, T1-passive-basic
+accomplishing''VBG$Succeed &accomplishing, T1-monotransitive-basic, T1-passive-basic
+achieve''VB$Succeed &achieve, T1-monotransitive-basic, T1-passive-basic
+achieved''VBD$Succeed &achieved, T1-monotransitive-basic, T1-passive-basic
+achieved''VBN$Succeed &achieved, T1-monotransitive-basic, T1-passive-basic
+achieves''VBZ$Succeed &achieves, T1-monotransitive-basic, T1-passive-basic
+achieving''VBG$Succeed &achieving, T1-monotransitive-basic, T1-passive-basic
+acquire''VB$Succeed &acquire, T1-monotransitive-basic, T1-passive-basic
+acquired''VBD$Succeed &acquired, T1-monotransitive-basic, T1-passive-basic
+acquired''VBN$Succeed &acquired, T1-monotransitive-basic, T1-passive-basic
+acquires''VBZ$Succeed &acquires, T1-monotransitive-basic, T1-passive-basic
+acquiring''VBG$Succeed &acquiring, T1-monotransitive-basic, T1-passive-basic
+fulfill''VB$Succeed &fulfill, T1-monotransitive-basic, T1-passive-basic
+fulfilled''VBD$Succeed &fulfilled, T1-monotransitive-basic, T1-passive-basic
+fulfilled''VBN$Succeed &fulfilled, T1-monotransitive-basic, T1-passive-basic
+fulfills''VBZ$Succeed &fulfills, T1-monotransitive-basic, T1-passive-basic
+fulfilling''VBG$Succeed &fulfilling, T1-monotransitive-basic, T1-passive-basic
+obtain''VB$Succeed &obtain, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+obtained''VBD$Succeed &obtained, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+obtained''VBN$Succeed &obtained, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+obtains''VBZ$Succeed &obtains, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+obtaining''VBG$Succeed &obtaining, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
+prevail''VB$Succeed &prevail, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+prevailed''VBD$Succeed &prevailed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+prevailed''VBN$Succeed &prevailed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+prevails''VBZ$Succeed &prevails, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+prevailing''VBG$Succeed &prevailing, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+pull''VB off''RB$Succeed &**NOT DONE**
+pulled''VBD off''RB$Succeed &**NOT DONE**
+pulled''VBN off''RB$Succeed &**NOT DONE**
+pulls''VBZ off''RB$Succeed &**NOT DONE**
+pulling''VBG off''RB$Succeed &**NOT DONE**
+win''VB$Succeed &win, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+won''VBD$Succeed &won, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+won''VBN$Succeed &won, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+wins''VBZ$Succeed &wins, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+winning''VBG$Succeed &winning, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+
+# NotSucceed
+fail''VB$NotSucceed &fail, V3-passive-basic, V3-I3-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+failed''VBD$NotSucceed &failed, V3-passive-basic, V3-I3-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+failed''VBN$NotSucceed &failed, V3-passive-basic, V3-I3-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+fails''VBZ$NotSucceed &fails, V3-passive-basic, V3-I3-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+failing''VBG$NotSucceed &failing, V3-passive-basic, V3-I3-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+abort''VB$NotSucceed &abort, T1-monotransitive-basic, T1-passive-basic
+aborted''VBD$NotSucceed &aborted, T1-monotransitive-basic, T1-passive-basic
+aborted''VBN$NotSucceed &aborted, T1-monotransitive-basic, T1-passive-basic
+aborts''VBZ$NotSucceed &aborts, T1-monotransitive-basic, T1-passive-basic
+aborting''VBG$NotSucceed &aborting, T1-monotransitive-basic, T1-passive-basic
+fall''VB short''JJ$NotSucceed & fall, fall-short
+fell''VBD short''JJ$NotSucceed & fell, fall-short
+fallen''VBN short''JJ$NotSucceed & fallen, fall-short
+falls''VBZ short''JJ$NotSucceed & falls, fall-short
+falling''VBG short''JJ$NotSucceed & falling, fall-short
+fizzle''VB$NotSucceed &fizzle, I-intransitive-basic
+fizzled''VBD$NotSucceed &fizzled, I-intransitive-basic
+fizzled''VBN$NotSucceed &fizzled, I-intransitive-basic
+fizzles''VBZ$NotSucceed  &fizzles, I-intransitive-basic
+fizzling''VBG$NotSucceed &fizzling, I-intransitive-basic
+flop''VB$NotSucceed &flop, I-intransitive-basic, L9-basic
+flopped''VBD$NotSucceed &flopped, I-intransitive-basic, L9-basic
+flopped''VBN$NotSucceed &flopped, I-intransitive-basic, L9-basic
+flops''VBZ$NotSucceed &flops, I-intransitive-basic, L9-basic
+flopping''VBG$NotSucceed &flopping, I-intransitive-basic, L9-basic
+short''JJ of''IN$NotSucceed & short, short-of, short-of-vbg
+unsuccessful''JJ$NotSucceed & unsuccessful, JJ-prenominal-basic, JJ-predicative-for-JJ-in, JJ-in-basic, JJ-in-VBG
+useless''JJ$NotSucceed & useless, JJ-in-VBG, JJ-as-basic
+
+# Effort
+try''VB$Effort &try, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+tried''VBD$Effort &tried, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+tried''VBN$Effort &tried, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+tries''VBZ$Effort &tries, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+trying''VBG$Effort &trying, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+aim''VB$Effort &aim, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+aimed''VBD$Effort &aimed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+aimed''VBN$Effort &aimed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+aims''VBZ$Effort &aims, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+aiming''VBG$Effort &aiming, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+aspire''VB$Effort &aspire, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspired''VBD$Effort &aspires, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspired''VBN$Effort &aspired, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspires''VBZ$Effort &aspires, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspiring''VBG$Effort &aspiring, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+attack''VB$Effort &attack, T1-monotransitive-basic, T1-passive-basic
+attacked''VBD$Effort &attacked, T1-monotransitive-basic, T1-passive-basic
+attacked''VBN$Effort &attacked, T1-monotransitive-basic, T1-passive-basic
+attacks''VBZ$Effort &attacks, T1-monotransitive-basic, T1-passive-basic
+attacking''VBG$Effort &attacking, T1-monotransitive-basic, T1-passive-basic
+attempt''VB$Effort &attempt, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+attempted''VBD$Effort &attempted, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+attempted''VBN$Effort &attempted, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+attempts''VBZ$Effort &attempts, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+attempting''VBG$Effort &attempting, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+contend''VB$Effort &contend, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+contended''VBD$Effort &contended, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+contended''VBN$Effort &contended, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+contends''VBZ$Effort &contends, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+contending''VBG$Effort &contending, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+endeavor''VB$Effort &**NOT DONE**
+endeavored''VBD$Effort &**NOT DONE**
+endeavored''VBN$Effort &**NOT DONE**
+endeavors''VBZ$Effort &**NOT DONE**
+endeavoring''VBG$Effort &**NOT DONE**
+seek''VB$Effort &seek, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+sought''VBD$Effort &sought, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+sought''VBN$Effort &sought, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+seeks''VBZ$Effort &seeks, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+seeking''VBG$Effort &seeking, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+strive''VB$Effort &strive, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+strove''VBD$Effort &strove, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+strove''VBN$Effort &strove, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+strives''VBZ$Effort &strives, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+striving''VBG$Effort &striving, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+tackle''VB$Effort &tackle, T1-monotransitive-basic, T1-passive-basic
+tackled''VBD$Effort &tackled, T1-monotransitive-basic, T1-passive-basic
+tackled''VBN$Effort &tackled, T1-monotransitive-basic, T1-passive-basic
+tackles''VBZ$Effort &tackles, T1-monotransitive-basic, T1-passive-basic
+tackling''VBG$Effort &tackling, T1-monotransitive-basic, T1-passive-basic
+undertake''VB$Effort &undertake, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+undertook''VBD$Effort &undertook, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+undertook''VBN$Effort &undertook, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+undertakes''VBZ$Effort &undertakes, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+undertaking''VBG$Effort &undertaking, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+venture''VB$Effort &venture, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+ventured''VBD$Effort &ventured, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+ventured''VBN$Effort &ventured, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+ventures''VBZ$Effort &ventures, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+venturing''VBG$Effort &venturing, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+work''VB$Effort &work, L9-basic, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I-at-intransitive-basic.txt, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+worked''VBD$Effort &worked, L9-basic, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I-at-intransitive-basic.txt, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+worked''VBN$Effort &worked, L9-basic, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I-at-intransitive-basic.txt, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+works''VBZ$Effort &works, L9-basic, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I-at-intransitive-basic.txt, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+working''VBG$Effort &working, L9-basic, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I-at-intransitive-basic.txt, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+wrangle''VB$Effort &wrangle, I-with-intransitive-basic, I-with-intransitive-VBG
+wrangled''VBD$Effort &wrangled, I-with-intransitive-basic, I-with-intransitive-VBG
+wrangled''VBN$Effort &wrangled, I-with-intransitive-basic, I-with-intransitive-VBG
+wrangles''VBZ$Effort &wrangles, I-with-intransitive-basic, I-with-intransitive-VBG
+wrangling''VBG$Effort &wrangling, I-with-intransitive-basic, I-with-intransitive-VBG
+engineer''VB$Effort &engineer, T1-monotransitive-basic, T1-passive-basic
+engineered''VBD$Effort &engineered, T1-monotransitive-basic, T1-passive-basic
+engineered''VBN$Effort &engineered, T1-monotransitive-basic, T1-passive-basic
+engineers''VBZ$Effort &engineers, T1-monotransitive-basic, T1-passive-basic
+engineering''VBG$Effort &engineering, T1-monotransitive-basic, T1-passive-basic
+organize''VB$Effort &organize, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+organized''VBD$Effort &organized, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+organized''VBN$Effort &organized, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+organizes''VBZ$Effort &organizes, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+organizing''VBG$Effort &organizing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+
+# NotEffort
+abstain''VB$NotEffort &abstain, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+abstained''VBD$NotEffort &abstained, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+abstained''VBN$NotEffort &abstained, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+abstains''VBZ$NotEffort &abstains, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+abstaining''VBG$NotEffort &abstaining, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+avoid''VB$NotEffort &avoid, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+avoided''VBD$NotEffort &avoided, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+avoided''VBN$NotEffort &avoided, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+avoids''VBZ$NotEffort &avoids, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+avoiding''VBG$NotEffort &avoiding, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+decline''VB$NotEffort &decline, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+declined''VBD$NotEffort &declined, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+declined''VBN$NotEffort &declined, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+declines''VBZ$NotEffort &declines, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+declining''VBG$NotEffort &declining, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
+forgo''VB$NotEffort &forgo, T1-monotransitive-basic, T1-passive-basic
+forgone''VBD$NotEffort &forgone, T1-monotransitive-basic, T1-passive-basic
+forgone''VBN$NotEffort &forgone, T1-monotransitive-basic, T1-passive-basic
+forgoes''VBZ$NotEffort &forgoes, T1-monotransitive-basic, T1-passive-basic
+forgoing''VBG$NotEffort &forgoing, T1-monotransitive-basic, T1-passive-basic
+pass''VB$NotEffort &pass, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, X7-X9-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+passed''VBD$NotEffort &passed, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, X7-X9-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+passed''VBN$NotEffort &passed, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, X7-X9-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+passes''VBZ$NotEffort &passes, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, X7-X9-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+passing''VBG$NotEffort &passing, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, X7-X9-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+
+# Intend
+intend''VB$Intend &intend, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+intended''VBD$Intend &intended, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+intended''VBN$Intend &intended, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+intends''VBZ$Intend &intends, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+intending''VBG$Intend &intending, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+plan''VB$Intend &plan, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+planned''VBD$Intend &planned, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+planned''VBN$Intend &planned, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+plans''VBZ$Intend &plans, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+planning''VBG$Intend &planning, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+aim''VB$Intend &aim, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic 
+aimed''VBD$Intend &aimed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic 
+aimed''VBN$Intend &aimed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic 
+aims''VBZ$Intend &aims, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic 
+aiming''VBG$Intend &aiming, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic 
+contemplate''VB$Intend &contemplate, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, I5-CP-basic
+contemplated''VBD$Intend &contemplated, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, I5-CP-basic
+contemplated''VBN$Intend &contemplated, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, I5-CP-basic
+contemplates''VBZ$Intend &contemplates, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, I5-CP-basic
+contemplating''VBG$Intend &contemplating, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, I5-CP-basic
+design''VB$Intend &design, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic
+designed''VBD$Intend &designed, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic
+designed''VBN$Intend &designed, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic
+designs''VBZ$Intend &designs, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic
+designing''VBG$Intend &designing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic
+hope''VB to''TO$Intend &**NOT DONE**
+hoped''VBD to''TO$Intend &**NOT DONE**
+hoped''VBN to''TO$Intend &**NOT DONE**
+hopes''VBZ to''TO$Intend &**NOT DONE**
+hoping''VBG to''TO$Intend &**NOT DONE**
+indicate''VB$Intend &indicate, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic
+indicated''VBD$Intend &indicated, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic
+indicated''VBN$Intend &indicated, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic
+indicates''VBZ$Intend &indicates, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic
+indicating''VBG$Intend &indicating, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic
+ordain''VB$Intend &ordain, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+ordained''VBD$Intend &ordained, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+ordained''VBN$Intend &ordained, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+ordains''VBZ$Intend &ordains, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+ordaining''VBG$Intend &ordaining, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+plot''VB$Intend &plot, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+plotted''VBD$Intend &plotted, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+plotted''VBN$Intend &plotted, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+plots''VBZ$Intend &plots, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+plotting''VBG$Intend &plotting, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+propose''VB$Intend &propose, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+proposed''VBD$Intend &proposed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+proposed''VBN$Intend &proposed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+proposes''VBZ$Intend &proposes, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+proposing''VBG$Intend &proposing, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+resolve''VB$Intend &resolve, L9-basic, T1-monotransitive-basic, T1-passive-basic
+resolved''VBD$Intend &resolved, L9-basic, T1-monotransitive-basic, T1-passive-basic
+resolved''VBN$Intend &resolved, L9-basic, T1-monotransitive-basic, T1-passive-basic
+resolves''VBZ$Intend &resolves, L9-basic, T1-monotransitive-basic, T1-passive-basic
+resolving''VBG$Intend &resolving, L9-basic, T1-monotransitive-basic, T1-passive-basic
+scheme''VB$Intend &scheme, V3-I3-basic 
+schemed''VBD$Intend &schemed, V3-I3-basic 
+schemed''VBN$Intend &schemed, V3-I3-basic 
+schemes''VBZ$Intend &schemes, V3-I3-basic 
+scheming''VBG$Intend &scheming, V3-I3-basic 
+signify''VB$Intend &signify, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+signified''VBD$Intend &signified, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+signified''VBN$Intend &signified, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+signifies''VBZ$Intend &signifies, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+signifying''VBG$Intend &signifying, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+strive''VB$Intend &strive, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+strived''VBD$Intend &strived, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+strived''VBN$Intend &strived, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+strives''VBZ$Intend &strives, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+striving''VBG$Intend &striving, L9-basic, I-for-intransitive-basic, I-for-intransitive-VBG, I-with-intransitive-basic, I-with-intransitive-VBG
+concoct''VB$Intend &concoct, T1-monotransitive-basic, T1-passive-basic
+concocted''VBD$Intend &concocted, T1-monotransitive-basic, T1-passive-basic
+concocted''VBN$Intend &concocted, T1-monotransitive-basic, T1-passive-basic
+concocts''VBZ$Intend &concocts, T1-monotransitive-basic, T1-passive-basic
+concocting''VBG$Intend &concocting, T1-monotransitive-basic, T1-passive-basic
+conspire''VB$Intend &conspire, V3-I3-basic 
+conspired''VBD$Intend &conspired, V3-I3-basic 
+conspired''VBN$Intend &conspired, V3-I3-basic 
+conspires''VBZ$Intend &conspires, V3-I3-basic 
+conspiring''VBG$Intend &conspiring, V3-I3-basic 
+contrive''VB$Intend &contrive, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+contrived''VBD$Intend &contrived, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+contrived''VBN$Intend &contrived, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+contrives''VBZ$Intend &contrives, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+contriving''VBG$Intend &contriving, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
+devise''VB$Intend &devise, T1-monotransitive-basic, T1-passive-basic
+devised''VBD$Intend &devised, T1-monotransitive-basic, T1-passive-basic
+devised''VBN$Intend &devised, T1-monotransitive-basic, T1-passive-basic
+devises''VBZ$Intend &devises, T1-monotransitive-basic, T1-passive-basic
+devising''VBG$Intend &devising, T1-monotransitive-basic, T1-passive-basic
+
+# Able
+capable''JJ of''IN$Able& capable, JJ-of-basic, JJ-of-VBG
+able''JJ to''TO$Able & able, JJ-infinitive
+can''MD$Able & can, modal-auxiliary-basic
+could''MD$Able & could, modal-auxiliary-basic
+ready''JJ$Able & ready, JJ-infinitive
+
+# NotAble
+powerless''JJ$NotAble & powerless, JJ-infinitive
+unable''JJ$NotAble & unable, JJ-infinitive
+
+# Want
+want''VB$Want &want, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+wanted''VBD$Want &wanted, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+wanted''VBN$Want &wanted, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+wants''VBZ$Want &wants, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+wanting''VBG$Want &wanting, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
+hope''VB$Want &hope, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+hopes''VBD$Want &hopes, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+hopes''VBN$Want &hopes, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+hoped''VBZ$Want &hoped, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+hoping''VBG$Want &hoping, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+wish''VB$Want &wish, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+wishes''VBD$Want &wishes, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+wishes''VBN$Want &wishes, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+wished''VBZ$Want &wished, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+wishing''VBG$Want &wishing, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+request''VB$Want &request, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+requests''VBD$Want &requests, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+requests''VBN$Want &requests, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+requested''VBZ$Want &requested, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+requesting''VBG$Want &requesting, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+aspire''VB$Want &aspire, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspires''VBD$Want &aspires, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspires''VBN$Want &aspires, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspired''VBZ$Want &aspired, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspiring''VBG$Want &aspiring, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+covet''VB$Want &covet, T1-monotransitive-basic, T1-passive-basic
+covets''VBD$Want &covets, T1-monotransitive-basic, T1-passive-basic
+covets''VBN$Want &covets, T1-monotransitive-basic, T1-passive-basic
+coveted''VBZ$Want &coveted, T1-monotransitive-basic, T1-passive-basic
+coveting''VBG$Want &coveting, T1-monotransitive-basic, T1-passive-basic
+crave''VB$Want &crave, L9-basic, T1-monotransitive-basic, T1-passive-basic
+craves''VBD$Want &craves, L9-basic, T1-monotransitive-basic, T1-passive-basic
+craves''VBN$Want &craves, L9-basic, T1-monotransitive-basic, T1-passive-basic
+craved''VBZ$Want &craved, L9-basic, T1-monotransitive-basic, T1-passive-basic
+craving''VBG$Want &craving, L9-basic, T1-monotransitive-basic, T1-passive-basic
+fancy''VB$Want &fancy, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+fancied''VBD$Want &fancied, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+fancied''VBN$Want &fancied, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+fancies''VBZ$Want &fancies, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+fancying''VBG$Want &fancying, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+hunger''VB$Want &hunger, I-for-intransitive-basic, I-for-intransitive-VBG
+hungered''VBD$Want &hungered, I-for-intransitive-basic, I-for-intransitive-VBG
+hungered''VBN$Want &hungered, I-for-intransitive-basic, I-for-intransitive-VBG
+hungers''VBZ$Want &hungers, I-for-intransitive-basic, I-for-intransitive-VBG
+hungering''VBG$Want &hungering, I-for-intransitive-basic, I-for-intransitive-VBG
+incline''VB toward''IN$Want &**NOT DONE**
+inclined''VBD toward''IN$Want &**NOT DONE**
+inclined''VBN toward''IN$Want &**NOT DONE**
+inclines''VBZ toward''IN$Want &**NOT DONE**
+inclining''VBG toward''IN$Want &**NOT DONE**
+incline''VB towards''IN$Want &**NOT DONE**
+inclined''VBD towards''IN$Want &**NOT DONE**
+inclined''VBN towards''IN$Want &**NOT DONE**
+inclines''VBZ towards''IN$Want &**NOT DONE**
+inclining''VBG towards''IN$Want &**NOT DONE**
+incline''VB to''TO$Want &**NOT DONE**
+inclined''VBD to''TO$Want &**NOT DONE**
+inclined''VBN to''TO$Want &**NOT DONE**
+inclines''VBZ to''TO$Want &**NOT DONE**
+inclining''VBG to''TO$Want &**NOT DONE**
+long''VB$Want &long, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+longed''VBD$Want &longed, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+longed''VBN$Want &longed, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+longs''VBZ$Want &longs, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+longing''VBG$Want &longing, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+lust''VB$Want &lust, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+lusted''VBD$Want &lusted,  3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+lusted''VBN$Want &lusted, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+lusts''VBZ$Want &lusts,  3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+lusting''VBG$Want &lusting, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+need''VB$Want &need, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
+needed''VBD$Want &needed, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
+needed''VBN$Want &needed, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
+needs''VBZ$Want &needs, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
+needing''VBG$Want &needing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
+pine''VB$Want &pine, L9-basic, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+pined''VBD$Want &pined, L9-basic, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+pined''VBN$Want &pined, L9-basic, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+pines''VBZ$Want &pines, L9-basic, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+pining''VBG$Want &pining, L9-basic, V3-I3-basic, I-for-intransitive-basic, I-for-intransitive-VBG
+prefer''VB$Want &prefer, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+preferred''VBD$Want &preferred, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+preferred''VBN$Want &preferred, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+prefers''VBZ$Want &prefers, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+preferring''VBG$Want &preferring, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+beg''VB$Want &beg, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG 
+begged''VBD$Want &begged, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG 
+begged''VBN$Want &begged, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG 
+begs''VBZ$Want &begs, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG 
+begging''VBG$Want &begging, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG, I5-CP-basic, I-for-intransitive-basic, I-for-intransitive-VBG 
+beseech''VB$Want &beseech, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+beseeched''VBD$Want &beseeched, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+beseeched''VBN$Want &beseeched, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+beseeches''VBZ$Want &beseeches, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+beseeching''VBG$Want &beseeching, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+entreat''VB$Want &entreat, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+entreated''VBD$Want &entreated, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+entreated''VBN$Want &entreated, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+entreats''VBZ$Want &entreats, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+entreating''VBG$Want &entreating, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+petition''VB$Want &petition, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+petitioned''VBD$Want &petitioned, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+petitioned''VBN$Want &petitioned, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic  
+petitions''VBZ$Want &petitions, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+petitioning''VBG$Want &petitioning, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+promote''VB$Want &promote, T1-monotransitive-basic, T1-passive-basic
+promoted''VBD$Want &promoted, T1-monotransitive-basic, T1-passive-basic
+promoted''VBN$Want &promoted, T1-monotransitive-basic, T1-passive-basic
+promotes''VBZ$Want &promotes, T1-monotransitive-basic, T1-passive-basic
+promoting''VBG$Want &promoting, T1-monotransitive-basic, T1-passive-basic
+solicit''VB$Want &solicit, T1-monotransitive-basic, T1-passive-basic
+solicited''VBD$Want &solicited, T1-monotransitive-basic, T1-passive-basic
+solicited''VBN$Want &solicited, T1-monotransitive-basic, T1-passive-basic
+solicits''VBZ$Want &solicits, T1-monotransitive-basic, T1-passive-basic
+soliciting''VBG$Want &soliciting, T1-monotransitive-basic, T1-passive-basic
+
+# NotWant
+despise''VB$NotWant &despise, T1-monotransitive-basic, T1-passive-basic
+despised''VBD$NotWant &despised, T1-monotransitive-basic, T1-passive-basic
+despised''VBN$NotWant &despised, T1-monotransitive-basic, T1-passive-basic
+despises''VBZ$NotWant &despises, T1-monotransitive-basic, T1-passive-basic
+despising''VBG$NotWant &despising, T1-monotransitive-basic, T1-passive-basic
+dislike''VB$NotWant &dislike, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+disliked''VBD$NotWant &disliked, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+disliked''VBN$NotWant &disliked, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+dislikes''VBZ$NotWant &dislikes, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+disliking''VBG$NotWant &disliking, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
+hate''VB$NotWant &hate, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+hated''VBD$NotWant &hated, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+hated''VBN$NotWant &hated, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+hates''VBZ$NotWant &hates, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+hating''VBG$NotWant &hating, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+despair''VB$NotWant &despair, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+despaired''VBD$NotWant &despaired, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+despaired''VBN$NotWant &despaired, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+despairs''VBZ$NotWant &despairs, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+despairing''VBG$NotWant &despairing, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+fear''VB$NotWant &fear, T1-monotransitive-basic, T1-passive-basic
+feared''VBD$NotWant &feared, T1-monotransitive-basic, T1-passive-basic
+feared''VBN$NotWant &feared, T1-monotransitive-basic, T1-passive-basic
+fears''VBZ$NotWant &fears, T1-monotransitive-basic, T1-passive-basic
+fearing''VBG$NotWant &fearing, T1-monotransitive-basic, T1-passive-basic
+
+# FirmBelief
+certain''JJ$FirmBelief &**NOT DONE**
+convinced''VB$FirmBelief &convinced, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+convinced''VBD$FirmBelief &convinced, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+convinced''VBN$FirmBelief &convinced, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+convinces''VBZ$FirmBelief &convinces, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+convincing''VBG$FirmBelief &convincing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+know''VB$FirmBelief &know, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+knew''VBD$FirmBelief &knew, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+knew''VBN$FirmBelief &knew, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+knows''VBZ$FirmBelief &knows, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+knowing''VBG$FirmBelief &knowing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+sure''JJ$FirmBelief &**NOT DONE**
+destined''JJ$FirmBelief &**NOT DONE**
+determined''VB$FirmBelief &**NOT DONE**
+infallible''JJ$FirmBelief &**NOT DONE**
+irrefutable''JJ$FirmBelief &**NOT DONE**
+unambiguous''JJ$FirmBelief &**NOT DONE**
+undeniable''JJ$FirmBelief &**NOT DONE**
+unerring''JJ$FirmBelief &**NOT DONE**
+unmistakable''JJ$FirmBelief &**NOT DONE**
+verifiable''JJ$FirmBelief &**NOT DONE**
+assure''VB$FirmBelief &assure, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+assured''VBD$FirmBelief &assured, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+assured''VBN$FirmBelief &assured, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+assures''VBZ$FirmBelief &assures, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+assuring''VBG$FirmBelief &assuring, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
+satisfy''VB$FirmBelief &satisfy, T1-monotransitive-basic, T1-passive-basic
+satisfied''VBD$FirmBelief &satisfied, T1-monotransitive-basic, T1-passive-basic
+satisfied''VBN$FirmBelief &satisfied, T1-monotransitive-basic, T1-passive-basic
+satisfies''VBZ$FirmBelief &satisfies, T1-monotransitive-basic, T1-passive-basic
+satisfying''VBG$FirmBelief &satisfying, T1-monotransitive-basic, T1-passive-basic
+take''VB as''NN gospel''IN$FirmBelief &**NOT DONE**
+took''VBD as''NN gospel''IN$FirmBelief &**NOT DONE**
+taken''VBN as''NN gospel''IN$FirmBelief &**NOT DONE**
+takes''VBZ as''NN gospel''IN$FirmBelief &**NOT DONE**
+taking''VBG as''NN gospel''IN$FirmBelief &**NOT DONE**
+
+# Belief
+appear''VB$Belief &appear, L9-basic, V3-I3-basic
+appeared''VBD$Belief &appeared, L9-basic, V3-I3-basic
+appeared''VBN$Belief &appeared, L9-basic, V3-I3-basic
+appears''VBZ$Belief &appears, L9-basic, V3-I3-basic
+appearing''VBG$Belief &appearing, L9-basic, V3-I3-basic
+believe''VB$Belief &believe, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+believed''VBD$Belief &believed, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+believed''VBN$Belief &believed, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+believes''VBZ$Belief &believes, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+believing''VBG$Belief &believing, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+expect''VB$Belief &expect, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+expected''VBD$Belief &expected, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+expected''VBN$Belief &expected, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+expects''VBZ$Belief &expects, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+expecting''VBG$Belief &expecting, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+likely''JJ$Belief &**NOT DONE**
+maybe''RB$Belief &**NOT DONE**
+may''MD$Belief &may, modal-auxiliary-basic
+might''MD$Belief &might, modal-auxiliary-basic
+must''MD have''VB$Belief &must, modal-auxiliary-basic
+probably''RB$Belief &**NOT DONE**
+think''VB$Belief &think, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+thought''VBD$Belief &thought, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+thought''VBN$Belief &thought, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+thinks''VBZ$Belief &thinks, L9-basic, T1-monotransitive-basic, T1-passive-basicV3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+thinking''VBG$Belief &thinking, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+trust''VB$Belief &trust, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+trusted''VBD$Belief &trusted, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+trusted''VBN$Belief &trusted, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+trusts''VBZ$Belief &trusts, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+trusting''VBG$Belief &trusting, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+persuade''VB$Belief &persuade, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+persuaded''VBD$Belief &persuaded, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+persuaded''VBN$Belief &persuaded, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+persuades''VBZ$Belief &persuades, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+persuading''VBG$Belief &persuading, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+win''VB over''IN$Belief &**NOT DONE**
+won''VBD over''IN$Belief &**NOT DONE**
+won''VBD over''IN$Belief &**NOT DONE**
+wins''VBZ over''IN$Belief &**NOT DONE**
+winning''VBG over''IN$Belief &**NOT DONE**
+accept''VB$Belief &accept, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+accepted''VBD$Belief &accepted, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+accepted''VBN$Belief &accepted, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+accepts''VBZ$Belief &accepts, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+accepting''VBG$Belief &accepting, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+admit''VB$Belief &admit, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+admitted''VBD$Belief &admitted, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+admitted''VBN$Belief &admitted, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+admits''VBZ$Belief &admits, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+admitting''VBG$Belief &admitting, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+affirm''VB$Belief &affirm, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+affirmed''VBD$Belief &affirmed, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+affirmed''VBN$Belief &affirmed, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+affirms''VBZ$Belief &affirms, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+affirming''VBG$Belief &affirming, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+conclude''VB$Belief &conclude, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+concluded''VBD$Belief &concluded, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+concluded''VBN$Belief &concluded, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+concludes''VBZ$Belief &concludes, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+concluding''VBG$Belief &concluding, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+consider''VB$Belief &consider, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+considered''VBD$Belief &considered, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+considered''VBN$Belief &considered, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+considers''VBZ$Belief &considers, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+considering''VBG$Belief &considering, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+credit''VB$Belief &credit, T1-monotransitive-basic, T1-passive-basic
+credited''VBD$Belief &credited, T1-monotransitive-basic, T1-passive-basic
+credited''VBN$Belief &credited, T1-monotransitive-basic, T1-passive-basic
+credits''VBZ$Belief &credits, T1-monotransitive-basic, T1-passive-basic
+crediting''VBG$Belief &crediting, T1-monotransitive-basic, T1-passive-basic
+postulate''VB$Belief &postulate, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+postulated''VBD$Belief &postulated, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+postulated''VBN$Belief &postulated, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+postulates''VBZ$Belief &postulates, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+postulating''VBG$Belief &postulating, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+presuppose''VB$Belief &presuppose, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+presupposed''VBD$Belief &presupposed, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+presupposed''VBN$Belief &presupposed, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+presupposes''VBZ$Belief &presupposes, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+presupposing''VBG$Belief &presupposing, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+suppose''VB$Belief &suppose, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+supposed''VBD$Belief &supposed, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+supposed''VBN$Belief &supposed, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+supposes''VBZ$Belief &supposes, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+supposing''VBG$Belief &supposing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+assume''VB$Belief &assume, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+assumed''VBD$Belief &assumed, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+assumed''VBN$Belief &assumed, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+assumes''VBZ$Belief &assumes, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+assuming''VBG$Belief &assuming, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic, I5-CP-basic 
+await''VB$Belief &await, T1-monotransitive-basic, T1-passive-basic
+awaited''VBD$Belief &awaited, T1-monotransitive-basic, T1-passive-basic
+awaited''VBN$Belief &awaited, T1-monotransitive-basic, T1-passive-basic
+awaits''VBZ$Belief &awaits, T1-monotransitive-basic, T1-passive-basic
+awaiting''VBG$Belief &awaiting, T1-monotransitive-basic, T1-passive-basic
+count''VB on''IN$Belief &**NOT DONE**
+counted''VBD on''IN$Belief &**NOT DONE**
+counted''VBN on''IN$Belief &**NOT DONE**
+counts''VBZ on''IN$Belief &**NOT DONE**
+counting''VBG on''IN$Belief &**NOT DONE**
+envisage''VB$Belief &envisage, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic, V3-I3-basic
+envisaged''VBD$Belief &envisaged, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic, V3-I3-basic
+envisaged''VBN$Belief &envisaged, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic, V3-I3-basic
+envisages''VBZ$Belief &envisages, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic, V3-I3-basic
+envisaging''VBG$Belief &envisaging, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic, V3-I3-basic
+wait''VB for''IN$Belief &**NOT DONE**
+waited''VBD for''IN$Belief &**NOT DONE**
+waited''VBN for''IN$Belief &**NOT DONE**
+waits''VBZ for''IN$Belief &**NOT DONE**
+waiting''VBG for''IN$Belief &**NOT DONE**
+presume''VB$Belief &presume, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+presumed''VBD$Belief &presumed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+presumed''VBN$Belief &presumed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+presumes''VBZ$Belief &presumes, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+presuming''VBG$Belief &presuming, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+suspect''VB$Belief &suspect, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+suspected''VBD$Belief &suspected, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+suspected''VBN$Belief &suspected, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+suspects''VBZ$Belief &suspects, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+suspecting''VBG$Belief &suspecting, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+
+# NotBelief
+doubt''VB$NotBelief &doubt, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+doubted''VBD$NotBelief &doubted, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+doubted''VBN$NotBelief &doubted, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+doubts''VBZ$NotBelief &doubts, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+doubting''VBG$NotBelief &doubting, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
+improbable''JJ$NotBelief &**NOT DONE**
+questionable''JJ$NotBelief &**NOT DONE**
+uncertain''JJ$NotBelief &**NOT DONE**
+unreliable''JJ$NotBelief &**NOT DONE**
+unsure''JJ$NotBelief &**NOT DONE**
+disbelieve''VB$NotBelief &disbelieve, T1-monotransitive-basic, T1-passive-basic
+disbelieved''VBD$NotBelief &disbelieved, T1-monotransitive-basic, T1-passive-basic
+disbelieved''VBN$NotBelief &disbelieved, T1-monotransitive-basic, T1-passive-basic
+disbelieves''VBZ$NotBelief &disbelieves, T1-monotransitive-basic, T1-passive-basic
+disbelieving''VBG$NotBelief &disbelieving, T1-monotransitive-basic, T1-passive-basic
+distrust''VB$NotBelief &distrust, T1-monotransitive-basic, T1-passive-basic
+distrusted''VBD$NotBelief &distrusted, T1-monotransitive-basic, T1-passive-basic
+distrusted''VBN$NotBelief &distrusted, T1-monotransitive-basic, T1-passive-basic
+distrusts''VBZ$NotBelief &distrusts, T1-monotransitive-basic, T1-passive-basic
+distrusting''VBG$NotBelief &distrusting, T1-monotransitive-basic, T1-passive-basic
+discount''VB$NotBelief &discount, T1-monotransitive-basic, T1-passive-basic
+discounted''VBD$NotBelief &discounted, T1-monotransitive-basic, T1-passive-basic
+discounted''VBN$NotBelief &discounted, T1-monotransitive-basic, T1-passive-basic
+discounts''VBZ$NotBelief &discounts, T1-monotransitive-basic, T1-passive-basic
+discounting''VBG$NotBelief &discounting, T1-monotransitive-basic, T1-passive-basic
+discredit''VB$NotBelief &discredit, T1-monotransitive-basic, T1-passive-basic
+discredited''VBD$NotBelief &discredited, T1-monotransitive-basic, T1-passive-basic
+discredited''VBN$NotBelief &discredited, T1-monotransitive-basic, T1-passive-basic
+discredits''VBZ$NotBelief &discredits, T1-monotransitive-basic, T1-passive-basic
+discrediting''VBG$NotBelief &discrediting, T1-monotransitive-basic, T1-passive-basic
+unbelieving''JJ$NotBelief &**NOT DONE**
+
+#Negation
+not''RB$Negation &not,
+no''RB$Negation &**NOT DONE**
+none''NN$Negation &**NOT DONE**
+never''RB$Negation &never,
+n't''RB$Negation &n't,
+

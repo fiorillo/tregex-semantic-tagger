@@ -1,0 +1,29 @@
+fail''VB
+failed''VBD
+failed''VBN
+fails''VBZZ
+failing''VBG
+abort''VB
+aborted''VBD
+aborted''VBN
+aborts''VBZZ
+aborting''VBG
+fall''VB short''JJ
+fell''VBD short''JJ
+fallen''VBN short''JJ
+falls''VBZZ short''JJ
+falling''VBG short''JJ
+fizzle''VB
+fizzled''VBD
+fizzled''VBN
+fizzles''VBZZ
+fizzling''VBG
+flop''VB
+flopped''VBD
+flopped''VBN
+flops''VBZZ
+flopping''VBG
+short''JJ of''IN
+unsuccessful''JJ
+useless''JJ
+''TCNotSucceed

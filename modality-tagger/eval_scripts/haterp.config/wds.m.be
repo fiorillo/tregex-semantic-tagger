@@ -1,0 +1,10 @@
+am
+am''VBP
+are
+are''VBP
+be
+be''VB
+is
+is''VBZZ
+was
+was''VBD

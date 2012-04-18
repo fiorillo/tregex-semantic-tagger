@@ -1,0 +1,39 @@
+require''VB
+required''VBD
+required''VBN
+requires''VBZZ
+requiring''VBG
+requirement''NN
+required''JJ
+should''MD
+have''VB to''TO
+had''VBD to''TO
+had''VBN to''TO
+has''VBZZ to''TO
+having''VB to''TO
+must''MD
+have''VB the''DT need''NN
+had''VBD the''DT need''NN
+had''VBN the''DT need''NN
+has''VBZZ the''DT need''NN
+having''VBG the''DT need''NN
+in''IN need''NN of''IN
+need''VB
+needed''VBD
+needed''VBN
+needs''VBZZ
+needing''VBG
+needed''JJ
+need''NN
+needs''NNS
+obligate''VB
+obligated''VBD
+obligated''VBN
+obligates''VBZZ
+obligating''VBG
+order''VB
+ordered''VBD
+ordered''VBN
+orders''VBZZ
+ordering''VBG
+''TCRequire

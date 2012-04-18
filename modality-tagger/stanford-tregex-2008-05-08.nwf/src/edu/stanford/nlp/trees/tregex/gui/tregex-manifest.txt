@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: ../lib/AppleJavaExtensions.jar
+Created-By: Stanford JavaNLP
+Main-class: edu.stanford.nlp.trees.tregex.gui.TregexGUI
+
