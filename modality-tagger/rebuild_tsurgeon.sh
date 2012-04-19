@@ -11,4 +11,4 @@ sed -e 's/^()$/(TOP parserfailure)/' training.en.tok.flattened | \
 		--maxsize 60000 --maxcount 1000 \
 		--inlist <(sed -e "s:^:${MODALPATTERNS}/idiosyncratic/:" < ${MODALPATTERNS}/idiosyncratic/ORDER.txt ; \
 			   find ${MODALPATTERNS}/instantiated-templates/ -type f -name \*.txt ) \
-| sed -e 's/^(TOP parserfailure)$/()/' > training.en.tok.tsurgen
+| sed -e 's/^(TOP parserfailure)$/()/' > training.en.tok.tsurgeon
