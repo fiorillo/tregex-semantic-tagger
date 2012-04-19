@@ -1,0 +1,5 @@
+/^NN/=trigger !< /^Trig/  < **  $.. (PP < (IN < for) [ < /^NN/=target | < PRP=target ])
+
+insert (TargLabel) >1 target
+
+insert (TrigLabel) >1 trigger

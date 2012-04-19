@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < designs  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
+
+insert (TargIntend) >1 target
+
+insert (TrigIntend) >2 trigger

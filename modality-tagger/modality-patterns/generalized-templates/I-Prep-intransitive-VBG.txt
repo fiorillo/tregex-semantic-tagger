@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < **  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (VB=target !< AUX))
+
+insert (TargLabel) >2 target
+
+insert (TrigLabel) >2 trigger

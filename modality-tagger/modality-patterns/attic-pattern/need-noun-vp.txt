@@ -1,0 +1,11 @@
+/^NN/=trigger !< /^Trig/ [ < need | < needs ] $.. (S < (VB=target !< AUX))  !$.. (PP < (IN < of))
+
+insert (TrigReq) >1 trigger
+
+insert (TargReq) >2 target
+
+
+
+
+
+

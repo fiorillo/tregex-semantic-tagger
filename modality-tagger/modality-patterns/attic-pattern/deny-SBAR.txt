@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ & [ < deny | < denies | < denying | < denied ] $.. (SBAR < (S < (VB=target !< AUX)))
+
+insert (TargZEBeleive) >2 target
+
+insert (TrigZEBelieve) >2 trigger

@@ -1,0 +1,9 @@
+MD=modal !< /^Trig/  < can  $ (VB=verb !< AUX)
+
+insert (TrigAble) >1 modal
+
+insert  (TargAble) >2 verb
+
+
+
+

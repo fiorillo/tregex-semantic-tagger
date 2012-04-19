@@ -1,0 +1,5 @@
+ADJP < (JJ=trigger !< /^Trig/ < **) $,, (NP [ < /^NN/=target | < PRP=target ]) !$.. S !$ (PP < (IN < in))
+
+insert (TargLabel) >1 target
+
+insert (TrigLabel) >1 trigger

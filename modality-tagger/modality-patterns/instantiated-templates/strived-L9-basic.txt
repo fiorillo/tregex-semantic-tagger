@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < strived $.. (ADJP < JJ=target)
+
+insert (TargIntend) >1 target
+
+insert (TrigIntend) >2 trigger

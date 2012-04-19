@@ -1,0 +1,5 @@
+/^NN/=trigger !< /^Trig/  < need  $.. (S < (VB=target !< AUX)) 
+
+insert (TargRequire) >2 target
+
+insert (TrigRequire) >1 trigger

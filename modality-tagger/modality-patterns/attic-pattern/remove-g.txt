@@ -1,0 +1,5 @@
+VBG=verb
+
+relabel verb VB
+
+insert (G) >1 verb

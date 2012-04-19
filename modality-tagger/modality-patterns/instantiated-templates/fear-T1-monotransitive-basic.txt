@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < fear  $.. (NP [ < /^NN/=target | < PRP=target ])
+
+insert (TargNotWant) >1 target
+
+insert (TrigNotWant) >2 trigger

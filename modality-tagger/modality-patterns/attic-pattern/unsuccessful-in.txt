@@ -1,0 +1,13 @@
+ADJP < (JJ=trigger !< /^Trig/ < unsuccessful) $.. (PP < (IN < in) [ < /^NN/=target | < PRP=target ] )
+
+insert (TargNotSucc) >1 target
+
+insert (TrigNotSucc) >1 trigger
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < pine $.. (ADJP < JJ=target)
+
+insert (TargWant) >1 target
+
+insert (TrigWant) >2 trigger

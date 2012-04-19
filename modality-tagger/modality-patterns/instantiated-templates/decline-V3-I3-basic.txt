@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < decline  $.. (S < (VB=target !< AUX))
+
+insert (TargNotEffort) >2 target
+
+insert (TrigNotEffort) >2 trigger

@@ -1,0 +1,7 @@
+RB=trigger !< /^Trig/ & [ <  not | < n't  ]  $.. (VB=target !< AUX) 
+
+insert (TrigNegation) >1 trigger
+
+insert (TargNegation) >2 target
+
+

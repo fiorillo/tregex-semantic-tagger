@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < discount  $.. (NP [ < /^NN/=target | < PRP=target ])
+
+insert (TargNotBelief) >1 target
+
+insert (TrigNotBelief) >2 trigger

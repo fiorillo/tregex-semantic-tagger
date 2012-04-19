@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < VoicePassive < plans $.. (S < (VB=target !< AUX))
+
+insert (TrigIntend) >2 trigger
+
+insert (TargIntend) >2 target

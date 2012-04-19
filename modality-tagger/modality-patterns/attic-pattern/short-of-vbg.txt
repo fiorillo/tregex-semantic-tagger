@@ -1,0 +1,11 @@
+/^JJ/=trigger !< /^Trig/ < short $.. (PP < (IN < of) < (VB=target !< AUX) )
+
+insert (TrigNotSucc) >1 trigger
+
+insert (TargNotSucc) >2 target
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 fc5c719787d5502075faa2445a8f1f352eae0b2d System User <llevin@test1.hpcc1.hltcoe.jhu.edu> 1248195808 -0400	commit (initial): Creating initial version.
+fc5c719787d5502075faa2445a8f1f352eae0b2d e3d9b1d27c9530ef17d5dbe6ede4bdd509112cc8 System User <llevin@test1.hpcc1.hltcoe.jhu.edu> 1248197722 -0400	commit: Added two patterns for the word "requirement". Added a noun compound pattern to pattern-list.txt.
+e3d9b1d27c9530ef17d5dbe6ede4bdd509112cc8 3e5fd3b39182a75416b87b92541f1e6ae409aa95 System User <llevin@test1.hpcc1.hltcoe.jhu.edu> 1248197758 -0400	commit: Added a compound noun pattern to pattern-list.txt.
+3e5fd3b39182a75416b87b92541f1e6ae409aa95 f6ec94fff5b38784e2990e3b16eb47ca59304fb4 System User <llevin@test1.hpcc1.hltcoe.jhu.edu> 1248202450 -0400	commit: Added several file names and a few pattern names
+f6ec94fff5b38784e2990e3b16eb47ca59304fb4 d1833d5e75aaabcd4726704b2404a82c9f900e27 System User <llevin@test1.hpcc1.hltcoe.jhu.edu> 1248202502 -0400	commit: removed NP from the pattern
+d1833d5e75aaabcd4726704b2404a82c9f900e27 5bf4929921a8389e4410505facb3d1d0319accee System User <nfilardo@gpsrv5.(none)> 1248384152 -0400	push
+5bf4929921a8389e4410505facb3d1d0319accee 04b30a6a5d4f08c0064bba3497d8a0c5b04ecd7e Bonnie Dorr <bdorr1@gpsrv5.(none)> 1248410957 -0400	push
+04b30a6a5d4f08c0064bba3497d8a0c5b04ecd7e 88ae10f1ef141ae073f4d1665024072fddf11390 System User <nfilardo@test1.hpcc1.hltcoe.jhu.edu> 1248445838 -0400	commit: Checkin a script which reaches out and instantiates templates
+88ae10f1ef141ae073f4d1665024072fddf11390 37528ec59519fac9e0532770518d955b9feb4d41 System User <nfilardo@test1.hpcc1.hltcoe.jhu.edu> 1248446119 -0400	push
+37528ec59519fac9e0532770518d955b9feb4d41 3bb8274f49637b7ab09a3e17b9a775c8df9a5f61 System User <nfilardo@test1.hpcc1.hltcoe.jhu.edu> 1248471612 -0400	push
+3bb8274f49637b7ab09a3e17b9a775c8df9a5f61 6d48877c470ccbd68f4cc45fa0d28f75fc6cc10b System User <nfilardo@gpsrv5.(none)> 1248703182 -0400	push
+6d48877c470ccbd68f4cc45fa0d28f75fc6cc10b f683453ec6405d0efbe472175452c06c293a8c0b Matthew Fiorillo <fiorillo@cmu.edu> 1334870570 -0400	commit: added patterns files

@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < **  $.. (S < (VB=target !< AUX))
+
+insert (TargLabel) >2 target
+
+insert (TrigLabel) >2 trigger

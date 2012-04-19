@@ -1,0 +1,5 @@
+JJ=trigger !< /^Trig/ < unable $.. (S < (VB=target !< AUX))
+
+insert (TargZEAble) >2 target
+
+insert (TrigZEAble) >1 trigger

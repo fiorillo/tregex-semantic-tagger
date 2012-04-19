@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < aspired  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (VB=target !< AUX))
+
+insert (TargWant) >2 target
+
+insert (TrigWant) >2 trigger

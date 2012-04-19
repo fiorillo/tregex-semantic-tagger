@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < presuming  $.. (S < (VB=target !< AUX))
+
+insert (TargBelief) >2 target
+
+insert (TrigBelief) >2 trigger

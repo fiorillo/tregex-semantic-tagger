@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < passes $.. (S [< JJ=target | < ADVP=target] !< VB)
+
+insert (TargNotEffort) >1 target
+
+insert (TrigNotEffort) >2 trigger

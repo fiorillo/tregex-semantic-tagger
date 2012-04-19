@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < signifying  $.. (SBAR < (S < (VB=target !< AUX)))
+
+insert (TargIntend) >2 target
+
+insert (TrigIntend) >2 trigger

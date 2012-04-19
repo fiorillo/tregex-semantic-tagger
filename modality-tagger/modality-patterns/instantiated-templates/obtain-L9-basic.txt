@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < obtain $.. (ADJP < JJ=target)
+
+insert (TargSucceed) >1 target
+
+insert (TrigSucceed) >2 trigger

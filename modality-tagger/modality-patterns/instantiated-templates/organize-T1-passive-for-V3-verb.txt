@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < VoicePassive < organize $,, (NP [ < /^NN/=target | < PRP=target ]) !$.. S 
+
+insert (TargEffort) >1 target
+
+insert (TrigEffort) >2 trigger

@@ -1,0 +1,287 @@
+able-to.txt		  
+Able
+They are able (trigger) to provide (target) aid
+
+abort-passive.txt	  
+!Succeed
+The effort (target) was aborted (trigger)
+
+abort-transitive.txt	  
+!Succeed
+They aborted (trigger) the effort (target)
+
+allow-ditransitive.txt	  
+Permit
+They allowed (trigger) him some priveleges (target)
+
+allow-NP-VP.txt		  
+Permit
+They allowed (trigger) him to go (target)
+
+allow-passive.txt	  
+Permit
+That behavior (target) was allowed (trigger)
+
+allow-passive-vp.txt	  
+Permit
+He was allowed (trigger) to go (target)
+
+allow-transitive.txt	  
+Permit
+They allowed (trigger) it (target)
+
+authorize-NP-VP.txt	  
+Permit
+They authorized (trigger) him to go (target)
+
+authorize-passive.txt	  
+Permit
+The attempt (target) was authorized (trigger)
+
+authorize-passive-vp.txt  
+Permit
+He was authorized (trigger) to go (target)
+
+authorize-transitive.txt  
+Permit
+They authorized (trigger) it (target)
+
+fail-intrans.txt	  
+!Succeed
+The attempt (target) failed (trigger)
+
+fail-in.txt		   
+!Succeed
+They failed (trigger) in that attempt (target)
+
+fail-in-vbg.txt	   
+!Succeed
+They failed (trigger) in providing (target) aid
+
+fail-vp.txt		   
+!Succeed
+They failed (trigger) to provide (target) aid
+
+fall-short.txt	   
+!Succeed
+Any attempt (target) would fall short (trigger)
+
+fizzle-intransitive.txt  
+!Succeed
+The plan (target) fizzled (trigger) out
+
+flop-intransitive.txt    
+!Succeed
+The plan (target) flopped (trigger)
+
+have-need-of.txt	   
+Require
+They had need (trigger) of help (target)
+
+have-to.txt		   
+Require
+They have (trigger) to go (target)
+
+in-need-of.txt	   
+Require
+They are in need (trigger) of help (target)
+
+let-s.txt		   
+Permit
+They let (trigger) the prisoners go (target)
+
+let-vp.txt		   
+Permit
+They let (trigger) the prisoners go (target)
+
+mark-be-aux.txt	   
+Pre-processing
+
+mark-get-passive.txt	   
+Pre-processing
+
+mark-have-aux.txt	   
+Pre-processing
+
+mark-passive-verbs.txt  
+Pre-processing
+
+md-can.txt		   
+Able
+They can (trigger) provide (target) aid
+
+md-may.txt		   
+Belief
+They may (trigger) provide (target) aid
+
+md-might.txt		   
+Belief
+They might (trigger) provide (target) aid
+
+md-must-have.txt	   
+Belief
+They must (trigger) have left (target)
+
+md-must.txt		  
+Require
+They must (trigger) leave (target)
+
+md-should.txt	   
+Require
+They should (trigger) leave (target)
+
+need-adjective.txt	   
+Require
+the needed (trigger) aid (target)
+
+need-noun-for.txt	   
+Require
+the need (trigger) for aid (target)
+
+need-noun-vp.txt	   
+Require
+the need (trigger) to go (target)
+
+need-NP-VP.txt	   
+Require
+They need (trigger) to provide (target) aid
+They need (trigger) the UN to provide (target) aid
+
+need-passive.txt	   
+Require
+Tents (target) are needed (trigger)
+
+need-transitive.txt	   
+Require
+They need (trigger) tents (target)
+
+negative-finite-be.txt   
+Negation
+They are (target) not (trigger) terrorists
+
+negative-never.txt	    
+Negation
+They will never (trigger) leave (target)
+
+negative.txt		    
+Negation
+They are not (trigger) going (target)
+They did not (trigger) go (target)
+etc.
+
+obligate-NP-VP.txt	    
+Require
+That obligated (trigger) him to go (target)
+
+obligate-passive-vp.txt  
+Require
+They are required (trigger) to provide (target) aid
+
+
+order-NP-VP.txt	    
+Require
+The UN ordered (trigger) them to leave (target)
+
+order-passive.txt	    
+Require
+The attack (target) was ordered (trigger)
+
+order-passive-vp.txt     
+Require
+They were ordered (trigger) to attack (target)
+
+order-transitive.txt     
+Require
+They ordered (trigger) the attack (target)
+
+permit-NP-VP.txt	  
+Permit
+The UN permitted (trigger) them to help (target)
+
+permit-passive.txt
+Permit
+The attack (target) was permitted (trigger)
+
+permit-passive-vp.txt   
+Permit
+They were permitted (trigger) to attack (target)
+
+permit-transitive.txt
+Permit
+They permitted (trigger) the attack (target
+
+relabel-vb-zero.txt
+Pre-processing
+
+remove-d.txt	 
+Pre-processing
+
+remove-g.txt	   
+Pre-processing
+
+remove-n.txt	    
+Pre-processing
+
+remove-p.txt	    
+Pre-processing
+
+remove-z.txt	
+Pre-processing
+
+require-adjective.txt   
+Require
+the required (trigger) aid (target)
+
+require-NP-VP.txt
+Require
+The UN required (trigger) them to leave (target)
+
+require-passive.txt
+Require
+More aid (target) is required (trigger)
+
+require-passive-vp.txt
+Require
+They are required (trigger) to leave (target)
+
+require-SBAR.txt
+Require
+We require (trigger) that they leave (target)
+
+require-transitive.txt
+Require
+More tents (target) are required (trigger)
+
+short-of.txt
+!Succeed
+short (trigger) of physical violence (target)
+
+short-of-vbg
+!Succeed
+He would fall short (trigger) of winning (target)
+They were short (trigger) of winning (target)
+
+unsuccessful-intransitive.txt
+!Succeed
+The attempt (target) was unsuccessful (target)
+
+unsuccessful-in.txt
+!Succeed
+They were unsuccessful (trigger) in that effort (target)
+
+unsuccessful-in-vbg.txt
+!Succeed
+They were unsuccessful (trigger) in winning (target) the election
+
+want-NP-VP.txt
+Want
+We want (trigger) him to go (target)
+We want (trigger) to go (target)
+
+want-SBAR.txt
+Want
+We want (trigger) that he goes (target)
+
+want-transitive.txt
+Want
+We want (trigger) aid (target)
