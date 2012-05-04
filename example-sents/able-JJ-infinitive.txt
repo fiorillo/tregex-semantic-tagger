@@ -6606,4 +6606,811 @@ But the Achilles heel of state guidance is that once such economies near the `` 
 When government officials rather than markets then try to choose the next winners , they run a great risk of choosing the wrong industries , or channeling too much investment -- and thus excess capacity -- into existing sectors .
 Such a tendency contributed significantly to the Asian financial crisis of 1997-98 .
 Big Firm or managerial capitalism characterizes economies where large firms -- often so-called `` national champions '' -- dominate production and employment .
-Smaller enterprises exist , but are typically reta
+Smaller enterprises exist , but are typically retail or service establishments with one or only a few employees .
+Firms get to be large by exploiting economies of scale , refining and mass-producing the radical innovations developed by entrepreneurs -LRB- discussed next -RRB- .
+Western European economies and Japan are leading exemplars of managerial capitalism , which , like state guidance , also has delivered strong economic performance .
+But managerial capitalism , too , has its Achilles heel .
+Bureaucratic enterprises are typically allergic to taking big risks -- that is , developing and commercializing the radical innovations that push out the production-possibility frontier and generate large sustained jumps in productivity and thus in economic growth .
+Large firms are relatively risk-averse not only because they are bureaucracies , with layers of management required to sign off on any innovation , but also because they are reluctant to back innovations that threaten to render obsolete the products or services that currently account for their profits .
+This leads to the fourth type : entrepreneurial capitalism .
+Economies in which dynamism comes from new firms historically have commercialized the radical innovations that keep pushing out the production-possibility frontier .
+Examples from the last two centuries include such transformative products and innovations as railroads , automobiles , and airplanes ; telegraph , telephones , radio , and television ; air conditioning ; and , as just noted , the various technologies responsible for the IT revolution , including both mainframe and personal computers , routers and other hardware devices , and much of the software that operates them .
+To be sure , no economy can realize its full potential only by having entrepreneurial firms .
+The optimal mix of firms contains a healthy dose of large enterprises , which have the financial and human resources to refine and mass-produce radical innovations , along with newer firms .
+It required Boeing and other large aircraft manufacturers , for example , to commercialize what the Wright Brothers pioneered , or Ford and General Motors to mass-produce the automobile , and so on . But without entrepreneurs , few of the really bold innovations that have shaped our modern economy and our lives would be in place .
+The challenge , then , for all economies seeking to maximize their growth potential is to find the right mix of managerial and entrepreneurial capitalism .
+Economies where entrepreneurs now flourish must not become complacent .
+State-guided economies can continue their rapid growth path , but ultimately they will need to make a transition to a suitable blend of the other two forms of `` good capitalism '' if they want to continue rapid growth .
+India and China , each in its own way , is already moving in this direction .
+The hardest challenge will be for economies mired in oligarchic capitalism to accomplish a similar transition .
+It may take nothing less than revolution -- ideally peaceful , of course -- to replace the elites who now dominate these economies and societies , and for whom growth is not the central objective .
+The Paracetamol Dilemma
+The Paracetamol Dilemma WELLINGTON -- Paracetamol -LRB- known as acetaminophen in the United States -RRB- is one of the world 's most commonly used drugs .
+Substitution of paracetamol for aspirin , researchers proposed , may have led to an enhanced allergic immune response , thereby increasing susceptibility to asthma and other allergic disorders .
+Since then , a number of epidemiological studies have reported an association between asthma and exposure to paracetamol in the womb , in childhood , and in adulthood .
+These studies led to the suggestion that the use of paracetamol may represent an important risk factor in the development of asthma .
+The latest evidence to support this hypothesis comes from a large international epidemiological study of childhood asthma that was recently published in the medical journal The Lancet .
+This analysis , from the International Study of Asthma and Allergies in Childhood -LRB- ISAAC -RRB- , involved more than 200,000 six - and seven-year-old children from 73 centers in 31 countries .
+The children 's parents or guardians completed written questionnaires about current symptoms of asthma , rhinitis -LRB- hayfever -RRB- , and eczema , and about several risk factors , including use of paracetamol for fever in the child 's first year of life and frequency of paracetamol use in the past 12 months .
+The study identified that the reported use of paracetamol for fever in the first year of life was associated with symptoms of asthma in the six - and seven-year-old children .
+The association was present in all major regions of the world , with an estimated 46 % increased risk following adjustment for other risk factors .
+A dose-dependent association between asthma symptoms at 6-7 years and paracetamol use in the previous 12 months was also observed .
+Similar associations were observed between the use of paracetamol and the risk of severe asthma symptoms .
+The proportion of asthma cases that could be attributed to exposure to paracetamol was calculated to be between 22 % and 38 % .
+Paracetamol use both in the first year of life and in children aged 6-7 was also associated with an increased risk of symptoms of rhinitis and eczema .
+This suggests that the potential effect of paracetamol is not restricted to the airways and may affect a number of organ systems .
+Identifying the potential mechanisms that might underlie the association between paracetamol and asthma -LRB- and other allergic disorders -RRB- was not a part of this study .
+But other researchers have proposed a number of plausible mechanisms , primarily related to paracetamol 's negative effect on the body 's ability to withstand oxidant stress and its potential enhancement of the allergic immune response .
+The authors emphasised that causality could not be established from a retrospective study of this design due to the numerous potential biases that may confound the association . For example , it is known that viral respiratory tract infections in infancy such as respiratory syncytial virus -LRB- RSV -RRB- are associated with an increased risk of asthma in later childhood and that paracetamol use for such episodes could have caused confounding in the study .
+The study has contributed to the debate as to whether it is beneficial to treat fever in children , an issue comprehensively reviewed by Fiona Russell and colleagues in the Bulletin of the World Health Organization .
+They propose that the available scientific evidence suggests that fever is a universal , ancient , and usually beneficial response to infection , and that its suppression under most circumstances has few if any demonstrable benefits .
+On the contrary , they suggest that suppressing fever may occasionally produce harmful effects , and conclude that widespread use of drugs to reduce fever should not be encouraged .
+They recommend that in children their use should be restricted to situations of high fever , obvious discomfort , or conditions known to be painful .
+What is agreed is the need for randomized controlled trials of the long-term effects of repeated use of paracetamol in children .
+Only then will it be possible to develop evidence-based guidelines for its recommended use .
+Pending the results of such research , paracetamol remains the preferred drug to relieve pain and fever in childhood , to be used in accordance with WHO guidelines , which recommend that it should be reserved for children with a high fever -LRB- 38.5 Co or above -RRB- .
+The use of aspirin in young children is contraindicated , owing to the risk of Reye 's syndrome , a rare but serious complication .
+Paracetamol also remains the preferred drug to relieve pain or fever in children or adults with asthma , because aspirin or other non-steroidal anti-inflammatory drugs may provoke attacks of asthma in susceptible people with this condition .
+The False Promise of Global Governance Standards
+The False Promise of Global Governance Standards Cambridge -- In the wake of last year 's global financial meltdown , there is now widespread recognition that inadequate investor protection can significantly affect how stock markets and economies develop , as well as how individual firms perform .
+The increased focus on improving corporate governance has produced a demand for reliable standards for evaluating governance in publicly traded companies worldwide .
+World Bank officials , shareholder advisers , and financial economists have all made considerable efforts to develop such standards .
+The notion of a single set of criteria to evaluate the governance of publicly traded firms worldwide is undoubtedly appealing .
+Both investors and publicly traded firms are operating in increasingly integrated global capital markets . But the quest for a single set of global governance standards is misguided .
+Yes , over the last decade , there has been growing use of global governance standards , largely developed in the United States , to assess how countries and companies around the world protect minority investors .
+But these efforts have overlooked fundamental differences between controlled companies , which have a controlling shareholder , and widely held firms that lack such a controller .
+While widely held firms dominate the capital markets of the US and the UK , controlled companies dominate in most other countries .
+Widely held and controlled companies differ considerably in the governance problems their investors face .
+In widely held firms , the concern is about opportunism by managers , who exercise de facto control ; in controlled firms , the concern is about opportunism by the controlling shareholder at the expense of minority shareholders .
+Because the basic governance problems in the two types of firms are considerably different , arrangements that benefit investors in widely held firms might be irrelevant or even counterproductive in controlled firms , and vice versa .
+As a result , applying a single standard for assessing investor protection worldwide is bound to miss the mark with respect to widely held firms , controlled firms , or both .
+Consider , for example , the Corporate Governance Quotient system , developed by the US firm RiskMetrics , the world 's dominant shareholder advisory firm .
+RiskMetrics ' system , which is used by institutional investors around the world , attaches considerable weight to the arrangements governing contests for control .
+These arrangements are , indeed , important for investors in widely held firms .
+When a company has a controlling shareholder , however , control contests are not possible , and the arrangements governing such contests are thus irrelevant .
+Investors and public officials in countries where controlled companies dominate should stop using global governance standards based on the designers ' experience with widely held firms in the US .
+Rather , they should strive to develop standards appropriate for controlled firms .
+Most obviously , assessments of controlled companies should not give significant weight to arrangements governing contests for corporate control .
+Similarly , arrangements that make the firm 's board of directors more responsive to the wishes of a majority of shareholders , such as making it easier for shareholders to replace directors , can serve the interests of investors in widely held firms , but are counterproductive for investors in controlled firms .
+In controlled firms , where the concern is diversion from minority shareholders , making directors even more responsive to the controller will likely make minority investors still more vulnerable .
+Moreover , in countries that have many controlled firms , close attention should be paid to related-party transactions and to the taking of corporate opportunities -- the main ways in which value may be diverted from minority investors in such firms .
+To address such problems , arrangements that enable a minority of shareholders to veto related party transactions -- arrangements which are not warranted in widely held firms -- could well be valuable .
+Finally , when assessing controlled companies , the independence of directors should not be judged largely by looking at the extent to which they are independent of the company on whose board they serve . Rather , considerable attention should be given to their independence from the controlling shareholder .
+To improve corporate governance and investor protection , public officials and investors in countries whose capital markets are dominated by controlled companies should be wary of global governance standards developed for US companies .
+They should focus on the special problems of controlled companies and on the rules that would work best for protecting smaller investors in such companies .
+Corporate Political Speech is Bad for Shareholders
+Corporate Political Speech is Bad for Shareholders CAMBRIDGE -- The United States Supreme court recently struck down limits on the freedom of companies to spend money on political elections .
+Large , publicly traded companies in other countries also often face lax limits on their use of corporate resources to influence political outcomes , fueling fears that the interests of shareholders will trump those of other groups , such as consumers and employees .
+Stock market listed companies control a big share of almost every country 's resources , so the free flow of corporate money into politics can have a profound impact on politicians ' preferences and choices .
+In particular , the influence of corporations on politicians and political outcomes can be expected to weaken the rules that protect shareholders and ensure that companies are well-governed .
+To understand why , it is important to focus on the individuals who make decisions for companies .
+When corporations decide which politicians to support , what kind of messages to send , and which political outcomes to seek , their general investors are not consulted .
+Rather , such decisions are likely to reflect the preferences and objectives of the insiders who manage the companies , ostensibly on shareholders ' behalf .
+And politicians that benefit from corporate spending and access to corporate resources will have an interest in serving the insiders ' preferences and objectives .
+To be sure , on many issues the interests of corporate insiders overlap with those of investors , and here insiders can be expected to lobby in directions that are consistent with the interests of shareholders .
+But there are also important issues on which the interests of insiders and outside investors can sharply diverge .
+This is clearly the case with respect to the rules which govern investor protection and corporate governance .
+The purpose of these important rules is to protect outside investors from the opportunism of insiders .
+When such rules are too lax , insiders face insufficient constraints on their ability to run the firm in ways that serve their private interests at the expense of outside , general investors .
+Of course , insiders do not want the rules to be so lax that it becomes impossible for them to raise capital from the public .
+But , because publicly traded companies usually have a large amount of capital in place , lax rules would enable insiders to use this capital to their advantage .
+As a result , insiders benefit from , and prefer to have , rules concerning corporate governance and investor protection that are more lax than those that are in the interest of shareholders and society .
+In some countries , such as the US , ownership and control are separated , and companies are de facto controlled by professional managers .
+Such managers can be expected to use their influence to obtain and maintain rules that weaken the rights of dispersed shareholders and make it difficult for shareholders to replace them .
+Thus , in the US , corporate influence makes it difficult to obtain long-needed reforms that would eliminate barriers to takeovers and remove legal impediments to the ability of shareholders to replace company directors .
+In many other countries , however , listed companies commonly have a controlling shareholder that dominates the firm 's decision-making .
+In such countries , rules are supposed to limit the controlling shareholders ' power to advance their interests at the expense of minority shareholders .
+But the insiders that direct corporate lobbying can be expected to seek to obtain and maintain rules that provide insufficient protection to minority shareholders from such opportunism .
+A large body of empirical evidence indicates that corporate governance and investor protection are better in countries that are more advanced in their economic and political development .
+This pattern is usually interpreted as support for the argument that improved corporate governance and investor protection leads to such development .
+Countries that are more developed , and have political systems that are more accountable to voters and less vulnerable to corporate lobbying , may lead to better corporate governance and investor protection rules .
+In sum , corporate meddling in politics is bad not just for those members of society who are not corporate shareholders .
+It also can be expected to reduce shareholder value and retard the development of an economy 's corporate sector .
+That is bad for capitalists -- and thus for capitalism .
+Paid to Fail
+Paid to Fail CAMBRIDGE -- In a report just filed with the United States court that is overseeing the bankruptcy of Lehman Brothers , a court-appointed examiner described how Lehman 's executives made deliberate decisions to pursue an aggressive investment strategy , take on greater risks , and substantially increase leverage .
+Were these decisions the result of hubris and errors in judgment or the product of flawed incentives ?
+After Bear Stearns and Lehman Brothers melted down , ushering in a worldwide crisis , media reports largely assumed that the wealth of these firms ' executives was wiped out , together with that of the firms they navigated into disaster .
+This `` standard narrative '' led commentators to downplay the role of flawed compensation arrangements and the importance of reforming the structures of executive pay .
+In our study , `` The Wages of Failure : Executive Compensation at Bear Stearns and Lehman Brothers 2000-2008 , '' we examine this standard narrative and find it to be incorrect .
+We piece together the cash flows derived by the firms ' top five executives using data from Securities and Exchange Commission filings .
+We find that , notwithstanding the 2008 collapse of the firms , the bottom lines of those executives for the period 2000-2008 were positive and substantial .
+Most importantly , the firms ' top executives regularly unloaded shares and options , and thus were able to cash out a lot of their equity before the stock price of their firm plummeted .
+Indeed , the top five executives unloaded more shares during the years prior to their firms ' meltdown than they held when disaster came in 2008 .
+Altogether , during 2000-2008 , the top executive teams at Bear Stearns and Lehman cashed out about $ 1.1 billion and $ 850 million -LRB- in 2009 dollars -RRB- , respectively .
+During 2000-2007 , the top executives ' aggregate bonus compensation reached -LRB- in 2009 dollars -RRB- $ 300 million at Bear Stearns and $ 150 million at Lehman .
+Of course , the earnings that provided the basis for these bonuses evaporated in 2008 .
+But the firms ' pay arrangements did not contain any `` claw-back '' provisions that would have enabled the firms to recoup the bonuses that had already been paid .
+Combining the figures from equity sales and bonuses , we find that , during 2000-2008 , the top five executives at Bear Stearns and Lehman pocketed about $ 1.4 billion and $ 1 billion , respectively , or roughly $ 250 million per executive .
+These cash proceeds are substantially higher than the value of the holdings that the executives held at the beginning of the period .
+Thus , while the long-term shareholders in their firms were largely decimated , the executives ' performance-based compensation kept them in positive territory .
+The divergence between how top executives and their companies ' shareholders fared raises a serious concern that the aggressive risk-taking at Bear Stearns and Lehman -- and other financial firms with similar pay arrangements -- could have been the product of flawed incentives .
+The concern is not that the top executives expected their aggressive risk-taking to lead with certainty to their firms ' failure , but that the executives ' pay arrangements -- in particular , their ability to claim large amounts of compensation based on short-term results -- induced them to accept excessive levels of risk .
+It is important for financial firms -- and firms in general -- to reform compensation structures to ensure tighter alignment between executive payoffs and long-term results .
+Executives should not be able to pocket and retain large amounts of bonus compensation even when the performance on which the bonuses are based is subsequently sharply reversed .
+Similarly , equity incentives should be subject to substantial limitations aimed at preventing executives from placing excessive weight on their firm 's short-term stock price .
+Had such compensation structures been in place at Bear Stearns and Lehman , their top executives would not have been able to derive such large amounts of performance-based compensation for managing the firms in the years leading up to their collapse .
+This would have significantly reduced the executives ' incentives to engage in risk-taking .
+Indeed , calls for comprehensive and robust reform of pay structures should not be viewed as mere responses to populist anger .
+Such reform could do a great deal to improve incentives and prevent the type of excessive risk-taking that firms encouraged in the years preceding the financial crisis -- thereby enhancing the value of companies and the wealth of shareholders .
+Reforms that redress these destructive incentives should stand as an important lesson and legacy of Bear Stearns , Lehman Brothers , and the crisis they helped to fuel .
+Rating the Raters
+CAMBRIDGE -- In the new financial order being put in place by regulators around the world , reform of credit rating agencies should be a key element .
+Credit rating agencies , which play an important role in modern capital markets , completely failed in the years preceding the financial crisis .
+What is needed is an effective mechanism for rating the raters .
+There is widespread recognition that rating agencies have let down investors .
+Many financial products related to real estate lending that Standard & Poor , Moody 's , and Fitch rated as safe in the boom years turned out to be lethally dangerous .
+And the problem is n't limited to such financial products : with issuers of other debt securities choosing and compensating the firms that rate them , the agencies still have strong incentives to reciprocate with good ratings .
+One proposed approach would reduce the significance of the raters ' opinions .
+In many cases , the importance of ratings comes partly from legal requirements that oblige or encourage institutional investors and investment vehicles to maintain portfolios of assets that have received sufficiently high grades from the recognized agencies .
+Disappointment about the raters ' performance , and skepticism about the effectiveness of regulation , has led to calls to eliminate any regulatory reliance on ratings .
+If ratings are not backed by the force of law , so the argument goes , regulators need not worry about rating quality and can leave the monitoring of raters to the market .
+Even if ratings were no longer required or encouraged by law , however , demand for ratings -- and the need to improve their reliability -- would remain .
+Many investors are unable to examine the extent to which a bond fund 's high yield is due to risk-taking , and would thus benefit from a rating of the fund 's holdings .
+Given past experience , we can not rely on market reputation to ensure that such ratings will be reliable .
+Another approach would be to unleash the liability system .
+On this view , if investors were able to take raters to court , raters ' incentives would improve .
+But , while such judicial scrutiny may be effective in eliminating some egregious cases , it can not ensure that raters do the right thing when courts are not expected to be able to tell after the fact what the right thing was .
+There is thus no substitute for providing raters with incentives to provide as accurate a rating as they can .
+This can be done by making raters ' profits depend not on satisfying the issuers that select them , but on performing well for investors .
+If raters ' profits depend on such performance -- on the accuracy of their ratings -- the profit motive would turn from a source of perverse incentives to a provider of beneficial incentives .
+The US Senate voted this month to incorporate such a mechanism into the financial reform bill that will now have to be reconciled by the bill passed by the US House of Representatives .
+Under the Senate 's approach , regulators would create rules under which an independent regulatory board would choose raters .
+The board would be allowed to base its choices on raters ' past performance .
+For such a mechanism to work well , it must link the number of assignments won by raters , and thus their compensation , to appropriate measures of their performance .
+Such measures should focus on what makes ratings valuable for the investors who use them -- their accuracy in forecasting financial health .
+Once developed , such a mechanism should not be limited -LRB- as , unfortunately , it is in the Senate 's bill -RRB- to ratings of structured financial products .
+It should apply to all products that rating agencies evaluate .
+All ratings of financial products raise the same incentive problems and could benefit from reform .
+Predictably , the Senate 's bill encountered stiff resistance from the dominant rating agencies .
+Standard & Poor argued that such a mechanism would provide credit rating agencies with `` less incentive to compete with one another , pursue innovation , and improve their models , criteria , and methodologies . ''
+Well , such a mechanism would indeed reduce raters ' negative incentives to compete with one another to please issuers of securities , and to pursue innovations and improvements that enable raters to serve issuers better .
+But it would strengthen raters ' positive incentives to compete with one another to produce accurate ratings , and to pursue innovations and improvements that enable raters to achieve that far more socially beneficial goal .
+Rating agencies have been and should remain an important aspect of modern capital markets .
+But to make ratings work , the raters need to be rated .
+CAMBRIDGE -- The United States ' Federal Reserve Board recently adopted a policy under which bank supervisors , the guardians of the financial system 's safety and soundness , would review the compensation structures of bank executives .
+But what structures should regulators seek to encourage ?
+It is now widely accepted that it is important to reward bankers for long-term results .
+Rewarding bankers for short-term results , even when those results are subsequently reversed , produces incentives to take excessive risks .
+But tying executive payoffs to long-term results does not provide a complete answer to the challenge facing firms and regulators .
+The question still remains : long-term results for whom ?
+Equity-based awards , coupled with the highly leveraged capital structure of banks , tie executives ' compensation to a leveraged bet on the value of banks ' assets .
+As Holger Spamann and I show in our research , executive payoffs should be tied to the long-term value delivered not only to shareholders , but also to other contributors to banks ' capital .
+As it is , bank executives expect to share in any gains that might flow to common shareholders , but they are insulated from the consequences that losses , produced by their choices , could impose on preferred shareholders , bondholders , depositors , or the government as a guarantor of deposits .
+Insulating executives from losses to stakeholders other than shareholders can be expected to encourage them to make investments and take on obligations that increase the likelihood and severity of losses that exceed the shareholders ' capital .
+In addition , such insulation discourages the raising of additional capital , inducing executives to run banks with a capital level that provides an inadequate cushion for bondholders and depositors .
+The more thinly capitalized banks are , the more severe these distortions -- and the larger the expected costs rising from insulating executives from potential losses to non-shareholder stakeholders .
+How could pay arrangements be redesigned to address these problems ?
+To the extent that executive compensation is tied to the value of specified securities , such pay could be tied to a broader basket of securities , not only common shares .
+Thus , rather than tying executive pay to a specified percentage of the value of the bank 's common shares , compensation could be tied to a specified percentage of the aggregate value of the bank 's common shares , preferred shares , and all the outstanding bonds issued by the bank .
+Because such a compensation structure would expose executives to a broader share of the negative consequences of risks taken , it would reduce their incentives to take excessive risks .
+Nevertheless , while such a compensation structure would lead executives to internalize the interests of preferred shareholders and bondholders , thereby improving incentives , it would be insufficient to induce executives to internalize fully the interests of the government as the guarantor of deposits .
+To do so , executive payoffs could be made dependent on changes in the value of the banks ' credit-default swaps , which reflect the probability that the bank will not have sufficient capital to meet its full obligations .
+In addition , bonus compensation should be redesigned .
+In the past , bank executives ' bonuses were often based on accounting measures that are of interest primarily to common shareholders , such as return on equity or earnings per common share .
+In the future , banks should consider basing bonus compensation on broader measures , such as earnings before any payments made to bondholders .
+Recognizing the value of tying executive payoffs to the effects of executives ' choices on non-shareholders highlights the important role of bank regulators in this area .
+The common shareholders in financial firms do not have an incentive to induce executives to take into account the losses that risks can impose on preferred shareholders , bondholders , depositors , and taxpayers .
+Consequently , governance improvements that make directors more focused on shareholder interests can not be relied on to tie executive payoffs to the interests of shareholders and non-shareholders alike .
+Regulatory encouragement may be helpful , perhaps even necessary .
+Getting executives to internalize perfectly the expected losses that their choices might impose on contributors of capital other than shareholders is complex .
+But moving in this direction , even if imperfectly , would mean real progress .
+Motivating financial executives to focus on the effects of their choices on all those contributing capital to the bank would significantly improve their risk-taking incentives .
+It thus would also contribute to making our financial systems safer .
+Politics and Corporate Money
+CAMBRIDGE -- A recent decision issued by the United States Supreme Court expanded the freedom of corporations to spend money on political campaigns and candidates -- a freedom enjoyed by corporations in other countries around the world .
+This raises well-known questions about democracy and private power , but another important question is often overlooked : who should decide for a publicly traded corporation whether to spend funds on politics , how much , and to what ends ?
+Under traditional corporate-law rules , the political-speech decisions of public companies are subject to the same rules as ordinary business decisions .
+Consequently , such decisions can be made without input from ordinary shareholders or independent directors , and without detailed disclosure -- all safeguards that corporate law establishes for other managerial decisions , such as those concerning executive compensation or related-party transactions .
+In a recent article , however , Robert Jackson and I argue that political-speech decisions are fundamentally different from ordinary business decisions .
+The interests of directors , executives , and dominant shareholders with respect to such decisions may often diverge significantly from those of public investors .
+Consider a public corporation whose CEO or controlling shareholder supports a political movement to the country 's right or left and wishes to support it with corporate funds .
+There is little reason to expect the political preferences of corporate insiders to mirror those of the public investors funding the company .
+Furthermore , when such divergence of interest exists , using the corporation 's funds to support political causes that the corporation 's public investors do not favor -- or even oppose -- may well impose on them costs that exceed the monetary amounts spent .
+To prevent this , lawmakers should adopt safeguards for political spending decisions that would limit the divergence of such decisions from shareholder interests .
+For starters , it is important to require traded companies to provide detailed disclosure to public investors about the amounts and beneficiaries of any funds that the company spends , either directly or indirectly .
+In expanding corporations ' rights to spend money on politics , the US Supreme Court relied on `` the processes of corporate democracy '' to ensure that such spending does not deviate from shareholder interests .
+Clearly , however , such processes can have little effect if political spending is not transparent to public investors .
+For such disclosure to be effective , it must include robust rules with respect to political spending via intermediaries .
+In the US , for example , organizations that seek to speak for the business sector , or for specific industries , raise funds from corporations and spend more than $ 1 billion annually on efforts to influence politics and policymaking .
+While the targets of these organizations ' spending are disclosed , there is no public disclosure that enables investors in any public corporation to know whether their corporation contributes to such organizations and how much .
+Investors deserve to know .
+Moreover , a public company 's political spending decisions should not be solely the province of management , as they often are .
+Independent directors should have an important oversight role , as they do on other sensitive issues that may involve a divergence of interest between insiders and public investors .
+And these directors should provide an annual report explaining their choices during the preceding year .
+Following the adoption of this legislation , political spending remained significant but fell somewhat below previous levels .
+Shareholders may have different views from those of corporate insiders not only with respect to the amount of political spending , but also with respect to how that spending is targeted .
+This problem can be addressed by permitting shareholders to adopt at the annual meeting binding resolutions concerning corporate political spending .
+For example , shareholders could direct that the corporation may not spend funds for certain types of political purposes , or that it must follow certain principles in allocating whatever budget is authorized .
+The mere existence of shareholder power to adopt such resolutions could well increase insiders ' incentives to target the corporation 's political spending in ways that are consistent with shareholder interests .
+Legal rules allowing corporations to spend on politics are premised on the view that expression of corporations ' positions has a legitimate role in the political marketplace .
+But a corporation 's wishes should not be automatically and necessarily equated with those of its management .
+That is why we need new legislation to ensure that the use of corporate funds in politics does not stray from the interests of shareholders .
+Toxic Tests CAMBRIDGE -- The United States government is now permitting ten of America 's biggest banks to repay about $ 70 billion of the capital injected into them last fall .
+This decision followed the banks having passed the so-called `` stress tests '' of their financial viability , which the US Treasury demanded , and the success of some of them in raising the additional capital that the tests suggested they needed .
+Many people have inferred from this sequence of events that US banks -- which are critical to both the American and world economies -- are now out of trouble .
+But that inference is seriously mistaken .
+In fact , the US stress tests did n't attempt to estimate the losses that banks have suffered on many of the `` toxic assets '' that have been at the heart of the financial crisis .
+Nevertheless , the US model is catching on .
+In a meeting this month , finance ministers of G-8 countries agreed to follow the US and perform stress tests on their banks .
+But , if the results of such tests are to be reliable , they should avoid the US tests ' fundamental flaw .
+Until recently , much of the US government 's focus has been on the toxic assets clogging banks ' balance sheets .
+Although accounting rules often permit banks to price these assets at face value , it is generally believed that the fundamental value of many toxic assets has fallen significantly below face value .
+The Obama administration came out with a plan to spend up to $ 1 trillion dollars to buy banks ' toxic assets , but the plan has been put on hold .
+It might have been hoped that the bank supervisors who stress-tested the banks would try to estimate the size of the banks ' losses on toxic assets .
+Instead , supervisors estimated only losses that banks can be expected to incur on loans -LRB- and other assets -RRB- that will come to maturity by the end of 2010 . They chose to ignore any losses that banks will suffer on loans that will mature after 2010 .
+Thus , the tests did not take into account a big part of the economic damage that the crisis imposed on banks .
+According to a recent report by Deutsche Bank , for example , borrowers will have difficulty refinancing hundreds of billions of dollars of commercial real estate loans that will mature after 2010 .
+Rather than estimate the economic value of banks ' assets -- what the assets would fetch in a well-functioning market -- and the extent to which they exceed liabilities , the stress tests merely sought to verify that the banks ' accounting losses over the next two years will not exhaust their capital as recorded in their books .
+As long as banks are permitted to operate this way , the banks ' supervisors are betting on the banks ' ability to earn their way out of their current problems -- even if the value of their assets does n't now significantly exceed their liabilities .
+But does n't the banks ' ability to raise new equity capital indicate that , regardless of whether the stress tests are reliable , investors believe that their assets ' value does significantly exceed their liabilities ?
+Consider a bank with liabilities of $ 1 billion .
+Suppose that the bank has assets with long maturity and a face value of $ 1.2 billion but whose current economic value is only $ 1 billion .
+If in two years the bank 's assets have a 50-50 chance of appreciating to $ 1.2 billion or declining to $ 0.8 billion , the bank will be able to raise new equity capital : new investors will be willing to pay for the prospect of sharing in the excess of the value of assets over obligations if things turn out well .
+To get a good picture of banks ' financial health , estimating the value of their toxic assets is unavoidable .
+Regulators could encourage each bank to sell part of its toxic portfolio and extrapolate the portfolio 's value from the price obtained in such a sale , or they could attempt to estimate the portfolio 's value as well as they can on their own .
+Either way , the true value of banks ' toxic assets must be estimated before concluding that banks are armed with sufficient capital to carry out their critical roles .
+The kind of stress tests that the US conducted , and that other countries are being urged to emulate -- and the ability of banks to raise additional equity capital -- can not provide a basis for such a conclusion .
+CAMBRIDGE -- Goldman Sachs announced this month plans to provide bonuses at record levels , and there are widespread expectations that bonuses and pay in many other firms will rise substantially this year .
+Should the good times start rolling again so soon ?
+Not without reform .
+Indeed , one key lesson of the financial crisis is that an overhaul of executive compensation must be high on the policy agenda .
+Indeed , pay arrangements were a major contributing factor to the excessive risk-taking by financial institutions that helped bring about the financial crisis .
+By rewarding executives for risky behavior , and by insulating them from some of the adverse consequences of that behavior , pay arrangements for financial-sector bosses produced perverse incentives , encouraging them to gamble .
+One major factor that induced excessive risk-taking is that firms ' standard pay arrangements reward executives for short-term gains , even when those gains are subsequently reversed .
+Although the financial sector lost more than half of its stock-market value during the last five years , executives were still able to cash out , prior to the stock market implosion , large amounts of equity compensation and bonus compensation .
+Such pay structures gave executives excessive incentives to seek short-term gains -- say , by making lending and investment decisions that would improve short-term earnings -- even when doing so would increase the risks of an implosion later on .
+Jesse Fried and I warned about this short-term distortion five years ago , in our book Pay without Performance .
+Following the crisis , this problem has become widely recognized , including by business leaders such as Goldman Sachs ' CEO Lloyd Blankfein .
+But it still needs to be effectively addressed : Goldman 's recent decision to provide record bonuses as a reward for performance in the last two quarters , for example , is a step in the wrong direction .
+To avoid rewards for short-term performance and focus on long-term results , pay structures need to be re-designed .
+As far as equity-based compensation is concerned , executives should not be allowed to cash out options and shares given to them for a period of , say , five years after the time of `` vesting '' -- that is , the point at which the options and shares have been `` earned '' and may not be taken away from the executive .
+An executive 's inability to cash out shares and options for a substantial period would tie his or her payoff to long-term shareholder value .
+The length of this period should be fixed , and should not depend on actions or conditions that are at least partly under executives ' control .
+By contrast , prohibiting executives from cashing out shares and options until they leave the firm would provide executives who have accumulated shares and options with a large monetary value with counter-productive incentives to depart .
+Similarly , bonus compensation should be redesigned to reward long-term performance .
+For starters , the use of bonuses based on one-year results should be discouraged .
+Furthermore , bonuses should not be paid immediately , but rather placed in a company account for several years and adjusted downward if the company subsequently learns that the reason for awarding a bonus no longer holds up .
+In addition to the excessive focus on short-term results , a second important source of incentives to take excessive risks has thus far received little attention .
+The payoffs of financial-sector executives were tied to highly leveraged bets on the value of their firms ' capital .
+Executives ' interests were tied to the value of their firms ' common shares -- or even to the value of options on such shares .
+As a result , executives were not exposed to the potential negative consequences that large losses could bring about for preferred shareholders , bondholders , and the government as a guarantor of deposits .
+These structures provided executives with incentives to give insufficient weight to the possibility of large losses , which in turn motivated executives to take excessive risks .
+To address this distortion , the payoffs of financial executives should be tied not to the long-term value of their firms ' common shares but to the long-term value of a broader basket of securities .
+This basket should include , at the very least , preferred shares and bonds .
+Reforming pay arrangements in ways such as those proposed here would help ensure that firms and the economy do n't suffer in the future from the excessive risk-taking that has contributed to bringing about the financial crisis .
+A thorough overhaul of compensation structures must be an important element of the new financial order .
+Why Financial Pay Should n't be Left to the Market
+Why Financial Pay Should n't be Left to the Market CAMBRIDGE -- Although some financial firms are reforming how they pay their employees , governments around the world are seriously considering regulating such firms ' compensation structures .
+The Basel Committee on Banking Supervision has recently come out in favor of such regulations , and the United States House of Representatives has voted to require regulators to set compensation rules .
+Perhaps not surprisingly , many financial bosses are up in arms over such moves .
+They claim that they need the freedom to set compensation packages in order to keep their most talented people -- the ones who will revive the world 's financial system .
+So , should governments step back and let financial firms reform themselves ?
+The answer is clearly no. .
+In the post-crisis financial order , governments must take on the role of monitoring and regulating pay in financial firms ; otherwise , the perverse incentives that contributed to the current crisis could easily recur .
+It is important to distinguish between two sources of concern about pay in financial firms .
+Figures recently released by New York 's attorney general , Andrew Cuomo , indicate that nine large financial firms paid their employees aggregate compensation exceeding $ 600 billion in 2003-2008 -- a period in which their aggregate market capitalization substantially declined .
+Such patterns may raise concerns among shareholders that pay structures are not well designed to serve their interests .
+Even if financial firms have governance problems that produce pay decisions deviating from shareholder interests , however , such problems do not necessarily warrant government regulation of those decisions .
+Such problems are best addressed by rules that focus on improving internal governance processes and strengthening investors ' rights , leaving the choices that determine compensation structures to corporate boards and the shareholders who elect them .
+But pay in financial firms also raises a second important source of concern : even if compensation structures are designed in the interests of shareholders , they may produce incentives for excessive risk-taking that are socially undesirable .
+As a result , even if corporate governance problems in financial firms are fully addressed , a government role in regulating their compensation structures may still be warranted .
+Suppose that most financial firms could be relied upon by regulators to be run in the interest of their shareholders .
+Would this justify exempting these firms from existing regulations that constrain their decisions with respect to lending , investment , or capital reserves ?
+Clearly not , because shareholders do not bear the full costs of a firm 's collapse , and , as the recent crisis demonstrates , the bill for such a downfall must be picked up , at least in part , by taxpayers and the economy .
+So shareholders ' interests might sometimes be served by business decisions that are too `` risky , '' and regulating such decisions is justified -- indeed , necessary .
+Regulation of pay in financial firms is called for by the same reasons that justify the traditional regulations of the firms ' business decisions .
+The incentives generated by compensation structures determine how firms ' managers behave within the boundaries permitted by such traditional , direct regulations .
+And as traditional regulation of business decisions is bound to be imperfect , regulating compensation structures can be a useful additional tool to control the risks posed by financial firms ' behavior .
+If choices of compensation structures can be expected to affect financial firms ' stability , regulating these choices can also be useful for protecting this stability .
+Financial firms opposed to pay regulation will likely warn against `` micro-managing '' compensation , and argue that compensation choices must take into account information about each individual manager that regulators are almost certain to lack .
+But pay regulation can improve matters without micro-management by setting general standards from which firms may not deviate but that still leave them with significant freedom to account for the individual circumstances of managers .
+For example , regulatory standards could require equity-based plans to preclude managers from cashing out awarded shares and options during a certain minimum period after vesting .
+In such a case , firms could still remain free to choose the number of shares and options awarded to any given manager , as well as to adjust somewhat the length of the post-vesting period during which cashing out would be precluded .
+Finally , those opposing pay regulation are certain to warn us about `` unintended consequences . ''
+But this warning should not carry the day .
+We have experienced over the last several years the real and costly consequences of a compensation regime that left financial firms free to set their own pay structures .
+Are we to believe that those consequences are preferable to the unintended consequences of pay regulation ?
+The effort to avoid the harm of flawed compensation decisions in the future should not be deterred by speculative arguments about unintended consequences .
+Financial firms should not retain the freedom to create perverse incentives that put all of us at risk .
+Unblocking Corporate Governance Reform CAMBRIDGE -- When they met earlier this month , G-20 finance ministers and central bankers called for global improvements in corporate governance .
+Such appeals are often heard , but powerful vested interests make it hard for governments to follow through .
+So , if serious reforms are to be implemented , strong and persistent public pressure will be needed .
+Many countries provide investors in publicly traded firms with levels of protection that are patently inadequate .
+Even in countries with well-developed systems of corporate governance , arrangements that are excessively lax on corporate insiders persist .
+In the United States , for example , insiders enjoy protections from takeovers that , according to a substantial body of empirical evidence , actually decrease company value .
+Lax corporate governance rules are not generally the result of a lack of knowledge by public officials .
+Political impediments often enable lax arrangements to linger even after they are recognized as inefficient .
+Ordinarily , corporate governance issues are not followed by most citizens .
+As a result , politicians expect that their decisions on investor protection will have little direct effect on citizens ' voting decisions .
+By contrast , interest groups with big stakes in the rules follow corporate governance issues closely , and they lobby politicians to get favorable regulations .
+Corporate insiders are an especially powerful lobbying group because of their ability to use some of the resources of the companies under their control .
+They have the power to direct their firms ' campaign contributions , to offer positions or business to politicians ' relatives or associates -LRB- or to politicians upon retirement -RRB- , and to use their businesses to support issues and causes that politicians seek to advance .
+Because insiders gain the full benefits that arise through lobbying for lax corporate governance rules , while their firms bear most of the costs of such lobbying , insiders have an advantage in the competition for influence over politicians .
+Their lobbying , which is carried out at the expense of their companies , is subsidized by their shareholders .
+While individual investors can not be expected to invest in lobbying for stronger investor protection , it might be hoped that institutional investors -- mutual funds , banks , insurance companies , and so forth -- will do so .
+Institutional investors receive funds from individuals and invest them in publicly traded companies .
+Because institutional investors invest substantial amounts in such companies , they should be well informed about corporate governance issues .
+But institutional investors usually do not provide a sufficient counter-weight to lobbying by corporate insiders .
+In contrast to corporate insiders , institutional investors can not charge the costs of lobbying to the publicly traded companies whose investor protection is at stake .
+In addition , depending on their relationship with their own investors , some institutional investors -LRB- for example , mutual fund managers -RRB- may capture only a limited fraction of the increase in value of their portfolios as a result of governance reforms .
+This reduces the willingness of institutional investors to invest in counteracting insider lobbying .
+Moreover , those who make decisions for institutional investors often have interests that discourage lobbying for stronger constraints on corporate insiders .
+Some institutional investors are part of publicly traded firms , and are consequently under the control of corporate insiders whose interests are not served by new constraints .
+And even those institutional investors that are not affiliated with publicly traded companies may have an interest in getting business from such companies , making these institutional investors reluctant to push for reforms that corporate insiders oppose .
+So , interest-group politics commonly produce substantial obstacles to reform of corporate governance .
+However , some events -- such as a wave of corporate scandals or a stock market crash -- can interrupt the ordinary pro-insider operations of interest-group politics by leading ordinary citizens to pay attention corporate governance failures .
+When citizens become so outraged that their voting decisions may be affected by politicians ' failure to improve investor protection , public demand for governance reform can overcome the power of vested interests .
+Indeed , most major governance reforms occur in such circumstances .
+In the US , for example , new securities laws were passed following the stock market crash of 1929 , and the Sarbanes-Oxley Act was adopted in 2002 , in the immediate aftermath of the collapse of the Internet bubble and the Enron and WorldCom scandals .
+By creating a large public demand for reforms , the current crisis offers another opportunity to improve governance arrangements .
+This opportunity should not be missed .
+Taming the Stock Option Game
+Taming the Stock Option Game CAMBRIDGE -- Executive compensation is now a central concern of company boards and government regulators . There is an aspect to this debate , however , that deserves greater scrutiny : the freedom of executives to pick the moment when they can cash out on their equity-based incentives .
+Standard pay arrangements give executives broad discretion over when they sell shares and exercise options that have been awarded to them .
+Such discretion is both unnecessary and undesirable .
+The freedom to time the moment they cash out enables executives to use the special knowledge they have about their companies to sell before a stock-price decline .
+Although insider-trading laws supposedly prevent executives from using `` hard '' material information , executives usually also have `` soft '' information at their fingertips which gives them an advantage over the market .
+Indeed , it is a well documented fact that executives make considerable `` abnormal '' profits -- that is , above-market returns -- when trading in their own firms ' stock .
+A second problem with executives being free to time the sales of their stock options and shares is that such freedom provides them with an incentive to use their influence over company disclosures to rig the stock price from declining before they execute their trades .
+Empirical studies have identified a connection between the level of executive selling and earnings manipulation -- both legal and illegal .
+For starters , executives ' payoff from stock sales should not depend on a single stock price .
+Rather , the payoff should be based on the average stock price over a significant period of time .
+Under one possible arrangement , executives seeking to cash out shares would sell them to the company in return for a price based on the average stock price during , say , the subsequent six months .
+Alternatively , an executive wishing to unload equity could be permitted to sell the shares in the market , but only gradually , according to a pre-specified , automatic plan that would be self-executing -LRB- say , one-sixth of the number of shares the executive seeks to sell on the first trading day of each of the subsequent six months -RRB- .
+This approach would still leave executives free to select the period in which they cash out shares , though not the exact day .
+To improve the link between pay and performance further , and limit executives ' ability to weaken it by using their access to inside information and control over company disclosures , executives could be required to announce their choice of period substantially in advance .
+Alternatively , this period could be specified in advance when equity-based compensation is granted .
+Under a pre-trading disclosure arrangement , an executive wishing to sell a given number of shares would have to announce such an intention substantially in advance , say , more than six months .
+So , to be able to sell 100,000 shares from July to December of a given year and receive the average stock price during that period , an executive might , for example , have to announce the sale before the year begins .
+With such advance disclosure , any inside information that the executive has when making the sale decision could emerge and become incorporated into the stock price before the payoff from the sale is determined .
+Furthermore , the market price would incorporate inferences made from the executive 's notice of the planned sale .
+As a result , the average stock price during the payoff period would more accurately reflect the stock 's actual value , improving the link between pay and performance .
+An alternative to requiring pre-trading disclosure is to adopt a `` hands-off '' arrangement that leaves executives no discretion over when their equity-based compensation is cashed out .
+Under such an arrangement , the restricted shares and stock options granted in any given year are cashed out in future years according to a fixed , gradual , and pre-announced schedule set at the time the restricted shares and stock options are granted .
+The company 's board should set the schedule in a way that ensures that executives always retain the desired level of equity ownership .
+Because such a hands-off approach leaves executives no discretion over when they cash out their equity-based compensation , it provides the most effective method for preventing executives from `` gaming '' the market and for ensuring that they are not rewarded for their information advantage .
+There is absolutely no reason to let executives ' payoffs be based on the happenstance of the stock price on a single day , at best , much less on their ability to use their access to inside information or control over disclosures .
+By removing that possibility , we would substantially enhance the benefits of equity-based compensation for the performance of firms -- and for their shareholders .
+Who Should Be Bailed Out ?
+Who Should Be Bailed Out ?
+CAMBRIDGE -- As governments around the world develop policies to deal with failing financial institutions , they should be sure to pick their beneficiaries wisely .
+In particular , they should study and avoid the mistakes made in the AIG bailout in late 2008 .
+A United States Special Inspector General recently issued a report criticizing the US government for failing to insist that AIG 's counterparties in the market for financial derivatives bear some of the costs of bailing out the company .
+Indeed , bailouts of failed institutions should never extend the government 's safety net to such counterparties .
+The AIG bailout was one of the largest in history , with the US government injecting more than $ 100 billion into the company .
+The bailout was brought about by AIG 's large losses on derivative transactions with financial institutions , mostly sophisticated players such as Goldman Sachs and Spain 's Banco Santander .
+After the government 's infusion of funds in September 2008 , AIG 's losses continued to mount , so the government provided substantial amounts of additional capital two months later .
+At this point , the government asked AIG 's derivative counterparties to take a voluntary `` haircut '' -- that is , accept a discount on the amount owed to them .
+When some of these parties refused , the government backed down and financed AIG 's payment of all of its derivative obligations in full .
+The US government felt that it had a weak hand , because it was not prepared to allow AIG to default on any of its obligations .
+This was a mistake .
+The government should have been prepared to place AIG into reorganization under Chapter 11 of the US bankruptcy code and force the derivative parties to take the desired haircut .
+AIG is a holding company , and most of its business is conducted through insurance subsidiaries organized as separate legal entities .
+The huge losses on derivate transactions were generated by AIG 's financial products unit .
+Although this unit was also a separate legal entity , AIG guaranteed its obligations toward derivative counterparties .
+Had the government placed AIG into Chapter 11 reorganization in November 2008 , AIG 's creditors , including its derivative counterparties , would have ended up with the value of AIG 's assets , which consisted mainly of shares in AIG 's insurance subsidiaries .
+Without necessarily affecting the operations of AIG 's insurance subsidiaries , the reorganization process would have simply shifted ownership of AIG 's assets from AIG 's existing shareholders to AIG 's creditors .
+To the extent that the value of these assets would not have been sufficient to cover all of the derivative creditors ' claims , they would have had to bear some losses .
+Not at all .
+The government 's reluctance to use such a process might have been motivated by AIG 's major role in insurance markets around the world .
+But a reorganization of AIG and a shift in its ownership should not have been expected to endanger insurance policyholders .
+The insurance subsidiaries were not responsible for the obligations of their parent company , and their claims toward policyholders were backed by required reserves .
+In any event , concerns about insurance policyholders should have led , at most , to a governmental commitment to back their claims if necessary .
+It did not require taxpayers to bail out the parent company 's derivative counterparties .
+The government might also have been motivated by concerns that losses to the derivative counterparties would deplete the capital of some significant financial institutions at a difficult time .
+Again , such concerns would have been better addressed in different ways -- in particular , by providing institutions that needed capital with funds directly , and in return for securities .
+To address a potential capital shortage at Goldman Sachs , say , taxpayers would have been better off providing $ 13 billon to Goldman in exchange for Goldman securities with adequate value , rather than footing the bill for the $ 13 billion that AIG gave to Goldman .
+In the future , governments should not bail out failing financial institutions ' derivative counterparties , even when they provide a safety net to some of these institutions ' creditors -LRB- such as depositors -RRB- .
+Governments should not only follow such a policy , but also make absolutely clear in advance their commitment to doing so .
+Communicating such a commitment clearly would induce parties to derivative transactions not to rely on a governmental safety net , but to monitor whether their partners have adequate reserves .
+A governmental commitment to exclude derivative creditors from any safety net extended when financial institutions fail would reduce future costs to taxpayers from cases like AIG .
+Indeed , it would reduce the likelihood that cases like AIG would ever arise .
+The CEO Pay Slice
+The CEO Pay Slice CAMBRIDGE -- There is now intense debate about how the pay levels of top executives compare with the compensation given to rank-and-file employees .
+But , while such comparisons are important , the distribution of pay among top executives also deserves close attention .
+In our recent research , we studied the distribution of pay among top executives in publicly traded companies in the United States . Such firms must disclose publicly the compensation packages of their five highest-paid executives .
+Not only has compensation of the top five executives been increasing , but CEOs have been capturing an increasing proportion of it . The average CEO 's pay slice is about 35 % , so that the CEO typically earns more than twice the average pay received by the other top four executives .
+To begin , firms with a higher CEO pay slice generate lower value for their investors .
+Relative to their industry peers , such firms have lower market capitalization for a given book value .
+The ratio of market value to book value , termed `` Tobin 's Q '' by financial economists , is a standard measure for evaluating how effectively firms use the capital they have .
+Moreover , firms with a high CEO pay slice are associated with lower profitability .
+We found that the CEO pay slice is associated with several dimensions of company behavior and performance that are commonly viewed as reflecting governance problems .
+Second , such firms are more likely to reward their CEOs for `` luck . ''
+They are more likely to increase CEO compensation when the industry 's prospects improve for reasons unrelated to the CEO 's own performance -LRB- for example , when oil companies benefit from a steep rise in world oil prices -RRB- .
+Financial economists view such luck-based compensation as a sign of governance problems .
+Lower sensitivity of turnover to performance reflects less willingness on the part of directors to discipline the CEO .
+Such `` lucky '' timing is likely to reflect the use of insider information or the backdating of option grants .
+What explains this emerging pattern ?
+Some CEOs take an especially large slice of the top five executives ' compensation because of their special abilities and opportunities relative to the other four . But the ability of some CEOs to capture an especially high slice might reflect undue power and influence over the company 's decision-making .
+We should stress that a positive correlation between a CEO 's pay slice and governance problems does not imply that every firm with a high CEO pay slice has governance problems , much less that such firms would necessarily be made better off by lowering it .
+Still , our evidence indicates that , on average , a high CEO pay slice may signal governance problems that might not otherwise be readily visible .
+Investors and corporate boards would thus do well to pay close attention not only to the compensation captured by the firms ' top executives , but also to how this compensation is divided among them .
+No jackboots are to be seen marching through Hong Kong 's sleek shopping malls , but a distinct whiff of totalitarianism is in the air .
+The tell-tale phrases are on everyone 's lips : talk of the need for anti-subversion laws , press controls , strong leadership , of adjusting to Hong Kong 's new reality .
+Everyone looks to the great Northern neighbor for direction and mutters about expediency .
+Most of the world lost interest in Hong Kong after 1997 when the `` Anschluss '' with China did not instantly deliver vast changes .
+Over the last year or two , however , the pace of integration into the People 's Republic of China has quickened decisively .
+Life at the South China Morning Post , Hong Kong 's leading English language newspaper , and so a visible political gauge , offers a window into what is going on all across Hong Kong 's institutions .
+The atmosphere at the paper began to darken noticeably as one after another of its leading editorial lights was pushed out .
+It would be an exaggeration to compare the situation to the way the Nazis took over institutions in Germany in the 1930s , and to how people back then fell in line , because no one is disappearing into concentration camps .
+Hong Kong remains a rich and prosperous place .
+Yet the dictatorship in Beijing has made its presence felt , if only through proxies and collaborators .
+Before I chose to protest to the editor who sacked me a week ago , I was guilty of complicity too .
+I stayed silent when the paper 's popular cartoonist -LRB- Larry Feign -RRB- was unjustly dismissed , and remained silent even after its best satirical writer -LRB- Nury Vittachi -RRB- was sacked .
+I only became uneasy when the British editor -LRB- Jonathan Fenby -RRB- was fired and replaced .
+`` I am still OK , '' I reasoned . `` They still let me write what I want ... ''
+My job as bureau chief in Beijing isolated me from the struggles in the head office in distant Hong Kong .
+Besides , working in Beijing is itself a constant struggle of conscience and compromise .
+Foreign reporters are under constant surveillance and risk compromising their contacts .
+That means one begins to avoid tough subjects , like the repression of Falun Gong and its followers .
+Gradually , you also noticed a change in the behavior of your HK colleagues .
+As the government proposed to introduce an anti-subversion law and strengthened its control over the civil service , they became guarded in what they said and tightlipped about mentioning the pressures from above .
+Whispered rumors of daily interference from management were only confirmed in private .
+Some people responded opportunistically , seeing the way to promotion open as talented colleagues disappeared .
+So the internationally recognized editor , Willy Lam , was replaced by a mainlander , Wang Xiangwei .
+Those who organized this coup hoped that it would lead to greater things for themselves ; those who signed a petition of protest were fired not long after .
+Management then began to quietly spread word that the paper needed people able to `` negotiate '' with the sensibilities of the Communist Party .
+Curiously , some officials in Beijing complained about the crude tactics of those sent to run Hong Kong .
+It seemed the urge to collaborate actually ran ahead of the party 's demands .
+The paper 's tone began to change , becoming increasingly deferential toward China 's rulers .
+Reporting became blander and blander .
+Management talked of the virtues of writing to allow readers to read between the lines .
+These changes speeded up over recent months .
+Even the office photographer began to notice different photographic choices .
+The Hong Kong and Macao Affairs Office took charge of the paper 's correspondents based on the mainland , demanding that they be replaced by ethnic Chinese .
+Then they began to offer guidance on reporting in exchange for favors like access to officials .
+Despite the obviousness as to where all this was leading , individuals responded differently .
+Some continued to deny what was happening , and became indignant if the issue was raised . Others reasoned that if they kept their head down and compromised , the crisis would pass .
+A sort of listlessness now grips Hong Kong , particularly the civil service .
+The business sector remains unaffected and continues to talk optimistically of the prospects opened up by closer integration with the mainland .
+But Hong Kong is surrendering the uniqueness and exceptional position it once held over the Chinese world .
+As other Chinese cities become more free and more confident , Hong Kong is submissively abandoning the freedoms it once held with pride .
+In 1997 , China promised to preserve these freedoms for 50 years under the one county , two systems mantra .
+Many of its tycoons -LRB- one of whom , Robert Kuok , controls the South Morning China Post -RRB- are jettisoning their autonomy for the sake of business - even when such action is not requested .
+They seem blind to the value of what they are sacrificing .
+The intangibles of freedom will determine the vitality and future of Hong Kong .
+Tragically , such losses never appear on the profit sheets measured by accountants .
+Damming China 's Rivers
+Of all China 's problems , none will be more critical over the long run than how it resolves the tension between economic development and environmental protection .
+Nowhere are consequences of this struggle clearer than in the Himalayan foothills of the southwestern province of Yunnan .
+Yunnan is home to three great Asian rivers : the Mekong , the Salween -LRB- or Nu -RRB- , and the Jinsha .
+All start on the great Tibetan Plateau and flow in parallel through the northwest corner of the province into Southeast Asia .
+They are China 's last pristine rivers , but are now slated for sacrifice to satisfy the country 's insatiable thirst for power .
+Plans call for dozens of dams to be placed along their serpentine courses through the mountains of Yunnan .
+I had the chance to see one of these rivers -- and the proposed site of one of the country 's most controversial dams -- on a recent trek through the stunning Tiger Leaping Gorge , north of the town of Lijiang in northern Yunnan .
+On its descent from the roof of the world , the Jinsha River , tributary of the mighty Yangtze , cascades through this ten-mile gorge on its way to Shanghai and the East China Sea .
+If , or rather when , the river is dammed , it will help power the cities and factories of coastal China .
+The sun was high above white-crowned Jade Dragon Snow Mountain when my guide pointed down the gorge at the brown waters churning thousands of feet below .
+`` That 's where they will build the dam , '' Xiao Chun , a 17-year-old Naxi , one of Yunnan 's 22 ethnic minorities , said .
+`` It will be very bad for us .
+There will be a lot of pollution .
+I hope it does n't happen . ''
+The dam will have its uses .
+Dianchi Lake near the provincial capital , Kunming , is so shrunken and polluted that the city faces a serious water shortage .
+Water from the Tiger Leaping Gorge will be diverted to flush out Dianchi Lake , without which Kunming will not prosper .
+As China seeks to keep its economic engine running , dams and hyrdopower do represent a cleaner alternative to coal .
+China plans to double its hydropower capacity to over 120 GW by 2010 and to build more hydropower-projects for at least another 20 years .
+Experts reckon that only a quarter of China 's hydropower has yet been tapped .
+Yet the costs may outweigh the benefits .
+Northwestern Yunnan is one of the world 's most biologically diverse areas , home to half of China 's animal species and a quarter of its plant species .
+Whatever portions of this ecosystem that the dams do n't submerge are certain to be disrupted in potentially disastrous ways .
+A more immediate concern is the immense number of people who will need to be resettled when reservoirs inundate the region 's densely populated valleys .
+Since 1949 , 16 million people have been displaced by reservoirs .
+Some 10 million of them still live in poverty .
+At Tiger Leaping Gorge , where a mere 100,000 residents will have to be relocated , residents fear that they will be ordered to move up the steep mountainsides to open marginal land at 6,000 to 9,000 feet .
+Dam opponents , including vocal indigenous environmental groups , have waged a seemingly successful battle to protect Tiger Leaping Gorge and the Salween -LRB- the Nu River -RRB- .
+In early 2005 , three years after a new law on environmental impact assessments -LRB- EIA 's -RRB- was passed , the State Environmental Protection Bureau -LRB- SEPA -RRB- , ordered the halt of 30 large projects , including 26 hydropower plants that had failed to submit proper EIA 's .
+Among the suspended projects was the first dam across the Nu\/Salween .
+These efforts appear to have catalyzed greater environmental sensitivity among the country 's leaders .
+The government recently called for more balanced development , even proposing a `` green index '' to measure growth .
+Indeed , Prime Minister Wen Jiabao has declared that he wants to see more `` scientific development '' in China 's approach to its problems , and even called for a temporary halt of the Salween -LRB- Nu -RRB- River dam .
+Environmentalists were even permitted to take part in a public hearing on the Tiger Leaping Gorge project , a first for China .
+Unfortunately , the Communist Party 's tolerance of such civic activity blows hot and cold .
+The Party , alarmed by the `` color revolutions '' that toppled post-Soviet leaders in Georgia , Ukraine , and Kyrgyzstan , is cracking down on domestic non-government organizations for fear that they , too , might become catalysts for popular uprisings .
+Support for `` green development '' inside central government organizations like SEPA offers little assurance of an effective countervailing force .
+`` We must sharpen our teeth , '' Pan Yue , SEPA 's deputy director , said when the agency halted the dam projects .
+But China has seen a steady decentralization of power in recent years , making it harder for SEPA to affect policies at the regional and local levels .
+Indeed , local governments appear less afraid of Beijing 's bite than before .
+When boundaries were negotiated for Three Parallel Rivers Park -- designated a UNESCO World Heritage site in 2003 -- local authorities won a fight to exclude Tiger Leaping Gorge , knowing that a dam there would triple tax revenues .
+China urgently needs to maintain an annual growth rate of over 9 % as a bulwark against social disorder .
+As a result , however , China is slowly consuming itself , and no major part of China may remain pristine .
+The World Summit on Sustainable Development in Johannesburg is , as expected , contemplating numerous bold promises , but the meeting itself is doomed to be an exercise in futility .
+For if we mean by ` development ' human development in its widest sense , the only development that is sustainable is one that enables people to live together in peace and with respect for basic human rights .
+There is very little scope for international action to eliminate the violation of these rights in many - if not most - countries of the world today , particularly those that are trying to turn the ` Earth Summit ' into a sounding board for criticism of the failure of advanced countries to do more to eradicate world poverty or to protect the environment .
+At least we should welcome the fact that these two topics - poverty and the environment - are the two main themes of the Earth Summit .
+This is a retreat from the usual fixations of the earlier sustainable development pressure groups , such the supposed exhaustion of raw materials for growth , or the sheer technical inability of the world to feed its expanding population , or biodiversity .
+The laws of economics state that when the demand for a commodity begins to outstrip supply the price will rise . Leaving aside short-term speculative markets , demand will then decrease and supply -LRB- including the supply of substitutes -RRB- will increase .
+These laws have ensured that none of the doomsday scenarios of the 1960s and 1970s - remember the forecasts of the `` Club of Rome '' ? - have come to pass .
+Indeed , in the long run , prices of almost all minerals have followed a downward trend .
+The world can never run out of any mineral resources .
+Similarly alarmist predictions about imminent worldwide famine have also been falsified .
+Famines do occur , of course , but rarely , if ever , in genuinely democratic countries .
+From the days of Soviet collectivization in the 1930s down to President Mugabe 's racist policies in Zimbabwe today , famines result from civil wars or ideological lunacies .
+Local climate change can , of course , exacerbate the situation , but given the scope for world trade and the existence of surpluses in many food producing areas , democratic governments can deal with the consequences .
+As for biodiversity , the most important species threatened with extinction today is the human race .
+True , international action can help to deal with the twin problems of poverty and environmental degradation .
+For example , rich countries should reduce agricultural subsidies and open up their markets more to Third World food exports .
+International action can also help deal with global environmental problems .
+There are many examples of such action , such as the Montreal Protocol to help reduce the threat to the ozone layer .
+So it is unfortunate that America abandoned the Kyoto process for combating global warming , instead of trying to move that process toward sensible market-based solutions and away from the regulatory mechanism beloved of bureaucrats everywhere .
+But a reduction in poverty and environmental degradation - such as lack of access to clean drinking water - that affect the lives of billions of people in the Third World will always depend chiefly on local policies .
+These include , above all , increased respect for the rule of law , for property rights , for freedom for people to take advantage of their entrepreneurial spirit and to express their discontent with their lot , not to mention other basic freedoms set out in numerous international conventions to which almost all the countries participating in the Earth Summit are signatories and which many flagrantly ignore .
+Greater respect for human rights is not , of course , merely a desirable means towards the ends of poverty reduction and environmental protection . It also happens to be an important - often the most important - item of human welfare and development .
+The events of the last twelve months have surely driven home to most people that the most dangerous conflict facing humanity in the future is not the conflict between Man and the environment , but between Man and Man .
+Unfortunately , given the respect accorded to national sovereignty , the scope for international action to improve respect for basic human rights in the many countries where they are violated is limited .
+For this reason , whatever fine , ringing pronouncement , do emerge from the Earth Summit , they are doomed to failure .
+New Europe Catches Old Europe 's Cold
+New Europe Catches Old Europe 's Cold LONDON -- As governments across Western Europe began bailing out banks and their depositors , Eastern Europeans watched nervously , unsure about what the global financial storm would mean for them .
+Now that the storm has hit , the fragile bonds of European solidarity are being tested .
+Two countries -- Hungary and Ukraine -- have already asked for large packages of support .
+Several more could do so over the next month if frozen credit markets do not thaw .
+If the situation continues until the end of the year , which can not be ruled out , many more countries could experience serious banking crises .
+Over the last two decades , Eastern Europe has undertaken wide-ranging reforms and embraced global financial integration .
+Foreign , mostly European , banks have entered these markets with unprecedented speed and force . These banks have increasingly reached out to more risky small - and medium-sized enterprises and helped people buy their own houses and start new businesses .
+But successful financial development is now coming back to haunt these countries .
+Until now , the countries of emerging Europe withstood the global financial squeeze remarkably well , coping with the slowdown in important export markets and increased borrowing costs .
+But no open economy can resist a complete shutdown of the lending markets .
+Perhaps they became too dependent on cheap credit , but they were not alone in this respect .
+Some foreign banks are now withdrawing liquid funds from subsidiaries in emerging Europe .
+According to the National Bank of Russia , foreign banks withdrew more than $ 10 billion in that country in September alone . Other central banks make similar claims .
+To be fair , Raiffeisen International has announced that it was supporting its Ukrainian subsidiary , Bank Aval , with an additional ¤ 180 million .
+Whether other parent banks active in the region stand by their subsidiaries depends on how severe the crisis in Western Europe becomes .
+But the Western European bailout packages could make the situation in emerging Europe worse .
+While most parent banks in the region are likely to benefit from these measures , this does not necessarily translate into support for their foreign subsidiaries .
+In fact , there is a serious risk that these bailouts will come at the expense of Eastern Europe .
+Several governments have declared that taxpayer money can not go into operations abroad .
+Governments in emerging Europe should , of course , play their part in stabilizing their financial systems .
+But at this point there are severe limits to what they can do .
+Most do not have the financial clout to counter the extraordinary pressures from financial markets .
+An offer by Hungary 's government to extend a general guarantee of deposits or to ensure liquidity in interbank markets has limited credibility .
+To survive this crisis , emerging Europe needs support from outside .
+First and foremost , West European leaders must ensure that the crisis is resolved at the core , and many observers doubt that they have done enough .
+Second , they must prevent the crisis measures already taken from discriminating against subsidiaries in Central and Eastern Europe , independently of whether they are within or outside the European Union .
+Third , they must combine forces , as in Hungary , with international financial institutions in supporting these economies .
+Georgia 's experiences following its recent war with Russia offer a possible model .
+The International Monetary Fund provided an emergency credit line to support the currency , the World Bank coordinated the relief effort -LRB- much of it financed by the United States and the EU -RRB- , and the European Bank for Reconstruction and Development used its knowledge and resources to lead the effort to save the financial system .
+The Georgia package is not a done deal , and circumstances elsewhere are different , but it shows that standard instruments can go a long way .
+Yet more resources and new instruments will be needed .
+The case of Hungary shows that the EU can tweak an existing instrument -- balance-of-payment support -- and use it creatively .
+For non-EU countries , like Turkey and Ukraine , innovative ideas are also urgently needed .
+There should be no doubt about what is at stake .
+It is has been little noticed , but in the last few years , Eastern Europe , including Russia , surpassed the US and the United Kingdom as the euro zone 's most important export markets .
+Many of these markets now face slowdown or even negative growth .
+There is a serious risk that , if the crisis becomes even worse , East European governments will see no alternative but to nationalize some institutions , particularly some of the foreign-controlled banks .
+But , even more importantly , decades of financial development and broad economic reforms could unravel .
+As in Western Europe and the US , governments will again play a larger role in the economy , but state involvement has different connotations in these former socialist economies , particularly as they now face a backlash against financial development and against reformers .
+As if this was not enough , Western governments and businesses should ponder what kind of offers may come from Russian sources , private or public , for distressed banks and companies .
+No doubt with strings attached .
+What 's Left of Confucianism ?
+What 's Left of Confucianism ? BEIJING -- The Chinese government 's very public display of compassion and transparency in response to the devastating earthquake in Sichuan province appears to have strengthened its authority and its bonds with ordinary Chinese people .
+The government and army worked hand in hand with legions of volunteers and private networks to rescue quake victims .
+Even die-hard cynics were won over by Prime Minister Wen Jiabao 's emotional comforting of the survivors .
+But heroic rescue efforts will not be able to help the government forever , so it is worth asking what can provide long-term political legitimacy .
+After all , communism has lost its capacity to inspire the Chinese . So what should replace it ?
+Most Westerners think the answer is liberal democracy , as did many Chinese liberals in the twentieth century .
+But there is another answer , which takes the form of the old and venerable tradition of Confucianism , which is being revived by government officials , critical intellectuals , and ordinary citizens .
+The opening ceremony of the Olympic games will highlight this revival : it will feature not quotes from Marx , but sayings from the Analects of Confucius .
+Such sayings as `` The world 's peoples are all brothers '' and `` Is n't one of life 's greatest pleasures to have friends visiting from afar ? '' will be beamed to billions worldwide , expressing the best that Chinese culture has to offer .
+Ever since the Han dynasty -LRB- more than 2,000 years ago -RRB- , Chinese governments have manipulated the most prominent political interpretations of Confucianism for their own purposes .
+Confucianism has been combined with Legalism , China 's other main political tradition , to justify such practices as blind obedience to the ruler , subordination of women , and the use of harsh punishments .
+The `` official '' Confucianism being revived today may be less dangerous -- it emphasizes social harmony , meaning the peaceful resolution of conflicts -- but it remains a conservative morality .
+But there is another interpretation of Confucianism -- let 's call it `` left Confucianism '' -- that stresses intellectuals ' obligation to criticize bad policies , obliges governments to provide for the people 's material well-being and support those without key family relations , and calls for governments to adopt a more international-minded outlook and to rely on moral power rather than military might to pursue political aims .
+It leaves open basic metaphysical commitments and takes a plural and tolerant view of religious life .
+It emphasizes equality of opportunity in education as well as meritocracy in government , with leadership positions being distributed to the community 's most virtuous and qualified members .
+Such values owe their origin to the `` original Confucianism '' of Confucius , Mencius , and Xunzi , which existed before Confucianism became established as state orthodoxy .
+In imperial times , the critical tradition was carried forward by such scholars as Huang Zongxi .
+Today , new Confucian leftists such as Gan Yang are calling for the creation of a `` Confucian socialist republic . ''
+Confucian scholars such as Jiang Qing openly acknowledge that their interpretation of Confucianism most closely parallels socialist ideals : not the `` actually existing socialism '' in today 's China , but the socialist ideals defended by Karl Marx and others .
+This Confucian tradition aims to influence contemporary politics , but it also remains separate from state power and orthodoxy , always ready to point to the gap between ideals and reality .
+Indeed , left Confucianism 's departure from the status quo is precisely the point : it is meant to provide a moral standard for social critics and to inspire visions of a more desirable political future .
+Unlike communism , it offers a future that derives its legitimacy from tradition and building upon what the past has to offer -- including the socialist tradition -- rather than destroying it .
+Thus , left Confucians favor institutional reform , arguing that the long-term stability and legitimacy of political institutions requires that they be founded on Chinese traditions .
+Jiang Qing advocates a tri-cameral legislature -- a democratically elected People 's House representing the common people 's interests , a House of Exemplary Persons to secure the good of all those affected by government policies , including foreigners and minority groups , and a House of Cultural Continuity that would maintain China 's various religions and traditions .
+Such concrete proposals for political reform inspired by Confucian values can rarely be published in mainland China .
+In fact , there are fewer constraints imposed on public discussion of liberal-democratic institutions precisely because few Chinese are inspired by Western-style liberal democracy .
+Today , the most viable alternative to China 's political status quo is left Confucianism .
+Converting Syria
+Converting Syria An Arab-Israeli peace requires a comprehensive approach , because the problems at stake are intertwined .
+Not only are key issues such as Jerusalem and Palestinian refugees insoluble without an all-Arab consensus , but any country that is left out of the peace process is bound to persist in its role as a revolutionary power bent on regional destabilization .
+Admittedly , Israeli governments have never liked the idea of negotiating peace with all enemies simultaneously , if only because the political costs of the required concessions would be unbearable .
+The Israeli strategy of peacemaking therefore oscillates between two visions : while the Israeli left gives priority to the Palestinian problem , the Israeli right prefers pursuing a settlement with the big Arab powers .
+The current Israeli-Palestinian peace talks and the American veto on negotiations with Syria indicate that we have returned to the `` Palestine first '' concept .
+But the prospects of success are desperately dim .
+With the Americans still refraining from engaging in a Clinton-like level of committed mediation , the parties look to be incapable of meeting each other 's minimal requirements for a settlement .
+Their failure would have dire consequences for the entire region .
+It is therefore vitally important to take Syria , an ally of Iran and the patron of spoilers such as Hamas and Hezbollah , out of the war equation .
+But this requires that both Israel and the United States change course .
+Syria has a keen interest in being invited into an US-led settlement with Israel .
+The muted response of the Arab states to Israel 's recent mysterious air raid on its territory reflects its isolation within the Arab world -- an isolation with which the Syrians are extremely uncomfortable .
+The Ba'athist regime in Damascus is marked by two major formative experiences : Hafez al-Assad 's loss of the Golan Heights to Israel , and his son Bashar 's loss of Lebanon .
+Recovering the Golan , gaining recognition of Syria 's special interests in Lebanon , and reconciling with America are thus vital objectives for the regime and the best way that Bashar al-Assad can boost his legitimacy at home .
+Syria 's readmission into the Arab consensus and financial support from the Gulf monarchies for abandoning the Shi'a alliance with Iran and Hezbollah would also be significant gains .
+Bashar may lack his father 's acumen , but he , too , knows a simple truth : peace with Israel is the price to pay .
+The question remains whether Bashar understands that peace is not only about regaining the Golan , but also about normalization of relations with Israel , which his father was reluctant to allow .
+A Damascene conversion is not only possible , but is also vital for regional peace .
+The most realistic scenario is now a three-front war pitting Israel against Syria , Hamas , and Hezbollah .
+But a Syrian-Israeli peace would drive a wedge between Syria and Iran , thereby cutting off Hezbollah 's lines of arms supply while allowing the vital task of stabilizing Lebanon to succeed .
+The only way to extricate Syria from the fatal Iranian embrace is to draw it into a regional scheme for peace .
+Alas , precisely because of their isolation and the Ba'athist regime 's paranoiac nature , the Syrians are unlikely to meet the US condition for peace talks : abandoning their current rogue alliances and their marriage with terror .
+But a Damascene conversion can only be the outcome of negotiations , not a prerequisite for them .
+The idea that the Arab-Israeli peace process requires choosing between a Syrian or a Palestinian track has proved to be a dangerous fallacy .
+Neither the Palestinians nor the Syrians will acquiesce to their exclusion .
+A revolutionary force in international relations is one whose level of dissatisfaction with the status quo is such that it works to undermine it at any price .
+In addition to reviewing the state of the Israeli-Palestinian negotiations , the November Middle East conference that President George W. Bush has called should begin to build a platform for an Israeli-Syrian negotiating track and a region-wide forum where clear rules of conduct and engagement are agreed by all .
+Of course , this conference will not bring an end to the Damascus-Tehran axis .
+But if the US exercises a brand of statesmanship different from the one that has so far put it on the defensive on almost every front , it could start to eat away at the foundations of that axis .
+Sadat 's Journey , 30 Years After
+Sadat 's Journey , 30 Years After TOLEDO &#45; &#45; If `` one man of courage makes a majority , '' as Andrew Jackson said , then 30 years ago , in November 1977 , Egyptian President Anwar Sadat was such a man .
+His peace overture to Israel stunned the Middle East .
+He had , as he put it , gone `` to the end of the earth '' -LRB- the Knesset in Jerusalem -RRB- , and in doing so transformed the region 's politics beyond recognition .
+From that moment , the question for the Arabs was no longer how to destroy Israel , but how to reach an accomodation with it .
+In his dramatic leap into the future , Sadat taught Arab leaders the realities of a changing world .
+For Sadat 's peace overture was born out of a sober strategic analysis of the regional balance of power .
+It was clear to him that Israel was a nuclear power that , in October 1973 , had once again proven itself to be unbeatable in a conventional war -- a war Sadat himself had never expected to win when he launched it .
+Understanding Clausewitz 's dictum that war is a continuation of politics by other means , Sadat had sent the Egyptian Army across the Suez Canal in order to unleash a peace process .
+He was defeated militarily , but his decision to go to Jerusalem meant that he would succeed politically .
+But a strategy of peace with Israel , Sadat knew , required an alliance with the United States .
+This alliance was so vital an objective for Sadat that one may rightly wonder what came first in his strategy .
+Perhaps Sadat might have opted to secure the American alliance without making peace with Israel if he had been able to do so . But he could not , and he knew it .
+Indeed , in 1974 , when General Gamasy , the architect of the 1973 war , questioned Sadat 's flexibility in the disengagement talks with Israel , Egypt 's president calmed him down by saying , `` Do n't forget , General , we are talking here about peace with the Americans ! ''
+Another shift implicit in Sadat 's strategy was to keep Egypt at a distance from pan-Arabism .
+Weary of inter-Arab politics , and tired of the high price Egypt had paid for the Palestinian cause , Sadat wanted to move away from Nasser 's pan-Arab ambitions and an excessive focus on the question of Palestine toward an emphasis on Egypt 's role as a power lying at the strategic crossroads between Asia and Africa .
+Sadat would , of course , continue to champion the Palestinian cause as the heart of an Arab consensus and sometimes as a fig leaf for his own Egypt-focused foreign policy .
+But , for all practical purposes , Sadat had embarked on a path leading to a separate peace with Israel .
+One lesson of Sadat 's initiative is that in protracted conflicts where deep emotions and historical hatreds are involved , when almost every conceivable diplomatic formula has been tried and failed , the shock of a visionary , generous , and imaginative step can open new paths .
+The major problem in the Arab-Isreli conflict , as in many other intricate disputes , has always been the incapacity or unwillingness of leaders to conduct a peace policy that is not supported by their societies ' prevailing , and frequently paralyzing , consensus .
+Leaders , more often than not , are hostage to the socio-political environment that produces them , rather than its shapers .
+Sadat gained a privileged place in history and achieved immortality the moment he fled from the comfortable prison of inertia , and from the pantomime solidarity and hollow rhetorical cohesion of Arab summits .
+Sadat 's spectacular leap into the future needed to be met by Israel 's prime minister , Menachem Begin , at almost every juncture down a tortuous road to peace .
+Arguably , only a political `` hawk '' like Begin , a man with a keen sense of the dramatic and a political romantic with a beady eye to the judgment of history , could have responded in such a way to Sadat 's initiative .
+That Begin was able to rise to the occasion had much to do with the psychological impact of Sadat 's astonishing initiative .
+Through his visit to Jerusalem , Sadat made more ordinary the nature of the Arab-Israeli conflict .
+Sadat 's initiative transformed the conflict from a fight about Israel 's right to exist into a negotiation of interests between legitimate sovereign states .
+Here , indeed , is the central point : the need to move away from mythological , mutually exclusive rights of existence , conflicting historical narratives , and religious claims of ownership .
+Sadly , this is where the Palestinian-Israeli tragedy remains stuck to this very day , thus making the conflict practically insoluble .
+Through his visit to Jerusalem , Sadat shook away Israel 's siege mentality and gave psychological living space to an otherwise claustrophobic nation in the midst of a hostile Arab world .
+Peace is never a zero-sum game .
+In its peace with Israel , Egypt reached its strategic objective of an alliance with the US .
+But Israel was wrong to believe that Egypt could be a gateway into the Arab world .
+The gate to Israeli-Arab reconciliation remains where it was always been -- in the hands of the Palestinians .
+Britain 's New Internationalism
+Britain 's New Internationalism TOLEDO , SPAIN &#45; &#45; With President George W. Bush 's grand strategy for the Middle East in ruins , his administration has , however hesitantly , begun to put greater emphasis on resolving conflicts by peaceful means .
+The settlement reached with North Korea , whereby it will dismantle its nuclear program , and the Annapolis conference for an Israeli-Palestinian peace -- with the participation of Syria , a pivotal member of the region 's `` axis of evil '' -- are two key examples of this trend .
+The United States ' staunchest ally since 2001 , Great Britain , has already gone down this path , divorcing itself from its servile alliance with a Bush administration that focused on war and confrontation .
+Though only a miniature version of America 's imperial predicament , Britain 's current policy , as its new prime minister , Gordon Brown , is defining it , may anticipate the direction taken by the next American president .
+Tony Blair 's endorsement of Bush 's Middle East designs showed that an imbalance of power in an alliance always causes the weaker partner to become subservient .
+Britain joined America 's Iraq adventure with the same inflated perceptions of its military capacity and diplomatic clout that trapped Bush .
+But Britain 's military contribution to the war effort was not indispensable , so Bush did not have to heed Blair 's advice .
+As a result , Britain could not serve as a bridge between a doubtful Europe and a belligerent US , as Blair believed , and Britain 's capacity to be a force for good on the world stage was severely damaged .
+Like America , Britain has learned the hard way the limits of what sheer military power can achieve , and also the devastating implications of its misuse for its reputation in the Muslim world and beyond .
+The scope and virulence of anti-British sentiment in the Muslim world are now second only to that facing the US .
+Restoring Britain 's reputation in the region will take years of hard work .
+Blair 's legacy has thrown Brown into a confusing oscillation between Britain 's transatlantic tradition and its European connections .
+No longer an independent global power , yet unhappy with the London-Washington axis that Blair forged , Brown 's government continues to waffle in its commitment to a united Europe .
+Indeed , Brown , for whom America remains `` Britain 's most important bilateral relationship , '' recently blocked his foreign secretary , David Miliband , from delivering a speech that he considered excessively pro-Europe .
+But such uncertainty , common in times of transition , should not overshadow what the end of the Blair-Bush era in Britain holds in store .
+Unilateralism and pre-emptive wars are to be replaced by what Brown defines as `` an agenda for a hard-headed internationalism , '' based on cooperation with multilateral agencies and alliances -- the United Nations , NATO , the European Union , and the British Commonwealth .
+The new policy seems to shift emphasis to `` soft power '' strategy aimed at projecting Britain as a global economic and cultural hub .
+The City of London , the British Council , Oxfam , and the BBC are now expected to restore the prominence of Britain 's enduring values .
+Conspicuously , it is no longer the British , but France 's government under President Nicolas Sarkozy , that is carrying the torch of a possible attack on Iran 's nuclear installations .
+But , for Brown 's policy to succeed , it must promote social change and political reform in the Arab world .
+That means abandoning Blair 's strategy of confronting the `` arc of extremism '' with putative `` moderates '' who , besides offering lucrative markets for arms sales , are in fact autocrats whose conduct has helped fuel the growth of radical Islam .
+The `` extremists '' versus `` moderates '' language has served only to revive colonial memories in the region and divide it even more deeply .
+Post-Blair Britain is becoming a country for which wars that lack international legitimacy can only presage defeat and moral decay .
+Of course , international legitimacy can be a vacuous concept when not backed by the capacity to use effective force .
+Now incapable of intimidating anyone , Britain has opted for developing its potential to inspire .
+Unfortunately , inspiration , too , requires the threat of effective military power to be an effective force for change .
+Notwithstanding its many setbacks in recent years , the US remains the only power capable of leading a global strategy that consists in balancing soft and hard power .
+May the next American president pursue this course .
+Arab Fathers and Sons
+Arab Fathers and Sons The problem of succession in the Arab secular republics highlights their predicament in the transition to a post-revolutionary phase , for succession in regimes that fail to build strong institutions always risks triggering a systemic crisis .
+While the decision by some in favor of dynastic succession may be lacking in democracy , it is not entirely devoid of merit .
+Arguably , it is a choice for economic modernization , for an end to the politics of conflict , and for positive political change further down the road .
+Syria has already sought to assure regime continuity through quasi-monarchic hereditary succession with the move from Hafez al-Assad to his son Bashar .
+There are indications that Egypt might follow suit , with Hosni Mubarak 's son , Gamal , taking over .
+Likewise , Libya 's Muammar Khaddafi may be succeeded by his son , Seif el Islam .
+As products of revolutionary military takeovers , these secular nationalist regimes failed to produce genuine popular legitimacy and have had to fall back on the dynastic succession practiced by the regimes they toppled .
+The centrality of hereditary succession in the quest for peace and stability was shown by Hafez al-Assad when he agreed to unprecedented good will gestures aimed at drawing Ehud Barak 's Israeli government into a peace deal .
+An old and sick man who was to die a few months later , he acted with a sense of urgency to reach a deal that would relieve his inexperienced son of the burden of struggling for the recovery of the Golan Heights .
+Bashar Assad remains essentially loyal to his father 's legacy .
+Not unlike North Korea 's and Iran 's defiant nuclear policies , Bashar 's membership in the region 's `` axis of evil '' is a call for dialogue with America , not an invitation to an invasion , and for a settlement with Israel , not a drive to wage war on it .
+In Egypt , Mubarak turned his back on the lofty rhetoric of Gamal Abdel-Nasser 's revolution and its grand strategic designs .
+Stability is at the heart of his thinking .
+Hence , he could not accept America 's awkward pro-democracy agenda .
+But he was more than willing to occupy center stage in Arab diplomacy 's support of the Annapolis peace conference .
+After all , the passion that the Palestinians ' plight evokes among ordinary Egyptians is a dangerous source of instability .
+Mubarak 's succession is being conducted in an especially sophisticated manner .
+His son 's ascension , unlike that of Bashar on the eve of his father 's death , is anything but settled .
+But , by being allowed to acquire popular legitimacy and a high degree of acceptance within the political establishment as the driving force behind the ruling party 's preparations for the post-Mubarak era , Gamal is being positioned strategically to compete effectively for the presidency .
+He is widely credited for setting the country 's agenda , and for being the motor behind the liberal economic reforms that since 2004 have meant a qualitative leap in the Egyptian economy .
+It may be , as President Mubarak 's critics argue , that the faltering progress of democratization reflects the attempt to block all potential challengers to Gamal .
+But , with the decline of secular nationalism and Islamism 's rise , the hidden electoral power of the Muslim Brotherhood poses a mortal threat to the regime and its strategic alliance with the West .
+As a result , the regime refuses to take any chances .
+Nor was Muammar Khaddafi 's decision to stop being an international pariah entirely unrelated to his concern to bequeath to his son a state that lives in peace with the world .
+His abysmal human rights record remains , but the flamboyant `` Guide of the Revolution '' ceased flirting with weapons of mass destruction and global terrorism in exchange for the end of sanctions and international rehabilitation .
+A sick man whose rule at home is being challenged by Islamist opponents , he decided that international ostracism and domestic troubles is too explosive a combination for his son , a spoiled playboy , to handle .
+Algeria is an especially difficult case .
+The last of the revolutionary generation , President Abdulaziz Buteflika must still conceive a succession that ends his country 's civil war .
+Fully-fledged democracy might lead to victory for Islamists , as it did in 1991 .
+A transition to democracy in the old revolutionary Arab regimes will not correspond to a Western model , nor can it be imposed by American F-16 's .
+But , as countries like Egypt , Syria , and Lybia might be indicating , hereditary succession is not an inherently reactionary move .
+Rather , it means opting for a controlled transition to a post-revolutionary phase in which economic modernization and international integration might usher in greater political change in the future .
+An Alliance of Civilizations ?
+An Alliance of Civilizations ?
+MADRID -- The first International Forum of the Alliance of Civilizations , conceived as an antidote to the idea that the world is doomed to a `` clash of civilizations , '' recently met in Madrid and revealed that there is more than a grain of truth in Robert Kagan 's idea that Americans are from Mars and Europeans from Venus .
+Ever since September 11 , 2001 , the United States has been engaged in a crusade against the forces of evil in the Muslim world .
+By contrast , the March 11 , 2004 , terrorist attack on Spain , which left 200 dead , triggered an `` anti-crusade '' that seeks to disarm extremism by building bridges of understanding and reconciliation with Islam .
+Co-sponsored by Spain and Turkey , the Alliance of Civilizations initiative is not devoid of political calculation .
+To the Spaniards , it helps to justify their abrupt withdrawal from Iraq in 2004 ; for the Turks , it is yet another vehicle in their struggle , as the vital bridge between Islam and the West , for admission into the European Union .
+A loose and somewhat confused project , the Alliance of Civilizations aims to heal the wounds of conflict between Islam and the West through education , viable integration policies , and a better-informed dialogue with the media .
+But it suffers from the major global players ' profound skepticism , with the US , Russia , and , for that matter , the EU shown no real enthusiasm for it .
+However vague , the alliance of civilizations idea certainly can not do more harm than war against Islamic extremism .
+After all , none of the Muslim world 's problems and conflicts with the West are susceptible to a military solution .
+Moreover , the Alliance is not an entirely incoherent proposal if the objective is that the West disengage from the politics of hubris and establish a genuine sphere of cooperation with the Muslim world in economics , culture , and science .
+Of course , the idea is held back by the inner workings of both parts of the proposed alliance . Many in the West question whether Islam is compatible with human rights and Western concepts of liberty .
+Many Muslims who have been fighting for years for their countries ' modernization have so far failed to find a lucid response to the progressive wave of radical Islam .
+To claim that Islam is incompatible with human rights is to consider it a civilization too hidebound to change . This is a historic fallacy .
+Nor is the claim that Islam is intrinsically inimical to innovation viable , because Muslim civilization has contributed mightily to science and art throughout history .
+Today , Western universities are replete with distinguished Arab scholars in almost every field -- the result of a brain drain that itself reflects the Islamic world 's centuries of decline .
+In 2005 , the 17 countries of the Arab world together produced 13,444 scientific publications , fewer than the 15,455 achieved by Harvard University alone .
+We live in an age in which many people are disillusioned with secular politics , and are turning to religion instead , not only throughout the Muslim world , but in the core of Western civilization , Christian Europe and Evangelist America .
+Nor is the Jewish state of Israel , where Messianic fanatics and religious nationalists have embraced a political theology that questions the very legitimacy of the democratic institutions , immune from this phenomenon .
+The current crisis of Islam might not be congenital , but Islam 's predicament is acute .
+The question is this : are Muslims ready to accept that Khomeini 's dictum that `` Islam is politics or it is nothing '' is wrong , that Islam is a religion and not a form of government , and that , as in the Christian world , there is a sphere for Caesar and a sphere for God ?
+Those in the Muslim world who want to embrace reform must be driven by the conviction that theocracy has never served as a vehicle for human progress .
+Of course , the Alliance of Civilizations should not attempt to bridge differences by defending moral relativism .
+If it is driven by a Western guilt complex that assumes that the solution simply lies in greater empathy for the Muslim predicament , then the skeptics are bound to be vindicated .
+For the Alliance of Civilizations to have any chance of success , the emphasis must be on reciprocity .
+Tolerance and religious freedom must be mutual .
+Islam 's part in the deal must include a guarantee of human rights and civil liberties , improvement in women 's status , and realistic policies to stem the Islamic world 's demographic explosion .
+Some , as usual , will claim that the Arab-Israeli conflict lies at the root of the problems that exist between Islam and the West , and that resolving the Palestinians ' plight will contribute immensely to smoother relations .
+But Arabs and Muslims must stop deluding themselves that the Israel-Palestine dispute is what is holding them back .
+Ending the American occupation in Iraq and imposing an Arab-Israeli peace would help , but they are no panacea .
+The fight to eradicate misery , illiteracy , and corruption , and Islam 's embrace of science , do not depend on the results of the Middle East peace process .
+Bush 's New Middle East
+Bush 's New Middle East President George W. Bush 's declaration of `` mission accomplished '' in Iraq five years ago was as hubristic as his current assessment that the `` surge '' has `` delivered a major strategic victory in the broader war on terror '' is a fantasy .
+The Iraq adventure is not only the longest and most expensive war in America 's history -- the Nobel laureate economist Joseph Stiglitz has advanced a staggering estimate of $ 3 trillion -- but is also the least conclusive .
+The war has pulverized Iraqi society , dissolving it into an ethno-sectarian patchwork .
+The `` surge '' will end sooner or later , and the Iraqis , crippled by violence and corruption , will still be incapable of uniting their polity , and , with their military still unable to take over from the Americans , jihadi and inter-ethnic violence is bound to erupt again .
+As Iraqi Colonel Omar Ali , the Iraqi battalion commander in Mosul , the main focus of the insurgency today , recently put it , `` Without the Americans , it would be impossible for us to control Iraq . ''
+History 's judgment of the Iraq war will therefore certainly dwell more on whether it has accomplished its strategic objectives of `` reconstructing '' a highly dysfunctional Middle East in America 's democratic image and consolidating America 's hegemonic position in the region than on its price in blood and money .
+Strategically , the war was an utter failure .
+A clear case of imperial overstretch , the war strained America 's military , undermined the America 's moral standing worldwide and its reputation in the Middle East , severely threatened its economy , and showed to both friends and foes the limits of American power .
+The most serious unintended consequence of the war is the emergence of a powerful Shia challenge to the West 's Sunni allies in the Middle East .
+America 's destruction of Iraq as a regional power handed hegemony in the Persian Gulf -- whose centrality to Western interests can not be overstated -- to Iran 's Shia Islamist regime on a silver platter .
+On the rubble of Saddam Hussein 's dictatorship , the Americans helped create in Iraq the first Shia-dominated Arab state , which may well become subservient to Iran 's regional ambitions -- a calamity of historic dimensions for America 's Sunni allies .
+President Mahmoud Ahmedinejad 's recent state visit to Iraq conveyed to the Americans an unequivocal message : the prospects of the United States ever reaching a modicum of stability in Iraq have become dependent on Iran-aligned forces .
+America 's difficulties in Iraq and beyond contributed decisively to Iran 's nuclear ambitions .
+The Iranians now see themselves as immune from an American attack on their nuclear installations , for America 's troubles in Iraq and the growing opposition to the war in the US are a signal to them that America 's strategy of pre-emptive wars has failed .
+But , however radical the Iranian regime might be , it is not suicidal .
+Hence , the threat of a nuclear Iran might consist less in its propensity to start a nuclear war with Israel than in its capacity to project its regional power effectively .
+A nuclear Iran might even threaten America 's capacity to project conventional military force in the Gulf in times of crisis .
+Nor should the possibility be ruled out that Iran might be tempted to back its regional ambitions by supplying nuclear material to proxy terrorist groups .
+If anything , America 's debacle in Iraq has only emboldened the challengers of the status quo in the region .
+That has also been the result of Bush 's ill-conceived democracy crusade in the Arab world .
+Bush discovered to his dismay that any exercise in Arab democracy is bound to usher in anti-Western Islamists , be it the Muslim Brotherhood in Egypt , Shia parties in Iraq , or Hamas in Palestine .
+The US eventually had to abandon its fantasies about Western-style Arab democracy , but it ironically left the Iranians carrying the torch of democracy in the region .
+After all , Iran was quick to recognize that free elections are the safest way to undermine the Middle East 's pro-American regimes .
+The chances that the Bush administration might be able to rally America 's Sunni `` moderate '' allies in the region to help salvage an Israeli-Palestinian peace are now hostage to an Iranian-led regional axis that includes Hamas , Hezbollah , and Syria .
+All are united in their rejection of a Pax Americana in the Middle East , and all have so far shown remarkable resilience in ignoring America 's pre-conditions for a dialogue .
+America 's inability to inspire the peoples of the Middle East , all ruled by US-backed autocracies , is not exactly stunning news .
+What is news is that American power might also be losing its ability to intimidate them .
+Israel 's Mission
+Israel 's Mission JERUSALEM -- Israel is one of the biggest success stories of modern times .
+A nation was reborn out of Holocaust survivors and uprooted Jewish communities who , mostly through the quality of their human capital , built a booming economy , created one of the world 's most innovative agricultures , and revived a dead language .
+They also sustained , against all odds , a democracy that , however imperfect and dysfunctional , is nonetheless amazingly vibrant .
+And yet , at its 60th anniversary , Israel stands at a crossroads .
+Indeed , Israeli Prime Minister Ehud Olmert has warned of `` the end of the Jewish state '' if the country remains bogged down in the occupied territories and a Palestinian state is not established .
+The relatively homogeneous society envisaged by its founders has fragmented into a tense multi-ethnic tapestry comprising secular Jews , an alienated Arab minority , a prolific ultra-orthodox community living on state allowances , religious nationalists bent on a Messianic brand of Zionism , immigrants from the former Soviet Union , marginalized Ethiopians , and Oriental Jews still struggling to join the middle class .
+Moreover , Israel has failed to redress a dangerous imbalance : however creative its economy may be , the burden of military expenditure is undermining its investment in education and scientific research .
+By contrast , `` Jerusalem '' regards `` Tel Aviv 's '' drive for `` normalcy '' as a shallow affair , one that is almost criminally indifferent to Jewish memory and the lessons of Jewish history .
+The Israel of `` Jerusalem '' is one of yearning for Jewish roots , a deep-seated fear of `` the Arabs , '' and an unyielding distrust of `` Gentiles '' and their `` international community . ''
+Israel was born in war and has lived by the sword ever since .
+Rarely in history has a national movement marched to its Promised Land with such a brilliant display of diplomatic savoir-faire and military skill as the Zionists did on their way to statehood .
+But Israel 's breathtaking victory against three Arab armies in 1967 brought it not only grandeur , but also moral and political decay .
+Forty-one years later , Israel is still incapable of extricating itself from the corrupting occupation of Palestinian lands , and from the folly of settlements .
+This is the paradox of Israel 's existence : a sense of power combined with an ever-present apocalyptic fear of annihilation , reflected in its hostile reaction to any initiative that touches its physical security .
+Of course , Jews ' historical experience is not conducive to easy conciliation .
+The crisis of the Jewish conscience in the traumatic transition from Holocaust to statehood has not yet been fully overcome .
+Israel always , it seems , opts for a fatalistic interpretation of regional challenges , and its agonizing task today is to adopt a radical change of strategy by overcomi
