@@ -2,7 +2,7 @@
 
 cat templates.txt | while read line; do
   echo "processing $line"
-  $wd=`"$line" > cut -d- -f1`
+  wd=`cut -d- -f1 $line`
   grep "$wd" newscomm-en/newscomm-en.txt > example-sents/$line
 done
 
