@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ls example-sents | while read file; do
-  head $file > $file.head
+  head example-sents/$file > example-sents/$file.head
 done
 
 exit 0
