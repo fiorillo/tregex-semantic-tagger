@@ -19,10 +19,16 @@
                     (NP (NNP South) (NNP Asia))))
                 (VP (MD will)
                   (VP (VB be)
-                    (ADJP (JJ able)
+                    (ADJP
+                      (JJ
+                        TrigAble
+                        able)
                       (S
                         (VP (TO to)
-                          (VP (VB roll)
+                          (VP
+                            (VB
+                              roll
+                              TargAble)
                             (PRT (RP back))
                             (NP
                               (NP (DT the) (NN spread))
@@ -80,10 +86,16 @@
     (NP (NNP Pakistan))
     (VP (MD must)
       (VP (VB be)
-        (ADJP (JJ able)
+        (ADJP
+          (JJ
+            TrigAble
+            able)
           (S
             (VP (TO to)
-              (VP (VB focus)
+              (VP
+                (VB
+                  focus
+                  TargAble)
                 (ADVP (RB internally))
                 (PP (IN on)
                   (NP (PRP$ its) (NN future)))))))))
@@ -115,10 +127,16 @@
         (NNP Britain))
       (VP (MD will) (RB not)
         (VP (VB be)
-          (ADJP (JJ able)
+          (ADJP
+            (JJ
+              TrigAble
+              able)
             (S
               (VP (TO to)
-                (VP (VB control)
+                (VP
+                  (VB
+                    control
+                    TargAble)
                   (NP (NNP Iraq)))))))))
     (, ,) ('' '')
     (NP (NNP Assad))
@@ -173,10 +191,16 @@
             (SBAR
               (S
                 (VP (VBZ is)
-                  (ADJP (RBR better) (JJ able)
+                  (ADJP (RBR better)
+                    (JJ
+                      TrigAble
+                      able)
                     (S
                       (VP (TO to)
-                        (VP (VB secure)
+                        (VP
+                          (VB
+                            secure
+                            TargAble)
                           (NP
                             (NP (DT these) (NNS goals))
                             (, ,)
@@ -291,10 +315,16 @@
   (S
     (NP (RB Only) (DT the) (JJ Baltic) (NNS countries))
     (VP (VBP seem)
-      (ADJP (JJ able)
+      (ADJP
+        (JJ
+          TrigAble
+          able)
         (S
           (VP (TO to)
-            (VP (VB maintain)
+            (VP
+              (VB
+                maintain
+                TargAble)
               (NP (JJ sound) (JJ fiscal) (NNS policies)))))))
     (. .)))
 
@@ -328,10 +358,16 @@
     (NP (PRP they))
     (VP (MD will)
       (VP (VB be)
-        (ADJP (JJ able)
+        (ADJP
+          (JJ
+            TrigAble
+            able)
           (S
             (VP (TO to)
-              (VP (VB afford)
+              (VP
+                (VB
+                  afford
+                  TargAble)
                 (NP
                   (NP (DT a) (JJ civilized) (NN form))
                   (PP (IN of)
@@ -405,10 +441,16 @@
                   (NP (DT the) (JJ poor))
                   (VP (VBP are)
                     (NP (DT the)
-                      (ADJP (JJS least) (JJ able)
+                      (ADJP (JJS least)
+                        (JJ
+                          TrigAble
+                          able)
                         (S
                           (VP (TO to)
-                            (VP (VB protect)
+                            (VP
+                              (VB
+                                protect
+                                TargAble)
                               (NP (PRP themselves))
                               (PP (IN from)
                                 (NP (DT the) (NN inflation)))))))
@@ -517,10 +559,16 @@
             (VP (VB produce)
               (S
                 (NP (NNS politicians))
-                (ADJP (JJ able)
+                (ADJP
+                  (JJ
+                    TrigAble
+                    able)
                   (S
                     (VP (TO to)
-                      (VP (VB use)
+                      (VP
+                        (VB
+                          use
+                          TargAble)
                         (NP (NN tax) (NNS revenues))
                         (ADVP (RB prudently)
                           (CC and)
