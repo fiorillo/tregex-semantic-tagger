@@ -1,0 +1,361 @@
+(ROOT
+  (S
+    (NP (DT The) (NN constitution))
+    (VP (VBZ envisages)
+      (S
+        (ADVP (RB further))
+        (VP (VBG expanding)
+          (NP
+            (NP
+              (NP (DT the) (NN parliament) (POS 's))
+              (JJ important) (NNS functions))
+            (, ,)
+            (ADJP (DT both) (JJ legislative)
+              (CC and)
+              (JJ budgetary))
+            (, ,)
+            (PP (IN in)
+              (NP
+                (NP (NN partnership))
+                (PP (IN with)
+                  (NP (DT the) (NN member) (NNS states)))))))))
+    (. .)))
+
+det(constitution-2, The-1)
+nsubj(envisages-3, constitution-2)
+root(ROOT-0, envisages-3)
+advmod(expanding-5, further-4)
+xcomp(envisages-3, expanding-5)
+det(parliament-7, the-6)
+poss(functions-10, parliament-7)
+amod(functions-10, important-9)
+dobj(expanding-5, functions-10)
+preconj(legislative-13, both-12)
+amod(functions-10, legislative-13)
+amod(functions-10, budgetary-15)
+conj_and(legislative-13, budgetary-15)
+prep_in(functions-10, partnership-18)
+det(states-22, the-20)
+nn(states-22, member-21)
+prep_with(partnership-18, states-22)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Initiative))
+    (ADVP (RB also))
+    (VP (VBZ envisages)
+      (NP
+        (NP
+          (NP (DT the) (NN promotion))
+          (PP (IN of)
+            (NP (JJ regional) (NN defense) (NNS reforms))))
+        (CC and)
+        (NP
+          (NP (DT the) (NN improvement))
+          (PP (IN of)
+            (NP (NN interoperability)))))
+      (PP (IN among)
+        (NP
+          (NP (JJ military) (NNS forces))
+          (PP (IN in)
+            (NP (DT the) (NN region))))))
+    (. .)))
+
+det(Initiative-2, The-1)
+nsubj(envisages-4, Initiative-2)
+advmod(envisages-4, also-3)
+root(ROOT-0, envisages-4)
+det(promotion-6, the-5)
+dobj(envisages-4, promotion-6)
+amod(reforms-10, regional-8)
+nn(reforms-10, defense-9)
+prep_of(promotion-6, reforms-10)
+det(improvement-13, the-12)
+dobj(envisages-4, improvement-13)
+conj_and(promotion-6, improvement-13)
+prep_of(improvement-13, interoperability-15)
+amod(forces-18, military-17)
+prep_among(envisages-4, forces-18)
+det(region-21, the-20)
+prep_in(forces-18, region-21)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Copenhagen) (NN agreement))
+    (VP (VBZ envisages)
+      (NP
+        (NP
+          (NP (DT the) (NN world) (POS 's))
+          (JJ industrialized) (NNS nations))
+        (VP (VBG financing)
+          (NP
+            (NP (NNS emissions) (NN reduction))
+            (CC and)
+            (NP (JJ other) (JJ necessary) (NNS adjustments)))
+          (PP (IN in)
+            (S
+              (VP (VBG developing)
+                (NP (NNS countries))
+                (PP (IN through)
+                  (NP
+                    (NP (DT a)
+                      (ADJP
+                        (QP ($ $) (CD 30) (CD billion)))
+                      (NN aid) (NN package))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (MD will)
+                          (VP (VB rise)
+                            (PP (TO to)
+                              (NP
+                                (QP ($ $) (CD 100) (CD billion))))
+                            (PP (IN between)
+                              (NP
+                                (NP (RB now))
+                                (CC and)
+                                (NP (CD 2020))))))))))))))))
+    (. .)))
+
+det(agreement-3, The-1)
+nn(agreement-3, Copenhagen-2)
+nsubj(envisages-4, agreement-3)
+root(ROOT-0, envisages-4)
+det(world-6, the-5)
+poss(nations-9, world-6)
+amod(nations-9, industrialized-8)
+dobj(envisages-4, nations-9)
+partmod(nations-9, financing-10)
+nn(reduction-12, emissions-11)
+dobj(financing-10, reduction-12)
+amod(adjustments-16, other-14)
+amod(adjustments-16, necessary-15)
+dobj(financing-10, adjustments-16)
+conj_and(reduction-12, adjustments-16)
+prepc_in(financing-10, developing-18)
+dobj(developing-18, countries-19)
+det(package-26, a-21)
+num(package-26, $-22)
+number($-22, 30-23)
+number($-22, billion-24)
+nn(package-26, aid-25)
+prep_through(developing-18, package-26)
+nsubj(rise-30, package-26)
+aux(rise-30, will-29)
+rcmod(package-26, rise-30)
+prep_to(rise-30, $-32)
+number($-32, 100-33)
+number($-32, billion-34)
+prep(rise-30, between-35)
+pobj(between-35, now-36)
+pobj(between-35, 2020-38)
+conj_and(now-36, 2020-38)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ military) (NN reorganization))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN NDPO))
+          (VP (VBZ envisages)))))
+    (VP (VBZ is)
+      (ADJP (JJ far-reaching)))
+    (. .)))
+
+det(reorganization-3, The-1)
+amod(reorganization-3, military-2)
+dobj(envisages-7, reorganization-3)
+nsubj(far-reaching-9, reorganization-3)
+complm(envisages-7, that-4)
+det(NDPO-6, the-5)
+nsubj(envisages-7, NDPO-6)
+dep(reorganization-3, envisages-7)
+cop(far-reaching-9, is-8)
+root(ROOT-0, far-reaching-9)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ new) (NN role))
+      (SBAR
+        (S
+          (NP (DT the) (NNP US) (NNS envisages))
+          (VP (VBZ is)
+            (ADVP (RB closely))
+            (VP (VBN tied)
+              (PP (TO to)
+                (NP (DT the) (JJ profound) (NN destabilization))))))))
+    (VP (VBD brought)
+      (PP (IN about) (IN by)
+        (NP
+          (NP (DT the) (NN proliferation))
+          (PP (IN of)
+            (NP (JJ incompetent) (NNS states))))))
+    (. .)))
+
+det(role-3, The-1)
+amod(role-3, new-2)
+nsubj(brought-14, role-3)
+det(envisages-6, the-4)
+nn(envisages-6, US-5)
+nsubjpass(tied-9, envisages-6)
+auxpass(tied-9, is-7)
+advmod(tied-9, closely-8)
+rcmod(role-3, tied-9)
+det(destabilization-13, the-11)
+amod(destabilization-13, profound-12)
+prep_to(tied-9, destabilization-13)
+root(ROOT-0, brought-14)
+dep(brought-14, about-15)
+det(proliferation-18, the-17)
+prep_by(brought-14, proliferation-18)
+amod(states-21, incompetent-20)
+prep_of(proliferation-18, states-21)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (JJR smaller) (NN sphere))
+        (PP (IN of)
+          (NP (NNS operations)))))
+    (, ,)
+    (NP (DT the) (NNP ECS))
+    (VP (VBZ envisages)
+      (NP
+        (NP (JJ economic) (NN development))
+        (PP (IN in)
+          (NP (NNP Cambodia) (, ,) (NNS Laos) (, ,) (NNP Myanmar) (, ,)
+            (CC and)
+            (NNP Vietnam)))))
+    (. .)))
+
+det(sphere-4, a-2)
+amod(sphere-4, smaller-3)
+prep_in(envisages-10, sphere-4)
+prep_of(sphere-4, operations-6)
+det(ECS-9, the-8)
+nsubj(envisages-10, ECS-9)
+root(ROOT-0, envisages-10)
+amod(development-12, economic-11)
+dobj(envisages-10, development-12)
+nn(Vietnam-21, Cambodia-14)
+prep_in(development-12, Laos-16)
+conj_and(Vietnam-21, Laos-16)
+prep_in(development-12, Myanmar-18)
+conj_and(Vietnam-21, Myanmar-18)
+prep_in(development-12, Vietnam-21)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Lisbon) (NNP Treaty))
+    (VP (VBZ envisages)
+      (NP (DT the) (NNP EU))
+      (PP (IN as)
+        (NP
+          (NP (DT a)
+            (ADJP (RB highly) (JJ outward-looking))
+            (NN entity))
+          (PP (IN on)
+            (NP (DT the) (JJ international) (NN stage))))))
+    (. .)))
+
+det(Treaty-3, The-1)
+nn(Treaty-3, Lisbon-2)
+nsubj(envisages-4, Treaty-3)
+root(ROOT-0, envisages-4)
+det(EU-6, the-5)
+dobj(envisages-4, EU-6)
+det(entity-11, a-8)
+advmod(outward-looking-10, highly-9)
+amod(entity-11, outward-looking-10)
+prep_as(envisages-4, entity-11)
+det(stage-15, the-13)
+amod(stage-15, international-14)
+prep_on(entity-11, stage-15)
+
+(ROOT
+  (S
+    (NP (DT The) (VBG preceding) (NN phase))
+    (VP (VBZ envisages)
+      (S
+        (ADVP (RB only))
+        (VP (VBG providing)
+          (NP
+            (NP (DT the) (VBG existing) (NNP AU) (NN force))
+            (PP (IN with)
+              (NP
+                (NP (JJ extra) (JJ logistical) (NN support))
+                (PP (IN from)
+                  (NP (JJ non-African) (NNS countries)))
+                (, ,)
+                (PP (JJ such) (IN as)
+                  (NP
+                    (NP (NNS engineers))
+                    (PP (IN from)
+                      (NP (NNP China)))))))))))
+    (. .)))
+
+det(phase-3, The-1)
+amod(phase-3, preceding-2)
+nsubj(envisages-4, phase-3)
+root(ROOT-0, envisages-4)
+advmod(providing-6, only-5)
+xcomp(envisages-4, providing-6)
+det(force-10, the-7)
+amod(force-10, existing-8)
+nn(force-10, AU-9)
+dobj(providing-6, force-10)
+amod(support-14, extra-12)
+amod(support-14, logistical-13)
+prep_with(force-10, support-14)
+amod(countries-17, non-African-16)
+prep_from(support-14, countries-17)
+prep_such_as(support-14, engineers-21)
+prep_from(engineers-21, China-23)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Treaty))
+    (VP (VBZ envisages)
+      (NP
+        (NP (DT the) (NN construction))
+        (PP (IN of)
+          (NP (DT each) (NN pillar))))
+      (PP (IN through)
+        (NP
+          (NP (DT a) (JJ matching) (NN series))
+          (PP (IN of)
+            (NP
+              (NP (NNS steps))
+              (VP (VBN taken)
+                (PP (IN by)
+                  (NP
+                    (NP (DT both) (JJ nuclear) (NN weapon) (NNS states))
+                    (CC and)
+                    (NP (JJ non-nuclear) (NN weapon) (NNS states))))))))))
+    (. .)))
+
+det(Treaty-2, The-1)
+nsubj(envisages-3, Treaty-2)
+root(ROOT-0, envisages-3)
+det(construction-5, the-4)
+dobj(envisages-3, construction-5)
+det(pillar-8, each-7)
+prep_of(construction-5, pillar-8)
+det(series-12, a-10)
+amod(series-12, matching-11)
+prep_through(envisages-3, series-12)
+prep_of(series-12, steps-14)
+partmod(steps-14, taken-15)
+det(states-20, both-17)
+amod(states-20, nuclear-18)
+nn(states-20, weapon-19)
+agent(taken-15, states-20)
+amod(states-24, non-nuclear-22)
+nn(states-24, weapon-23)
+agent(taken-15, states-24)
+conj_and(states-20, states-24)
+

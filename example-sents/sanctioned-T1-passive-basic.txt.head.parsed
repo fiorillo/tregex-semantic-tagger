@@ -1,0 +1,482 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN world) (POS 's))
+      (NN attention))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN focused)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NN war))
+              (PP (IN on)
+                (NP (NNP Iraq))))))))
+    (. .)))
+
+det(world-2, The-1)
+poss(attention-4, world-2)
+nsubjpass(focused-7, attention-4)
+aux(focused-7, has-5)
+auxpass(focused-7, been-6)
+root(ROOT-0, focused-7)
+det(war-10, the-9)
+prep_on(focused-7, war-10)
+prep_on(war-10, Iraq-12)
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT another) (NN war))
+      (PRN (: --)
+        (NP (DT this)
+          (ADJP
+            (NP (CD one))
+            (JJ UN-sanctioned)))
+        (: --)))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBG going)
+            (PRT (RP on))
+            (ADVP (RB simultaneously)))))
+      (: :)
+      (NP
+        (NP (DT the) (NN war))
+        (PP (IN on)
+          (NP (NNS drugs)))))
+    (. .)))
+
+cc(going-11, But-1)
+det(war-3, another-2)
+nsubj(going-11, war-3)
+det(UN-sanctioned-7, this-5)
+npadvmod(UN-sanctioned-7, one-6)
+dep(war-3, UN-sanctioned-7)
+aux(going-11, has-9)
+aux(going-11, been-10)
+root(ROOT-0, going-11)
+prt(going-11, on-12)
+advmod(going-11, simultaneously-13)
+det(war-16, the-15)
+dobj(going-11, war-16)
+prep_on(war-16, drugs-18)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+(ROOT
+  (S
+    (NP (NNP Armed) (NNP Anglo-American) (NN intervention))
+    (, ,)
+    (SBAR (RB especially) (IN if)
+      (S
+        (NP (PRP it))
+        (VP (VBZ is) (RB not)
+          (VP (VBN sanctioned)
+            (PP (IN by)
+              (NP (DT the) (NNP United) (NNPS Nations)))))))
+    (, ,)
+    (VP (MD would)
+      (VP (VB do)
+        (ADJP (JJ much)
+          (S
+            (VP (TO to)
+              (VP (VB undermine)
+                (NP
+                  (NP (NNS liberals)
+                    (CC and)
+                    (NNS democrats))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBP need)
+                        (NP
+                          (NP (PDT all) (DT the) (NN credibility))
+                          (SBAR
+                            (S
+                              (NP (PRP they))
+                              (VP (MD can)
+                                (VP (VB get))))))))))))))))
+    (. .)))
+
+nn(intervention-3, Armed-1)
+nn(intervention-3, Anglo-American-2)
+nsubj(much-18, intervention-3)
+advmod(sanctioned-10, especially-5)
+dep(sanctioned-10, if-6)
+nsubjpass(sanctioned-10, it-7)
+auxpass(sanctioned-10, is-8)
+neg(sanctioned-10, not-9)
+dep(much-18, sanctioned-10)
+det(Nations-14, the-12)
+nn(Nations-14, United-13)
+agent(sanctioned-10, Nations-14)
+aux(much-18, would-16)
+dep(much-18, do-17)
+root(ROOT-0, much-18)
+aux(undermine-20, to-19)
+xcomp(much-18, undermine-20)
+dobj(undermine-20, liberals-21)
+nsubj(need-26, liberals-21)
+dobj(undermine-20, democrats-23)
+conj_and(liberals-21, democrats-23)
+nsubj(need-26, democrats-23)
+rcmod(liberals-21, need-26)
+predet(credibility-29, all-27)
+det(credibility-29, the-28)
+dobj(need-26, credibility-29)
+dobj(get-32, credibility-29)
+nsubj(get-32, they-30)
+aux(get-32, can-31)
+rcmod(credibility-29, get-32)
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP recognize)
+      (SBAR (IN that)
+        (S
+          (NP (NN child) (NN marriage))
+          (VP (VBZ is)
+            (NP
+              (NP
+                (NP (DT a)
+                  (ADJP (RB deeply) (JJ embedded))
+                  (NN tradition))
+                (PP (IN in)
+                  (NP (JJ many) (NNS societies))))
+              (: --)
+              (NP
+                (NP (DT all))
+                (VP
+                  (ADVP (RB too) (RB often))
+                  (VBN sanctioned)
+                  (PP (IN by)
+                    (NP (JJ religious) (NNS leaders))))))))))
+    (. .)))
+
+nsubj(recognize-2, We-1)
+root(ROOT-0, recognize-2)
+complm(tradition-10, that-3)
+nn(marriage-5, child-4)
+nsubj(tradition-10, marriage-5)
+cop(tradition-10, is-6)
+det(tradition-10, a-7)
+advmod(embedded-9, deeply-8)
+amod(tradition-10, embedded-9)
+ccomp(recognize-2, tradition-10)
+amod(societies-13, many-12)
+prep_in(tradition-10, societies-13)
+dep(tradition-10, all-15)
+advmod(often-17, too-16)
+advmod(sanctioned-18, often-17)
+partmod(all-15, sanctioned-18)
+amod(leaders-21, religious-20)
+agent(sanctioned-18, leaders-21)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Supporters))
+      (PP (IN of)
+        (NP (NN capital) (NN punishment))))
+    (ADVP (RB usually))
+    (VP (VBD put)
+      (PRT (RP forward))
+      (NP (CD three) (NNS arguments))
+      (S
+        (VP (TO to)
+          (VP (VB justify)
+            (NP
+              (NP (JJ state-sanctioned) (NN killing))
+              (PP (IN of)
+                (NP
+                  (NP (DT those))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBP take)
+                        (NP
+                          (NP (DT the) (NN life))
+                          (PP (IN of)
+                            (NP (DT another))))))))))))))
+    (. .)))
+
+nsubj(put-6, Supporters-1)
+nn(punishment-4, capital-3)
+prep_of(Supporters-1, punishment-4)
+advmod(put-6, usually-5)
+root(ROOT-0, put-6)
+prt(put-6, forward-7)
+num(arguments-9, three-8)
+dobj(put-6, arguments-9)
+aux(justify-11, to-10)
+xcomp(put-6, justify-11)
+amod(killing-13, state-sanctioned-12)
+dobj(justify-11, killing-13)
+prep_of(killing-13, those-15)
+nsubj(take-17, those-15)
+rcmod(those-15, take-17)
+det(life-19, the-18)
+dobj(take-17, life-19)
+prep_of(life-19, another-21)
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Anything))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ violates)
+            (SBAR
+              (S
+                (NP (JJ traditional) (NN gender) (NNS stereotypes))
+                (VP (VBZ is)
+                  (ADJP (RB severely) (VBN sanctioned)
+                    (PP (IN in)
+                      (NP (JJ Mexican) (NN society)))))))))))
+    (: ;)
+    (ADVP (RB therein))
+    (VP (VBZ lies)
+      (NP
+        (NP (DT the) (JJ true) (NN foundation))
+        (PP (IN of)
+          (NP (NN homophobia)))))
+    (. .)))
+
+nsubj(violates-3, Anything-1)
+nsubj(lies-15, Anything-1)
+rcmod(Anything-1, violates-3)
+amod(stereotypes-6, traditional-4)
+nn(stereotypes-6, gender-5)
+nsubjpass(sanctioned-9, stereotypes-6)
+auxpass(sanctioned-9, is-7)
+advmod(sanctioned-9, severely-8)
+ccomp(violates-3, sanctioned-9)
+amod(society-12, Mexican-11)
+prep_in(sanctioned-9, society-12)
+advmod(lies-15, therein-14)
+root(ROOT-0, lies-15)
+det(foundation-18, the-16)
+amod(foundation-18, true-17)
+dobj(lies-15, foundation-18)
+prep_of(foundation-18, homophobia-20)
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Likewise))
+      (, ,)
+      (NP (JJ other) (NNS democracies))
+      (VP (MD must)
+        (VP (VB be)
+          (ADJP (JJ convinced)))))
+    (: ;)
+    (S
+      (ADVP (RB indeed))
+      (, ,)
+      (NP (NN action))
+      (VP (VBZ has)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN sanctioned)
+                (PP (IN by)
+                  (NP (JJ international) (NNS bodies)))))))))
+    (. .)))
+
+advmod(convinced-7, Likewise-1)
+amod(democracies-4, other-3)
+nsubj(convinced-7, democracies-4)
+aux(convinced-7, must-5)
+cop(convinced-7, be-6)
+root(ROOT-0, convinced-7)
+advmod(has-12, indeed-9)
+nsubj(has-12, action-11)
+xsubj(sanctioned-15, action-11)
+parataxis(convinced-7, has-12)
+aux(sanctioned-15, to-13)
+auxpass(sanctioned-15, be-14)
+xcomp(has-12, sanctioned-15)
+amod(bodies-18, international-17)
+agent(sanctioned-15, bodies-18)
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN result)))
+    (, ,)
+    (NP (NNS thinkers))
+    (NP (NN today))
+    (VP (VBP are)
+      (ADJP (RB far) (RBR more) (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (VP (VBN caught)
+                (S
+                  (VP (VBG expressing)
+                    (NP
+                      (NP (`` ``) (JJ unsanctioned) ('' '') (NNS ideas))
+                      (SBAR (IN than)
+                        (S
+                          (NP (PRP they))
+                          (ADVP (RB ever))
+                          (VP (VBD were)
+                            (PP (IN in)
+                              (NP
+                                (NP
+                                  (NP (DT the) (CD 1980) (POS 's))
+                                  (CC and)
+                                  (NP (JJ early) (CD 1990) (POS 's)))
+                                (, ,)
+                                (SBAR
+                                  (WHADVP (WRB when))
+                                  (S
+                                    (NP (JJ underground) (NNS publications))
+                                    (VP (VBD served)
+                                      (PP (IN as)
+                                        (NP
+                                          (NP (DT the) (JJ main) (NN channel))
+                                          (PP (IN of)
+                                            (NP (JJ free) (NN expression))))))))))))))))))))))
+    (. .)))
+
+det(result-3, a-2)
+prep_as(likely-10, result-3)
+nsubj(likely-10, thinkers-5)
+nsubj(likely-10, today-6)
+cop(likely-10, are-7)
+advmod(likely-10, far-8)
+advmod(likely-10, more-9)
+root(ROOT-0, likely-10)
+aux(caught-13, to-11)
+auxpass(caught-13, get-12)
+xcomp(likely-10, caught-13)
+xcomp(caught-13, expressing-14)
+amod(ideas-18, unsanctioned-16)
+dobj(expressing-14, ideas-18)
+mark(were-22, than-19)
+nsubj(were-22, they-20)
+advmod(were-22, ever-21)
+dep(ideas-18, were-22)
+det(1980-25, the-24)
+prep_in(were-22, 1980-25)
+tmod(served-35, 1980-25)
+possessive(1980-25, 's-26)
+amod(1990-29, early-28)
+prep_in(were-22, 1990-29)
+conj_and(1980-25, 1990-29)
+tmod(served-35, 1990-29)
+advmod(served-35, when-32)
+amod(publications-34, underground-33)
+nsubj(served-35, publications-34)
+dep(1980-25, served-35)
+det(channel-39, the-37)
+amod(channel-39, main-38)
+prep_as(served-35, channel-39)
+amod(expression-42, free-41)
+prep_of(channel-39, expression-42)
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP (NN chairman))
+        (PP (IN of)
+          (NP (DT the) (NNP PLO)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (MD will)
+      (VP (VB be)
+        (PP (IN under)
+          (NP (JJ extreme) (NN pressure)))
+        (S
+          (VP (RB not) (TO to)
+            (VP (VB delegitimize)
+              (NP
+                (NP (DT the)
+                  (ADJP (RB internationally) (VBN sanctioned))
+                  (NNS acts))
+                (PP (IN of)
+                  (NP
+                    (NP (NN resistance))
+                    (PP (IN against)
+                      (NP (JJ Israeli) (JJ military) (NNS targets)))))))))))
+    (. .)))
+
+prep_as(be-9, chairman-2)
+det(PLO-5, the-4)
+prep_of(chairman-2, PLO-5)
+nsubj(be-9, he-7)
+aux(be-9, will-8)
+root(ROOT-0, be-9)
+amod(pressure-12, extreme-11)
+prep_under(be-9, pressure-12)
+neg(delegitimize-15, not-13)
+aux(delegitimize-15, to-14)
+ccomp(be-9, delegitimize-15)
+xcomp(be-9, delegitimize-15)
+det(acts-19, the-16)
+advmod(sanctioned-18, internationally-17)
+amod(acts-19, sanctioned-18)
+dobj(delegitimize-15, acts-19)
+prep_of(acts-19, resistance-21)
+amod(targets-25, Israeli-23)
+amod(targets-25, military-24)
+prep_against(resistance-21, targets-25)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD monitored))
+      (CC and)
+      (VP (VBN sanctioned)
+        (NP
+          (NP (DT the) (NN recruitment))
+          (PP (IN of)
+            (NP
+              (NP (NNS consultants))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (VBD conducted)
+                    (NP
+                      (NP
+                        (NP (DT the) (NNS studies))
+                        (VP (VBN related)
+                          (PP (TO to)
+                            (NP (DT these) (NNS projects)))))
+                      (, ,)
+                      (CONJP (RB as) (RB well) (IN as))
+                      (NP
+                        (NP (DT the) (JJ expatriate) (NN staff))
+                        (VP (VBN involved)
+                          (PP (IN in)
+                            (NP (PRP$ their) (NN execution))))))))))))))
+    (. .)))
+
+nsubj(monitored-2, They-1)
+nsubj(sanctioned-4, They-1)
+root(ROOT-0, monitored-2)
+conj_and(monitored-2, sanctioned-4)
+det(recruitment-6, the-5)
+dobj(sanctioned-4, recruitment-6)
+prep_of(recruitment-6, consultants-8)
+nsubj(conducted-10, consultants-8)
+rcmod(consultants-8, conducted-10)
+det(studies-12, the-11)
+dobj(conducted-10, studies-12)
+partmod(studies-12, related-13)
+det(projects-16, these-15)
+prep_to(related-13, projects-16)
+det(staff-23, the-21)
+amod(staff-23, expatriate-22)
+dobj(conducted-10, staff-23)
+conj_and(studies-12, staff-23)
+partmod(staff-23, involved-24)
+poss(execution-27, their-26)
+prep_in(involved-24, execution-27)
+

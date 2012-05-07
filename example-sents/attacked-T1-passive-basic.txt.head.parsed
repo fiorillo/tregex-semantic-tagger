@@ -1,0 +1,508 @@
+(ROOT
+  (S
+    (ADVP (RB Already))
+    (, ,)
+    (PP (IN in)
+      (NP
+        (NP
+          (NP (NNP Gilani) (POS 's))
+          (NN hometown))
+        (PP (IN of)
+          (NP (NNP Multan)))))
+    (, ,)
+    (NP (NNS rioters))
+    (VP (VBD attacked)
+      (NP (NN government) (NNS offices)
+        (CC and)
+        (NNS banks))
+      (S
+        (VP (TO to)
+          (VP (VB protest)
+            (NP (NN electricity) (NNS disruptions))))))
+    (. .)))
+
+advmod(attacked-11, Already-1)
+poss(hometown-6, Gilani-4)
+prep_in(attacked-11, hometown-6)
+prep_of(hometown-6, Multan-8)
+nsubj(attacked-11, rioters-10)
+root(ROOT-0, attacked-11)
+nn(offices-13, government-12)
+dobj(attacked-11, offices-13)
+dobj(attacked-11, banks-15)
+conj_and(offices-13, banks-15)
+aux(protest-17, to-16)
+xcomp(attacked-11, protest-17)
+nn(disruptions-19, electricity-18)
+dobj(protest-17, disruptions-19)
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP
+      (NP (NN violence))
+      (PP (IN against) (`` ``)
+        (NP (NNS law-breakers))
+        ('' '')))
+    (VP (VBZ is)
+      (PP (IN on)
+        (NP (DT the) (NN rise))))
+    (. .)))
+
+det(time-4, the-2)
+amod(time-4, same-3)
+prep_at(is-11, time-4)
+nsubj(is-11, violence-6)
+prep_against(violence-6, law-breakers-9)
+root(ROOT-0, is-11)
+det(rise-14, the-13)
+prep_on(is-11, rise-14)
+
+(ROOT
+  (S
+    (S
+      (NP (NN Internet) (NNS cafes))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN bombed)))))
+    (, ,)
+    (S
+      (NP
+        (NP (NNS institutions))
+        (PP (IN with)
+          (NP (JJ Christian) (NNS affiliations))))
+      (VP (VBD burned)
+        (PRT (RP down))))
+    (, ,)
+    (S
+      (NP (JJ foreign) (NNS schools))
+      (VP (VBD attacked)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN wedding) (NNS parties))
+      (VP (VBD assaulted)))
+    (. .)))
+
+nn(cafes-2, Internet-1)
+nsubjpass(bombed-5, cafes-2)
+aux(bombed-5, have-3)
+auxpass(bombed-5, been-4)
+root(ROOT-0, bombed-5)
+nsubj(burned-11, institutions-7)
+amod(affiliations-10, Christian-9)
+prep_with(institutions-7, affiliations-10)
+ccomp(bombed-5, burned-11)
+conj_and(bombed-5, burned-11)
+prt(burned-11, down-12)
+amod(schools-15, foreign-14)
+nsubj(attacked-16, schools-15)
+ccomp(bombed-5, attacked-16)
+conj_and(bombed-5, attacked-16)
+nn(parties-20, wedding-19)
+nsubj(assaulted-21, parties-20)
+conj_and(bombed-5, assaulted-21)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP July) (CD 1995)))
+    (, ,)
+    (NP (NNP Serb) (NNS forces))
+    (VP (VBD attacked))
+    (. .)))
+
+prep_in(attacked-7, July-2)
+num(July-2, 1995-3)
+nn(forces-6, Serb-5)
+nsubj(attacked-7, forces-6)
+root(ROOT-0, attacked-7)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP UN))
+    (VP (VBD did) (RB not)
+      (VP (VB honor)
+        (NP (PRP$ its) (NN pledge))))
+    (. .)))
+
+det(UN-2, The-1)
+nsubj(honor-5, UN-2)
+aux(honor-5, did-3)
+neg(honor-5, not-4)
+root(ROOT-0, honor-5)
+poss(pledge-7, its-6)
+dobj(honor-5, pledge-7)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT the) (NN north))
+        (PP (IN of)
+          (NP (DT the) (NN country)))))
+    (, ,)
+    (NP
+      (NP (DT a) (JJ Syrian-based) (NN militia))
+      (, ,)
+      (PP (IN under)
+        (NP (NNP Fawzi) (NNP al-Kaukji)))
+      (, ,))
+    (VP (VBD attacked)
+      (NP (JJ Jewish) (NNS villages)))
+    (. .)))
+
+det(north-3, the-2)
+prep_in(attacked-16, north-3)
+det(country-6, the-5)
+prep_of(north-3, country-6)
+det(militia-10, a-8)
+amod(militia-10, Syrian-based-9)
+nsubj(attacked-16, militia-10)
+nn(al-Kaukji-14, Fawzi-13)
+prep_under(militia-10, al-Kaukji-14)
+root(ROOT-0, attacked-16)
+amod(villages-18, Jewish-17)
+dobj(attacked-16, villages-18)
+
+(ROOT
+  (S
+    (ADVP (RB Indeed))
+    (, ,)
+    (NP (NNP Lech) (NNP Wa))
+    (VP (VBZ ??)
+      (NP
+        (NP (NN sa))
+        (CC and)
+        (NP (NNP W))))
+    (. ?)))
+
+advmod(??-5, Indeed-1)
+nn(Wa-4, Lech-3)
+nsubj(??-5, Wa-4)
+root(ROOT-0, ??-5)
+dobj(??-5, sa-6)
+dobj(??-5, W-8)
+conj_and(sa-6, W-8)
+
+(ROOT
+  (NP (NNS adys) (. ?)))
+
+root(ROOT-0, adys-1)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP aw) (NNP Bartoszewski))
+      (, ,)
+      (NP (DT the) (NNP Polish) (NNP Mandela))
+      (, ,))
+    (VP (VBD were)
+      (VP
+        (ADVP (RB ruthlessly))
+        (VBN attacked)))
+    (. .)))
+
+nn(Bartoszewski-2, aw-1)
+nsubjpass(attacked-10, Bartoszewski-2)
+det(Mandela-6, the-4)
+nn(Mandela-6, Polish-5)
+appos(Bartoszewski-2, Mandela-6)
+auxpass(attacked-10, were-8)
+advmod(attacked-10, ruthlessly-9)
+root(ROOT-0, attacked-10)
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (CD two) (JJ recent) (NNS events))
+      (PP (IN in)
+        (NP (NNP Tibet))))
+    (, ,)
+    (S
+      (VP (VBG involving)
+        (NP
+          (NP (DT the) (NNS trials))
+          (PP (IN of)
+            (NP
+              (NP (CD two) (JJ leading) (NNS Tibetans))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP
+                    (VP (VBD had) (RB not)
+                      (VP (VBN attacked)))
+                    (CC or)
+                    (VP (VBD criticized)
+                      (NP (DT the) (NN state))
+                      (ADVP (IN at) (DT all)))))))))))
+    (, ,)
+    (VP (VBP do) (RB not)
+      (VP (VB follow)
+        (NP (DT this) (NN logic))))
+    (. .)))
+
+cc(follow-28, But-1)
+num(events-4, two-2)
+amod(events-4, recent-3)
+nsubj(follow-28, events-4)
+prep_in(events-4, Tibet-6)
+partmod(follow-28, involving-8)
+det(trials-10, the-9)
+dobj(involving-8, trials-10)
+num(Tibetans-14, two-12)
+amod(Tibetans-14, leading-13)
+prep_of(trials-10, Tibetans-14)
+nsubj(attacked-18, Tibetans-14)
+nsubj(criticized-20, Tibetans-14)
+aux(attacked-18, had-16)
+neg(attacked-18, not-17)
+rcmod(Tibetans-14, attacked-18)
+rcmod(Tibetans-14, criticized-20)
+conj_or(attacked-18, criticized-20)
+det(state-22, the-21)
+dobj(criticized-20, state-22)
+advmod(criticized-20, at-23)
+pobj(at-23, all-24)
+aux(follow-28, do-26)
+neg(follow-28, not-27)
+root(ROOT-0, follow-28)
+det(logic-30, this-29)
+dobj(follow-28, logic-30)
+
+(ROOT
+  (S
+    (NP (DT The) (NNPS Iranians))
+    (VP (VBP remember)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP (DT the) (JJ international) (NN community))
+          (VP (VBD remained)
+            (ADJP (JJ indifferent))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (NNP Saddam) (NNP Hussein))
+                (VP (VBD attacked)
+                  (PP (IN with)
+                    (NP (NN chemical) (NNS weapons)))
+                  (PP (IN in)
+                    (NP (DT the) (CD 1980) (NNS 's))))))))))
+    (. .)))
+
+det(Iranians-2, The-1)
+nsubj(remember-3, Iranians-2)
+root(ROOT-0, remember-3)
+advmod(indifferent-9, how-4)
+det(community-7, the-5)
+amod(community-7, international-6)
+nsubj(indifferent-9, community-7)
+cop(indifferent-9, remained-8)
+ccomp(remember-3, indifferent-9)
+advmod(attacked-13, when-10)
+nn(Hussein-12, Saddam-11)
+nsubj(attacked-13, Hussein-12)
+advcl(indifferent-9, attacked-13)
+nn(weapons-16, chemical-15)
+prep_with(attacked-13, weapons-16)
+det('s-20, the-18)
+num('s-20, 1980-19)
+prep_in(attacked-13, 's-20)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (PRP$ Its) (JJ new) (NN doctrine))
+        (PP (IN of)
+          (NP
+            (NP (`` ``) (JJ brutal) (NN response) ('' ''))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (VP (VBN attacked)
+                  (PP (IN from)
+                    (NP
+                      (NP (NNS lands))
+                      (SBAR
+                        (WHPP (IN from)
+                          (WHNP (WDT which)))
+                        (S
+                          (NP (PRP it))
+                          (VP (VBZ has)
+                            (VP (VBN withdrawn))))))))))))
+        (PRN (: --)
+          (SBAR (IN as)
+            (S
+              (VP (VBD happened)
+                (PP (IN in)
+                  (NP (NNP Lebanon)
+                    (CC and)
+                    (NNP Gaza))))))
+          (: --)))
+      (VP (MD might)
+        (VP (VB be)
+          (ADJP (JJ reprehensible)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (MD may)
+        (ADVP (RB even))
+        (VP (VB doom)
+          (NP (DT the) (NN country))
+          (PP (TO to)
+            (NP (JJ international) (NN opprobrium))))))
+    (. .)))
+
+poss(doctrine-3, Its-1)
+amod(doctrine-3, new-2)
+nsubj(reprehensible-28, doctrine-3)
+amod(response-7, brutal-6)
+prep_of(doctrine-3, response-7)
+advmod(attacked-10, when-9)
+dep(response-7, attacked-10)
+prep_from(attacked-10, lands-12)
+rel(withdrawn-17, which-14)
+nsubj(withdrawn-17, it-15)
+aux(withdrawn-17, has-16)
+rcmod(lands-12, withdrawn-17)
+mark(happened-20, as-19)
+dep(doctrine-3, happened-20)
+prep_in(happened-20, Lebanon-22)
+prep_in(happened-20, Gaza-24)
+conj_and(Lebanon-22, Gaza-24)
+aux(reprehensible-28, might-26)
+cop(reprehensible-28, be-27)
+root(ROOT-0, reprehensible-28)
+nsubj(doom-34, it-31)
+aux(doom-34, may-32)
+advmod(doom-34, even-33)
+conj_and(reprehensible-28, doom-34)
+det(country-36, the-35)
+dobj(doom-34, country-36)
+amod(opprobrium-39, international-38)
+prep_to(doom-34, opprobrium-39)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Alliance))
+    (VP (MD would) (RB not)
+      (VP (VB be)
+        (ADJP (JJ happy)
+          (S
+            (VP (TO to)
+              (VP (VB apply)
+                (NP
+                  (NP (NNP Article) (CD 5))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NNP NATO) (NN charter))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (MD would)
+                            (VP (VB oblige)
+                              (NP (PRP$ its) (NNS members))
+                              (S
+                                (VP (TO to)
+                                  (VP (VB fight)
+                                    (PP (IN for)
+                                      (NP (NNP Israel)))))))))))))))))
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBD were)
+              (VP (VBN attacked)
+                (PP (IN by)
+                  (NP
+                    (NP (DT any))
+                    (PP (IN of)
+                      (NP (PRP$ its) (JJ many) (JJ potential) (NNS enemies)))))
+                (PP (IN in)
+                  (NP (DT an) (JJ endemically) (JJ dangerous) (NN region)))))))))
+    (. .)))
+
+det(Alliance-2, The-1)
+nsubj(happy-6, Alliance-2)
+aux(happy-6, would-3)
+neg(happy-6, not-4)
+cop(happy-6, be-5)
+root(ROOT-0, happy-6)
+aux(apply-8, to-7)
+xcomp(happy-6, apply-8)
+dobj(apply-8, Article-9)
+num(Article-9, 5-10)
+det(charter-14, the-12)
+nn(charter-14, NATO-13)
+prep_of(Article-9, charter-14)
+nsubj(oblige-18, charter-14)
+aux(oblige-18, would-17)
+rcmod(charter-14, oblige-18)
+poss(members-20, its-19)
+dobj(oblige-18, members-20)
+aux(fight-22, to-21)
+xcomp(oblige-18, fight-22)
+prep_for(fight-22, Israel-24)
+mark(attacked-28, if-25)
+nsubjpass(attacked-28, it-26)
+auxpass(attacked-28, were-27)
+advcl(happy-6, attacked-28)
+agent(attacked-28, any-30)
+poss(enemies-35, its-32)
+amod(enemies-35, many-33)
+amod(enemies-35, potential-34)
+prep_of(any-30, enemies-35)
+det(region-40, an-37)
+amod(region-40, endemically-38)
+amod(region-40, dangerous-39)
+prep_in(attacked-28, region-40)
+
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (VBG Removing)
+          (NP (NNS constraints))
+          (PP (IN on)
+            (NP (NNS lawyers))))
+        (CC and)
+        (VP (VBG ensuring)
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (VBP are) (RB not)
+                (VP (VBN attacked)
+                  (PP (IN with)
+                    (NP (NN impunity))))))))))
+    (VP (MD would)
+      (VP (VB be)
+        (NP (DT a) (JJ good) (NN place)
+          (S
+            (VP (TO to)
+              (VP (VB start)))))))
+    (. .)))
+
+csubj(place-18, Removing-1)
+dobj(Removing-1, constraints-2)
+prep_on(Removing-1, lawyers-4)
+conj_and(Removing-1, ensuring-6)
+csubj(place-18, ensuring-6)
+complm(attacked-11, that-7)
+nsubjpass(attacked-11, they-8)
+auxpass(attacked-11, are-9)
+neg(attacked-11, not-10)
+ccomp(ensuring-6, attacked-11)
+prep_with(attacked-11, impunity-13)
+aux(place-18, would-14)
+cop(place-18, be-15)
+det(place-18, a-16)
+amod(place-18, good-17)
+root(ROOT-0, place-18)
+aux(start-20, to-19)
+infmod(place-18, start-20)
+

@@ -1,0 +1,561 @@
+(ROOT
+  (S
+    (SBAR (RB Even) (IN if)
+      (S
+        (NP (NNP President) (NNP Bush))
+        (VP (VBZ wins)
+          (NP (NN reelection)))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB highly) (JJ unlikely))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP US))
+          (VP (MD will)
+            (VP (VB make)
+              (NP (DT another) (JJ outright) (NN grant))
+              (PP (TO to)
+                (NP (DT a) (JJ sovereign) (NNP Iraq))))))))
+    (. .)))
+
+advmod(wins-5, Even-1)
+dep(wins-5, if-2)
+nn(Bush-4, President-3)
+nsubj(wins-5, Bush-4)
+advcl(unlikely-11, wins-5)
+dobj(wins-5, reelection-6)
+nsubj(unlikely-11, it-8)
+cop(unlikely-11, is-9)
+advmod(unlikely-11, highly-10)
+root(ROOT-0, unlikely-11)
+complm(make-16, that-12)
+det(US-14, the-13)
+nsubj(make-16, US-14)
+aux(make-16, will-15)
+ccomp(unlikely-11, make-16)
+det(grant-19, another-17)
+amod(grant-19, outright-18)
+dobj(make-16, grant-19)
+det(Iraq-23, a-21)
+amod(Iraq-23, sovereign-22)
+prep_to(make-16, Iraq-23)
+
+(ROOT
+  (NP
+    (NP (NNS Lessons))
+    (PP (IN from)
+      (NP (DT the) (NNP Kaczy)))
+    (. ?)))
+
+root(ROOT-0, Lessons-1)
+det(Kaczy-4, the-3)
+prep_from(Lessons-1, Kaczy-4)
+
+(ROOT
+  (NP
+    (NP
+      (NP (NN ski) (POS 's))
+      (NNP Poland))
+    (NP
+      (NP (DT The) (NN defeat))
+      (PP (IN of)
+        (NP (DT the) (NNP Kaczy))))
+    (. ?)))
+
+poss(Poland-3, ski-1)
+root(ROOT-0, Poland-3)
+det(defeat-5, The-4)
+dep(Poland-3, defeat-5)
+det(Kaczy-8, the-7)
+prep_of(defeat-5, Kaczy-8)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP
+          (NP (JJ ski) (NNS twins) (POS '))
+          (NNP Law)
+          (CC and)
+          (NNP Justice) (NNP Party))
+        (PRN (-LRB- -LRB-)
+          (NP (NNP PiS))
+          (-RRB- -RRB-)))
+      (PP (IN in)
+        (NP (NNP Poland))))
+    (VP (VBD brought)
+      (NP
+        (NP (NNS sighs))
+        (PP (IN of)
+          (NP (NN relief))))
+      (PP (IN across)
+        (NP (NNP Europe))))
+    (. .)))
+
+amod(twins-2, ski-1)
+poss(Law-4, twins-2)
+nsubj(brought-13, Law-4)
+nn(Party-7, Justice-6)
+conj_and(Law-4, Party-7)
+nsubj(brought-13, Party-7)
+appos(Law-4, PiS-9)
+prep_in(Law-4, Poland-12)
+root(ROOT-0, brought-13)
+dobj(brought-13, sighs-14)
+prep_of(sighs-14, relief-16)
+prep_across(brought-13, Europe-18)
+
+(ROOT
+  (S
+    (ADVP (RB Interestingly))
+    (, ,)
+    (NP
+      (NP (PDT all) (DT the) (JJ available) (NNS measures))
+      (PP (IN of)
+        (NP (JJ actual) (NN corruption))))
+    (VP (VBD were)
+      (ADVP (RB already))
+      (VP (VBG declining)
+        (PP (IN before)
+          (NP (DT the) (NNP Kaczy)))))
+    (. ?)))
+
+advmod(declining-12, Interestingly-1)
+predet(measures-6, all-3)
+det(measures-6, the-4)
+amod(measures-6, available-5)
+nsubj(declining-12, measures-6)
+amod(corruption-9, actual-8)
+prep_of(measures-6, corruption-9)
+aux(declining-12, were-10)
+advmod(declining-12, already-11)
+root(ROOT-0, declining-12)
+det(Kaczy-15, the-14)
+prep_before(declining-12, Kaczy-15)
+
+(ROOT
+  (S
+    (NP (JJ ski) (NNS twins))
+    (VP (VBD were)
+      (VP (VBN elected)))
+    (. .)))
+
+amod(twins-2, ski-1)
+nsubjpass(elected-4, twins-2)
+auxpass(elected-4, were-3)
+root(ROOT-0, elected-4)
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP she))
+        (VP (VBZ wins))))
+    (, ,)
+    (NP (PRP it))
+    (VP (MD will)
+      (VP (VB be)
+        (NP
+          (NP (DT the) (NN result))
+          (PP (IN of)
+            (NP
+              (NP (PRP$ her) (NN seriousness)
+                (CC and)
+                (NN tenacity))
+              (, ,) (RB not)
+              (NP (PRP$ her) (JJ political) (NN heritage)))))))
+    (. .)))
+
+mark(wins-3, If-1)
+nsubj(wins-3, she-2)
+advcl(result-9, wins-3)
+nsubj(result-9, it-5)
+aux(result-9, will-6)
+cop(result-9, be-7)
+det(result-9, the-8)
+root(ROOT-0, result-9)
+poss(seriousness-12, her-11)
+prep_of(result-9, seriousness-12)
+prep_of(result-9, tenacity-14)
+conj_and(seriousness-12, tenacity-14)
+neg(seriousness-12, not-16)
+poss(heritage-19, her-17)
+amod(heritage-19, political-18)
+dep(seriousness-12, heritage-19)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADVP
+        (ADVP (RB no) (RB longer))
+        (PP (IN about)
+          (NP (NN message)
+            (CC or)
+            (NN content))))
+      (: -)
+      (SBAR
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADVP (RB just))
+              (NP
+                (NP (CD one) (JJR more) (NN form))
+                (PP (IN of)
+                  (NP (NN entertainment)))))))
+        (, ,)
+        (CC and)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP (NNS matters))
+            (VP (VBZ is)
+              (NP
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ wins))))
+                (CC and)
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBZ loses))))))))))
+    (. .)))
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+advmod(longer-4, no-3)
+advmod(is-2, longer-4)
+prep_about(longer-4, message-6)
+prep_about(longer-4, content-8)
+conj_or(message-6, content-8)
+nsubj(form-15, it-10)
+cop(form-15, is-11)
+advmod(form-15, just-12)
+num(form-15, one-13)
+amod(form-15, more-14)
+parataxis(is-2, form-15)
+prep_of(form-15, entertainment-17)
+dobj(wins-24, what-20)
+nsubj(wins-24, matters-21)
+cop(wins-24, is-22)
+nsubj(wins-24, who-23)
+parataxis(is-2, wins-24)
+conj_and(form-15, wins-24)
+nsubj(loses-27, who-26)
+conj_and(form-15, loses-27)
+conj_and(wins-24, loses-27)
+
+(ROOT
+  (NP
+    (NP (DT No) (CD one) (JJ much) (NNS minds))
+    (ADJP
+      (ADJP (RB any) (JJR more))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NNP Germany))
+          (VP (VBZ wins) (, ,)
+            (SBAR (IN as)
+              (S
+                (NP (PRP it))
+                (ADVP (RB so) (RB often))
+                (VP (VBZ does))))))))
+    (. .)))
+
+det(minds-4, No-1)
+num(minds-4, one-2)
+amod(minds-4, much-3)
+root(ROOT-0, minds-4)
+advmod(more-6, any-5)
+amod(minds-4, more-6)
+advmod(wins-9, when-7)
+nsubj(wins-9, Germany-8)
+dep(more-6, wins-9)
+mark(does-15, as-11)
+nsubj(does-15, it-12)
+advmod(often-14, so-13)
+advmod(does-15, often-14)
+advcl(wins-9, does-15)
+
+(ROOT
+  (S
+    (NP (DT The) (NNPS Germans))
+    (VP (VBP are)
+      (ADVP (RB now))
+      (ADJP
+        (ADJP (RB much) (RB too) (JJ nice))
+        (PP (IN for)
+          (NP (DT that)))))
+    (. .)))
+
+det(Germans-2, The-1)
+nsubj(nice-7, Germans-2)
+cop(nice-7, are-3)
+advmod(nice-7, now-4)
+advmod(nice-7, much-5)
+advmod(nice-7, too-6)
+root(ROOT-0, nice-7)
+prep_for(nice-7, that-9)
+
+(ROOT
+  (S
+    (NP (DT Both))
+    (VP (VBD destroyed)
+      (NP (DT the) (NNP Weimar) (NNP Republic))
+      (, ,)
+      (S
+        (VP (VBG acting)
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN kind))
+              (PP (IN of)
+                (NP (JJ evil) (NNS twins)))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP
+                    (VP (VBZ hated)
+                      (NP (DT each) (JJ other)))
+                    (, ,)
+                    (CC yet)
+                    (VP (VBD shared)
+                      (NP
+                        (NP (DT a) (JJ common) (NN hatred))
+                        (PP (IN of)
+                          (NP (NN Christianity)
+                            (CC and)
+                            (NN democracy)))))))))))))
+    (. .)))
+
+nsubj(destroyed-2, Both-1)
+root(ROOT-0, destroyed-2)
+det(Republic-5, the-3)
+nn(Republic-5, Weimar-4)
+dobj(destroyed-2, Republic-5)
+partmod(destroyed-2, acting-7)
+xcomp(destroyed-2, acting-7)
+det(kind-10, a-9)
+prep_as(acting-7, kind-10)
+nsubj(hated-15, kind-10)
+nsubj(shared-20, kind-10)
+amod(twins-13, evil-12)
+prep_of(kind-10, twins-13)
+rcmod(kind-10, hated-15)
+det(other-17, each-16)
+dobj(hated-15, other-17)
+rcmod(kind-10, shared-20)
+conj_yet(hated-15, shared-20)
+det(hatred-23, a-21)
+amod(hatred-23, common-22)
+dobj(shared-20, hatred-23)
+prep_of(hatred-23, Christianity-25)
+prep_of(hatred-23, democracy-27)
+conj_and(Christianity-25, democracy-27)
+
+(ROOT
+  (S (CC But)
+    (NP (JJ whoever) (NNS wins))
+    (VP (MD will)
+      (VP (VB need)
+        (NP (JJ new) (NNS ideas)
+          (CC and)
+          (NNS initiatives))
+        (S
+          (VP (TO to)
+            (VP (VB reinvigorate)
+              (NP (DT a) (JJ dormant) (NN institution)))))))
+    (. .)))
+
+cc(need-5, But-1)
+amod(wins-3, whoever-2)
+nsubj(need-5, wins-3)
+aux(need-5, will-4)
+root(ROOT-0, need-5)
+amod(ideas-7, new-6)
+dobj(need-5, ideas-7)
+dobj(need-5, initiatives-9)
+conj_and(ideas-7, initiatives-9)
+aux(reinvigorate-11, to-10)
+xcomp(need-5, reinvigorate-11)
+det(institution-14, a-12)
+amod(institution-14, dormant-13)
+dobj(reinvigorate-11, institution-14)
+
+(ROOT
+  (SBARQ
+    (WHNP (WDT Which) (NN candidate))
+    (SQ (VBZ is)
+      (NP
+        (NP (JJS best))
+        (PP (IN for)
+          (NP (NNP Latin) (NNP America)))))
+    (. ?)))
+
+det(candidate-2, Which-1)
+attr(is-3, candidate-2)
+root(ROOT-0, is-3)
+nsubj(is-3, best-4)
+nn(America-7, Latin-6)
+prep_for(best-4, America-7)
+
+(ROOT
+  (SQ (NNP Does)
+    (NP (PRP it))
+    (VP (VB make)
+      (NP (DT any) (NN difference))
+      (SBAR (IN if)
+        (S
+          (NP (NNP Barak) (NNP Obama)
+            (CC or)
+            (NNP Hillary) (NNP Clinton))
+          (VP
+            (VP (VBZ is)
+              (NP (DT the) (JJ Democratic) (NN nominee)))
+            (CC and)
+            (VP (VBZ does)
+              (S
+                (NP (PRP it))
+                (VP (NN matter)
+                  (SBAR (IN if)
+                    (S
+                      (NP
+                        (NP
+                          (NP (CD one))
+                          (PP (IN of)
+                            (NP (PRP them))))
+                        (CC or)
+                        (NP (DT the) (JJ Republican)
+                          (NX (NNP John) (NNP McCain))))
+                      (VP (VBZ wins)
+                        (PP (IN in)
+                          (NP (NNP November)))))))))))))
+    (. ?)))
+
+dep(make-3, Does-1)
+nsubj(make-3, it-2)
+root(ROOT-0, make-3)
+det(difference-5, any-4)
+dobj(make-3, difference-5)
+mark(nominee-15, if-6)
+nn(Obama-8, Barak-7)
+nsubj(nominee-15, Obama-8)
+nsubj(does-17, Obama-8)
+nn(Clinton-11, Hillary-10)
+conj_or(Obama-8, Clinton-11)
+nsubj(nominee-15, Clinton-11)
+cop(nominee-15, is-12)
+det(nominee-15, the-13)
+amod(nominee-15, Democratic-14)
+advcl(make-3, nominee-15)
+advcl(make-3, does-17)
+conj_and(nominee-15, does-17)
+nsubj(matter-19, it-18)
+ccomp(does-17, matter-19)
+mark(wins-29, if-20)
+nsubj(wins-29, one-21)
+prep_of(one-21, them-23)
+det(McCain-28, the-25)
+amod(McCain-28, Republican-26)
+nn(McCain-28, John-27)
+conj_or(one-21, McCain-28)
+nsubj(wins-29, McCain-28)
+advcl(matter-19, wins-29)
+prep_in(wins-29, November-31)
+
+(ROOT
+  (S
+    (NP (NNP Whichever) (NN candidate))
+    (VP (VBZ wins)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (NP (NNP Sri) (NNP Lanka) (POS 's))
+              (JJ presidential) (NN election))
+            (PP (IN on)
+              (NP (NNP January) (CD 26))))
+          (VP (MD will)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB lead)
+                    (NP (DT that) (JJ small)
+                      (ADJP
+                        (ADVP (RB but) (RB strategically))
+                        (VBN located))
+                      (NN island-nation))
+                    (PP (IN in)
+                      (NP (DT a)
+                        (ADJP (RB fundamentally) (JJ different))
+                        (NN direction)))
+                    (: --)
+                    (PP (IN from)
+                      (S
+                        (VP (VBG making)
+                          (NP (NN war))))))))
+              (, ,)
+              (SBAR (IN as)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ has)
+                    (VP (VBN done)
+                      (PP (IN for)
+                        (NP
+                          (QP (JJR more) (IN than) (DT a))
+                          (NN quarter-century)))
+                      (, ,)
+                      (PP (TO to)
+                        (S
+                          (VP (VBG making)
+                            (NP (NN peace))
+                            (PP (IN through)
+                              (NP (JJ ethnic) (NN reconciliation)
+                                (CC and)
+                                (NN power) (NN sharing)))))))))))))))
+    (. .)))
+
+nn(candidate-2, Whichever-1)
+nsubj(wins-3, candidate-2)
+root(ROOT-0, wins-3)
+nn(Lanka-5, Sri-4)
+poss(election-8, Lanka-5)
+amod(election-8, presidential-7)
+nsubj(have-13, election-8)
+xsubj(lead-15, election-8)
+prep_on(election-8, January-10)
+num(January-10, 26-11)
+aux(have-13, will-12)
+ccomp(wins-3, have-13)
+aux(lead-15, to-14)
+xcomp(have-13, lead-15)
+det(island-nation-21, that-16)
+amod(island-nation-21, small-17)
+advmod(strategically-19, but-18)
+advmod(located-20, strategically-19)
+amod(island-nation-21, located-20)
+dobj(lead-15, island-nation-21)
+det(direction-26, a-23)
+advmod(different-25, fundamentally-24)
+amod(direction-26, different-25)
+prep_in(lead-15, direction-26)
+prepc_from(lead-15, making-29)
+dobj(making-29, war-30)
+mark(done-35, as-32)
+nsubj(done-35, it-33)
+aux(done-35, has-34)
+advcl(have-13, done-35)
+mwe(than-38, more-37)
+quantmod(a-39, than-38)
+num(quarter-century-40, a-39)
+prep_for(done-35, quarter-century-40)
+prepc_to(done-35, making-43)
+dobj(making-43, peace-44)
+amod(reconciliation-47, ethnic-46)
+prep_through(making-43, reconciliation-47)
+nn(sharing-50, power-49)
+prep_through(making-43, sharing-50)
+conj_and(reconciliation-47, sharing-50)
+

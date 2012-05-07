@@ -1,0 +1,597 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ American) (NN reluctance)
+        (S
+          (VP (TO to)
+            (VP (VB abandon)
+              (NP (NNP Musharraf))))))
+      (PRN (: --)
+        (PP
+          (ADVP (RB together))
+          (IN with)
+          (NP
+            (NP (VBN prolonged) (NN electricity) (NNS shortages))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD made)
+                  (SBAR
+                    (S
+                      (NP (DT the) (JJ new) (NN government))
+                      (VP (VBP appear)
+                        (NP (JJ incompetent))))))))))
+        (: --)))
+    (ADVP (RB also))
+    (VP (VBD raised)
+      (NP (PRP$ his) (NNS hopes)))
+    (. .)))
+
+amod(reluctance-2, American-1)
+nsubj(raised-22, reluctance-2)
+aux(abandon-4, to-3)
+infmod(reluctance-2, abandon-4)
+dobj(abandon-4, Musharraf-5)
+amod(shortages-11, prolonged-9)
+nn(shortages-11, electricity-10)
+prep_together_with(reluctance-2, shortages-11)
+nsubj(made-14, shortages-11)
+rcmod(shortages-11, made-14)
+det(government-17, the-15)
+amod(government-17, new-16)
+nsubj(incompetent-19, government-17)
+cop(incompetent-19, appear-18)
+ccomp(made-14, incompetent-19)
+advmod(raised-22, also-21)
+root(ROOT-0, raised-22)
+poss(hopes-24, his-23)
+dobj(raised-22, hopes-24)
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ indicates)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NNP US))
+          (VP (MD will) (RB not)
+            (VP (VB back)
+              (NP
+                (NP (NNP Musharraf))
+                (PP (IN in)
+                  (NP
+                    (NP
+                      (NP (DT any) (NN confrontation))
+                      (PP (IN between)
+                        (NP (PRP him))))
+                    (CC and)
+                    (NP
+                      (NP (NNP Pakistan) (POS 's))
+                      (JJ democratic) (NNS forces))))))))))
+    (. .)))
+
+nsubj(indicates-2, This-1)
+root(ROOT-0, indicates-2)
+complm(back-8, that-3)
+det(US-5, the-4)
+nsubj(back-8, US-5)
+aux(back-8, will-6)
+neg(back-8, not-7)
+ccomp(indicates-2, back-8)
+dobj(back-8, Musharraf-9)
+det(confrontation-12, any-11)
+prep_in(Musharraf-9, confrontation-12)
+prep_between(confrontation-12, him-14)
+poss(forces-19, Pakistan-16)
+amod(forces-19, democratic-18)
+prep_in(Musharraf-9, forces-19)
+conj_and(confrontation-12, forces-19)
+
+(ROOT
+  (S
+    (NP (JJS Most) (NNPS Pakistanis))
+    (VP (VBP hope)
+      (ADVP (RB so)))
+    (. .)))
+
+amod(Pakistanis-2, Most-1)
+nsubj(hope-3, Pakistanis-2)
+root(ROOT-0, hope-3)
+advmod(hope-3, so-4)
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (ADJP (RB much) (JJ hope))
+      (, ,) (IN though) (, ,)
+      (PP
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN vibrancy))
+            (PP (IN of)
+              (NP (DT the) (JJ Pakistani) (NNS media)))))
+        (, ,)
+        (CONJP (RB as) (RB well) (IN as))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN energy))
+            (SBAR (IN that)
+              (S
+                (NP (DT the) (JJ legal) (NN community))
+                (VP (VBD generated)
+                  (NP (JJ last) (NNP March))
+                  (PP (IN in)
+                    (S
+                      (VP (VBG restoring)
+                        (NP
+                          (NP (NNP deposed) (NNP Chief) (NNP Justice) (NNP Iftikhar) (NNP Mohammad) (NNP Chaudhry))
+                          (PP (TO to)
+                            (NP (PRP$ his) (NN seat))))
+                        (PP (IN on)
+                          (NP (DT the) (NNP Supreme) (NNP Court)))))))))))))
+    (. .)))
+
+expl(is-2, There-1)
+root(ROOT-0, is-2)
+advmod(hope-4, much-3)
+acomp(is-2, hope-4)
+dep(is-2, though-6)
+det(vibrancy-10, the-9)
+prep_in(is-2, vibrancy-10)
+det(media-14, the-12)
+amod(media-14, Pakistani-13)
+prep_of(vibrancy-10, media-14)
+det(energy-21, the-20)
+prep_in(is-2, energy-21)
+conj_and(vibrancy-10, energy-21)
+complm(generated-26, that-22)
+det(community-25, the-23)
+amod(community-25, legal-24)
+nsubj(generated-26, community-25)
+dep(energy-21, generated-26)
+amod(March-28, last-27)
+tmod(generated-26, March-28)
+prepc_in(generated-26, restoring-30)
+nn(Chaudhry-36, deposed-31)
+nn(Chaudhry-36, Chief-32)
+nn(Chaudhry-36, Justice-33)
+nn(Chaudhry-36, Iftikhar-34)
+nn(Chaudhry-36, Mohammad-35)
+dobj(restoring-30, Chaudhry-36)
+poss(seat-39, his-38)
+prep_to(Chaudhry-36, seat-39)
+det(Court-43, the-41)
+nn(Court-43, Supreme-42)
+prep_on(restoring-30, Court-43)
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Financially))
+      (ADJP
+        (ADJP (JJ insolvent))
+        (CC and)
+        (ADJP (RB politically) (JJ paralyzed))))
+    (, ,)
+    (NP (NNP Pakistan))
+    (VP (VBZ needs)
+      (NP (JJ international) (NN help)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB bring)
+                (NP (NN development))
+                (PP (TO to)
+                  (NP (PRP$ its) (JJ liberated) (JJ tribal) (NNS areas))))
+              (CC and)
+              (VP (VB hope)
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (JJ young) (NNS people))
+                    (PRN (: --)
+                      (NP
+                        (NP (CD 65) (NN %))
+                        (PP (IN of)
+                          (NP (DT the) (NN population))))
+                      (: --))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBP live)
+                          (ADVP (RB there)))))))))))))
+    (. .)))
+
+advmod(insolvent-2, Financially-1)
+ccomp(needs-8, insolvent-2)
+advmod(paralyzed-5, politically-4)
+conj_and(insolvent-2, paralyzed-5)
+ccomp(needs-8, paralyzed-5)
+nsubj(needs-8, Pakistan-7)
+root(ROOT-0, needs-8)
+amod(help-10, international-9)
+dobj(needs-8, help-10)
+aux(bring-12, to-11)
+infmod(help-10, bring-12)
+dobj(bring-12, development-13)
+poss(areas-18, its-15)
+amod(areas-18, liberated-16)
+amod(areas-18, tribal-17)
+prep_to(bring-12, areas-18)
+infmod(help-10, hope-20)
+conj_and(bring-12, hope-20)
+det(people-24, the-22)
+amod(people-24, young-23)
+prep_to(hope-20, people-24)
+nsubj(live-33, people-24)
+num(%-27, 65-26)
+dep(people-24, %-27)
+det(population-30, the-29)
+prep_of(%-27, population-30)
+rcmod(people-24, live-33)
+advmod(live-33, there-34)
+
+(ROOT
+  (S
+    (NP (DT The) (NN point))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (PP (IN for)
+              (NP (DT some) (NN debate)
+                (S
+                  (VP (TO to)
+                    (VP (VB take)
+                      (NP (NN place))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN hope))
+                          (PP (IN of)
+                            (S
+                              (VP (VBG producing)
+                                (NP
+                                  (NP (DT the)
+                                    (ADJP
+                                      (ADVP (RB sorely))
+                                      (VBN needed))
+                                    (NN vision))
+                                  (PP (IN of)
+                                    (NP (NN change))))))))))))))))))
+    (. .)))
+
+det(point-2, The-1)
+nsubj(is-3, point-2)
+xsubj(allow-5, point-2)
+root(ROOT-0, is-3)
+aux(allow-5, to-4)
+xcomp(is-3, allow-5)
+det(debate-8, some-7)
+prep_for(allow-5, debate-8)
+aux(take-10, to-9)
+infmod(debate-8, take-10)
+dobj(take-10, place-11)
+det(hope-14, the-13)
+prep_in(take-10, hope-14)
+prepc_of(hope-14, producing-16)
+det(vision-20, the-17)
+advmod(needed-19, sorely-18)
+amod(vision-20, needed-19)
+dobj(producing-16, vision-20)
+prep_of(vision-20, change-22)
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Assad))
+      (VP (VBZ wants)
+        (NP (NN nothing))
+        (ADVP (RBR more) (IN than))
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (NP
+                (NP (DT this) (NN affair))
+                (VP (VBN forgotten))))))))
+    (: --)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NNS proponents))
+        (PP (IN of)
+          (NP (NN dialogue))))
+      (VP (VBP think)
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (MD can)
+              (VP (VB give)
+                (NP (PRP him))
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (PRP he))
+                    (VP (VBZ wants)
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN hope))
+                          (PP (IN of)
+                            (S
+                              (VP (VBG breaking)
+                                (NP
+                                  (NP (NNP Syria) (POS 's))
+                                  (NN alliance))
+                                (PP (IN with)
+                                  (NP (NNP Iran)))))))))))))))))
+    (. .)))
+
+nsubj(wants-2, Assad-1)
+xsubj(see-7, Assad-1)
+root(ROOT-0, wants-2)
+dobj(wants-2, nothing-3)
+advmod(than-5, more-4)
+advmod(wants-2, than-5)
+aux(see-7, to-6)
+xcomp(wants-2, see-7)
+det(affair-9, this-8)
+dobj(see-7, affair-9)
+partmod(affair-9, forgotten-10)
+det(proponents-14, the-13)
+nsubj(think-17, proponents-14)
+prep_of(proponents-14, dialogue-16)
+conj_and(wants-2, think-17)
+complm(give-21, that-18)
+nsubj(give-21, they-19)
+aux(give-21, can-20)
+ccomp(think-17, give-21)
+dobj(give-21, him-22)
+dobj(wants-25, what-23)
+nsubj(wants-25, he-24)
+dep(give-21, wants-25)
+det(hope-28, the-27)
+prep_in(wants-25, hope-28)
+prepc_of(hope-28, breaking-30)
+poss(alliance-33, Syria-31)
+dobj(breaking-30, alliance-33)
+prep_with(breaking-30, Iran-35)
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ayman) (POS 's))
+      (NN father))
+    (ADVP (RB quietly))
+    (VP (VBZ says) (, ,) (`` ``)
+      (S
+        (NP (PRP$ My) (NNS children))
+        (VP (VBP are)
+          (NP (PRP$ my) (NN hope)))))
+    (. .) ('' '')))
+
+poss(father-3, Ayman-1)
+nsubj(says-5, father-3)
+advmod(says-5, quietly-4)
+root(ROOT-0, says-5)
+poss(children-9, My-8)
+nsubj(hope-12, children-9)
+cop(hope-12, are-10)
+poss(hope-12, my-11)
+ccomp(says-5, hope-12)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS children))
+      (PP (IN of)
+        (NP (NNP Gaza))))
+    (VP (VBP are)
+      (NP
+        (NP (DT a) (NN light))
+        (PP (IN in)
+          (NP (DT the) (NNS darkness)))))
+    (. .)))
+
+det(children-2, The-1)
+nsubj(light-7, children-2)
+prep_of(children-2, Gaza-4)
+cop(light-7, are-5)
+det(light-7, a-6)
+root(ROOT-0, light-7)
+det(darkness-10, the-9)
+prep_in(light-7, darkness-10)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP deserve)
+      (S
+        (NP (DT a) (NN chance))
+        (VP (TO to)
+          (VP (VB shine)))))
+    (. .)))
+
+nsubj(deserve-2, They-1)
+root(ROOT-0, deserve-2)
+det(chance-4, a-3)
+nsubj(shine-6, chance-4)
+aux(shine-6, to-5)
+xcomp(deserve-2, shine-6)
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (JJ private) (NNS borrowers))
+        (VP (VB default))))
+    (, ,)
+    (NP (NN bankruptcy) (NNS courts))
+    (VP (VBP supervise)
+      (NP
+        (NP (DT a) (NN bankruptcy)
+          (CC or)
+          (NN reorganization) (NN process))
+        (SBAR
+          (WHPP (IN through)
+            (WHNP (WDT which)))
+          (S
+            (NP (RB even) (JJ unsecured) (NNS creditors))
+            (VP (MD can)
+              (VP (VB hope)
+                (S
+                  (VP (TO to)
+                    (VP (VB recover)
+                      (NP (NN something)))))))))))
+    (. .)))
+
+advmod(default-4, When-1)
+amod(borrowers-3, private-2)
+nsubj(default-4, borrowers-3)
+advcl(supervise-8, default-4)
+nn(courts-7, bankruptcy-6)
+nsubj(supervise-8, courts-7)
+root(ROOT-0, supervise-8)
+det(process-13, a-9)
+nn(process-13, bankruptcy-10)
+conj_or(bankruptcy-10, reorganization-12)
+nn(process-13, reorganization-12)
+dobj(supervise-8, process-13)
+rel(hope-20, which-15)
+advmod(creditors-18, even-16)
+amod(creditors-18, unsecured-17)
+nsubj(hope-20, creditors-18)
+xsubj(recover-22, creditors-18)
+aux(hope-20, can-19)
+rcmod(process-13, hope-20)
+aux(recover-22, to-21)
+xcomp(hope-20, recover-22)
+dobj(recover-22, something-23)
+
+(ROOT
+  (S
+    (NP (NNP Serbia))
+    (VP (VBZ welcomes)
+      (S
+        (VP (VB delay)
+          (PP (IN in)
+            (NP (DT the) (NN hope)))
+          (SBAR (IN that)
+            (S
+              (NP (DT this))
+              (VP (MD will)
+                (VP (VB stimulate)
+                  (NP (NN violence))
+                  (PP (IN by)
+                    (NP (JJ frustrated) (NNS Kosovars)))))))
+          (, ,)
+          (S
+            (VP
+              (VP
+                (ADVP (RB thereby))
+                (VBG increasing)
+                (NP
+                  (NP
+                    (NP (NNP Europe) (POS 's))
+                    (NN opposition))
+                  (PP (TO to) (NN independence))))
+              (CC and)
+              (VP (VBG bolstering)
+                (NP
+                  (NP (NNP Serbia) (POS 's))
+                  (NN dedication))
+                (PP (TO to)
+                  (S
+                    (VP (VBG maintaining)
+                      (UCP
+                        (NP (DT the) (FW status) (FW quo))
+                        (, ,)
+                        (CC or)
+                        (PRN (, ,)
+                          (PP (IN as)
+                            (NP (DT a) (JJ last) (NN resort)))
+                          (, ,))
+                        (PP (TO to)
+                          (NP (JJ partitioning) (NNP Kosovo)))))))))))))
+    (. .)))
+
+nsubj(welcomes-2, Serbia-1)
+root(ROOT-0, welcomes-2)
+ccomp(welcomes-2, delay-3)
+det(hope-6, the-5)
+prep_in(delay-3, hope-6)
+complm(stimulate-10, that-7)
+nsubj(stimulate-10, this-8)
+aux(stimulate-10, will-9)
+ccomp(delay-3, stimulate-10)
+dobj(stimulate-10, violence-11)
+amod(Kosovars-14, frustrated-13)
+prep_by(stimulate-10, Kosovars-14)
+advmod(increasing-17, thereby-16)
+ccomp(delay-3, increasing-17)
+poss(opposition-20, Europe-18)
+dobj(increasing-17, opposition-20)
+prep(opposition-20, to-21)
+dep(to-21, independence-22)
+ccomp(delay-3, bolstering-24)
+conj_and(increasing-17, bolstering-24)
+poss(dedication-27, Serbia-25)
+dobj(bolstering-24, dedication-27)
+prepc_to(bolstering-24, maintaining-29)
+det(quo-32, the-30)
+nn(quo-32, status-31)
+dobj(maintaining-29, quo-32)
+dobj(maintaining-29, as-36)
+conj_or(quo-32, as-36)
+det(resort-39, a-37)
+amod(resort-39, last-38)
+pobj(as-36, resort-39)
+amod(Kosovo-43, partitioning-42)
+prep_to(as-36, Kosovo-43)
+
+(ROOT
+  (S
+    (NP (NNP Israel))
+    (VP (VBZ is)
+      (VP (VBG considering)
+        (NP
+          (NP (NNP Abbas) (POS 's))
+          (NN request)
+          (S
+            (VP (TO to)
+              (VP (VB transfer)
+                (NP (NNS arms)
+                  (CC and)
+                  (NNS ammunitions))
+                (PP (IN from)
+                  (NP (NNP Egypt)
+                    (CC and)
+                    (NNP Jordan)))
+                (PP (IN in)
+                  (NP
+                    (NP (NNS hopes))
+                    (PP (IN of)
+                      (S
+                        (VP (VBG bolstering)
+                          (NP (PRP$ his) (NN loyalist) (NNS forces)))))))))))))
+    (. .)))
+
+nsubj(considering-3, Israel-1)
+aux(considering-3, is-2)
+root(ROOT-0, considering-3)
+poss(request-6, Abbas-4)
+dobj(considering-3, request-6)
+aux(transfer-8, to-7)
+infmod(request-6, transfer-8)
+dobj(transfer-8, arms-9)
+dobj(transfer-8, ammunitions-11)
+conj_and(arms-9, ammunitions-11)
+prep_from(transfer-8, Egypt-13)
+prep_from(transfer-8, Jordan-15)
+conj_and(Egypt-13, Jordan-15)
+prep_in(transfer-8, hopes-17)
+prepc_of(hopes-17, bolstering-19)
+poss(forces-22, his-20)
+nn(forces-22, loyalist-21)
+dobj(bolstering-19, forces-22)
+

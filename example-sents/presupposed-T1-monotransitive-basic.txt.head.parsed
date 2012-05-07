@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN success))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (`` ``) (NN balance))
+          (PP (IN of)
+            (NP (NN terror)))))
+      ('' ''))
+    (VP (VBD presupposed)
+      (NP
+        (NP (DT a) (NN mixture))
+        (PP (IN of)
+          (NP (NN confrontation)
+            (CC and)
+            (NN dialogue))))
+      (PP (IN between)
+        (NP
+          (NP (CD two))
+          (`` ``)
+          (NP (JJ rational) (NNS actors)))))
+    (. .) ('' '')))
+
+det(success-2, The-1)
+nsubj(presupposed-10, success-2)
+det(balance-6, the-4)
+prep_of(success-2, balance-6)
+prep_of(balance-6, terror-8)
+root(ROOT-0, presupposed-10)
+det(mixture-12, a-11)
+dobj(presupposed-10, mixture-12)
+prep_of(mixture-12, confrontation-14)
+prep_of(mixture-12, dialogue-16)
+conj_and(confrontation-14, dialogue-16)
+prep_between(presupposed-10, two-18)
+amod(actors-21, rational-20)
+dep(two-18, actors-21)
+

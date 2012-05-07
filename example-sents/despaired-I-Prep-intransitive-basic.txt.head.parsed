@@ -1,0 +1,75 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD despaired)
+      (PRT (RP over))
+      (SBAR
+        (WHADVP (WRB how) (RB long))
+        (S
+          (NP (PRP it))
+          (VP (MD would)
+            (VP (VB take)
+              (S
+                (VP (TO to)
+                  (VP (VB build)
+                    (NP
+                      (NP (DT the) (NN infrastructure))
+                      (VP (VBN needed)
+                        (PP (IN for)
+                          (NP (JJ Estonian) (NNS businesses)))
+                        (S
+                          (VP (TO to)
+                            (VP (VB compete)
+                              (ADVP (RB internationally)))))))))))))))
+    (. .)))
+
+nsubj(despaired-2, I-1)
+root(ROOT-0, despaired-2)
+prt(despaired-2, over-3)
+advmod(long-5, how-4)
+advmod(take-8, long-5)
+nsubj(take-8, it-6)
+xsubj(build-10, it-6)
+aux(take-8, would-7)
+ccomp(despaired-2, take-8)
+aux(build-10, to-9)
+xcomp(take-8, build-10)
+det(infrastructure-12, the-11)
+dobj(build-10, infrastructure-12)
+xsubj(compete-18, infrastructure-12)
+partmod(infrastructure-12, needed-13)
+amod(businesses-16, Estonian-15)
+prep_for(needed-13, businesses-16)
+aux(compete-18, to-17)
+xcomp(needed-13, compete-18)
+advmod(compete-18, internationally-19)
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Long) (NNPS Marchers))
+    (VP
+      (VP (VBD persevered))
+      (, ,)
+      (VP (VBD fought))
+      (, ,)
+      (VP (VBZ starved))
+      (, ,)
+      (VP (VBD despaired))
+      (, ,)
+      (CC and)
+      (VP (VBD endured)))
+    (. .)))
+
+det(Marchers-3, The-1)
+nn(Marchers-3, Long-2)
+nsubj(persevered-4, Marchers-3)
+nsubj(fought-6, Marchers-3)
+nsubj(starved-8, Marchers-3)
+nsubj(despaired-10, Marchers-3)
+nsubj(endured-13, Marchers-3)
+root(ROOT-0, persevered-4)
+conj_and(persevered-4, fought-6)
+conj_and(persevered-4, starved-8)
+conj_and(persevered-4, despaired-10)
+conj_and(persevered-4, endured-13)
+

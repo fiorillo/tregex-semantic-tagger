@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (ADVP (RB Finally))
+    (, ,)
+    (NP (DT the) (CD 1992) (NN agreement))
+    (VP (VBZ authorizes)
+      (NP
+        (NP
+          (NP (RB only) (VBG monitoring))
+          (PP (IN of)
+            (NP (JJ internal) (NNS tensions))))
+        (, ,) (RB not)
+        (NP
+          (NP (JJ massive) (NN use))
+          (PP (IN of)
+            (NP (JJ military) (NN force))))))
+    (. .)))
+
+advmod(authorizes-6, Finally-1)
+det(agreement-5, the-3)
+num(agreement-5, 1992-4)
+nsubj(authorizes-6, agreement-5)
+root(ROOT-0, authorizes-6)
+dobj(authorizes-6, only-7)
+amod(only-7, monitoring-8)
+amod(tensions-11, internal-10)
+prep_of(only-7, tensions-11)
+neg(only-7, not-13)
+amod(use-15, massive-14)
+dep(only-7, use-15)
+amod(force-18, military-17)
+prep_of(use-15, force-18)
+

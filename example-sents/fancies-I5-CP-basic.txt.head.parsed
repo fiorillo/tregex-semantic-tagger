@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (PP (RB Even) (IN in)
+      (NP
+        (NP (DT the) (NNP US))
+        (, ,)
+        (NP
+          (NP (DT a) (NN country))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ fancies)
+                (NP (PRP itself))
+                (PP (IN as)
+                  (NP
+                    (NP (DT a) (NN model))
+                    (PP (IN of)
+                      (NP (NN democracy)))))))))))
+    (, ,)
+    (NP (NNPS African-Americans))
+    (VP (VBD were) (RB not)
+      (ADJP (RB truly) (JJ enfranchised)
+        (PP (IN until)
+          (NP (DT the) (NN mid-1960) (POS 's)))))
+    (. .)))
+
+advmod(enfranchised-21, Even-1)
+advcl(enfranchised-21, in-2)
+det(US-4, the-3)
+prep_in(enfranchised-21, US-4)
+det(country-7, a-6)
+appos(US-4, country-7)
+nsubj(fancies-9, country-7)
+rcmod(country-7, fancies-9)
+dobj(fancies-9, itself-10)
+det(model-13, a-12)
+prep_as(fancies-9, model-13)
+prep_of(model-13, democracy-15)
+nsubj(enfranchised-21, African-Americans-17)
+cop(enfranchised-21, were-18)
+neg(enfranchised-21, not-19)
+advmod(enfranchised-21, truly-20)
+root(ROOT-0, enfranchised-21)
+det(mid-1960-24, the-23)
+prep_until(enfranchised-21, mid-1960-24)
+possessive(mid-1960-24, 's-25)
+

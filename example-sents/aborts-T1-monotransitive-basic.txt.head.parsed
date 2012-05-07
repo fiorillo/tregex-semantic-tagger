@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT Each) (NN fetus))
+      (PRN (: --)
+        (NP
+          (NP (DT the) (NN one))
+          (SBAR
+            (S
+              (NP (PRP she))
+              (VP
+                (VP (VBZ aborts))
+                (CC and)
+                (VP
+                  (NP
+                    (NP (DT the) (NN one))
+                    (SBAR
+                      (S
+                        (NP (PRP she))
+                        (ADVP (RB later))
+                        (VP (VBZ conceives)
+                          (PP (IN through)
+                            (NP (JJ sexual) (NN intercourse))))))))))))
+        (: --)))
+    (VP (VBZ has)
+      (NP (PRP$ its) (JJ own) (`` ``) (JJ unique) ('' '') (NN DNA)))
+    (. .)))
+
+det(fetus-2, Each-1)
+nsubj(has-18, fetus-2)
+det(one-5, the-4)
+dep(fetus-2, one-5)
+nsubj(aborts-7, she-6)
+rcmod(one-5, aborts-7)
+det(one-10, the-9)
+rcmod(one-5, one-10)
+conj_and(aborts-7, one-10)
+dobj(conceives-13, one-10)
+nsubj(conceives-13, she-11)
+advmod(conceives-13, later-12)
+rcmod(one-10, conceives-13)
+amod(intercourse-16, sexual-15)
+prep_through(conceives-13, intercourse-16)
+root(ROOT-0, has-18)
+poss(DNA-24, its-19)
+amod(DNA-24, own-20)
+amod(DNA-24, unique-22)
+dobj(has-18, DNA-24)
+

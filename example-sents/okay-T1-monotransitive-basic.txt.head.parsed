@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (ADVP (RB Actually))
+    (, ,)
+    (NP (PRP they))
+    (VP (MD would)
+      (ADVP (RB probably))
+      (VP (VB feel)
+        (ADJP (JJ okay))))
+    (. .)))
+
+advmod(feel-6, Actually-1)
+nsubj(feel-6, they-3)
+aux(feel-6, would-4)
+advmod(feel-6, probably-5)
+root(ROOT-0, feel-6)
+acomp(feel-6, okay-7)
+

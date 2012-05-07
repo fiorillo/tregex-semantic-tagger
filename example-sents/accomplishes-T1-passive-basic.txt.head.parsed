@@ -1,0 +1,83 @@
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (NN principle)))
+      (, ,)
+      (NP (PRP one))
+      (VP (MD can)
+        (VP (VB create)
+          (NP
+            (NP (DT a) (`` ``) (JJ cap-and-trade) ('' '') (NN system))
+            (PP (IN of)
+              (NP (JJ quantitative) (NNS restrictions)))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ accomplishes)
+                  (NP (RB much) (DT the) (JJ same) (NN thing)))))))))
+    (: --)
+    (CC and)
+    (S
+      (NP (DT this))
+      (VP (VBZ seems)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (RBR more) (JJ palatable)
+                (PP (TO to)
+                  (NP
+                    (NP (NNS politicians))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (MD will)
+                          (VP (VB jump)
+                            (PP (IN through)
+                              (NP (NNS hoops)))
+                            (S
+                              (VP (TO to)
+                                (VP (VB avoid)
+                                  (S
+                                    (VP (VBG using)
+                                      (S
+                                        (NP (DT the) (NN word))
+                                        (`` ``)
+                                        (NP (NN tax))))))))))))))))))))
+    (. .) ('' '')))
+
+prep_in(create-6, principle-2)
+nsubj(create-6, one-4)
+aux(create-6, can-5)
+root(ROOT-0, create-6)
+det(system-11, a-7)
+amod(system-11, cap-and-trade-9)
+dobj(create-6, system-11)
+nsubj(accomplishes-16, system-11)
+amod(restrictions-14, quantitative-13)
+prep_of(system-11, restrictions-14)
+rcmod(system-11, accomplishes-16)
+advmod(thing-20, much-17)
+det(thing-20, the-18)
+amod(thing-20, same-19)
+dobj(accomplishes-16, thing-20)
+nsubj(seems-24, this-23)
+xsubj(palatable-28, this-23)
+conj_and(create-6, seems-24)
+aux(palatable-28, to-25)
+cop(palatable-28, be-26)
+advmod(palatable-28, more-27)
+xcomp(seems-24, palatable-28)
+prep_to(palatable-28, politicians-30)
+nsubj(jump-34, politicians-30)
+aux(jump-34, will-33)
+rcmod(politicians-30, jump-34)
+prep_through(jump-34, hoops-36)
+aux(avoid-38, to-37)
+xcomp(jump-34, avoid-38)
+xcomp(avoid-38, using-39)
+det(word-41, the-40)
+dep(tax-43, word-41)
+dep(using-39, tax-43)
+

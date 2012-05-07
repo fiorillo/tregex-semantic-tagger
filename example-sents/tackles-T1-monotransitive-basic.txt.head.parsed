@@ -1,0 +1,353 @@
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Coming) (NNP Global) (NNP Energy) (NNP Revolution))
+      (VP (VBZ PARIS)))
+    (: --)
+    (S
+      (NP
+        (NP (NNP Humanity) (POS 's))
+        (NN future))
+      (, ,)
+      (S
+        (VP (TO to)
+          (VP (VB say)
+            (NP
+              (NP (NN nothing))
+              (PP (IN of)
+                (NP (PRP$ its) (NN prosperity)))))))
+      (, ,)
+      (VP (MD will)
+        (VP (VB depend)
+          (PP (IN on)
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (DT the) (NN world))
+                (VP (VBZ tackles)
+                  (NP
+                    (NP (CD two) (JJ central) (NN energy) (NNS challenges))
+                    (: :)
+                    (S
+                      (S
+                        (VP (VBG securing)
+                          (NP
+                            (NP (JJ reliable) (NNS supplies))
+                            (PP (IN of)
+                              (NP (JJ affordable) (NN energy))))))
+                      (, ,)
+                      (CC and)
+                      (S
+                        (VP (VBG switching)
+                          (PP (TO to)
+                            (NP (JJ efficient) (JJ low-carbon) (NN energy))))))))))))))
+    (. .)))
+
+det(Revolution-5, The-1)
+nn(Revolution-5, Coming-2)
+nn(Revolution-5, Global-3)
+nn(Revolution-5, Energy-4)
+nsubj(PARIS-6, Revolution-5)
+root(ROOT-0, PARIS-6)
+poss(future-10, Humanity-8)
+nsubj(depend-20, future-10)
+aux(say-13, to-12)
+dep(depend-20, say-13)
+dobj(say-13, nothing-14)
+poss(prosperity-17, its-16)
+prep_of(nothing-14, prosperity-17)
+aux(depend-20, will-19)
+parataxis(PARIS-6, depend-20)
+advmod(tackles-25, how-22)
+det(world-24, the-23)
+nsubj(tackles-25, world-24)
+prepc_on(depend-20, tackles-25)
+num(challenges-29, two-26)
+amod(challenges-29, central-27)
+nn(challenges-29, energy-28)
+dobj(tackles-25, challenges-29)
+dep(challenges-29, securing-31)
+amod(supplies-33, reliable-32)
+dobj(securing-31, supplies-33)
+amod(energy-36, affordable-35)
+prep_of(supplies-33, energy-36)
+dep(challenges-29, switching-39)
+conj_and(securing-31, switching-39)
+amod(energy-43, efficient-41)
+amod(energy-43, low-carbon-42)
+prep_to(switching-39, energy-43)
+
+(ROOT
+  (S
+    (NP
+      (NP (PDT Such) (DT a))
+      (VP (VBN reformed)
+        (NP
+          (NP (NN right) (POS 's))
+          (NN opposition))
+        (PP (TO to)
+          (NP (NNP Bachelet)))))
+    (VP (MD will)
+      (ADVP (RB probably))
+      (VP (VB focus)
+        (PP (IN on)
+          (NP (PRP$ her) (NNS efforts)
+            (S
+              (VP (TO to)
+                (VP (VB modify)
+                  (NP
+                    (NP (DT the) (NN country) (POS 's))
+                    (JJ neo-liberal) (NN model))
+                  (SBAR (IN as)
+                    (S
+                      (NP (PRP she))
+                      (VP (VBZ tackles)
+                        (NP
+                          (NP
+                            (NP (DT the) (NN country) (POS 's))
+                            (JJ persistent) (NNS knots))
+                          (PP (IN of)
+                            (NP (NN poverty)
+                              (CC and)
+                              (NN inequality))))))))))))))
+    (. .)))
+
+predet(a-2, Such-1)
+nsubj(focus-11, a-2)
+partmod(a-2, reformed-3)
+poss(opposition-6, right-4)
+dobj(reformed-3, opposition-6)
+prep_to(reformed-3, Bachelet-8)
+aux(focus-11, will-9)
+advmod(focus-11, probably-10)
+root(ROOT-0, focus-11)
+poss(efforts-14, her-13)
+prep_on(focus-11, efforts-14)
+aux(modify-16, to-15)
+infmod(efforts-14, modify-16)
+det(country-18, the-17)
+poss(model-21, country-18)
+amod(model-21, neo-liberal-20)
+dobj(modify-16, model-21)
+mark(tackles-24, as-22)
+nsubj(tackles-24, she-23)
+advcl(modify-16, tackles-24)
+det(country-26, the-25)
+poss(knots-29, country-26)
+amod(knots-29, persistent-28)
+dobj(tackles-24, knots-29)
+prep_of(knots-29, poverty-31)
+prep_of(knots-29, inequality-33)
+conj_and(poverty-31, inequality-33)
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (NN group))
+      (PP (IN of)
+        (NP
+          (NP (NNP respected) (NNPS Israelis)
+            (CC and)
+            (NNPS Palestinians))
+          (, ,)
+          (NP (DT the) (NNP Geneva) (NNP Group))
+          (, ,))))
+    (ADVP (RB even))
+    (VP (VBD drew)
+      (PRT (RP up))
+      (NP
+        (NP
+          (NP (DT a) (NN peace) (NN plan))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBZ tackles)
+                (NP (DT every) (JJ possible) (NN negotiating) (NN point))
+                (ADVP (RB honestly))))))
+        (CC and)
+        (ADVP (RB fairly))))
+    (. .)))
+
+num(group-2, One-1)
+nsubj(drew-14, group-2)
+nn(Israelis-5, respected-4)
+prep_of(group-2, Israelis-5)
+prep_of(group-2, Palestinians-7)
+conj_and(Israelis-5, Palestinians-7)
+det(Group-11, the-9)
+nn(Group-11, Geneva-10)
+appos(Israelis-5, Group-11)
+advmod(drew-14, even-13)
+root(ROOT-0, drew-14)
+prt(drew-14, up-15)
+det(plan-18, a-16)
+nn(plan-18, peace-17)
+dobj(drew-14, plan-18)
+nsubj(tackles-20, plan-18)
+rcmod(plan-18, tackles-20)
+det(point-24, every-21)
+amod(point-24, possible-22)
+nn(point-24, negotiating-23)
+dobj(tackles-20, point-24)
+advmod(tackles-20, honestly-25)
+dobj(drew-14, fairly-27)
+advmod(plan-18, fairly-27)
+conj_and(plan-18, fairly-27)
+nsubj(tackles-20, fairly-27)
+
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP
+        (NP (DT the) (CD 709)
+          (ADJP (RB randomly) (VBN selected))
+          (NNS Palestinians))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD were)
+              (VP (VBN surveyed)))))))
+    (, ,)
+    (NP (CD 30) (NN %))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP hope)
+            (SBAR
+              (S
+                (NP (DT the) (JJ new) (NNP Hamas) (NN government))
+                (VP (VBZ tackles)
+                  (NP (NN corruption)))))))))
+    (. .)))
+
+det(Palestinians-6, the-2)
+num(Palestinians-6, 709-3)
+advmod(selected-5, randomly-4)
+amod(Palestinians-6, selected-5)
+nsubjpass(surveyed-9, Palestinians-6)
+prep_of(said-13, Palestinians-6)
+auxpass(surveyed-9, were-8)
+rcmod(Palestinians-6, surveyed-9)
+num(%-12, 30-11)
+nsubj(said-13, %-12)
+root(ROOT-0, said-13)
+complm(hope-16, that-14)
+nsubj(hope-16, they-15)
+ccomp(said-13, hope-16)
+det(government-20, the-17)
+amod(government-20, new-18)
+nn(government-20, Hamas-19)
+nsubj(tackles-21, government-20)
+ccomp(hope-16, tackles-21)
+dobj(tackles-21, corruption-22)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Parfit) (POS 's))
+        (ADJP (RB entirely) (JJ secular))
+        (NNS arguments))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (DT the) (JJ comprehensive) (NN way))
+        (SBAR
+          (WHPP (IN in)
+            (WHNP (WDT which)))
+          (S
+            (NP (PRP he))
+            (VP (VBZ tackles)
+              (NP (JJ alternative) (NNS positions))))))
+      (, ,))
+    (VP (VBP have)
+      (VP (, ,)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (JJ first) (NN time))
+            (PP (IN in)
+              (NP (NNS decades)))))
+        (, ,) (VBD put)
+        (NP
+          (NP (DT those))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP reject)
+                (NP (NN objectivism))
+                (PP (IN in)
+                  (NP
+                    (NP (NNS ethics))
+                    (PP (IN on)
+                      (NP (DT the) (NN defensive)))))))))))
+    (. .)))
+
+poss(arguments-5, Parfit-1)
+advmod(secular-4, entirely-3)
+amod(arguments-5, secular-4)
+nsubj(put-27, arguments-5)
+det(way-10, the-8)
+amod(way-10, comprehensive-9)
+conj_and(arguments-5, way-10)
+nsubj(put-27, way-10)
+rel(tackles-14, which-12)
+nsubj(tackles-14, he-13)
+rcmod(way-10, tackles-14)
+amod(positions-16, alternative-15)
+dobj(tackles-14, positions-16)
+aux(put-27, have-18)
+det(time-23, the-21)
+amod(time-23, first-22)
+prep_for(put-27, time-23)
+prep_in(time-23, decades-25)
+root(ROOT-0, put-27)
+dobj(put-27, those-28)
+nsubj(reject-30, those-28)
+rcmod(those-28, reject-30)
+dobj(reject-30, objectivism-31)
+prep_in(reject-30, ethics-33)
+det(defensive-36, the-35)
+prep_on(ethics-33, defensive-36)
+
+(ROOT
+  (S
+    (ADVP (RB Thus))
+    (, ,)
+    (NP
+      (NP (DT an) (JJ economic) (NN policy))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBZ tackles)
+            (NP
+              (NP (NNP America) (POS 's))
+              (NN debt)
+              (CC and)
+              (NN deficit))))))
+    (VP (VBZ makes)
+      (PRT (RP up))
+      (NP
+        (NP (DT the) (JJ main) (NN portion))
+        (PP (IN of)
+          (NP (DT the) (NN Strategy)))))
+    (. .)))
+
+advmod(makes-13, Thus-1)
+det(policy-5, an-3)
+amod(policy-5, economic-4)
+nsubj(tackles-7, policy-5)
+nsubj(makes-13, policy-5)
+rcmod(policy-5, tackles-7)
+poss(debt-10, America-8)
+dobj(tackles-7, debt-10)
+dobj(tackles-7, deficit-12)
+conj_and(debt-10, deficit-12)
+root(ROOT-0, makes-13)
+prt(makes-13, up-14)
+det(portion-17, the-15)
+amod(portion-17, main-16)
+dobj(makes-13, portion-17)
+det(Strategy-20, the-19)
+prep_of(portion-17, Strategy-20)
+

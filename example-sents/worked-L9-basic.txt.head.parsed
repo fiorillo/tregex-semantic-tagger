@@ -1,0 +1,538 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP Force))
+      (VP (VBZ has)
+        (ADVP (RB never))
+        (VP (VBN worked)
+          (PP (IN with)
+            (NP (DT the) (NNP Pashtun) (NNS tribes))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP (VBZ is)
+        (NP (DT no) (NN evidence))
+        (SBAR (IN that)
+          (S
+            (NP (DT this))
+            (VP (VBZ has)
+              (VP (VBN changed)))))))
+    (. .)))
+
+nsubj(worked-4, Force-1)
+aux(worked-4, has-2)
+neg(worked-4, never-3)
+root(ROOT-0, worked-4)
+det(tribes-8, the-6)
+nn(tribes-8, Pashtun-7)
+prep_with(worked-4, tribes-8)
+expl(is-12, there-11)
+conj_and(worked-4, is-12)
+det(evidence-14, no-13)
+nsubj(is-12, evidence-14)
+complm(changed-18, that-15)
+nsubj(changed-18, this-16)
+aux(changed-18, has-17)
+ccomp(is-12, changed-18)
+
+(ROOT
+  (S (CC But)
+    (NP (DT this) (JJ inside) (NN knowledge))
+    (ADVP (RB also))
+    (VP (VBD worked)
+      (PP (IN against)
+        (NP (DT the) (NNS militants)))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (PRP it))
+          (VP (VBD demonstrated)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (VP (VBD was)
+                  (PP (IN at)
+                    (NP
+                      (NP (NN stake))
+                      (PP (IN for)
+                        (NP
+                          (NP (DT the) (NN country))
+                          (PP (IN at)
+                            (NP (JJ large))))))))))))))
+    (. .)))
+
+cc(worked-6, But-1)
+det(knowledge-4, this-2)
+amod(knowledge-4, inside-3)
+nsubj(worked-6, knowledge-4)
+advmod(worked-6, also-5)
+root(ROOT-0, worked-6)
+det(militants-9, the-8)
+prep_against(worked-6, militants-9)
+mark(demonstrated-13, because-11)
+nsubj(demonstrated-13, it-12)
+advcl(worked-6, demonstrated-13)
+nsubj(was-15, what-14)
+ccomp(demonstrated-13, was-15)
+prep_at(was-15, stake-17)
+det(country-20, the-19)
+prep_for(stake-17, country-20)
+prep_at(country-20, large-22)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Many) (NNS militants))
+        (PP (IN in)
+          (NP (NNP Punjab))))
+      (VP (VBD worked)
+        (ADVP (RB closely))
+        (PP (IN with)
+          (NP
+            (NP (DT the) (JJ Pakistani) (NN intelligence) (NNS services))
+            (PP (IN for)
+              (NP (NNS years)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP$ their) (NN infrastructure))
+      (VP (VBZ is)
+        (VP (VBN dispersed)
+          (CC and)
+          (VBN hidden)
+          (PP (IN in)
+            (NP (JJ various) (NNS towns)
+              (CC and)
+              (NNS villages))))))
+    (. .)))
+
+amod(militants-2, Many-1)
+nsubj(worked-5, militants-2)
+prep_in(militants-2, Punjab-4)
+root(ROOT-0, worked-5)
+advmod(worked-5, closely-6)
+det(services-11, the-8)
+amod(services-11, Pakistani-9)
+nn(services-11, intelligence-10)
+prep_with(worked-5, services-11)
+prep_for(services-11, years-13)
+poss(infrastructure-17, their-16)
+nsubjpass(dispersed-19, infrastructure-17)
+nsubjpass(hidden-21, infrastructure-17)
+auxpass(dispersed-19, is-18)
+conj_and(worked-5, dispersed-19)
+conj_and(worked-5, hidden-21)
+conj_and(dispersed-19, hidden-21)
+amod(towns-24, various-23)
+prep_in(dispersed-19, towns-24)
+prep_in(dispersed-19, villages-26)
+conj_and(towns-24, villages-26)
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (ADVP (IN at) (JJS least))
+        (DT the) (JJ next) (CD two) (NNS months)))
+    (, ,)
+    (NP (DT the) (NNP United) (NNPS Nations) (NNP Security) (NNP Council))
+    (VP (MD will)
+      (VP (VB debate)
+        (NP (DT a) (NN blueprint))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (NNP Kosovo) (POS 's))
+              (NN future))
+            (, ,)
+            (VP
+              (ADVP (RB arduously))
+              (VBN worked)
+              (PRT (RP out))
+              (PP (IN during)
+                (NP
+                  (NP (DT a) (NN year))
+                  (PP (IN of)
+                    (NP (`` ``)
+                      (NP (NNS negotiations))
+                      ('' '')
+                      (PP (IN between)
+                        (NP
+                          (NP (DT the) (NNS governments))
+                          (PP (IN in)
+                            (NP (NNP Belgrade)
+                              (CC and)
+                              (NNP Pristina)))))))))
+              (PP (IN by)
+                (NP
+                  (NP (NNP UN) (NNP envoy))
+                  (CC and)
+                  (NP (JJ former) (JJ Finnish) (NN president) (NNP Martti) (NNP Ahtisaari)))))))))
+    (. .)))
+
+advmod(months-7, at-2)
+pobj(at-2, least-3)
+det(months-7, the-4)
+amod(months-7, next-5)
+num(months-7, two-6)
+prep_for(debate-15, months-7)
+det(Council-13, the-9)
+nn(Council-13, United-10)
+nn(Council-13, Nations-11)
+nn(Council-13, Security-12)
+nsubj(debate-15, Council-13)
+aux(debate-15, will-14)
+root(ROOT-0, debate-15)
+det(blueprint-17, a-16)
+dobj(debate-15, blueprint-17)
+poss(future-21, Kosovo-19)
+prep_for(debate-15, future-21)
+advmod(worked-24, arduously-23)
+partmod(future-21, worked-24)
+prt(worked-24, out-25)
+det(year-28, a-27)
+prep_during(worked-24, year-28)
+prep_of(year-28, negotiations-31)
+det(governments-35, the-34)
+prep_between(negotiations-31, governments-35)
+prep_in(governments-35, Belgrade-37)
+prep_in(governments-35, Pristina-39)
+conj_and(Belgrade-37, Pristina-39)
+nn(envoy-42, UN-41)
+agent(worked-24, envoy-42)
+amod(Ahtisaari-48, former-44)
+amod(Ahtisaari-48, Finnish-45)
+nn(Ahtisaari-48, president-46)
+nn(Ahtisaari-48, Martti-47)
+agent(worked-24, Ahtisaari-48)
+conj_and(envoy-42, Ahtisaari-48)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP
+          (NP (DT A) (JJ close) (NN look))
+          (PP (IN at)
+            (NP (NN productivity) (NN growth))))
+        (PRN (-LRB- -LRB-)
+          (NP
+            (NP (NN output))
+            (PP (IN per)
+              (NP (NN hour)))
+            (VP (VBN worked)))
+          (-RRB- -RRB-)))
+      (PP (IN in)
+        (NP (DT the) (NNP US)
+          (CC and)
+          (NNP Europe))))
+    (VP (VBZ shows)
+      (SBAR (IN that)
+        (S
+          (NP (NNP US) (NN capitalism))
+          (VP (VBZ remains)
+            (ADJP (RB as) (JJ vital)
+              (PP (IN than)
+                (ADVP (RB ever))))))))
+    (. .)))
+
+det(look-3, A-1)
+amod(look-3, close-2)
+nsubj(shows-18, look-3)
+nn(growth-6, productivity-5)
+prep_at(look-3, growth-6)
+dep(look-3, output-8)
+prep_per(output-8, hour-10)
+partmod(output-8, worked-11)
+det(US-15, the-14)
+prep_in(look-3, US-15)
+prep_in(look-3, Europe-17)
+conj_and(US-15, Europe-17)
+root(ROOT-0, shows-18)
+complm(vital-24, that-19)
+nn(capitalism-21, US-20)
+nsubj(vital-24, capitalism-21)
+cop(vital-24, remains-22)
+advmod(vital-24, as-23)
+ccomp(shows-18, vital-24)
+prep(vital-24, than-25)
+pcomp(than-25, ever-26)
+
+(ROOT
+  (S
+    (NP (CD Six) (NNP OECD) (NNS countries))
+    (VP (VBP do)
+      (FRAG
+        (ADVP
+          (ADVP (RBR better))
+          (PP (IN than)
+            (NP
+              (NP (NNP America))
+              (PP (IN in)
+                (NP
+                  (NP (NNS terms))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN output))
+                      (PP (IN per)
+                        (NP (NN hour))))))))))
+        (ADJP (VBN worked))
+        (: :)
+        (NP
+          (NP (NNP Norway) (, ,) (NNP Belgium) (, ,) (NNP France) (, ,) (NNP Ireland))
+          (, ,)
+          (NP (DT the) (NNP Netherlands))
+          (, ,)
+          (CC and)
+          (NP (NNP Germany)))))
+    (. .)))
+
+num(countries-3, Six-1)
+nn(countries-3, OECD-2)
+nsubj(do-4, countries-3)
+root(ROOT-0, do-4)
+dep(Ireland-22, better-5)
+prep_than(better-5, America-7)
+prep_in(America-7, terms-9)
+prep_of(terms-9, output-11)
+prep_per(output-11, hour-13)
+dep(Ireland-22, worked-14)
+nn(Ireland-22, Norway-16)
+appos(Ireland-22, Belgium-18)
+appos(Ireland-22, France-20)
+dep(do-4, Ireland-22)
+det(Netherlands-25, the-24)
+dep(do-4, Netherlands-25)
+conj_and(Ireland-22, Netherlands-25)
+dep(do-4, Germany-28)
+conj_and(Ireland-22, Germany-28)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN reason))
+      (PP (IN for)
+        (S
+          (VP (VBG examining)
+            (NP
+              (NP
+                (NP (NN output))
+                (PP (IN per)
+                  (NP (NN person))))
+              (CONJP (RB rather) (IN than))
+              (NP
+                (NP (NN output))
+                (PP (IN per)
+                  (NP (NN hour)))))))))
+    (VP (VBD worked)
+      (SBAR
+        (S
+          (VP (VBZ is)
+            (ADJP (JJ simple))
+            (: :)
+            (SBAR
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (VP (VBZ determines)
+                    (SBAR
+                      (S
+                        (NP
+                          (NP (DT a) (NN nation) (POS 's))
+                          (NN wealth))
+                        (VP (VBZ is)
+                          (SBAR
+                            (WHADVP (WRB how) (RB much))
+                            (S
+                              (NP (DT each) (NN person))
+                              (VP (VBZ works))))))))))
+              (, ,)
+              (CC and)
+              (SBAR
+                (WHNP
+                  (WHADJP (WRB how) (JJ many))
+                  (NNS people))
+                (S
+                  (VP (VBP work)))))))))
+    (. .)))
+
+det(reason-2, The-1)
+nsubj(worked-13, reason-2)
+prepc_for(reason-2, examining-4)
+dobj(examining-4, output-5)
+prep_per(output-5, person-7)
+dobj(examining-4, output-10)
+conj_negcc(output-5, output-10)
+prep_per(output-10, hour-12)
+root(ROOT-0, worked-13)
+cop(simple-15, is-14)
+ccomp(worked-13, simple-15)
+nsubj(determines-18, what-17)
+parataxis(simple-15, determines-18)
+det(nation-20, a-19)
+poss(wealth-22, nation-20)
+nsubj(is-23, wealth-22)
+ccomp(determines-18, is-23)
+advmod(much-25, how-24)
+advmod(works-28, much-25)
+det(person-27, each-26)
+nsubj(works-28, person-27)
+ccomp(is-23, works-28)
+advmod(many-32, how-31)
+amod(people-33, many-32)
+nsubj(work-34, people-33)
+parataxis(simple-15, work-34)
+conj_and(determines-18, work-34)
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Annual) (NNS hours))
+      (VP (VBN worked)
+        (PP (IN in)
+          (NP (DT the) (NNP US)))))
+    (VP (VBP are)
+      (NP
+        (NP
+          (QP (RB about) (CD 1800)))
+        (, ,)
+        (NP
+          (NP
+            (NP
+              (QP (RB about) (CD 1500)))
+            (PP (IN in)
+              (NP (NNP France))))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (CD 1400))
+            (PP (IN in)
+              (NP (NNP Germany)))))))
+    (. .)))
+
+amod(hours-2, Annual-1)
+nsubj(1800-9, hours-2)
+partmod(hours-2, worked-3)
+det(US-6, the-5)
+prep_in(worked-3, US-6)
+cop(1800-9, are-7)
+quantmod(1800-9, about-8)
+root(ROOT-0, 1800-9)
+quantmod(1500-12, about-11)
+appos(1800-9, 1500-12)
+prep_in(1500-12, France-14)
+appos(1800-9, 1400-17)
+conj_and(1500-12, 1400-17)
+prep_in(1400-17, Germany-19)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ Maastricht) (NN convergence) (NNS criteria))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBN led)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN euro) (POS 's))
+                (NN creation)))))))
+    (VP
+      (VP (VBD worked)
+        (SBAR (IN because)
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (VP (VBN imposed)
+                (PP (IN by)
+                  (NP (DT a) (JJ multinational) (NN agreement))))))))
+      (CC and)
+      (VP (VBD were)
+        (VP (VBN monitored)
+          (ADVP (RB multinationally)))))
+    (. .)))
+
+det(criteria-4, The-1)
+amod(criteria-4, Maastricht-2)
+nn(criteria-4, convergence-3)
+nsubj(led-6, criteria-4)
+nsubj(worked-12, criteria-4)
+nsubjpass(monitored-23, criteria-4)
+rcmod(criteria-4, led-6)
+det(euro-9, the-8)
+poss(creation-11, euro-9)
+prep_to(led-6, creation-11)
+root(ROOT-0, worked-12)
+mark(imposed-16, because-13)
+nsubjpass(imposed-16, they-14)
+auxpass(imposed-16, were-15)
+advcl(worked-12, imposed-16)
+det(agreement-20, a-18)
+amod(agreement-20, multinational-19)
+agent(imposed-16, agreement-20)
+auxpass(monitored-23, were-22)
+conj_and(worked-12, monitored-23)
+advmod(monitored-23, multinationally-24)
+
+(ROOT
+  (S
+    (ADVP (RB Currently))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ average) (NN number))
+      (PP (IN of)
+        (NP
+          (NP (NNS hours))
+          (VP (VBN worked)
+            (PP (IN per)
+              (NP
+                (NP (NN person))
+                (VP (VBN aged)
+                  (NP
+                    (QP (CD 15) (TO to) (CD 25)))
+                  (NP (DT each) (NN year))
+                  (PP (IN in)
+                    (NP (NNP France)
+                      (CC and)
+                      (NNP Germany))))))))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP
+          (NP
+            (QP (RB about) (CD 50))
+            (NN %))
+          (JJR lower))
+        (PP (IN than)
+          (PP (IN in)
+            (NP (DT the) (NNP United) (NNPS States))))))
+    (. .)))
+
+advmod(lower-25, Currently-1)
+det(number-5, the-3)
+amod(number-5, average-4)
+nsubj(lower-25, number-5)
+prep_of(number-5, hours-7)
+partmod(hours-7, worked-8)
+prep_per(worked-8, person-10)
+partmod(person-10, aged-11)
+number(25-14, 15-12)
+dep(25-14, to-13)
+dobj(aged-11, 25-14)
+det(year-16, each-15)
+tmod(aged-11, year-16)
+prep_in(aged-11, France-18)
+prep_in(aged-11, Germany-20)
+conj_and(France-18, Germany-20)
+cop(lower-25, is-21)
+quantmod(50-23, about-22)
+num(%-24, 50-23)
+npadvmod(lower-25, %-24)
+root(ROOT-0, lower-25)
+prep(lower-25, than-26)
+pcomp(than-26, in-27)
+det(States-30, the-28)
+nn(States-30, United-29)
+prep_in(than-26, States-30)
+

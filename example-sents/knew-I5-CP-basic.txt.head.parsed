@@ -1,0 +1,505 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP October) (CD 11) (NN attack))
+      (PP (IN on)
+        (NP
+          (NP (NNP Army) (NNP Headquarters))
+          (PP (IN in)
+            (NP (NNP Rawalpindi))))))
+    (VP
+      (VP (VBD was)
+        (NP
+          (NP (DT the)
+            (ADJP (RBS most) (JJ daring)))
+          (PP (IN of)
+            (NP (DT all)))))
+      (: --)
+      (CC and)
+      (VP (VBD sent)
+        (NP (NNS shudders))
+        (PP (IN across)
+          (NP (DT the) (JJ military) (NN command))))
+      (, ,)
+      (SBAR (IN because)
+        (S
+          (NP (DT the) (NNS terrorists))
+          (VP (VBD knew)
+            (NP
+              (NP (DT the) (NN layout))
+              (PP (IN of)
+                (NP (DT the) (JJ military)
+                  (CC and)
+                  (NN security) (NNS buildings))))))))
+    (. .)))
+
+det(attack-4, The-1)
+nn(attack-4, October-2)
+num(attack-4, 11-3)
+nsubj(daring-13, attack-4)
+nsubj(sent-18, attack-4)
+nn(Headquarters-7, Army-6)
+prep_on(attack-4, Headquarters-7)
+prep_in(Headquarters-7, Rawalpindi-9)
+cop(daring-13, was-10)
+det(daring-13, the-11)
+advmod(daring-13, most-12)
+root(ROOT-0, daring-13)
+prep_of(daring-13, all-15)
+conj_and(daring-13, sent-18)
+dobj(sent-18, shudders-19)
+det(command-23, the-21)
+amod(command-23, military-22)
+prep_across(sent-18, command-23)
+mark(knew-28, because-25)
+det(terrorists-27, the-26)
+nsubj(knew-28, terrorists-27)
+advcl(daring-13, knew-28)
+det(layout-30, the-29)
+dobj(knew-28, layout-30)
+det(buildings-36, the-32)
+amod(buildings-36, military-33)
+conj_and(military-33, security-35)
+amod(buildings-36, security-35)
+prep_of(layout-30, buildings-36)
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Benedict) (NNP Egbuna) (POS 's))
+        (JJ five-year) (JJ old) (NN son))
+      (, ,)
+      (NP (NNP Benedict) (NNP Jr.))
+      (, ,)
+      (VP (VBN born)
+        (NP (CD five) (NNS months))
+        (PP (IN after)
+          (NP
+            (NP (DT the) (NN slaughter))
+            (PP (IN of)
+              (NP (PRP$ his) (NN father))))))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN source))
+        (PP (IN of)
+          (NP
+            (NP (NN comfort))
+            (PP
+              (PP (TO to)
+                (NP
+                  (NP (DT both))
+                  (PP (IN of)
+                    (NP (PRP us)))))
+              (CC and)
+              (PP (TO to)
+                (NP
+                  (NP (DT all))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBD knew)
+                        (NP (PRP$ his) (NN father))))))))))))
+    (. .)))
+
+nn(Egbuna-2, Benedict-1)
+poss(son-6, Egbuna-2)
+amod(son-6, five-year-4)
+amod(son-6, old-5)
+nsubj(source-23, son-6)
+nn(Jr.-9, Benedict-8)
+appos(son-6, Jr.-9)
+partmod(son-6, born-11)
+num(months-13, five-12)
+tmod(born-11, months-13)
+det(slaughter-16, the-15)
+prep_after(born-11, slaughter-16)
+poss(father-19, his-18)
+prep_of(slaughter-16, father-19)
+cop(source-23, is-21)
+det(source-23, a-22)
+root(ROOT-0, source-23)
+prep_of(source-23, comfort-25)
+prep_to(comfort-25, both-27)
+prep_of(both-27, us-29)
+prep_to(comfort-25, all-32)
+conj_and(both-27, all-32)
+nsubj(knew-34, all-32)
+rcmod(all-32, knew-34)
+poss(father-36, his-35)
+dobj(knew-34, father-36)
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (DT the) (JJ few) (NNS occasions))))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (JJ international) (JJ public) (NN opinion))
+          (VP (VBD became)
+            (ADJP (JJ aware))
+            (SBAR (IN that)
+              (S
+                (NP (EX there))
+                (VP (VBD was)
+                  (NP
+                    (NP (DT a) (NN refugee) (NN problem))
+                    (PP (IN on)
+                      (NP (DT the) (NN island))))
+                  (, ,)
+                  (SBAR (IN because)
+                    (S
+                      (NP (JJ few) (NNS people))
+                      (VP (VBD knew)
+                        (SBAR (IN that)
+                          (S
+                            (NP
+                              (NP (NNS refugees))
+                              (PP (IN from)
+                                (NP (DT that) (NN war))))
+                            (ADVP (RB still))
+                            (VP (VBP exist))))))))))))))
+    (. .)))
+
+nsubj(one-4, This-1)
+cop(one-4, was-2)
+advmod(one-4, also-3)
+root(ROOT-0, one-4)
+det(occasions-8, the-6)
+amod(occasions-8, few-7)
+prep_of(one-4, occasions-8)
+advmod(aware-14, when-9)
+amod(opinion-12, international-10)
+amod(opinion-12, public-11)
+nsubj(aware-14, opinion-12)
+cop(aware-14, became-13)
+advcl(one-4, aware-14)
+complm(was-17, that-15)
+expl(was-17, there-16)
+ccomp(aware-14, was-17)
+det(problem-20, a-18)
+nn(problem-20, refugee-19)
+nsubj(was-17, problem-20)
+det(island-23, the-22)
+prep_on(problem-20, island-23)
+mark(knew-28, because-25)
+amod(people-27, few-26)
+nsubj(knew-28, people-27)
+advcl(was-17, knew-28)
+complm(exist-35, that-29)
+nsubj(exist-35, refugees-30)
+det(war-33, that-32)
+prep_from(refugees-30, war-33)
+advmod(exist-35, still-34)
+ccomp(knew-28, exist-35)
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT a) (NN strategy))
+      (PP (IN of)
+        (NP
+          (NP (NN peace))
+          (PP (IN with)
+            (NP (NNP Israel))))))
+    (PRN (, ,)
+      (NP (NNP Sadat))
+      (VP (VBD knew))
+      (, ,))
+    (VP (VBD required)
+      (NP (DT an) (NN alliance))
+      (PP (IN with)
+        (NP (DT the) (NNP United) (NNPS States))))
+    (. .)))
+
+cc(required-12, But-1)
+det(strategy-3, a-2)
+nsubj(required-12, strategy-3)
+prep_of(strategy-3, peace-5)
+prep_with(peace-5, Israel-7)
+nsubj(knew-10, Sadat-9)
+parataxis(required-12, knew-10)
+root(ROOT-0, required-12)
+det(alliance-14, an-13)
+dobj(required-12, alliance-14)
+det(States-18, the-16)
+nn(States-18, United-17)
+prep_with(required-12, States-18)
+
+(ROOT
+  (S
+    (ADVP (RB Perhaps))
+    (NP (NNP Sadat))
+    (VP (MD might)
+      (VP (VB have)
+        (VP (VBN opted)
+          (S
+            (VP (TO to)
+              (VP (VB secure)
+                (NP (DT the) (JJ American) (NN alliance))
+                (PP (IN without)
+                  (S
+                    (VP (VBG making)
+                      (NP (NN peace))
+                      (PP (IN with)
+                        (NP (NNP Israel))))))
+                (SBAR (IN if)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD had)
+                      (VP (VBN been)
+                        (ADJP (JJ able)
+                          (S
+                            (VP (TO to)
+                              (VP (VB do)
+                                (ADVP (RB so))))))))))))))))
+    (. .)))
+
+advmod(opted-5, Perhaps-1)
+nsubj(opted-5, Sadat-2)
+xsubj(secure-7, Sadat-2)
+aux(opted-5, might-3)
+aux(opted-5, have-4)
+root(ROOT-0, opted-5)
+aux(secure-7, to-6)
+xcomp(opted-5, secure-7)
+det(alliance-10, the-8)
+amod(alliance-10, American-9)
+dobj(secure-7, alliance-10)
+prepc_without(secure-7, making-12)
+dobj(making-12, peace-13)
+prep_with(making-12, Israel-15)
+mark(able-20, if-16)
+nsubj(able-20, he-17)
+aux(able-20, had-18)
+cop(able-20, been-19)
+advcl(secure-7, able-20)
+aux(do-22, to-21)
+xcomp(able-20, do-22)
+advmod(do-22, so-23)
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (PRP he))
+      (VP (MD could) (RB not)))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD knew)
+        (NP (PRP it))))
+    (. .)))
+
+nsubj(could-3, he-2)
+root(ROOT-0, could-3)
+neg(could-3, not-4)
+nsubj(knew-8, he-7)
+conj_and(could-3, knew-8)
+dobj(knew-8, it-9)
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (DT the) (NN war))
+        (VP (VBD started))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ first) (NN thing))
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (JJ Israeli) (NN army) (NN command))
+            (VP (VBN sought)))
+          (VP (VBD was)
+            (NP
+              (NP (DT the) (NN evacuation))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP (DT the) (NN area) (POS 's))
+                    (NNS settlements))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (NP
+                        (NP (NNP Israel) (POS 's))
+                        (NNS generals))
+                      (VP (VBD knew)))))))))))
+    (VP (MD would)
+      (ADVP (RB quickly))
+      (VP (VB become)
+        (NP
+          (NP (DT an)
+            (ADJP (JJ impossible))
+            (NN burden))
+          (, ,)
+          (CC and)
+          (NP
+            (NP (DT an) (NN obstacle))
+            (PP (TO to)
+              (NP (NN maneuver))))
+          (, ,))
+        (PP (IN for)
+          (NP (PRP$ their) (NNS troops)))))
+    (. .)))
+
+advmod(started-4, When-1)
+det(war-3, the-2)
+nsubj(started-4, war-3)
+advcl(burden-33, started-4)
+det(thing-8, the-6)
+amod(thing-8, first-7)
+nsubj(burden-33, thing-8)
+det(command-12, the-9)
+amod(command-12, Israeli-10)
+nn(command-12, army-11)
+nsubj(evacuation-16, command-12)
+partmod(command-12, sought-13)
+cop(evacuation-16, was-14)
+det(evacuation-16, the-15)
+rcmod(thing-8, evacuation-16)
+det(area-19, the-18)
+poss(settlements-21, area-19)
+prep_of(evacuation-16, settlements-21)
+dobj(knew-27, settlements-21)
+rel(knew-27, which-23)
+poss(generals-26, Israel-24)
+nsubj(knew-27, generals-26)
+rcmod(settlements-21, knew-27)
+aux(burden-33, would-28)
+advmod(burden-33, quickly-29)
+cop(burden-33, become-30)
+det(burden-33, an-31)
+amod(burden-33, impossible-32)
+root(ROOT-0, burden-33)
+det(obstacle-37, an-36)
+conj_and(burden-33, obstacle-37)
+prep_to(obstacle-37, maneuver-39)
+poss(troops-43, their-42)
+prep_for(burden-33, troops-43)
+
+(ROOT
+  (S
+    (NP (NNP Castro))
+    (VP (VBD answered) (: :) (`` ``)
+      (S
+        (NP (PRP I))
+        (VP (VBD knew))))
+    (. .)))
+
+nsubj(answered-2, Castro-1)
+root(ROOT-0, answered-2)
+nsubj(knew-6, I-5)
+ccomp(answered-2, knew-6)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD knew)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (MD would)
+            (VP (VB lead)
+              (PP (TO to)
+                (NP
+                  (NP (NNP Cuba) (POS 's))
+                  (NN annihilation))))))))
+    (. .) ('' '')))
+
+nsubj(knew-2, I-1)
+root(ROOT-0, knew-2)
+nsubj(lead-5, it-3)
+aux(lead-5, would-4)
+ccomp(knew-2, lead-5)
+poss(annihilation-9, Cuba-7)
+prep_to(lead-5, annihilation-9)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD knew)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN confusion))
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN part))
+                (PP (IN of)
+                  (NP (DT the) (NN defender))))))
+          (VP (VBZ offers)
+            (NP
+              (NP (DT the) (JJS best) (NN chance))
+              (PP (IN for)
+                (NP (JJ successful) (NN attack))))))))
+    (. .)))
+
+nsubj(knew-2, They-1)
+root(ROOT-0, knew-2)
+complm(offers-11, that-3)
+nsubj(offers-11, confusion-4)
+det(part-7, the-6)
+prep_on(confusion-4, part-7)
+det(defender-10, the-9)
+prep_of(part-7, defender-10)
+ccomp(knew-2, offers-11)
+det(chance-14, the-12)
+amod(chance-14, best-13)
+dobj(offers-11, chance-14)
+amod(attack-17, successful-16)
+prep_for(chance-14, attack-17)
+
+(ROOT
+  (S
+    (NP (NNP Corruption) (NNS investigations))
+    (VP (VBD launched)
+      (PP (IN by)
+        (NP (NNP Yar)))
+      (`` `)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Adua) (POS 's))
+            (NN government))
+          (VP (VBP have)
+            (VP (VBN uncovered)
+              (NP
+                (ADJP (JJR broader)
+                  (CC and)
+                  (JJR deeper))
+                (NNS problems))
+              (SBAR (IN than)
+                (S
+                  (NP (JJ many) (NNS knew))
+                  (VP (VBD existed)))))))))
+    (. .)))
+
+nn(investigations-2, Corruption-1)
+nsubj(launched-3, investigations-2)
+root(ROOT-0, launched-3)
+prep_by(launched-3, Yar-5)
+poss(government-9, Adua-7)
+nsubj(uncovered-11, government-9)
+aux(uncovered-11, have-10)
+ccomp(launched-3, uncovered-11)
+amod(problems-15, broader-12)
+conj_and(broader-12, deeper-14)
+amod(problems-15, deeper-14)
+dobj(uncovered-11, problems-15)
+mark(existed-19, than-16)
+amod(knew-18, many-17)
+nsubj(existed-19, knew-18)
+advcl(uncovered-11, existed-19)
+

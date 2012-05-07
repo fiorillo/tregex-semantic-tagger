@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP (DT a) (NN gesture))
+        (VP (VBG intending)
+          (S
+            (VP (TO to)
+              (VP (VB boost)
+                (NP
+                  (NP (NNP Kerry) (POS 's))
+                  (NNS chances))))))))
+    (, ,)
+    (NP (NNP German) (NNP Defense) (NNP Minister) (NNP Peter) (NNP Struck))
+    (VP (VBD suggested)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ his) (NN country))
+          (VP (MD might)
+            (VP (VB reconsider)
+              (NP (PRP$ its) (NN position))
+              (PP (IN on)
+                (NP
+                  (NP (NNS troops))
+                  (PP (IN in)
+                    (NP (NNP Iraq))))))))))
+    (. .)))
+
+det(gesture-3, a-2)
+xsubj(boost-6, gesture-3)
+prep_as(suggested-16, gesture-3)
+partmod(gesture-3, intending-4)
+aux(boost-6, to-5)
+xcomp(intending-4, boost-6)
+poss(chances-9, Kerry-7)
+dobj(boost-6, chances-9)
+nn(Struck-15, German-11)
+nn(Struck-15, Defense-12)
+nn(Struck-15, Minister-13)
+nn(Struck-15, Peter-14)
+nsubj(suggested-16, Struck-15)
+root(ROOT-0, suggested-16)
+complm(reconsider-21, that-17)
+poss(country-19, his-18)
+nsubj(reconsider-21, country-19)
+aux(reconsider-21, might-20)
+ccomp(suggested-16, reconsider-21)
+poss(position-23, its-22)
+dobj(reconsider-21, position-23)
+prep_on(reconsider-21, troops-25)
+prep_in(troops-25, Iraq-27)
+

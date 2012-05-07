@@ -1,0 +1,279 @@
+(ROOT
+  (S
+    (ADVP (RB Sometimes))
+    (NP (NN spending))
+    (VP (VBZ rises)
+      (SBAR
+        (SBAR (IN because)
+          (S
+            (NP (EX there))
+            (VP (VBZ is)
+              (NP
+                (NP (JJR more) (JJ disposable) (NN cash))
+                (PP (IN in)
+                  (NP (DT the) (NN economy)))))))
+        (, ,)
+        (CC and)
+        (ADVP (RB sometimes))
+        (SBAR (IN because)
+          (S
+            (NP
+              (NP
+                (NP (NNS changes))
+                (PP (IN in)
+                  (NP (NN opportunity) (NNS costs))))
+              (PRN (: --)
+                (NP
+                  (NP (DT the) (NN cost))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG forgoing)
+                        (NP
+                          (NP (DT some) (JJ other) (NN action))
+                          (, ,)
+                          (PP (JJ such) (IN as)
+                            (S
+                              (VP (VBG saving)))))))))
+                (: --)))
+            (VP (VBP make)
+              (SBAR
+                (S
+                  (NP (NNS people))
+                  (VP (VBP want)
+                    (S
+                      (VP (TO to)
+                        (VP (VB spend)
+                          (NP
+                            (NP (DT the) (NN cash))
+                            (SBAR
+                              (S
+                                (NP (PRP they))
+                                (VP (VBP have)
+                                  (ADVP (RBR more) (RB rapidly)))))))))))))))))
+    (. .)))
+
+advmod(rises-3, Sometimes-1)
+nsubj(rises-3, spending-2)
+root(ROOT-0, rises-3)
+mark(is-6, because-4)
+expl(is-6, there-5)
+dep(rises-3, is-6)
+amod(cash-9, more-7)
+amod(cash-9, disposable-8)
+nsubj(is-6, cash-9)
+det(economy-12, the-11)
+prep_in(cash-9, economy-12)
+dep(rises-3, sometimes-15)
+advmod(is-6, sometimes-15)
+conj_and(is-6, sometimes-15)
+mark(make-34, because-16)
+nsubj(make-34, changes-17)
+nn(costs-20, opportunity-19)
+prep_in(changes-17, costs-20)
+det(cost-23, the-22)
+dep(changes-17, cost-23)
+prepc_of(cost-23, forgoing-25)
+det(action-28, some-26)
+amod(action-28, other-27)
+dobj(forgoing-25, action-28)
+prepc_such_as(action-28, saving-32)
+dep(rises-3, make-34)
+conj_and(is-6, make-34)
+nsubj(want-36, people-35)
+xsubj(spend-38, people-35)
+ccomp(make-34, want-36)
+aux(spend-38, to-37)
+xcomp(want-36, spend-38)
+det(cash-40, the-39)
+dobj(spend-38, cash-40)
+dobj(have-42, cash-40)
+nsubj(have-42, they-41)
+rcmod(cash-40, have-42)
+advmod(rapidly-44, more-43)
+advmod(have-42, rapidly-44)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ implicit) (NN tax))
+      (PP (IN from)
+        (S
+          (VP
+            (VP (VBG working)
+              (NP (DT another) (NN year)))
+            (CC and)
+            (VP (VBG forgoing)
+              (NP (NN pension) (NNS benefits)))))))
+    (VP (MD can)
+      (ADVP (RB sometimes))
+      (VP (VB be)
+        (ADJP (JJ close)
+          (PP (TO to)
+            (NP
+              (NP (DT a) (NN person) (POS 's))
+              (JJ net) (NNS earnings))))
+        (PP (IN during)
+          (NP (DT that) (NN year)))))
+    (. .)))
+
+det(tax-3, The-1)
+amod(tax-3, implicit-2)
+nsubj(close-15, tax-3)
+prepc_from(tax-3, working-5)
+det(year-7, another-6)
+tmod(working-5, year-7)
+prepc_from(tax-3, forgoing-9)
+conj_and(working-5, forgoing-9)
+nn(benefits-11, pension-10)
+dobj(forgoing-9, benefits-11)
+aux(close-15, can-12)
+advmod(close-15, sometimes-13)
+cop(close-15, be-14)
+root(ROOT-0, close-15)
+det(person-18, a-17)
+poss(earnings-21, person-18)
+amod(earnings-21, net-20)
+prep_to(close-15, earnings-21)
+det(year-24, that-23)
+prep_during(close-15, year-24)
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ means)
+      (S
+        (VP (VBG forgoing)
+          (NP (DT some) (NN government) (NNS services)))))
+    (. .)))
+
+nsubj(means-2, That-1)
+root(ROOT-0, means-2)
+xcomp(means-2, forgoing-3)
+det(services-6, some-4)
+nn(services-6, government-5)
+dobj(forgoing-3, services-6)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Investments))
+        (PP (IN at)
+          (NP (NN home))))
+      (VP (MD may)
+        (VP (VB offer)
+          (NP
+            (ADJP (RB much) (JJR higher))
+            (NNS returns)))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (VP (VBG forgoing)
+          (SBAR
+            (S
+              (NP (PRP them))
+              (VP (VBZ is)
+                (NP
+                  (NP (DT the) (NN price))
+                  (VP (VBG developing)
+                    (NP (NNS countries)))))))))
+      (VP (VBP pay)
+        (PP (IN for)
+          (NP
+            (NP (DT a) (JJ safe) (NN hedge))
+            (PP (IN against)
+              (NP
+                (NP (DT the) (NNS pitfalls))
+                (PP (IN of)
+                  (NP (JJ global) (NN capitalism)))))))))
+    (. .)))
+
+nsubj(offer-5, Investments-1)
+prep_at(Investments-1, home-3)
+aux(offer-5, may-4)
+root(ROOT-0, offer-5)
+advmod(higher-7, much-6)
+amod(returns-8, higher-7)
+dobj(offer-5, returns-8)
+csubj(pay-18, forgoing-11)
+nsubj(price-15, them-12)
+cop(price-15, is-13)
+det(price-15, the-14)
+ccomp(forgoing-11, price-15)
+partmod(price-15, developing-16)
+dobj(developing-16, countries-17)
+conj_but(offer-5, pay-18)
+det(hedge-22, a-20)
+amod(hedge-22, safe-21)
+prep_for(pay-18, hedge-22)
+det(pitfalls-25, the-24)
+prep_against(hedge-22, pitfalls-25)
+amod(capitalism-28, global-27)
+prep_of(pitfalls-25, capitalism-28)
+
+(ROOT
+  (S
+    (PP (IN Unlike)
+      (NP
+        (NP (DT those))
+        (PP (IN with)
+          (NP (JJ physical) (NNS illnesses)))))
+    (, ,)
+    (NP
+      (ADJP (RB mentally) (JJ ill))
+      (NNS individuals))
+    (ADVP (RB often))
+    (VP (VBP are)
+      (ADJP (JJ unaware))
+      (PRN (: --)
+        (FRAG (RB even)
+          (ADVP (RB vehemently))
+          (ADJP (JJ deny)))
+        (: --))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (NP (DT a) (NN problem))
+            (, ,)
+            (S
+              (VP
+                (VP
+                  (ADVP (RB thus))
+                  (VBG forgoing)
+                  (NP (NN treatment)))
+                (CC and)
+                (VP (VBG losing)
+                  (NP
+                    (ADJP (RB desperately) (VBN needed))
+                    (NN disability) (NNS benefits)))))))))
+    (. .)))
+
+prep_unlike(unaware-12, those-2)
+amod(illnesses-5, physical-4)
+prep_with(those-2, illnesses-5)
+advmod(ill-8, mentally-7)
+amod(individuals-9, ill-8)
+nsubj(unaware-12, individuals-9)
+advmod(unaware-12, often-10)
+cop(unaware-12, are-11)
+root(ROOT-0, unaware-12)
+dep(unaware-12, even-14)
+dep(even-14, vehemently-15)
+dep(even-14, deny-16)
+complm(have-20, that-18)
+nsubj(have-20, they-19)
+ccomp(unaware-12, have-20)
+det(problem-22, a-21)
+dobj(have-20, problem-22)
+advmod(forgoing-25, thus-24)
+dep(have-20, forgoing-25)
+dobj(forgoing-25, treatment-26)
+dep(have-20, losing-28)
+conj_and(forgoing-25, losing-28)
+advmod(needed-30, desperately-29)
+amod(benefits-32, needed-30)
+nn(benefits-32, disability-31)
+dobj(losing-28, benefits-32)
+

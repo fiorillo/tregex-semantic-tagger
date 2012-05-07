@@ -1,0 +1,75 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP ILO))
+    (VP (VBZ contends)
+      (SBAR (IN that)
+        (S
+          (NP (NNS children))
+          (VP (VBP suffer)
+            (ADVP (RB greatly))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP they))
+                (VP (VBP are)
+                  (VP (VBN forced)
+                    (S
+                      (VP (TO to)
+                        (VP (VB perform)
+                          (PP (IN as) (`` ``)
+                            (NP (JJ small) (NNS adults))))))))))))))
+    (. .) ('' '')))
+
+det(ILO-2, The-1)
+nsubj(contends-3, ILO-2)
+root(ROOT-0, contends-3)
+complm(suffer-6, that-4)
+nsubj(suffer-6, children-5)
+ccomp(contends-3, suffer-6)
+advmod(suffer-6, greatly-7)
+advmod(forced-11, when-8)
+nsubjpass(forced-11, they-9)
+xsubj(perform-13, they-9)
+auxpass(forced-11, are-10)
+advcl(suffer-6, forced-11)
+aux(perform-13, to-12)
+xcomp(forced-11, perform-13)
+amod(adults-17, small-16)
+prep_as(perform-13, adults-17)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ second) (NN school))
+      (PP (IN of)
+        (NP (NN thought))))
+    (VP (VBZ contends)
+      (SBAR (IN that)
+        (S
+          (NP (NN terrorism))
+          (VP (MD can)
+            (VP (VB be)
+              (VP (VBN eradicated)
+                (PP (IN by)
+                  (S
+                    (VP (VBG addressing)
+                      (NP (PRP$ its) (NN root) (NNS causes)))))))))))
+    (. .)))
+
+det(school-3, The-1)
+amod(school-3, second-2)
+nsubj(contends-6, school-3)
+prep_of(school-3, thought-5)
+root(ROOT-0, contends-6)
+complm(eradicated-11, that-7)
+nsubjpass(eradicated-11, terrorism-8)
+aux(eradicated-11, can-9)
+auxpass(eradicated-11, be-10)
+ccomp(contends-6, eradicated-11)
+agent(eradicated-11, addressing-13)
+poss(causes-16, its-14)
+nn(causes-16, root-15)
+dobj(addressing-13, causes-16)
+

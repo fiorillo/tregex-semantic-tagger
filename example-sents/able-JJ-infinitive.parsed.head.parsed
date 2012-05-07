@@ -1,0 +1,19 @@
+(ROOT
+  (NP
+    (NP (NNP Usage))
+    (: :)
+    (NP (NN lexparser))
+    (. .)))
+
+root(ROOT-0, Usage-1)
+dep(Usage-1, lexparser-3)
+
+(ROOT
+  (NP
+    (NP (NN sh) (NN file))
+    (PRN (-LRB- -LRB-) (PRP s) (-RRB- -RRB-))))
+
+nn(file-2, sh-1)
+root(ROOT-0, file-2)
+dep(file-2, s-4)
+

@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Bush) (NN administration) (POS 's))
+      (NNS flip-flops)
+      (CC and)
+      (NNS missteps))
+    (VP (VBP are)
+      (ADJP (JJ legion)))
+    (. .)))
+
+det(administration-3, The-1)
+nn(administration-3, Bush-2)
+poss(flip-flops-5, administration-3)
+nsubj(legion-9, flip-flops-5)
+conj_and(flip-flops-5, missteps-7)
+nsubj(legion-9, missteps-7)
+cop(legion-9, are-8)
+root(ROOT-0, legion-9)
+
+(ROOT
+  (S
+    (NP (NNP South) (NNP Korean) (NNP President) (NNP Lee) (NNP Myung-bak))
+    (, ,)
+    (PP (IN through)
+      (NP
+        (NP
+          (NP (PRP$ his) (NNS flip-flops))
+          (, ,)
+          (CC and)
+          (NP (NNP Kim) (NNP Jong) (NNP Il))
+          (, ,))
+        (PP (IN with)
+          (NP (PRP$ his) (JJ renewed) (JJ nuclear) (NN blackmail)))))
+    (, ,)
+    (NP (DT both))
+    (VP (VBP seem)
+      (ADJP (VBN determined)
+        (S
+          (VP (TO to)
+            (VP (VB see)
+              (S
+                (NP (NNS relations))
+                (VP (VB deteriorate))))))))
+    (. .)))
+
+nn(Myung-bak-5, South-1)
+nn(Myung-bak-5, Korean-2)
+nn(Myung-bak-5, President-3)
+nn(Myung-bak-5, Lee-4)
+nsubjpass(determined-24, Myung-bak-5)
+poss(flip-flops-9, his-8)
+prep_through(determined-24, flip-flops-9)
+nn(Il-14, Kim-12)
+nn(Il-14, Jong-13)
+conj_and(flip-flops-9, Il-14)
+prep_through(determined-24, Il-14)
+poss(blackmail-20, his-17)
+amod(blackmail-20, renewed-18)
+amod(blackmail-20, nuclear-19)
+prep_with(flip-flops-9, blackmail-20)
+nsubjpass(determined-24, both-22)
+auxpass(determined-24, seem-23)
+root(ROOT-0, determined-24)
+aux(see-26, to-25)
+xcomp(determined-24, see-26)
+nsubj(deteriorate-28, relations-27)
+ccomp(see-26, deteriorate-28)
+

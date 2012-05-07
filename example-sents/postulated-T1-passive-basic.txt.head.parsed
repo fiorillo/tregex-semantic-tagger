@@ -1,0 +1,135 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Anyone))
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ little) (NN funding))
+          (CC and)
+          (NP
+            (NP (DT a) (JJ few) (JJ biological) (NNS specimens))
+            (PP (IN in)
+              (NP (DT a) (NN refrigerator)))))))
+    (VP (MD can)
+      (VP (VB make)
+        (NP
+          (NP (NNS thousands))
+          (PP (IN of)
+            (NP (JJ postulated) (`` ``) (NNS discoveries))))))
+    (. .) ('' '')))
+
+nsubj(make-15, Anyone-1)
+det(funding-5, a-3)
+amod(funding-5, little-4)
+prep_with(Anyone-1, funding-5)
+det(specimens-10, a-7)
+amod(specimens-10, few-8)
+amod(specimens-10, biological-9)
+prep_with(Anyone-1, specimens-10)
+conj_and(funding-5, specimens-10)
+det(refrigerator-13, a-12)
+prep_in(specimens-10, refrigerator-13)
+aux(make-15, can-14)
+root(ROOT-0, make-15)
+dobj(make-15, thousands-16)
+amod(discoveries-20, postulated-18)
+prep_of(thousands-16, discoveries-20)
+
+(ROOT
+  (S
+    (NP (NNS Malthus))
+    (VP (VBD postulated)
+      (NP
+        (NP
+          (NP (DT a) (JJ geometric) (NN rate))
+          (PP (IN of)
+            (NP
+              (NP (NN population) (NN growth))
+              (PRN (-LRB- -LRB-)
+                (PP (IN like)
+                  (NP
+                    (NP (JJ compound) (NN interest))
+                    (PP (IN on)
+                      (NP (DT a) (NN bank) (NN deposit)))))
+                (-RRB- -RRB-)))))
+        (CC and)
+        (NP
+          (NP (DT an) (NN arithmetic) (NN rate))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NN growth))
+                (PRN (-LRB- -LRB-)
+                  (NP
+                    (NP (JJ simple) (NN interest))
+                    (PP (IN on)
+                      (NP (DT a) (NN bank) (NN account))))
+                  (-RRB- -RRB-)))
+              (PP (IN of)
+                (NP (NN food) (NN production))))))))
+    (. .)))
+
+nsubj(postulated-2, Malthus-1)
+root(ROOT-0, postulated-2)
+det(rate-5, a-3)
+amod(rate-5, geometric-4)
+dobj(postulated-2, rate-5)
+nn(growth-8, population-7)
+prep_of(rate-5, growth-8)
+dep(growth-8, like-10)
+amod(interest-12, compound-11)
+pobj(like-10, interest-12)
+det(deposit-16, a-14)
+nn(deposit-16, bank-15)
+prep_on(interest-12, deposit-16)
+det(rate-21, an-19)
+nn(rate-21, arithmetic-20)
+dobj(postulated-2, rate-21)
+conj_and(rate-5, rate-21)
+prep_of(rate-21, growth-23)
+amod(interest-26, simple-25)
+dep(growth-23, interest-26)
+det(account-30, a-28)
+nn(account-30, bank-29)
+prep_on(interest-26, account-30)
+nn(production-34, food-33)
+prep_of(growth-23, production-34)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ original) (NN construction))
+      (PP (IN of)
+        (NP (DT the) (NN euro))))
+    (VP (VBD postulated)
+      (SBAR (IN that)
+        (S
+          (NP (DT each) (NN member))
+          (VP (MD would)
+            (VP (VB abide)
+              (PP (IN by)
+                (NP
+                  (NP (DT the) (NNS limits))
+                  (VP (VBN set)
+                    (PP (IN by)
+                      (NP (DT the) (NNP Maastricht) (NNP Treaty)))))))))))
+    (. .)))
+
+det(construction-3, The-1)
+amod(construction-3, original-2)
+nsubj(postulated-7, construction-3)
+det(euro-6, the-5)
+prep_of(construction-3, euro-6)
+root(ROOT-0, postulated-7)
+complm(abide-12, that-8)
+det(member-10, each-9)
+nsubj(abide-12, member-10)
+aux(abide-12, would-11)
+ccomp(postulated-7, abide-12)
+det(limits-15, the-14)
+prep_by(abide-12, limits-15)
+partmod(limits-15, set-16)
+det(Treaty-20, the-18)
+nn(Treaty-20, Maastricht-19)
+agent(set-16, Treaty-20)
+

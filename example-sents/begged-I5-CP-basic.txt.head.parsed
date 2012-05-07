@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG being)
+          (VP (VBN begged)
+            (S
+              (VP (TO to)
+                (VP (VB stay)
+                  (PRT (RP on)))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD did)
+      (VP (VB remain)
+        (NP
+          (NP (NN president))
+          (, ,)
+          (CONJP (CC but)
+            (RB as))
+          (NP (DT a) (JJ virtual) (JJ one-man) (NN government)))))
+    (. .)))
+
+auxpass(begged-3, being-2)
+prepc_after(president-11, begged-3)
+aux(stay-5, to-4)
+xcomp(begged-3, stay-5)
+prt(stay-5, on-6)
+nsubj(president-11, he-8)
+aux(president-11, did-9)
+cop(president-11, remain-10)
+root(ROOT-0, president-11)
+det(government-18, a-15)
+amod(government-18, virtual-16)
+amod(government-18, one-man-17)
+conj_as(president-11, government-18)
+

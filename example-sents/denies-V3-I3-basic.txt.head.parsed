@@ -1,0 +1,431 @@
+(ROOT
+  (S
+    (NP (JJ American) (NN law))
+    (VP (VBZ denies)
+      (NP (NNS patients))
+      (PP
+        (ADVP
+          (NP (DT a) (NN property))
+          (RB right))
+        (IN in)
+        (NP
+          (NP (PRP$ their) (NN tissue))
+          (PP (IN for)
+            (NP
+              (NP (NNS reasons))
+              (PP (IN of)
+                (NP (JJ economic) (NN policy))))))))
+    (. .)))
+
+amod(law-2, American-1)
+nsubj(denies-3, law-2)
+root(ROOT-0, denies-3)
+dobj(denies-3, patients-4)
+det(property-6, a-5)
+npadvmod(right-7, property-6)
+advmod(denies-3, right-7)
+poss(tissue-10, their-9)
+prep_in(denies-3, tissue-10)
+prep_for(tissue-10, reasons-12)
+amod(policy-15, economic-14)
+prep_of(reasons-12, policy-15)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ enjoys)
+      (S
+        (VP (VBG taunting)
+          (NP (DT the) (NN West))
+          (PP (IN with)
+            (NP (DT the) (NN past)))
+          (SBAR (IN that)
+            (S
+              (NP (PRP he))
+              (VP (VBZ denies)))))))
+    (. .)))
+
+nsubj(enjoys-2, He-1)
+root(ROOT-0, enjoys-2)
+xcomp(enjoys-2, taunting-3)
+det(West-5, the-4)
+dobj(taunting-3, West-5)
+det(past-8, the-7)
+prep_with(taunting-3, past-8)
+complm(denies-11, that-9)
+nsubj(denies-11, he-10)
+ccomp(taunting-3, denies-11)
+
+(ROOT
+  (SQ (MD Can)
+    (NP (NNP Pakistan))
+    (VP (VB demand) (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT a) (JJ straight) (NN face))
+          (, ,)
+          (NP
+            (NP (NNS rights))
+            (PP (IN for)
+              (NP (DT another) (NNS people))))))
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (ADVP (RB constantly))
+          (VP (VBZ denies)
+            (PP (TO to)
+              (NP (PRP$ its) (JJ own)))))))
+    (. ?)))
+
+aux(demand-3, Can-1)
+nsubj(demand-3, Pakistan-2)
+root(ROOT-0, demand-3)
+det(face-8, a-6)
+amod(face-8, straight-7)
+prep_with(demand-3, face-8)
+appos(face-8, rights-10)
+det(people-13, another-12)
+prep_for(rights-10, people-13)
+complm(denies-17, that-14)
+nsubj(denies-17, it-15)
+advmod(denies-17, constantly-16)
+ccomp(demand-3, denies-17)
+poss(own-20, its-19)
+prep_to(denies-17, own-20)
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Not)
+        (NP (DT that) (NNP Putin) (POS 's))
+        (NN version))
+      (PP (IN of)
+        (NP (NN history))))
+    (VP (VBZ denies)
+      (NP (DT this) (NN memory))
+      (ADVP (RB altogether)))
+    (. .)))
+
+neg(version-5, Not-1)
+det(Putin-3, that-2)
+poss(version-5, Putin-3)
+nsubj(denies-8, version-5)
+prep_of(version-5, history-7)
+root(ROOT-0, denies-8)
+det(memory-10, this-9)
+dobj(denies-8, memory-10)
+advmod(denies-8, altogether-11)
+
+(ROOT
+  (S
+    (NP (DT This) (NN summer))
+    (, ,)
+    (NP (PRP he))
+    (ADVP (RB publicly))
+    (VP (VBD instructed)
+      (NP (PRP$ his) (NN education) (NN minister))
+      (S
+        (VP (TO to)
+          (VP (VB include)
+            (NP (NNS passages))
+            (PP (IN from)
+              (NP
+                (NP (NNP Aleksandr) (NNP Solzhenitsyn) (POS 's) (DT The) (NNP Gulag) (NNP Archipelago))
+                (PP (IN in)
+                  (NP (DT the) (JJ high) (NN school) (NN curriculum)))))))))
+    (. .)))
+
+det(summer-2, This-1)
+tmod(instructed-6, summer-2)
+nsubj(instructed-6, he-4)
+advmod(instructed-6, publicly-5)
+root(ROOT-0, instructed-6)
+poss(minister-9, his-7)
+nn(minister-9, education-8)
+dobj(instructed-6, minister-9)
+aux(include-11, to-10)
+xcomp(instructed-6, include-11)
+dobj(include-11, passages-12)
+nn(Archipelago-19, Aleksandr-14)
+nn(Archipelago-19, Solzhenitsyn-15)
+poss(Archipelago-19, Solzhenitsyn-15)
+possessive(Archipelago-19, 's-16)
+det(Archipelago-19, The-17)
+nn(Archipelago-19, Gulag-18)
+prep_from(include-11, Archipelago-19)
+det(curriculum-24, the-21)
+amod(curriculum-24, high-22)
+nn(curriculum-24, school-23)
+prep_in(Archipelago-19, curriculum-24)
+
+(ROOT
+  (S
+    (NP (NN Nobody))
+    (VP (VBZ denies)
+      (SBAR (IN that)
+        (S
+          (NP (NNS challenges))
+          (VP (VBP remain)
+            (PP (IN in)
+              (S
+                (VP (VBG ensuring)
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNP RtoP))
+                      (VP (VBZ is)
+                        (VP (VBN applied)
+                          (ADVP (RB effectively)
+                            (CC and)
+                            (RB consistently)))))))))))))
+    (. .)))
+
+nsubj(denies-2, Nobody-1)
+root(ROOT-0, denies-2)
+complm(remain-5, that-3)
+nsubj(remain-5, challenges-4)
+ccomp(denies-2, remain-5)
+prepc_in(remain-5, ensuring-7)
+complm(applied-11, that-8)
+nsubjpass(applied-11, RtoP-9)
+auxpass(applied-11, is-10)
+ccomp(ensuring-7, applied-11)
+advmod(applied-11, effectively-12)
+advmod(applied-11, consistently-14)
+conj_and(effectively-12, consistently-14)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+(ROOT
+  (S
+    (NP (DT No) (NN one))
+    (ADVP (RB now))
+    (VP (VBZ denies)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ past) (NN year))
+          (VP (VBZ 's)
+            (NP
+              (NP (JJ sharp) (NNS downswings))
+              (PP (IN in)
+                (NP
+                  (NP
+                    (UCP (NN housing)
+                      (CC and)
+                      (NN equity))
+                    (NNS prices))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBD followed)
+                        (SBAR
+                          (S
+                            (NP
+                              (NP (JJ long) (NNS upswings))
+                              (PRN (: --)
+                                (PP (RB far) (IN above)
+                                  (NP (JJ historical) (JJ benchmark) (NNS levels)))
+                                (: --)))
+                            (VP (VBD helped)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB trigger)
+                                    (CC and)
+                                    (VB fuel)
+                                    (NP (DT the) (NN crisis))))))))))))))))))
+    (. .)))
+
+det(one-2, No-1)
+nsubj(denies-4, one-2)
+advmod(denies-4, now-3)
+root(ROOT-0, denies-4)
+complm(downswings-11, that-5)
+det(year-8, the-6)
+amod(year-8, past-7)
+nsubj(downswings-11, year-8)
+cop(downswings-11, 's-9)
+amod(downswings-11, sharp-10)
+ccomp(denies-4, downswings-11)
+nn(prices-16, housing-13)
+conj_and(housing-13, equity-15)
+nn(prices-16, equity-15)
+prep_in(downswings-11, prices-16)
+nsubj(followed-19, prices-16)
+rcmod(prices-16, followed-19)
+amod(upswings-21, long-20)
+nsubj(helped-29, upswings-21)
+xsubj(trigger-31, upswings-21)
+advmod(above-24, far-23)
+dep(upswings-21, above-24)
+amod(levels-27, historical-25)
+amod(levels-27, benchmark-26)
+pobj(above-24, levels-27)
+ccomp(followed-19, helped-29)
+aux(trigger-31, to-30)
+xcomp(helped-29, trigger-31)
+xcomp(helped-29, fuel-33)
+conj_and(trigger-31, fuel-33)
+det(crisis-35, the-34)
+dobj(trigger-31, crisis-35)
+
+(ROOT
+  (S
+    (NP (DT No) (NN country))
+    (VP (MD can)
+      (VP (VB succeed)
+        (SBAR (IN if)
+          (S
+            (NP (PRP it))
+            (VP (VBZ denies)
+              (S
+                (NP (PRP itself))
+                (NP
+                  (NP (DT the) (NNS talents))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN half))
+                      (PP (IN of)
+                        (NP (PRP$ its) (NNS people))))))))))))
+    (. .)))
+
+det(country-2, No-1)
+nsubj(succeed-4, country-2)
+aux(succeed-4, can-3)
+root(ROOT-0, succeed-4)
+mark(denies-7, if-5)
+nsubj(denies-7, it-6)
+advcl(succeed-4, denies-7)
+nsubj(talents-10, itself-8)
+det(talents-10, the-9)
+xcomp(denies-7, talents-10)
+prep_of(talents-10, half-12)
+poss(people-15, its-14)
+prep_of(half-12, people-15)
+
+(ROOT
+  (SBARQ
+    (SBAR
+      (WHNP (WP Who))
+      (S (, ,)
+        (PP (IN among)
+          (NP
+            (NP (DT those))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (MD should)
+                  (VP (VB be)
+                    (VP (VBG serving)
+                      (PP (IN as)
+                        (NP
+                          (NP (NNS models))
+                          (PP (IN for)
+                            (NP (NNS others))))))))))))
+        (, ,)
+        (NP (DT that))
+        (VP (VBZ is))))
+    (, ,)
+    (WHNP (WP who))
+    (SQ
+      (VP
+        (PP (IN among)
+          (NP
+            (NP (DT the) (NNS leaders))
+            (PP (IN of)
+              (NP (JJ political) (NNS parties)))))
+        (, ,) (VBZ denies)
+        (NP (PRP$ his))
+        (VP (VB own)
+          (NP (JJ financial) (NNS machinations))
+          (PP (IN with)
+            (NP (DT a) (NN smirk))))))
+    (. ?)))
+
+dobj(is-15, Who-1)
+nsubj(serving-8, those-4)
+prep_among(is-15, those-4)
+aux(serving-8, should-6)
+aux(serving-8, be-7)
+rcmod(those-4, serving-8)
+prep_as(serving-8, models-10)
+prep_for(models-10, others-12)
+nsubj(is-15, that-14)
+dep(denies-25, is-15)
+nsubj(denies-25, who-17)
+det(leaders-20, the-19)
+prep_among(denies-25, leaders-20)
+amod(parties-23, political-22)
+prep_of(leaders-20, parties-23)
+root(ROOT-0, denies-25)
+dobj(denies-25, his-26)
+dep(denies-25, own-27)
+amod(machinations-29, financial-28)
+dobj(own-27, machinations-29)
+det(smirk-32, a-31)
+prep_with(own-27, smirk-32)
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Beck))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ denies)
+            (SBAR (IN that)
+              (S
+                (NP (PRP he))
+                (VP (VBZ is)
+                  (ADJP (JJ anti-Semitic))))))))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN conspiracy) (NN theorist))
+        (PP (IN of)
+          (NP (JJ classic) (NN vintage))))
+      (, ,)
+      (SBAR (IN though)
+        (S
+          (NP
+            (NP (DT the) (NN content))
+            (PP (IN of)
+              (NP (PRP$ his) (JJ alleged) (NNS conspiracies))))
+          (VP (VBZ is)
+            (VP (, ,)
+              (S
+                (VP (TO to)
+                  (VP (VB put)
+                    (NP (PRP it))
+                    (ADVP (RB bluntly))
+                    (, ,)
+                    (ADJP (JJ weird))))))))))
+    (. .)))
+
+nsubj(denies-4, Beck-1)
+nsubj(theorist-13, Beck-1)
+rcmod(Beck-1, denies-4)
+complm(anti-Semitic-8, that-5)
+nsubj(anti-Semitic-8, he-6)
+cop(anti-Semitic-8, is-7)
+ccomp(denies-4, anti-Semitic-8)
+cop(theorist-13, is-10)
+det(theorist-13, a-11)
+nn(theorist-13, conspiracy-12)
+root(ROOT-0, theorist-13)
+amod(vintage-16, classic-15)
+prep_of(theorist-13, vintage-16)
+mark(,-26, though-18)
+det(content-20, the-19)
+nsubj(,-26, content-20)
+xsubj(put-28, content-20)
+poss(conspiracies-24, his-22)
+amod(conspiracies-24, alleged-23)
+prep_of(content-20, conspiracies-24)
+aux(,-26, is-25)
+aux(put-28, to-27)
+xcomp(,-26, put-28)
+dobj(put-28, it-29)
+advmod(put-28, bluntly-30)
+dep(put-28, weird-32)
+

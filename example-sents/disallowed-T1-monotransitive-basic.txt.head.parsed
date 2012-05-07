@@ -1,0 +1,88 @@
+(ROOT
+  (NP
+    (NP (NNP ANN) (NNP ARBOR))
+    (: --)
+    (S
+      (NP
+        (NP (DT The) (NN quality))
+        (PP (IN of)
+          (S
+            (VP (VBG refereeing)
+              (PP (IN at)
+                (NP (DT the) (NNP World) (NNP Cup)))))))
+      (VP (VBD had)
+        (VP (VBN been)
+          (NP
+            (NP (DT a) (NN source))
+            (PP (IN of)
+              (NP (NN relief))))
+          (PP (IN until)
+            (NP
+              (NP (NNP June) (CD 18))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP
+                    (NP (NNP referee) (NNP Koman) (NNP Coulibaly))
+                    (PP (IN of)
+                      (NP (NNP Mali))))
+                  (VP (VBD disallowed)
+                    (NP (DT a)
+                      (ADJP (RB perfectly) (JJ legitimate))
+                      (NN goal))
+                    (PP (IN by)
+                      (NP
+                        (NP (DT the) (NNP United) (NNPS States))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (MD would)
+                              (VP (VB have)
+                                (VP (VBN given)
+                                  (NP (PRP it))
+                                  (NP
+                                    (NP (DT an) (JJ all-important) (NN win))
+                                    (PP (IN over)
+                                      (NP (NNP Slovenia)))))))))))))))))))
+    (. .)))
+
+nn(ARBOR-2, ANN-1)
+root(ROOT-0, ARBOR-2)
+det(quality-5, The-4)
+nsubj(source-15, quality-5)
+prepc_of(quality-5, refereeing-7)
+det(Cup-11, the-9)
+nn(Cup-11, World-10)
+prep_at(refereeing-7, Cup-11)
+aux(source-15, had-12)
+cop(source-15, been-13)
+det(source-15, a-14)
+dep(ARBOR-2, source-15)
+prep_of(source-15, relief-17)
+prep_until(source-15, June-19)
+tmod(disallowed-28, June-19)
+num(June-19, 18-20)
+advmod(disallowed-28, when-22)
+nn(Coulibaly-25, referee-23)
+nn(Coulibaly-25, Koman-24)
+nsubj(disallowed-28, Coulibaly-25)
+prep_of(Coulibaly-25, Mali-27)
+dep(June-19, disallowed-28)
+det(goal-32, a-29)
+advmod(legitimate-31, perfectly-30)
+amod(goal-32, legitimate-31)
+dobj(disallowed-28, goal-32)
+det(States-36, the-34)
+nn(States-36, United-35)
+prep_by(disallowed-28, States-36)
+nsubj(given-40, States-36)
+aux(given-40, would-38)
+aux(given-40, have-39)
+rcmod(States-36, given-40)
+iobj(given-40, it-41)
+det(win-44, an-42)
+amod(win-44, all-important-43)
+dobj(given-40, win-44)
+prep_over(win-44, Slovenia-46)
+

@@ -1,0 +1,407 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNS People))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP live)
+              (PP (IN in)
+                (NP
+                  (NP (DT a) (NN society))
+                  (SBAR
+                    (S
+                      (NP (PRP they))
+                      (VP (VBP hate))))))))))
+      (, ,)
+      (NP
+        (NP (JJ amidst) (NNS people))
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (VB despise)))))
+      (, ,))
+    (VP (MD can) (RB not)
+      (VP (VB contribute)
+        (PP (TO to)
+          (NP (DT a) (VBN shared) (NN future)))))
+    (. .)))
+
+nsubj(live-3, People-1)
+nsubj(contribute-17, People-1)
+rcmod(People-1, live-3)
+det(society-6, a-5)
+prep_in(live-3, society-6)
+dobj(hate-8, society-6)
+nsubj(hate-8, they-7)
+rcmod(society-6, hate-8)
+amod(people-11, amidst-10)
+appos(People-1, people-11)
+dobj(despise-13, people-11)
+nsubj(despise-13, they-12)
+rcmod(people-11, despise-13)
+aux(contribute-17, can-15)
+neg(contribute-17, not-16)
+root(ROOT-0, contribute-17)
+det(future-21, a-19)
+amod(future-21, shared-20)
+prep_to(contribute-17, future-21)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+(ROOT
+  (S
+    (SBAR (IN Since)
+      (S
+        (NP
+          (NP
+            (NP (DT the) (CD two) (NNS parties) (POS '))
+            (NNS leaders))
+          (, ,)
+          (NP
+            (NP (NNP Heinz-Christian) (NNP Strache))
+            (CC and)
+            (NP (NNP J) (NNP rg) (NNP Haider)))
+          (, ,))
+        (VP (VB despise)
+          (NP (DT each) (JJ other)))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ little) (NN chance))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ far-right) (NN coalition))
+            (VP (VBG taking)
+              (NP (NN power)))))))
+    (. .)))
+
+mark(despise-15, Since-1)
+det(parties-4, the-2)
+num(parties-4, two-3)
+poss(leaders-6, parties-4)
+nsubj(despise-15, leaders-6)
+nn(Strache-9, Heinz-Christian-8)
+appos(leaders-6, Strache-9)
+nn(Haider-13, J-11)
+nn(Haider-13, rg-12)
+appos(leaders-6, Haider-13)
+conj_and(Strache-9, Haider-13)
+advcl(is-20, despise-15)
+det(other-17, each-16)
+dobj(despise-15, other-17)
+expl(is-20, there-19)
+root(ROOT-0, is-20)
+amod(chance-22, little-21)
+nsubj(is-20, chance-22)
+det(coalition-26, a-24)
+amod(coalition-26, far-right-25)
+prep_of(chance-22, coalition-26)
+partmod(coalition-26, taking-27)
+dobj(taking-27, power-28)
+
+(ROOT
+  (S
+    (NP (NNP Social) (NNS democrats))
+    (VP (VBD were)
+      (VP
+        (ADVP (RB always))
+        (VBN despised)
+        (UCP
+          (PP (IN by)
+            (NP (NNS communists)))
+          (, ,)
+          (CC and)
+          (ADVP (RB vice) (RB versa)))))
+    (. .)))
+
+nn(democrats-2, Social-1)
+nsubjpass(despised-5, democrats-2)
+auxpass(despised-5, were-3)
+advmod(despised-5, always-4)
+root(ROOT-0, despised-5)
+dep(despised-5, by-6)
+pobj(by-6, communists-7)
+advmod(versa-11, vice-10)
+dep(despised-5, versa-11)
+conj_and(by-6, versa-11)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ 2,640-kilometer) (NNP Durand) (NNP Line))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ British-colonial) (NN invention))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD divided)
+              (NP (DT the) (JJ large) (NNP Pashtun) (NN community))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP it))
+                  (VP (VBD was)
+                    (VP (VBN established)
+                      (PP (IN in)
+                        (NP (CD 1893)))
+                      (PP (IN as)
+                        (NP
+                          (NP (DT the) (NN border))
+                          (PP (IN between)
+                            (NP (NNP British-led) (NNP India)
+                              (CC and)
+                              (NNP Afghanistan)))))))))))))
+      (, ,))
+    (VP (VBZ has)
+      (ADVP (RB long))
+      (VP (VBN been)
+        (VP (VBN despised)
+          (CC and)
+          (VBN rejected)
+          (PP (IN by)
+            (NP (NNP Afghanistan))))))
+    (. .)))
+
+det(Line-4, The-1)
+amod(Line-4, 2,640-kilometer-2)
+nn(Line-4, Durand-3)
+nsubjpass(despised-33, Line-4)
+nsubjpass(rejected-35, Line-4)
+det(invention-8, a-6)
+amod(invention-8, British-colonial-7)
+appos(Line-4, invention-8)
+nsubj(divided-10, invention-8)
+rcmod(invention-8, divided-10)
+det(community-14, the-11)
+amod(community-14, large-12)
+nn(community-14, Pashtun-13)
+dobj(divided-10, community-14)
+advmod(established-18, when-15)
+nsubjpass(established-18, it-16)
+auxpass(established-18, was-17)
+advcl(divided-10, established-18)
+prep_in(established-18, 1893-20)
+det(border-23, the-22)
+prep_as(established-18, border-23)
+nn(India-26, British-led-25)
+prep_between(border-23, India-26)
+prep_between(border-23, Afghanistan-28)
+conj_and(India-26, Afghanistan-28)
+aux(despised-33, has-30)
+advmod(despised-33, long-31)
+auxpass(despised-33, been-32)
+root(ROOT-0, despised-33)
+conj_and(despised-33, rejected-35)
+agent(despised-33, Afghanistan-37)
+
+(ROOT
+  (S
+    (ADVP (RBR Closer)
+      (PP (TO to)
+        (NP (NN home))))
+    (, ,)
+    (NP (DT the) (NNP Kingdom))
+    (VP (VBZ despises)
+      (NP
+        (NP (JJ Syrian) (NNP President) (NNP Bashar))
+        (VP (VBN al-Assad)
+          (PP (IN for)
+            (NP
+              (NP
+                (NP (PRP$ his) (NN alliance))
+                (PP (IN with)
+                  (NP (NNP Iran))))
+              (CC and)
+              (NP
+                (NP (NN duplicity))
+                (PP (IN in)
+                  (NP (NNP Lebanon)))))))))
+    (. .)))
+
+advmod(despises-7, Closer-1)
+prep_to(Closer-1, home-3)
+det(Kingdom-6, the-5)
+nsubj(despises-7, Kingdom-6)
+root(ROOT-0, despises-7)
+amod(Bashar-10, Syrian-8)
+nn(Bashar-10, President-9)
+dobj(despises-7, Bashar-10)
+partmod(Bashar-10, al-Assad-11)
+poss(alliance-14, his-13)
+prep_for(al-Assad-11, alliance-14)
+prep_with(alliance-14, Iran-16)
+prep_for(al-Assad-11, duplicity-18)
+conj_and(alliance-14, duplicity-18)
+prep_in(duplicity-18, Lebanon-20)
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Many))
+      (PP (IN in)
+        (NP
+          (NP (NNP Musharraf) (POS 's))
+          (JJ own) (NN army))))
+    (VP (VB despise)
+      (NP (PRP him))
+      (PP (IN for)
+        (NP (DT the) (JJ same) (NN reason))))
+    (. .)))
+
+nsubj(despise-7, Many-1)
+poss(army-6, Musharraf-3)
+amod(army-6, own-5)
+prep_in(Many-1, army-6)
+root(ROOT-0, despise-7)
+dobj(despise-7, him-8)
+det(reason-12, the-10)
+amod(reason-12, same-11)
+prep_for(despise-7, reason-12)
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG deposing)
+          (NP (PRP$ his) (NN father))
+          (PP (IN in)
+            (NP
+              (NP (DT a) (NN palace) (NN coup))
+              (PP (IN in)
+                (NP (CD 1995))))))))
+    (, ,)
+    (NP (NNP Al) (NNP Thani))
+    (VP (VBD was)
+      (ADVP (RB suddenly))
+      (VP (VBN confronted)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (JJ hostile) (JJ Saudi) (NNP Arabia)
+              (CC and)
+              (NNP Egypt))
+            (, ,)
+            (SBAR
+              (WHNP (WP$ whose) (NNS elites))
+              (S
+                (VP
+                  (VP (VBN despised)
+                    (NP (DT the) (JJ ambitious) (JJ young) (NN ruler)))
+                  (CC and)
+                  (VP (VBN preferred)
+                    (NP (PRP$ his)
+                      (ADJP (RBR more) (JJ timid))
+                      (NN father))))))))))
+    (. .)))
+
+prepc_after(confronted-16, deposing-2)
+poss(father-4, his-3)
+dobj(deposing-2, father-4)
+det(coup-8, a-6)
+nn(coup-8, palace-7)
+prep_in(deposing-2, coup-8)
+prep_in(coup-8, 1995-10)
+nn(Thani-13, Al-12)
+nsubjpass(confronted-16, Thani-13)
+auxpass(confronted-16, was-14)
+advmod(confronted-16, suddenly-15)
+root(ROOT-0, confronted-16)
+det(Arabia-21, a-18)
+amod(Arabia-21, hostile-19)
+amod(Arabia-21, Saudi-20)
+prep_with(confronted-16, Arabia-21)
+poss(elites-26, Arabia-21)
+prep_with(confronted-16, Egypt-23)
+conj_and(Arabia-21, Egypt-23)
+poss(elites-26, Egypt-23)
+nsubj(despised-27, elites-26)
+nsubj(preferred-33, elites-26)
+rcmod(Arabia-21, despised-27)
+det(ruler-31, the-28)
+amod(ruler-31, ambitious-29)
+amod(ruler-31, young-30)
+dobj(despised-27, ruler-31)
+rcmod(Arabia-21, preferred-33)
+conj_and(despised-27, preferred-33)
+poss(father-37, his-34)
+advmod(timid-36, more-35)
+amod(father-37, timid-36)
+dobj(preferred-33, father-37)
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN invasion))
+        (PP (IN of)
+          (NP (NNP Iraq))))
+      (VP (VBD destroyed)
+        (NP (DT a)
+          (ADJP (RB very) (JJ unpleasant))
+          (NN tyranny))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP
+        (VP (VBZ has)
+          (VP (VBN inspired)
+            (NP
+              (NP (DT a) (NN wave))
+              (PP (IN of)
+                (NP (NN hatred))))
+            (PP (IN towards)
+              (NP (DT the) (NNP West)))
+            (, ,)
+            (PP (RB even) (IN among)
+              (NP
+                (NP (DT those))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBN despised)
+                      (NP (NNP Saddam)))))))))
+        (, ,)
+        (CC and)
+        (VP (VBZ has)
+          (VP (VBN divided)
+            (NP
+              (NP (DT the) (NN West))
+              (PP (IN against)
+                (NP (PRP itself))))))))
+    (. .)))
+
+det(invasion-2, The-1)
+nsubj(destroyed-5, invasion-2)
+prep_of(invasion-2, Iraq-4)
+root(ROOT-0, destroyed-5)
+det(tyranny-9, a-6)
+advmod(unpleasant-8, very-7)
+amod(tyranny-9, unpleasant-8)
+dobj(destroyed-5, tyranny-9)
+nsubj(inspired-14, it-12)
+nsubj(divided-32, it-12)
+aux(inspired-14, has-13)
+conj_but(destroyed-5, inspired-14)
+det(wave-16, a-15)
+dobj(inspired-14, wave-16)
+prep_of(wave-16, hatred-18)
+det(West-21, the-20)
+prep_towards(inspired-14, West-21)
+advmod(inspired-14, even-23)
+prep_among(inspired-14, those-25)
+nsubj(despised-27, those-25)
+rcmod(those-25, despised-27)
+dobj(despised-27, Saddam-28)
+aux(divided-32, has-31)
+conj_but(destroyed-5, divided-32)
+conj_and(inspired-14, divided-32)
+det(West-34, the-33)
+dobj(divided-32, West-34)
+prep_against(West-34, itself-36)
+

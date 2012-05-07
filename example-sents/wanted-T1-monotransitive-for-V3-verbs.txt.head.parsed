@@ -1,0 +1,428 @@
+(ROOT
+  (S
+    (NP (NNP Musharraf))
+    (VP
+      (VP (VBD was) (RB not)
+        (ADJP (JJ ready)
+          (S
+            (VP (TO to)
+              (VP (VB give)
+                (PRT (RP up))
+                (NP (PRP$ his) (JJ military) (NN post)))))))
+      (, ,)
+      (CC but)
+      (VP
+        (ADVP (RB also))
+        (VBD wanted)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP (DT a) (JJ civilian) (NN president)))))))
+    (. .)))
+
+nsubj(ready-4, Musharraf-1)
+nsubj(wanted-14, Musharraf-1)
+xsubj(president-19, Musharraf-1)
+cop(ready-4, was-2)
+neg(ready-4, not-3)
+root(ROOT-0, ready-4)
+aux(give-6, to-5)
+xcomp(ready-4, give-6)
+prt(give-6, up-7)
+poss(post-10, his-8)
+amod(post-10, military-9)
+dobj(give-6, post-10)
+advmod(wanted-14, also-13)
+conj_but(ready-4, wanted-14)
+aux(president-19, to-15)
+cop(president-19, be-16)
+det(president-19, a-17)
+amod(president-19, civilian-18)
+xcomp(wanted-14, president-19)
+
+(ROOT
+  (S
+    (NP (DT The) (NN military))
+    (VP (VBD had)
+      (VP (VBN developed)
+        (NP
+          (NP (DT an) (JJ entrenched) (NN distrust))
+          (PP (IN of)
+            (NP (PRP her)))
+          (, ,)
+          (VP (VBN given)
+            (NP (PRP$ her) (NN position))
+            (SBAR (IN as)
+              (S
+                (NP (DT a) (NN popularly))
+                (VP (VBD supported)
+                  (NP
+                    (NP (JJ pro-Western) (NN leader))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD wanted)
+                          (NP (NN peace))
+                          (PP (IN with)
+                            (NP (NNP India))))))))))))))
+    (. .)))
+
+det(military-2, The-1)
+nsubj(developed-4, military-2)
+aux(developed-4, had-3)
+root(ROOT-0, developed-4)
+det(distrust-7, an-5)
+amod(distrust-7, entrenched-6)
+dobj(developed-4, distrust-7)
+prep_of(distrust-7, her-9)
+partmod(distrust-7, given-11)
+poss(position-13, her-12)
+dobj(given-11, position-13)
+mark(supported-17, as-14)
+det(popularly-16, a-15)
+nsubj(supported-17, popularly-16)
+advcl(given-11, supported-17)
+amod(leader-19, pro-Western-18)
+dobj(supported-17, leader-19)
+nsubj(wanted-21, leader-19)
+rcmod(leader-19, wanted-21)
+dobj(wanted-21, peace-22)
+prep_with(wanted-21, India-24)
+
+(ROOT
+  (S
+    (NP (NNP Anonymity))
+    (VP (VBD was) (RB not)
+      (NP (PRP$ their) (NN goal)))
+    (. .)))
+
+nsubj(goal-5, Anonymity-1)
+cop(goal-5, was-2)
+neg(goal-5, not-3)
+poss(goal-5, their-4)
+root(ROOT-0, goal-5)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD wanted)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN identified)
+              (PP (IN as)
+                (NP
+                  (NP (NNS defenders))
+                  (PP (IN of)
+                    (NP (DT a) (NN cause))))))))))
+    (. .)))
+
+nsubj(wanted-2, They-1)
+xsubj(identified-5, They-1)
+root(ROOT-0, wanted-2)
+aux(identified-5, to-3)
+auxpass(identified-5, be-4)
+xcomp(wanted-2, identified-5)
+prep_as(identified-5, defenders-7)
+det(cause-10, a-9)
+prep_of(defenders-7, cause-10)
+
+(ROOT
+  (S
+    (ADVP (RB Moreover))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD wanted)
+      (NP (NN payback))
+      (PP (IN for)
+        (NP
+          (NP (NNP India) (POS 's))
+          (NN role)))
+      (PP (IN in)
+        (S
+          (VP (VBG supporting)
+            (NP
+              (NP (DT the) (NN revolt))
+              (PP (IN in)
+                (NP
+                  (NP
+                    (NP (DT the) (NN 1960) (POS 's))
+                    (CC and)
+                    (NP (CD 1970) (POS 's)))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD led)
+                        (PP (TO to)
+                          (NP
+                            (NP (NNP Bangladesh) (POS 's))
+                            (NN independence)))
+                        (PP (IN from)
+                          (NP (NNP Pakistan)))))))))))))
+    (. .)))
+
+advmod(wanted-4, Moreover-1)
+nsubj(wanted-4, they-3)
+root(ROOT-0, wanted-4)
+dobj(wanted-4, payback-5)
+poss(role-9, India-7)
+prep_for(wanted-4, role-9)
+prepc_in(wanted-4, supporting-11)
+det(revolt-13, the-12)
+dobj(supporting-11, revolt-13)
+det(1960-16, the-15)
+prep_in(revolt-13, 1960-16)
+nsubj(led-22, 1960-16)
+possessive(1960-16, 's-17)
+prep_in(revolt-13, 1970-19)
+conj_and(1960-16, 1970-19)
+nsubj(led-22, 1970-19)
+rcmod(1960-16, led-22)
+poss(independence-26, Bangladesh-24)
+prep_to(led-22, independence-26)
+prep_from(led-22, Pakistan-28)
+
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS organizers))
+      (PP (IN of)
+        (NP (DT the) (NN exhibition))))
+    (VP (VBD stated)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBD wanted)
+            (S
+              (VP (TO to)
+                (VP (VB attract)
+                  (NP (NN attention))
+                  (PP (TO to)
+                    (NP
+                      (NP (DT the) (JJ new) (NN role))
+                      (PP (IN of)
+                        (NP
+                          (NP (JJ religious) (NNS institutions))
+                          (PP (IN in)
+                            (NP (JJ Russian) (NN life))))))))))))))
+    (. .)))
+
+det(organizers-2, The-1)
+nsubj(stated-6, organizers-2)
+det(exhibition-5, the-4)
+prep_of(organizers-2, exhibition-5)
+root(ROOT-0, stated-6)
+complm(wanted-9, that-7)
+nsubj(wanted-9, they-8)
+xsubj(attract-11, they-8)
+ccomp(stated-6, wanted-9)
+aux(attract-11, to-10)
+xcomp(wanted-9, attract-11)
+dobj(attract-11, attention-12)
+det(role-16, the-14)
+amod(role-16, new-15)
+prep_to(attract-11, role-16)
+amod(institutions-19, religious-18)
+prep_of(role-16, institutions-19)
+amod(life-22, Russian-21)
+prep_in(institutions-19, life-22)
+
+(ROOT
+  (S
+    (PP (RB Even)
+      (PP (IN before)
+        (NP
+          (NP (NNP Estrada) (POS 's))
+          (NN conviction))))
+    (, ,)
+    (NP (NN opinion) (NNS polls))
+    (VP (VBD showed)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (CD 48) (NN %))
+            (PP (IN of)
+              (NP (NNPS Filipinos))))
+          (VP (VBD wanted)
+            (NP
+              (NP (NN clemency))
+              (, ,)
+              (CONJP (IN if) (RB not))
+              (NP
+                (NP (DT a) (VBN guaranteed) (NN pardon))
+                (PP (IN from)
+                  (NP (NNP Arroyo)))))))))
+    (. .)))
+
+advmod(showed-9, Even-1)
+advcl(showed-9, before-2)
+poss(conviction-5, Estrada-3)
+prep_before(showed-9, conviction-5)
+nn(polls-8, opinion-7)
+nsubj(showed-9, polls-8)
+root(ROOT-0, showed-9)
+complm(wanted-15, that-10)
+num(%-12, 48-11)
+nsubj(wanted-15, %-12)
+prep_of(%-12, Filipinos-14)
+ccomp(showed-9, wanted-15)
+dobj(wanted-15, clemency-16)
+det(pardon-22, a-20)
+amod(pardon-22, guaranteed-21)
+dobj(wanted-15, pardon-22)
+conj_negcc(clemency-16, pardon-22)
+prep_from(pardon-22, Arroyo-24)
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP (NN government))
+          (VP (VBZ guarantees)
+            (NP (DT a) (NN job))))))
+    (VP (VBZ implies)
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ its) (NN output))
+          (VP (VBZ is) (RB not)
+            (VP (VBN wanted))))))
+    (. .)))
+
+det(fact-2, The-1)
+nsubj(implies-8, fact-2)
+complm(guarantees-5, that-3)
+nsubj(guarantees-5, government-4)
+dep(fact-2, guarantees-5)
+det(job-7, a-6)
+dobj(guarantees-5, job-7)
+root(ROOT-0, implies-8)
+complm(wanted-14, that-9)
+poss(output-11, its-10)
+nsubjpass(wanted-14, output-11)
+auxpass(wanted-14, is-12)
+neg(wanted-14, not-13)
+ccomp(implies-8, wanted-14)
+
+(ROOT
+  (S
+    (ADVP (RB Ironically))
+    (, ,)
+    (S
+      (NP (DT this))
+      (VP (VBD was)
+        (SBAR
+          (WHNP (WP what))
+          (S
+            (NP
+              (NP
+                (NP (DT the) (NN ruling) (NNP Supreme) (NNP Council))
+                (PP (IN of)
+                  (NP (DT the) (NNP Armed) (NNPS Forces))))
+              (PRN (-LRB- -LRB-)
+                (NP (NNP SCAF))
+                (-RRB- -RRB-)))
+            (VP (VBD wanted))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP (VBN achieved)
+          (PP (IN at)
+            (NP
+              (NP (DT no) (NN cost))
+              (PP (IN in)
+                (NP (NN violence)
+                  (CC or)
+                  (JJ military) (NNS tribunals))))))))
+    (. .)))
+
+advmod(was-4, Ironically-1)
+nsubj(was-4, this-3)
+root(ROOT-0, was-4)
+dobj(wanted-17, what-5)
+det(Council-9, the-6)
+nn(Council-9, ruling-7)
+nn(Council-9, Supreme-8)
+nsubj(wanted-17, Council-9)
+det(Forces-13, the-11)
+nn(Forces-13, Armed-12)
+prep_of(Council-9, Forces-13)
+abbrev(Council-9, SCAF-15)
+ccomp(was-4, wanted-17)
+nsubjpass(achieved-22, it-20)
+auxpass(achieved-22, was-21)
+conj_and(was-4, achieved-22)
+det(cost-25, no-24)
+prep_at(achieved-22, cost-25)
+nn(tribunals-30, violence-27)
+conj_or(violence-27, military-29)
+nn(tribunals-30, military-29)
+prep_in(cost-25, tribunals-30)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (JJ early) (CD 1990) (NNS 's)))
+    (, ,)
+    (NP
+      (NP (JJ many) (NNS westerners))
+      (CC and)
+      (NP (NNPS Russians)))
+    (VP (VBD wanted)
+      (S
+        (NP (NNP Russia))
+        (VP (TO to)
+          (VP (VB become)
+            (NP
+              (NP (DT a) (JJ full-fledged) (NN member))
+              (PP (IN of)
+                (NP (PDT both)
+                  (NP (DT the) (NNP European) (NNP Union))
+                  (CC and)
+                  (NP (NNP NATO)))))
+            (, ,)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN condition))
+                (SBAR (IN that)
+                  (S
+                    (NP (NNP Russia))
+                    (VP (VBD became)
+                      (NP (DT a) (JJ full-fledged) (NN democracy)))))))))))
+    (. .)))
+
+det('s-5, the-2)
+amod('s-5, early-3)
+num('s-5, 1990-4)
+prep_in(wanted-11, 's-5)
+amod(westerners-8, many-7)
+nsubj(wanted-11, westerners-8)
+conj_and(westerners-8, Russians-10)
+nsubj(wanted-11, Russians-10)
+root(ROOT-0, wanted-11)
+nsubj(member-17, Russia-12)
+aux(member-17, to-13)
+cop(member-17, become-14)
+det(member-17, a-15)
+amod(member-17, full-fledged-16)
+xcomp(wanted-11, member-17)
+preconj(Union-22, both-19)
+det(Union-22, the-20)
+nn(Union-22, European-21)
+prep_of(member-17, Union-22)
+prep_of(member-17, NATO-24)
+conj_and(Union-22, NATO-24)
+det(condition-28, the-27)
+prep_on(member-17, condition-28)
+complm(democracy-34, that-29)
+nsubj(democracy-34, Russia-30)
+cop(democracy-34, became-31)
+det(democracy-34, a-32)
+amod(democracy-34, full-fledged-33)
+dep(condition-28, democracy-34)
+

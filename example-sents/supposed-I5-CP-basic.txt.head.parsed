@@ -1,0 +1,469 @@
+Sentence skipped: no PCFG fallback.
+SENTENCE_SKIPPED_OR_UNPARSABLE
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ American-led) (NN invasion))
+      (PP (IN of)
+        (NP (NNP Iraq))))
+    (VP (VBD was)
+      (VP (VBN supposed)
+        (S
+          (VP (TO to)
+            (VP (VB begin)
+              (NP
+                (NP (DT a) (NN process))
+                (PP (IN of)
+                  (NP (NN transformation))))
+              (PP (IN across)
+                (NP (DT the) (NNP Middle) (NNP East))))))))
+    (. .)))
+
+det(invasion-3, The-1)
+amod(invasion-3, American-led-2)
+nsubjpass(supposed-7, invasion-3)
+xsubj(begin-9, invasion-3)
+prep_of(invasion-3, Iraq-5)
+auxpass(supposed-7, was-6)
+root(ROOT-0, supposed-7)
+aux(begin-9, to-8)
+xcomp(supposed-7, begin-9)
+det(process-11, a-10)
+dobj(begin-9, process-11)
+prep_of(process-11, transformation-13)
+det(East-17, the-15)
+nn(East-17, Middle-16)
+prep_across(begin-9, East-17)
+
+(ROOT
+  (S
+    (NP (DT This) (NN system))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB supposedly) (RBR more) (JJ egalitarian))
+        (PP (IN than)
+          (NP
+            (NP
+              (NP (NNP America) (POS 's))
+              (NN system))
+            (PP (IN of)
+              (NP
+                (NP (JJR higher) (NN education))
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP (JJ many) (NNPS Europeans))
+                    (VP (VBP look)
+                      (PRT (RP down))
+                      (PP (IN on)
+                        (PP (IN as)
+                          (NP (NN elitist)))))))))))))
+    (. .)))
+
+det(system-2, This-1)
+nsubj(egalitarian-6, system-2)
+cop(egalitarian-6, is-3)
+advmod(egalitarian-6, supposedly-4)
+advmod(egalitarian-6, more-5)
+root(ROOT-0, egalitarian-6)
+poss(system-10, America-8)
+prep_than(egalitarian-6, system-10)
+amod(education-13, higher-12)
+prep_of(system-10, education-13)
+dobj(look-18, education-13)
+rel(look-18, which-15)
+amod(Europeans-17, many-16)
+nsubj(look-18, Europeans-17)
+rcmod(education-13, look-18)
+prt(look-18, down-19)
+prep(look-18, on-20)
+pcomp(on-20, as-21)
+prep_as(on-20, elitist-22)
+
+(ROOT
+  (S
+    (NP (DT This) (NN process))
+    (VP (VBZ is)
+      (ADVP (RB supposedly))
+      (VP (VBN designed)
+        (S
+          (VP (TO to)
+            (VP (`` ``) (VB guarantee) ('' ''))))
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (JJS best))
+            (VP (VBP are)
+              (VP (VBN appointed)))))))
+    (. .)))
+
+det(process-2, This-1)
+nsubjpass(designed-5, process-2)
+xsubj(guarantee-8, process-2)
+auxpass(designed-5, is-3)
+advmod(designed-5, supposedly-4)
+root(ROOT-0, designed-5)
+aux(guarantee-8, to-6)
+xcomp(designed-5, guarantee-8)
+complm(appointed-14, that-10)
+det(best-12, the-11)
+nsubjpass(appointed-14, best-12)
+auxpass(appointed-14, are-13)
+ccomp(designed-5, appointed-14)
+
+(ROOT
+  (S (CC But)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ facile)
+        (S
+          (VP (TO to)
+            (VP (VB jump)
+              (PP (IN from)
+                (NP (JJ individual) (JJ corporate) (NNS scandals)))
+              (PP (TO to)
+                (NP
+                  (NP (JJ broad) (NNS conclusions))
+                  (PP (IN about)
+                    (NP
+                      (NP (DT the) (VBN supposed) (NNS rottenness))
+                      (PP (IN of)
+                        (NP (DT the) (JJ American) (NN economy))))))))))))
+    (. .)))
+
+cc(facile-4, But-1)
+nsubj(facile-4, it-2)
+cop(facile-4, is-3)
+root(ROOT-0, facile-4)
+aux(jump-6, to-5)
+xcomp(facile-4, jump-6)
+amod(scandals-10, individual-8)
+amod(scandals-10, corporate-9)
+prep_from(jump-6, scandals-10)
+amod(conclusions-13, broad-12)
+prep_to(jump-6, conclusions-13)
+det(rottenness-17, the-15)
+amod(rottenness-17, supposed-16)
+prep_about(conclusions-13, rottenness-17)
+det(economy-21, the-19)
+amod(economy-21, American-20)
+prep_of(rottenness-17, economy-21)
+
+(ROOT
+  (S
+    (NP (DT The) (JJ European) (NN poor))
+    (VP (VBP do) (RB not)
+      (VP (VB have)
+        (UCP
+          (PP (JJ such)
+            (NP (NN mobility)))
+          (CC and)
+          (RB thus)
+          (SBAR
+            (S
+              (VP (VBP lack)
+                (NP (DT the) (VBN supposed) (NN chance))
+                (SBAR (IN that)
+                  (S
+                    (NP (JJ poor) (NNPS Americans))
+                    (VP (VBP possess))))))))))
+    (. .)))
+
+det(poor-3, The-1)
+amod(poor-3, European-2)
+nsubj(have-6, poor-3)
+aux(have-6, do-4)
+neg(have-6, not-5)
+root(ROOT-0, have-6)
+dep(have-6, such-7)
+dep(such-7, mobility-8)
+dep(have-6, thus-10)
+conj_and(such-7, thus-10)
+dep(such-7, lack-11)
+det(chance-14, the-12)
+amod(chance-14, supposed-13)
+dobj(lack-11, chance-14)
+complm(possess-18, that-15)
+amod(Americans-17, poor-16)
+nsubj(possess-18, Americans-17)
+ccomp(lack-11, possess-18)
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (JJ other) (NNS words)))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ ideological) (NNS differences))
+      (PP (IN across)
+        (NP (DT the) (NNP Atlantic))))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB much) (JJR larger))
+        (PP (IN than)
+          (NP
+            (NP
+              (NP (JJ actual) (NNS differences))
+              (PP (IN in)
+                (NP (JJ social) (NN mobility))))
+            (CC and)
+            (NP
+              (NP (DT the) (VBN supposed) (NNS laziness))
+              (PP (IN of)
+                (NP (DT the) (JJ poor))))))))
+    (. .)))
+
+amod(words-3, other-2)
+prep_in(larger-13, words-3)
+det(differences-7, the-5)
+amod(differences-7, ideological-6)
+nsubj(larger-13, differences-7)
+det(Atlantic-10, the-9)
+prep_across(differences-7, Atlantic-10)
+cop(larger-13, are-11)
+advmod(larger-13, much-12)
+root(ROOT-0, larger-13)
+amod(differences-16, actual-15)
+prep_than(larger-13, differences-16)
+amod(mobility-19, social-18)
+prep_in(differences-16, mobility-19)
+det(laziness-23, the-21)
+amod(laziness-23, supposed-22)
+prep_than(larger-13, laziness-23)
+conj_and(differences-16, laziness-23)
+det(poor-26, the-25)
+prep_of(laziness-23, poor-26)
+
+(ROOT
+  (S
+    (SBAR (IN Because)
+      (S
+        (NP (PRP they))
+        (VP (VBP know)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP
+                (ADJP (RB supposedly) (`` ``) (JJ innocent) ('' ''))
+                (NNS insinuations))
+              (VP (VBP grow)
+                (PP (IN into)
+                  (NP
+                    (NP (NNS accusations))
+                    (CC and)
+                    (NP (DT that) (NNS accusations))))))))))
+    (VP (MD can)
+      (VP
+        (VP (VB become)
+          (NP (NN discrimination)))
+        (CC and)
+        (VP
+          (ADVP (RB soon))
+          (PP (IN after)
+            (NP (NN legislation))))))
+    (. .)))
+
+mark(know-3, Because-1)
+nsubj(know-3, they-2)
+csubj(discrimination-18, know-3)
+advmod(grow-10, how-4)
+advmod(innocent-7, supposedly-5)
+amod(insinuations-9, innocent-7)
+nsubj(grow-10, insinuations-9)
+ccomp(know-3, grow-10)
+prep_into(grow-10, accusations-12)
+det(accusations-15, that-14)
+prep_into(grow-10, accusations-15)
+conj_and(accusations-12, accusations-15)
+aux(discrimination-18, can-16)
+cop(discrimination-18, become-17)
+root(ROOT-0, discrimination-18)
+conj_and(discrimination-18, soon-20)
+prep_after(soon-20, legislation-22)
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADVP (RB then))
+      (SBAR (IN that)
+        (S
+          (NP (NN hysteria))
+          (VP (VBZ is)
+            (VP (VBN set)
+              (S
+                (ADJP (RB loose))))))))
+    (. .)))
+
+nsubj(is-2, It-1)
+root(ROOT-0, is-2)
+advmod(is-2, then-3)
+complm(set-7, that-4)
+nsubjpass(set-7, hysteria-5)
+auxpass(set-7, is-6)
+ccomp(is-2, set-7)
+dep(set-7, loose-8)
+
+(ROOT
+  (S
+    (ADVP (RB Regardless)
+      (PP (IN of)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (NP (DT this) (NN crisis))
+            (VP (VBZ develops)
+              (PP (IN from)
+                (NP (DT this) (NN point))))))))
+    (, ,)
+    (NP (DT the) (NNP UN))
+    (VP (VBZ has)
+      (VP (VBN neglected)
+        (NP (PRP$ its) (NNS duties))
+        (PP (IN by)
+          (S
+            (VP (VBG asking)
+              (NP (DT a) (NN wimp)
+                (S
+                  (VP (TO to)
+                    (VP (VB lead)
+                      (NP
+                        (NP (DT the) (NNS inspectors))
+                        (SBAR
+                          (WHNP (WP who))
+                          (S
+                            (VP (VBP are)
+                              (VP (VBN supposed)
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB stand)
+                                      (PRT (RP up))
+                                      (PP (TO to)
+                                        (NP
+                                          (NP (DT the) (NN brute))
+                                          (PP (IN of)
+                                            (NP (NNP Baghdad))))))))))))))))))))))
+    (. .)))
+
+advmod(develops-6, how-3)
+det(crisis-5, this-4)
+nsubj(develops-6, crisis-5)
+prepc_regardless_of(neglected-14, develops-6)
+det(point-9, this-8)
+prep_from(develops-6, point-9)
+det(UN-12, the-11)
+nsubj(neglected-14, UN-12)
+aux(neglected-14, has-13)
+root(ROOT-0, neglected-14)
+poss(duties-16, its-15)
+dobj(neglected-14, duties-16)
+prepc_by(neglected-14, asking-18)
+det(wimp-20, a-19)
+dobj(asking-18, wimp-20)
+aux(lead-22, to-21)
+infmod(wimp-20, lead-22)
+det(inspectors-24, the-23)
+dobj(lead-22, inspectors-24)
+nsubjpass(supposed-27, inspectors-24)
+auxpass(supposed-27, are-26)
+rcmod(inspectors-24, supposed-27)
+aux(stand-29, to-28)
+xcomp(supposed-27, stand-29)
+prt(stand-29, up-30)
+det(brute-33, the-32)
+prep_to(stand-29, brute-33)
+prep_of(brute-33, Baghdad-35)
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (, ,)
+    (S
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN case))
+          (PP (IN of)
+            (NP (NN gender)))))
+      (, ,)
+      (NP
+        (NP (DT those))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP identify)
+              (SBAR (IN as)
+                (S
+                  (NP (NNS men))
+                  (ADVP (RB also))
+                  (VP (VBP want)
+                    (S
+                      (VP (TO to)
+                        (VP (VB behave)
+                          (PP (IN as)
+                            (NP (NNS men)))))))))))))
+      (VP (VBP are)
+        (VP (VBN supposed)
+          (S
+            (VP (TO to)
+              (VP (VB behave)))))))
+    (: ;)
+    (S
+      (NP
+        (NP (DT those))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBP identify)
+              (SBAR (IN as)
+                (S
+                  (NP (NNS women))
+                  (VP (VBP want)
+                    (S
+                      (VP (TO to)
+                        (VP (VB behave)
+                          (PP (IN as)
+                            (NP (NNS women)))))))))))))
+      (VP (VBP are)
+        (VP (VBN supposed)
+          (S
+            (VP (TO to)
+              (VP (VB behave)))))))
+    (. .)))
+
+prep_for(supposed-22, example-2)
+det(case-6, the-5)
+prep_in(supposed-22, case-6)
+prep_of(case-6, gender-8)
+nsubj(identify-12, those-10)
+nsubjpass(supposed-22, those-10)
+xsubj(behave-24, those-10)
+rcmod(those-10, identify-12)
+mark(want-16, as-13)
+nsubj(want-16, men-14)
+xsubj(behave-18, men-14)
+advmod(want-16, also-15)
+advcl(identify-12, want-16)
+aux(behave-18, to-17)
+xcomp(want-16, behave-18)
+prep_as(behave-18, men-20)
+auxpass(supposed-22, are-21)
+root(ROOT-0, supposed-22)
+aux(behave-24, to-23)
+xcomp(supposed-22, behave-24)
+nsubj(identify-28, those-26)
+nsubjpass(supposed-37, those-26)
+xsubj(behave-39, those-26)
+rcmod(those-26, identify-28)
+mark(want-31, as-29)
+nsubj(want-31, women-30)
+xsubj(behave-33, women-30)
+advcl(identify-28, want-31)
+aux(behave-33, to-32)
+xcomp(want-31, behave-33)
+prep_as(behave-33, women-35)
+auxpass(supposed-37, are-36)
+parataxis(supposed-22, supposed-37)
+aux(behave-39, to-38)
+xcomp(supposed-37, behave-39)
+

@@ -1,0 +1,36 @@
+(ROOT
+  (S (CC But)
+    (NP (PRP it))
+    (VP (VBZ seems)
+      (ADJP (JJ absurd))
+      (SBAR (IN that)
+        (S
+          (NP (DT this))
+          (VP (MD should)
+            (VP (VB make)
+              (NP (DT any) (NN difference))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN morality))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG aborting)
+                        (NP (DT the) (NN fetus))))))))))))
+    (. .)))
+
+cc(absurd-4, But-1)
+nsubj(absurd-4, it-2)
+cop(absurd-4, seems-3)
+root(ROOT-0, absurd-4)
+complm(make-8, that-5)
+nsubj(make-8, this-6)
+aux(make-8, should-7)
+ccomp(absurd-4, make-8)
+det(difference-10, any-9)
+dobj(make-8, difference-10)
+det(morality-13, the-12)
+prep_to(make-8, morality-13)
+prepc_of(morality-13, aborting-15)
+det(fetus-17, the-16)
+dobj(aborting-15, fetus-17)
+
