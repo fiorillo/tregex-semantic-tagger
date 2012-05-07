@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < passing  $.. (NP < /^NN/ $.. (NP [ < /^NN/=target | < PRP=target ]))
+
+insert (TargNotEffort) >1 target
+
+insert (TrigNotEffort) >2 trigger

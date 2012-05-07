@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < VoicePassive < aspire $.. (S < (VB=target !< AUX))
+
+insert (TrigWant) >2 trigger
+
+insert (TargWant) >2 target

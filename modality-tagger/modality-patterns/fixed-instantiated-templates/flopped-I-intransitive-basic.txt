@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < flopped  $,, (NP [ < /^NN/=target | < PRP=target ]) 
+
+insert (TargNotSucceed) >1 target
+
+insert (TrigNotSucceed) >2 trigger

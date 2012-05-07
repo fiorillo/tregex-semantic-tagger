@@ -1,0 +1,6 @@
+MD=modal !< /^Trig/ < must $ (VB=verb !< AUX)
+
+insert  (TargBelief) >2 verb
+
+insert (TrigBelief) >1 modal
+

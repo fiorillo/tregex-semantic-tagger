@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < works $.. (S [< JJ=target | < ADVP=target] !< VB)
+
+insert (TargEffort) >1 target
+
+insert (TrigEffort) >2 trigger

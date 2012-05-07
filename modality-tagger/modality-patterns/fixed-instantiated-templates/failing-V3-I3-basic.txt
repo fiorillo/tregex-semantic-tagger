@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < failing  $.. (S < (VB=target !< AUX))
+
+insert (TargNotSucceed) >2 target
+
+insert (TrigNotSucceed) >2 trigger

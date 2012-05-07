@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < dislike  $.. (S < (VB=target !< AUX))
+
+insert (TargNotWant) >2 target
+
+insert (TrigNotWant) >2 trigger

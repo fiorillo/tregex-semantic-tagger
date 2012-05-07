@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < accomplished  $.. (NP [ < /^NN/=target | < PRP=target ])
+
+insert (TargSucceed) >1 target
+
+insert (TrigSucceed) >2 trigger

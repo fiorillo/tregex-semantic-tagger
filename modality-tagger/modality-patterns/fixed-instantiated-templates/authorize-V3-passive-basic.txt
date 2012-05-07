@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < VoicePassive < authorize $.. (S < (VB=target !< AUX))
+
+insert (TrigPermit) >2 trigger
+
+insert (TargPermit) >2 target

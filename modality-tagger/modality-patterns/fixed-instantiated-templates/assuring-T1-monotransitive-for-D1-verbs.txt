@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < assuring  $.. (NP [ < /^NN/=target | < PRP=target ] !$.. NP)
+
+insert (TargFirmBelief) >1 target
+
+insert (TrigFirmBelief) >2 trigger
