@@ -1,4 +1,4 @@
-RB=trigger !< TrigNeg & [ <  not | < n't  ]  $.. (VP < (VB=target !< AUX)) 
+RB=trigger !< TrigNeg & [ <  not | < n't  ]  $.. (VP < (VB=target !< AUX))
 
 insert (TrigNegation) >1 trigger
 insert (TargNegation) >2 target
