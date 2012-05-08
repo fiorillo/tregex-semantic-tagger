@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN constitution))
+          (PRN (-LRB- -LRB-)
+            (VP
+              (ADVP (RB originally))
+              (VBD promulgated)
+              (PP (IN in)
+                (NP (CD 1973)))
+              (PP (IN by)
+                (NP (DT an) (VBN elected) (NN parliament))))
+            (-RRB- -RRB-)))))
+    (, ,)
+    (NP (DT a) (JJ serving) (JJ military) (NN official))
+    (VP (MD can)
+      (RB
+        TrigNegation
+        not)
+      (VP
+        (VB
+          run
+          TargNegation)
+        (PP (IN for)
+          (NP (DT an) (VBN elected) (NN office)))))
+    (. .)))
+
