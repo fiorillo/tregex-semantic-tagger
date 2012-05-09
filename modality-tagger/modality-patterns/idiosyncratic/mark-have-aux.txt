@@ -1,4 +1,4 @@
-VB=have-verb [ < have | < has | < having | < had ]  &  [$ (VB < N) ] & [ !< AUX ]
+VB=have-verb [ < have | < has | < having | < had ]  &  [$ (VP < (VB < N)) ] & [ !< AUX ]
 
 insert (AUX) >2 have-verb
 

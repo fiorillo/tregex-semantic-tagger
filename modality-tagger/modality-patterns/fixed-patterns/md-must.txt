@@ -1,0 +1,4 @@
+MD=modal !< /^Trig/  < must  $ (VP < (VB=verb !< AUX)) !$ (VP < (VB < have < AUX))
+
+insert (TrigRequire) >1 modal
+insert  (TargRequire) >2 verb

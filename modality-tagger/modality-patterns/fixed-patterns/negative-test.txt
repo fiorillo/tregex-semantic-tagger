@@ -1,0 +1,7 @@
+RB=trigger  !< TrigNeg >  (ADVP $.. (VB=target !< AUX))
+
+insert (TrigNeg) >1 trigger
+
+insert (TargNeg) >2 target
+
+

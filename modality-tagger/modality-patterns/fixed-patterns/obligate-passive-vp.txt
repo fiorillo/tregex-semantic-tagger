@@ -1,0 +1,11 @@
+VB=trigger !< /^Trig/ < VoicePassive < obligated $.. (S < (VB=target !< AUX))
+
+insert (TrigReq) >2 trigger
+
+insert (TargReq) >2 target
+
+
+
+
+
+

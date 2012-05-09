@@ -1,0 +1,13 @@
+VB=trigger !< /^Trig/ & [ < permit | < permits | < permitting | < permitted ] $.. (S < (VB=target !< AUX))
+
+insert (TargPerm) >2 target
+
+insert (TrigPerm) >2 trigger
+
+
+
+
+
+
+
+

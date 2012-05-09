@@ -1,0 +1,5 @@
+ADJP < (JJ=trigger !< /^Trig/ < useless) $.. (PP < (IN < in) [ < /^NN/=target | < PRP=target ])
+
+insert (TargZESucceed) >1 target
+
+insert (TrigZESucceed) >1 trigger

@@ -1,0 +1,12 @@
+JJ=trigger !< /^Trig/ < able $.. (S < (VP < (VB=target !< AUX)))
+
+insert (TargAbil) >2 target
+insert (TrigAbil) >1 trigger
+
+
+
+
+
+
+
+

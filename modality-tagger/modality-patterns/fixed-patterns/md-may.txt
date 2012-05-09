@@ -1,0 +1,4 @@
+MD=modal !< /^Trig/  < may  $ (VP < (VB=verb !< AUX))
+
+insert (TrigBelieve) >1 modal
+insert  (TargBelieve) >2 verb

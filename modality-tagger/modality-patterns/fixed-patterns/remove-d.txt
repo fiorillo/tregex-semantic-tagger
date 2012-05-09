@@ -1,0 +1,5 @@
+VBD=verb
+
+relabel verb VB
+insert (D) >1 verb
+

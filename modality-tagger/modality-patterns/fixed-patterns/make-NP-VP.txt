@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ [< make | < makes | < made | < making ] $.. (S < (VB=target !< AUX))
+
+insert (TargRequire) >1 target
+
+insert (TrigRequire) >2 trigger

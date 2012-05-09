@@ -1,0 +1,4 @@
+NP <` (/^NN/=trigger [< requirement | < requirements ] !< /^Trig/ $, /^NN/=target)
+
+insert (TargRequire) >1 target
+insert (TrigRequire) >1 trigger
