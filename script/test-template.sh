@@ -17,7 +17,7 @@ cd $root
 echo $sentence > $test_dir/$pattern.txt
 
 # parse the file
-$root/stanford-parser-2012-0106/lexparser.sh $test_dir/$pattern.txt > $test_dir/$pattern.txt.parsed
+$root/stanford-parser-2012-01-06/lexparser.sh $test_dir/$pattern.txt > $test_dir/$pattern.txt.parsed
 
 # load up order of preprocessing and other idiosyncratic patterns
 # shell is being FUCKED right now, so i just put everything on one line...
