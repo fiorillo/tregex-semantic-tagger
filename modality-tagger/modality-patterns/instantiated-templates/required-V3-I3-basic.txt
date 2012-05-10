@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/  < required  $.. (S < (VB=target !< AUX))
-
-insert (TargRequire) >2 target
-
-insert (TrigRequire) >2 trigger

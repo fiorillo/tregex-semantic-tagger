@@ -1,0 +1,505 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        TrigRequire
+        have)
+      (S
+        (VP (TO to)
+          (VP
+            (VB
+              B
+              TargRequire
+              ask)
+            (NP (PRP him))))))
+    (. .)))
+
+(have-2, I-1)
+
+(ask-4, I-1)
+
+(ROOT-0, have-2)
+
+(ask-4, to-3)
+
+(have-2, ask-4)
+
+(ask-4, him-5)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        AUX
+        am)
+      (VP
+        (VB
+          G
+          asking)
+        (NP (PRP him))))
+    (. .)))
+
+(asking-3, I-1)
+
+(asking-3, am-2)
+
+(ROOT-0, asking-3)
+
+(asking-3, him-4)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        AUX
+        have)
+      (VP
+        (VB
+          N
+          asked)
+        (NP (PRP him))))
+    (. .)))
+
+(asked-3, I-1)
+
+(asked-3, have-2)
+
+(ROOT-0, asked-3)
+
+(asked-3, him-4)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        D
+        asked)
+      (NP (PRP him)))
+    (. .)))
+
+(asked-2, I-1)
+
+(ROOT-0, asked-2)
+
+(asked-2, him-3)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VB
+        Z
+        asks)
+      (NP (PRP me)))
+    (. .)))
+
+(asks-2, He-1)
+
+(ROOT-0, asks-2)
+
+(asks-2, me-3)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        ask)
+      (NP (PRP him)))
+    (. .)))
+
+(ask-2, I-1)
+
+(ROOT-0, ask-2)
+
+(ask-2, him-3)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        AUX
+        have)
+      (VP
+        (VB
+          N
+          asked)
+        (NP (PRP him))))
+    (. .)))
+
+(asked-3, I-1)
+
+(asked-3, have-2)
+
+(ROOT-0, asked-3)
+
+(asked-3, him-4)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        AUX
+        am)
+      (VP
+        (VB
+          G
+          asking)
+        (NP (PRP him))))
+    (. .)))
+
+(asking-3, I-1)
+
+(asking-3, am-2)
+
+(ROOT-0, asking-3)
+
+(asking-3, him-4)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VB
+        D
+        AUX
+        got)
+      (VP
+        (VB
+          N
+          VoicePassive
+          arrested)))
+    (. .)))
+
+(arrested-3, He-1)
+
+(arrested-3, got-2)
+
+(ROOT-0, arrested-3)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VB
+        D
+        AUX
+        was)
+      (VP
+        (VB
+          N
+          VoicePassive
+          arrested)))
+    (. .)))
+
+(arrested-3, He-1)
+
+(arrested-3, was-2)
+
+(ROOT-0, arrested-3)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (MD
+        TrigBelief
+        must)
+      (VP
+        (VB
+          B
+          AUX
+          have)
+        (VP
+          (VB
+            N
+            TargBelief
+            run)
+          (PP (IN for)
+            (NP (NN president))))))
+    (. .)))
+
+(run-4, He-1)
+
+(run-4, must-2)
+
+(run-4, have-3)
+
+(ROOT-0, run-4)
+
+(run-4, president-6)
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP
+        (VB
+          P
+          AUX
+          am)
+        (RB
+          TrigNegation
+          not)
+        (VP
+          (VB
+            G
+            TargNegation
+            running))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP
+        (VB
+          Z
+          AUX
+          is)
+        (RB
+          TrigNegation
+          n't)
+        (VP
+          (VB
+            G
+            TargNegation
+            running))))
+    (. .)))
+
+(running-4, I-1)
+
+(running-4, am-2)
+
+(running-4, not-3)
+
+(ROOT-0, running-4)
+
+(running-9, he-6)
+
+(running-9, is-7)
+
+(running-9, n't-8)
+
+(running-4, running-9)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        AUX
+        have)
+      (ADVP
+        (RB
+          TrigNegation
+          never))
+      (VP
+        (VB
+          N
+          TargNegation
+          run)
+        (PP (IN for)
+          (NP (NN president)))))
+    (. .)))
+
+(run-4, I-1)
+
+(run-4, have-2)
+
+(run-4, never-3)
+
+(ROOT-0, run-4)
+
+(run-4, president-6)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        TargNegation
+        am)
+      (RB
+        TrigNegation
+        not)
+      (NP (NN president)))
+    (. .)))
+
+(president-4, I-1)
+
+(president-4, am-2)
+
+(president-4, not-3)
+
+(ROOT-0, president-4)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        TrigRequire
+        have)
+      (S
+        (VP (TO to)
+          (VP
+            (VB
+              B
+              TargRequire
+              run)))))
+    (. .)))
+
+(have-2, I-1)
+
+(run-4, I-1)
+
+(ROOT-0, have-2)
+
+(run-4, to-3)
+
+(have-2, run-4)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        D
+        TrigPermit
+        let)
+      (SBAR
+        (S
+          (NP (PRP him))
+          (VP
+            (VB
+              P
+              TargPermit
+              run)))))
+    (. .)))
+
+(let-2, I-1)
+
+(ROOT-0, let-2)
+
+(run-4, him-3)
+
+(let-2, run-4)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        D
+        TrigPermit
+        let)
+      (SBAR
+        (S
+          (NP (PRP him))
+          (VP
+            (VB
+              P
+              TargPermit
+              run)))))
+    (. .)))
+
+(let-2, I-1)
+
+(ROOT-0, let-2)
+
+(run-4, him-3)
+
+(let-2, run-4)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        have)
+      (NP
+        (NP
+          (NN
+            TrigRequire
+            need))
+        (PP (IN of)
+          (NP
+            (NNS
+              TargRequire
+              examples)))))
+    (. .)))
+
+(have-2, I-1)
+
+(ROOT-0, have-2)
+
+(have-2, need-3)
+
+(need-3, examples-5)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        P
+        am)
+      (PP (IN in)
+        (NP
+          (NP
+            (NN
+              TrigRequire
+              need))
+          (PP (IN of)
+            (NP
+              (NNS
+                TargRequire
+                examples))))))
+    (. .)))
+
+(am-2, I-1)
+
+(ROOT-0, am-2)
+
+(am-2, need-4)
+
+(need-4, examples-6)
+
+(ROOT
+  (S
+    (NP (PRP$ My)
+      (NN
+        TargNotSucceed
+        attempt))
+    (VP
+      (VB
+        D
+        fell)
+      (ADJP
+        (JJ
+          TrigNotSucceed
+          short)))
+    (. .)))
+
+(attempt-2, My-1)
+
+(fell-3, attempt-2)
+
+(ROOT-0, fell-3)
+
+(fell-3, short-4)
+

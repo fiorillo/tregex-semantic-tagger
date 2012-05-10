@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/  < denied  $.. (NP [ < /^NN/=target | < PRP=target ] !$.. NP)
-
-insert (TargNotPermit) >1 target
-
-insert (TrigNotPermit) >2 trigger

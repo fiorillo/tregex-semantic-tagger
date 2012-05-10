@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < wishing $.. (S < (VB=target !< AUX))
-
-insert (TrigWant) >2 trigger
-
-insert (TargWant) >2 target

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 SCALEROOT=/export/projects/SCALE/2009_SIMT
 EVALSCRIPTS=${SCALEROOT}/source_code/eval_scripts/

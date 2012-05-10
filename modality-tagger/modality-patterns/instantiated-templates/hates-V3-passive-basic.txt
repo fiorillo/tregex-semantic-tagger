@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < hates $.. (S < (VB=target !< AUX))
-
-insert (TrigNotWant) >2 trigger
-
-insert (TargNotWant) >2 target

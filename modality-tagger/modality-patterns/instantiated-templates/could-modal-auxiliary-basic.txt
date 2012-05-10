@@ -1,6 +1,0 @@
-MD=modal !< /^Trig/ < could $ (VB=verb !< AUX)
-
-insert  (TargAble) >2 verb
-
-insert (TrigAble) >1 modal
-

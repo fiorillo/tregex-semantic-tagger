@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < suffers $.. (S < (VB=target !< AUX))
-
-insert (TrigPermit) >2 trigger
-
-insert (TargPermit) >2 target

@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/  < beseech  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
-
-insert (TargWant) >1 target
-
-insert (TrigWant) >2 trigger
