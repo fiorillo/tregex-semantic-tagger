@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP fail)
+      (PP (IN in)
+        (S
+          (VP (VBG helping)
+            (NP (DT the) (NNS refugees))))))))
+
+nsubj(fail-2, they-1)
+root(ROOT-0, fail-2)
+prepc_in(fail-2, helping-4)
+det(refugees-6, the-5)
+dobj(helping-4, refugees-6)
+

@@ -1,6 +1,4 @@
-VB=trigger !< /^Trig/  < abstaining  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) [ < /^NN/=target | < PRP=target ])
+VB=trigger !< /^Trig/  < abstaining  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (NP [ < /^NN/=target | < PRP=target ]))
 
 insert (TargNotEffort) >1 target
-
 insert (TrigNotEffort) >2 trigger
-
