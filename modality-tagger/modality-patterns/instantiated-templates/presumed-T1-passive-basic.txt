@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < presumed $,, (NP [ < /^NN/=target | < PRP=target ])
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < presumed)) $,, (NP [ < /^NN/=target | < PRP=target ])
 
 insert (TargBelief) >1 target
-
 insert (TrigBelief) >2 trigger
