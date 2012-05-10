@@ -29,4 +29,6 @@ order=`cat $prep_dir/command.txt | sed -e 's/ / \/Users\/matthewfiorillo\/Docume
 cd $root/stanford-tregex-2012-03-09
 ./tsurgeon.sh -treeFile $test_dir/$pattern.txt.parsed $order $pattern_dir/$pattern.txt > $output_dir/$pattern.txt
 
+cat $output_dir/$pattern.txt
+
 exit 0

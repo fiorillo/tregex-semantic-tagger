@@ -1,11 +1,13 @@
 (ROOT
   (S
-    (NP (DT the) (NN plan))
-    (VP (VBD was)
-      (VP (VBN aborted)))))
+    (NP (PRP they))
+    (VP (MD will)
+      (VP (VB abort)
+        (NP (DT the) (NN plan))))))
 
-det(plan-2, the-1)
-nsubjpass(aborted-4, plan-2)
-auxpass(aborted-4, was-3)
-root(ROOT-0, aborted-4)
+nsubj(abort-3, they-1)
+aux(abort-3, will-2)
+root(ROOT-0, abort-3)
+det(plan-5, the-4)
+dobj(abort-3, plan-5)
 
