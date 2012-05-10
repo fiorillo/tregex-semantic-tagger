@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (VBZ aborts)
+      (NP (DT the) (NN plan)))))
+
+nsubj(aborts-2, he-1)
+root(ROOT-0, aborts-2)
+det(plan-4, the-3)
+dobj(aborts-2, plan-4)
+

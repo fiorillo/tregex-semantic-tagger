@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBN abstain)
+      (PP (IN from)
+        (NP (NN sex))))))
+
+nsubj(abstain-2, I-1)
+root(ROOT-0, abstain-2)
+prep_from(abstain-2, sex-4)
+
