@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < VoicePassive < plan $,, (NP [ < /^NN/=target | < PRP=target ])
+
+insert (TargIntend) >1 target
+
+insert (TrigIntend) >2 trigger

@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < VoicePassive < organize $.. (S < (VB=target !< AUX))
+
+insert (TrigEffort) >2 trigger
+
+insert (TargEffort) >2 target

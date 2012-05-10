@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < VoicePassive < manages $.. (S < (VB=target !< AUX))
+
+insert (TrigSucceed) >2 trigger
+
+insert (TargSucceed) >2 target

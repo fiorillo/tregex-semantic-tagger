@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/  < suffer  $.. (S < (VB=target !< AUX))
+
+insert (TargPermit) >2 target
+
+insert (TrigPermit) >2 trigger

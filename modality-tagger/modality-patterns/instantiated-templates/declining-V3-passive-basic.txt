@@ -1,0 +1,5 @@
+VB=trigger !< /^Trig/ < VoicePassive < declining $.. (S < (VB=target !< AUX))
+
+insert (TrigNotEffort) >2 trigger
+
+insert (TargNotEffort) >2 target

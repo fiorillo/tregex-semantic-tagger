@@ -1,0 +1,4 @@
+VB=trigger !< /^Trig/  < devised  $.. (NP [ < /^NN/=target | < PRP=target ])
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger

@@ -1,0 +1,4 @@
+VB=trigger !< /^Trig/  < hates  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
+
+insert (TargNotWant) >1 target
+insert (TrigNotWant) >2 trigger

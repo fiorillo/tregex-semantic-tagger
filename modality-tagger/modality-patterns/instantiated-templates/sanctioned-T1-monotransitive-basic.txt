@@ -1,0 +1,4 @@
+VB=trigger !< /^Trig/  < sanctioned  $.. (NP [ < /^NN/=target | < PRP=target ])
+
+insert (TargPermit) >1 target
+insert (TrigPermit) >2 trigger

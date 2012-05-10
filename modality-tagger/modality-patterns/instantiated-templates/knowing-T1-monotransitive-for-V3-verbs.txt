@@ -1,0 +1,4 @@
+VB=trigger !< /^Trig/  < knowing  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
+
+insert (TargFirmBelief) >1 target
+insert (TrigFirmBelief) >2 trigger
