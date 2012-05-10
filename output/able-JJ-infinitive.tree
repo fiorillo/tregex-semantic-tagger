@@ -1,320 +1,544 @@
 (ROOT
   (S
-    (PP (IN In)
-      (NP (DT the) (JJ long-term)))
-    (, ,)
-    (ADVP (RB however))
-    (, ,)
-    (NP (WDT what))
-    (ADVP (RB really))
-    (VP (VBZ matters)
-      (SBAR
-        (S
-          (VP (VBZ is)
-            (SBAR (IN whether)
-              (S
-                (NP
-                  (NP (DT the) (NNPS Muslims))
-                  (PP (IN of)
-                    (NP (NNP South) (NNP Asia))))
-                (VP (MD will)
-                  (VP (VB be)
-                    (ADJP
-                      (JJ
-                        TrigAble
-                        able)
-                      (S
-                        (VP (TO to)
-                          (VP
-                            (VB
-                              roll
-                              TargAble)
-                            (PRT (RP back))
-                            (NP
-                              (NP (DT the) (NN spread))
-                              (PP (IN of)
-                                (NP (NNP Talibanization))))))))
-                    (ADVP (RB altogether))))))))))
+    (NP (PRP They))
+    (VP
+      (VB
+        P
+        need)
+      (NP (NNS tents)))
     (. .)))
 
-(long-term-3, the-2)
+(need-2, They-1)
 
-(matters-9, long-term-3)
+(ROOT-0, need-2)
 
-(matters-9, however-5)
-
-(matters-9, what-7)
-
-(matters-9, really-8)
-
-(ROOT-0, matters-9)
-
-(matters-9, is-10)
-
-(able-19, whether-11)
-
-(Muslims-13, the-12)
-
-(able-19, Muslims-13)
-
-(Asia-16, South-15)
-
-(Muslims-13, Asia-16)
-
-(able-19, will-17)
-
-(able-19, be-18)
-
-(is-10, able-19)
-
-(roll-21, to-20)
-
-(able-19, roll-21)
-
-(roll-21, back-22)
-
-(spread-24, the-23)
-
-(roll-21, spread-24)
-
-(spread-24, Talibanization-26)
-
-(able-19, altogether-27)
+(need-2, tents-3)
 
 (ROOT
   (S
-    (NP (NNP Pakistan))
-    (VP (MD must)
-      (VP (VB be)
-        (ADJP
-          (JJ
-            TrigAble
-            able)
-          (S
-            (VP (TO to)
-              (VP
-                (VB
-                  focus
-                  TargAble)
-                (ADVP (RB internally))
-                (PP (IN on)
-                  (NP (PRP$ its) (NN future)))))))))
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        allowed)
+      (NP (DT the) (NN attack)))
     (. .)))
 
-(able-4, Pakistan-1)
+(allowed-2, They-1)
 
-(able-4, must-2)
+(ROOT-0, allowed-2)
 
-(able-4, be-3)
+(attack-4, the-3)
 
-(ROOT-0, able-4)
-
-(focus-6, to-5)
-
-(able-4, focus-6)
-
-(focus-6, internally-7)
-
-(future-10, its-9)
-
-(focus-6, future-10)
+(allowed-2, attack-4)
 
 (ROOT
-  (S (`` ``)
-    (S
-      (NP (DT The) (NNP US)
-        (CC and)
-        (NNP Britain))
-      (VP (MD will) (RB not)
-        (VP (VB be)
-          (ADJP
-            (JJ
-              TrigAble
-              able)
-            (S
-              (VP (TO to)
-                (VP
-                  (VB
-                    control
-                    TargAble)
-                  (NP (NNP Iraq)))))))))
-    (, ,) ('' '')
-    (NP (NNP Assad))
-    (VP (VBD claimed))
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        allowed)
+      (S
+        (NP (PRP them))
+        (NP (DT those) (NNS luxuries))))
     (. .)))
 
-(US-3, The-2)
+(allowed-2, They-1)
 
-(able-9, US-3)
+(ROOT-0, allowed-2)
 
-(US-3, Britain-5)
+(luxuries-5, them-3)
 
-(able-9, Britain-5)
+(luxuries-5, those-4)
 
-(able-9, will-6)
-
-(able-9, not-7)
-
-(able-9, be-8)
-
-(claimed-16, able-9)
-
-(control-11, to-10)
-
-(able-9, control-11)
-
-(control-11, Iraq-12)
-
-(claimed-16, Assad-15)
-
-(ROOT-0, claimed-16)
+(allowed-2, luxuries-5)
 
 (ROOT
-  (S (IN So)
-    (NP (DT the) (NN question))
-    (VP (VBZ is)
-      (SBAR
-        (S
-          (NP
-            (NP (DT this))
-            (: :)
-            (SBAR
-              (WHNP (WP who))
-              (S
-                (VP (MD will)
-                  (VP (VB Palestinians)))))
-            (, ,)
-            (PP (IN in)
-              (NP (JJ particular) (DT the) (VBN Hamas) (NN constituency)))
-            (, ,))
-          (VP (VBP think)
-            (SBAR
-              (S
-                (VP (VBZ is)
-                  (ADJP (RBR better)
-                    (JJ
-                      TrigAble
-                      able)
-                    (S
-                      (VP (TO to)
-                        (VP
-                          (VB
-                            secure
-                            TargAble)
-                          (NP
-                            (NP (DT these) (NNS goals))
-                            (, ,)
-                            (NP (NNP Abbas))
-                            (CC or)
-                            (NP (NNP Barghouti))))))))))))))
-    (. ?)))
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        authorized)
+      (NP (NNS tents)))
+    (. .)))
 
-(is-4, So-1)
+(authorized-2, They-1)
 
-(question-3, the-2)
+(ROOT-0, authorized-2)
 
-(is-4, question-3)
-
-(ROOT-0, is-4)
-
-(think-17, this-5)
-
-(Palestinians-9, who-7)
-
-(Palestinians-9, will-8)
-
-(this-5, Palestinians-9)
-
-(constituency-15, particular-12)
-
-(constituency-15, the-13)
-
-(constituency-15, Hamas-14)
-
-(this-5, constituency-15)
-
-(is-4, think-17)
-
-(able-20, is-18)
-
-(able-20, better-19)
-
-(think-17, able-20)
-
-(secure-22, to-21)
-
-(able-20, secure-22)
-
-(goals-24, these-23)
-
-(secure-22, goals-24)
-
-(secure-22, Abbas-26)
-
-(goals-24, Abbas-26)
-
-(secure-22, Barghouti-28)
-
-(goals-24, Barghouti-28)
+(authorized-2, tents-3)
 
 (ROOT
-  (SQ (MD Will)
-    (NP (NNP Hamas))
-    (VP (VB be)
-      (ADJP (JJ able)
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        authorized)
+      (S
+        (NP (PRP them))
+        (VP (TO to)
+          (VP
+            (VB
+              B
+              leave)))))
+    (. .)))
+
+(authorized-2, They-1)
+
+(ROOT-0, authorized-2)
+
+(leave-5, them-3)
+
+(leave-5, to-4)
+
+(authorized-2, leave-5)
+
+(ROOT
+  (S
+    (NP (DT The) (NNS attacks))
+    (VP
+      (VB
+        D
+        AUX
+        were)
+      (VP
+        (VB
+          N
+          VoicePassive
+          aborted)))
+    (. .)))
+
+(attacks-2, The-1)
+
+(aborted-4, attacks-2)
+
+(aborted-4, were-3)
+
+(ROOT-0, aborted-4)
+
+(ROOT
+  (S
+    (NP (DT The) (NNS attacks))
+    (VP
+      (VB
+        D
+        AUX
+        were)
+      (VP
+        (VB
+          N
+          VoicePassive
+          allowed)))
+    (. .)))
+
+(attacks-2, The-1)
+
+(allowed-4, attacks-2)
+
+(allowed-4, were-3)
+
+(ROOT-0, allowed-4)
+
+(ROOT
+  (S
+    (NP (DT The) (NNS attackers))
+    (VP
+      (VB
+        D
+        AUX
+        were)
+      (VP
+        (VB
+          N
+          VoicePassive
+          allowed)
         (S
           (VP (TO to)
             (VP
-              (VP (VB root)
-                (PRT (RP out))
-                (NP (NN corruption)
-                  (CC and)
-                  (NN incompetence)))
-              (, ,)
-              (CC and)
-              (VP (VB deliver)
-                (NP (NNS services))
-                (ADVP (RB fairly)
-                  (CC and)
-                  (RB efficiently))))))))
-    (. ?)))
+              (VB
+                B
+                leave))))))
+    (. .)))
 
-(able-4, Will-1)
+(attackers-2, The-1)
 
-(able-4, Hamas-2)
+(allowed-4, attackers-2)
 
-(able-4, be-3)
+(leave-6, attackers-2)
 
-(ROOT-0, able-4)
+(allowed-4, were-3)
 
-(root-6, to-5)
+(ROOT-0, allowed-4)
 
-(able-4, root-6)
+(leave-6, to-5)
 
-(root-6, out-7)
-
-(root-6, corruption-8)
-
-(root-6, incompetence-10)
-
-(corruption-8, incompetence-10)
-
-(able-4, deliver-13)
-
-(root-6, deliver-13)
-
-(deliver-13, services-14)
-
-(deliver-13, fairly-15)
-
-(deliver-13, efficiently-17)
-
-(fairly-15, efficiently-17)
+(allowed-4, leave-6)
 
 (ROOT
   (S
-    (NP (RB Only) (DT the) (JJ Baltic) (NNS countries))
-    (VP (VBP seem)
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        made)
+      (SBAR
+        (S
+          (NP (PRP him))
+          (VP
+            (VB
+              P
+              eat)))))
+    (. .)))
+
+(made-2, They-1)
+
+(ROOT-0, made-2)
+
+(eat-4, him-3)
+
+(made-2, eat-4)
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VB
+        D
+        AUX
+        was)
+      (VP
+        (VB
+          N
+          VoicePassive
+          made)
+        (S
+          (VP (TO to)
+            (VP
+              (VB
+                B
+                eat))))))
+    (. .)))
+
+(made-3, He-1)
+
+(eat-5, He-1)
+
+(made-3, was-2)
+
+(ROOT-0, made-3)
+
+(eat-5, to-4)
+
+(made-3, eat-5)
+
+(ROOT
+  (S
+    (NP (DT The) (NN plan))
+    (VP
+      (VB
+        D
+        fizzled))
+    (. .)))
+
+(plan-2, The-1)
+
+(fizzled-3, plan-2)
+
+(ROOT-0, fizzled-3)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        failed)
+      (PP (IN in)
+        (NP (PRP$ their) (NNS efforts))))
+    (. .)))
+
+(failed-2, They-1)
+
+(ROOT-0, failed-2)
+
+(efforts-5, their-4)
+
+(failed-2, efforts-5)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        failed)
+      (PP (IN in)
+        (S
+          (VP
+            (VB
+              G
+              helping)
+            (NP (DT the) (NNS refugees))))))
+    (. .)))
+
+(failed-2, They-1)
+
+(ROOT-0, failed-2)
+
+(failed-2, helping-4)
+
+(refugees-6, the-5)
+
+(helping-4, refugees-6)
+
+(ROOT
+  (S
+    (NP (DT The) (NN plan))
+    (VP
+      (VB
+        D
+        failed))
+    (. .)))
+
+(plan-2, The-1)
+
+(failed-3, plan-2)
+
+(ROOT-0, failed-3)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        failed)
+      (PP (IN in)
+        (S
+          (VP
+            (VB
+              G
+              providing)
+            (NP (NN aid))))))
+    (. .)))
+
+(failed-2, They-1)
+
+(ROOT-0, failed-2)
+
+(failed-2, providing-4)
+
+(providing-4, aid-5)
+
+(ROOT
+  (S
+    (NP (DT The) (NN effort))
+    (VP
+      (VB
+        D
+        was)
+      (ADJP (JJ unsuccessful)))
+    (. .)))
+
+(effort-2, The-1)
+
+(unsuccessful-4, effort-2)
+
+(unsuccessful-4, was-3)
+
+(ROOT-0, unsuccessful-4)
+
+(ROOT
+  (S
+    (NP (DT The) (NN government))
+    (VP
+      (VB
+        D
+        was)
+      (ADJP (JJ unsuccessful)
+        (PP (IN in)
+          (NP (DT the) (NN effort)))))
+    (. .)))
+
+(government-2, The-1)
+
+(unsuccessful-4, government-2)
+
+(unsuccessful-4, was-3)
+
+(ROOT-0, unsuccessful-4)
+
+(effort-7, the-6)
+
+(unsuccessful-4, effort-7)
+
+(ROOT
+  (S
+    (NP (DT The) (NN effort))
+    (VP
+      (VB
+        D
+        was)
+      (ADJP (JJ unsuccessful)
+        (PP (IN in)
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP
+                (VB
+                  D
+                  was)
+                (ADJP (JJ stupid)
+                  (PP (IN from)
+                    (NP (DT the) (NN start))))))))))
+    (. .)))
+
+(effort-2, The-1)
+
+(unsuccessful-4, effort-2)
+
+(unsuccessful-4, was-3)
+
+(ROOT-0, unsuccessful-4)
+
+(stupid-9, that-6)
+
+(stupid-9, it-7)
+
+(stupid-9, was-8)
+
+(unsuccessful-4, stupid-9)
+
+(start-12, the-11)
+
+(stupid-9, start-12)
+
+(ROOT
+  (S
+    (NP (DT The)
+      (VB
+        N
+        required)
+      (NNS plans))
+    (VP
+      (VB
+        D
+        TargNegation
+        were)
+      (RB
+        TrigNegation
+        not)
+      (ADJP (JJ available)))
+    (. .)))
+
+(plans-3, The-1)
+
+(plans-3, required-2)
+
+(available-6, plans-3)
+
+(available-6, were-4)
+
+(available-6, not-5)
+
+(ROOT-0, available-6)
+
+(ROOT
+  (S
+    (NP (NNP The))
+    (VP
+      (VB
+        D
+        required)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP
+            (VB
+              D
+              TargNegation
+              was)
+            (RB
+              TrigNegation
+              not)
+            (ADJP (JJ available))))))
+    (. .)))
+
+(required-2, The-1)
+
+(ROOT-0, required-2)
+
+(available-6, it-3)
+
+(available-6, was-4)
+
+(available-6, not-5)
+
+(required-2, available-6)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        tried)
+      (NP
+        (NP (NN everything) (JJ short))
+        (PP (IN of)
+          (NP (JJ terrorist) (NNS attacks)))))
+    (. .)))
+
+(tried-2, They-1)
+
+(ROOT-0, tried-2)
+
+(tried-2, everything-3)
+
+(everything-3, short-4)
+
+(attacks-7, terrorist-6)
+
+(everything-3, attacks-7)
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        fell)
+      (NP
+        (NP (JJ short))
+        (PP (IN of)
+          (NP
+            (VB
+              G
+              attacking)))))
+    (. .)))
+
+(fell-2, They-1)
+
+(ROOT-0, fell-2)
+
+(fell-2, short-3)
+
+(short-3, attacking-5)
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VB
+        D
+        TargNegation
+        was)
+      (RB
+        TrigNegation
+        not)
       (ADJP
         (JJ
           TrigAble
@@ -323,348 +547,252 @@
           (VP (TO to)
             (VP
               (VB
-                maintain
-                TargAble)
-              (NP (JJ sound) (JJ fiscal) (NNS policies)))))))
+                B
+                TargAble
+                go))))))
     (. .)))
 
-(countries-4, Only-1)
+(able-4, I-1)
 
-(countries-4, the-2)
+(able-4, was-2)
 
-(countries-4, Baltic-3)
+(able-4, not-3)
 
-(able-6, countries-4)
+(ROOT-0, able-4)
 
-(able-6, seem-5)
+(go-6, to-5)
 
-(ROOT-0, able-6)
-
-(maintain-8, to-7)
-
-(able-6, maintain-8)
-
-(policies-11, sound-9)
-
-(policies-11, fiscal-10)
-
-(maintain-8, policies-11)
+(able-4, go-6)
 
 (ROOT
   (S
-    (PP (RB Even) (IN without)
-      (NP (NNS reforms)))
-    (, ,)
-    (NP (PRP they))
-    (VP (MD will)
-      (VP (VB be)
-        (ADJP
-          (JJ
-            TrigAble
-            able)
-          (S
-            (VP (TO to)
-              (VP
-                (VB
-                  afford
-                  TargAble)
-                (NP
-                  (NP (DT a) (JJ civilized) (NN form))
-                  (PP (IN of)
-                    (NP (NN life))))
-                (PP (IN for)
-                  (NP (JJ many) (NNS years)))
-                (S
-                  (VP (TO to)
-                    (VP (VB come))))))))))
+    (NP (PRP He))
+    (VP (MD might)
+      (VP
+        (VB
+          B
+          go)))
     (. .)))
 
-(able-8, Even-1)
+(go-3, He-1)
 
-(able-8, without-2)
+(go-3, might-2)
 
-(able-8, reforms-3)
-
-(able-8, they-5)
-
-(able-8, will-6)
-
-(able-8, be-7)
-
-(ROOT-0, able-8)
-
-(afford-10, to-9)
-
-(able-8, afford-10)
-
-(form-13, a-11)
-
-(form-13, civilized-12)
-
-(afford-10, form-13)
-
-(form-13, life-15)
-
-(years-18, many-17)
-
-(afford-10, years-18)
-
-(come-20, to-19)
-
-(afford-10, come-20)
+(ROOT-0, go-3)
 
 (ROOT
   (S
-    (PP (IN Across)
-      (NP (NNP South) (NNP America)))
-    (NP (EX there))
-    (VP (VBZ is)
-      (NP
-        (NP (DT an)
-          (ADJP (RB almost) (JJ perfect))
-          (NN correlation))
-        (PP (IN between)
-          (NP
-            (NP (DT the) (NN revenue))
-            (VP (VBN gained)
-              (PP (IN from)
-                (NP
-                  (NP (DT the) (NN inflation) (NN tax))
-                  (CC and)
-                  (NP
-                    (NP (JJ various) (NNS measures))
-                    (PP (IN of)
-                      (NP (NN poverty))))))
-              (, ,)
-              (SBAR (IN because)
-                (S
-                  (NP (DT the) (JJ poor))
-                  (VP (VBP are)
-                    (NP (DT the)
-                      (ADJP (JJS least)
-                        (JJ
-                          TrigAble
-                          able)
-                        (S
-                          (VP (TO to)
-                            (VP
-                              (VB
-                                protect
-                                TargAble)
-                              (NP (PRP themselves))
-                              (PP (IN from)
-                                (NP (DT the) (NN inflation)))))))
-                      (NN tax))))))))))
+    (NP
+      (NP (DT The) (NN need))
+      (PP (IN for)
+        (NP (NNS tents))))
+    (VP
+      (VB
+        D
+        was)
+      (ADJP (JJ great)))
     (. .)))
 
-(America-3, South-2)
+(need-2, The-1)
 
-(is-5, America-3)
+(great-6, need-2)
 
-(is-5, there-4)
+(need-2, tents-4)
 
-(ROOT-0, is-5)
+(great-6, was-5)
 
-(correlation-9, an-6)
-
-(perfect-8, almost-7)
-
-(correlation-9, perfect-8)
-
-(is-5, correlation-9)
-
-(revenue-12, the-11)
-
-(correlation-9, revenue-12)
-
-(revenue-12, gained-13)
-
-(tax-17, the-15)
-
-(tax-17, inflation-16)
-
-(gained-13, tax-17)
-
-(measures-20, various-19)
-
-(gained-13, measures-20)
-
-(tax-17, measures-20)
-
-(measures-20, poverty-22)
-
-(tax-37, because-24)
-
-(poor-26, the-25)
-
-(tax-37, poor-26)
-
-(tax-37, are-27)
-
-(tax-37, the-28)
-
-(able-30, least-29)
-
-(tax-37, able-30)
-
-(protect-32, to-31)
-
-(able-30, protect-32)
-
-(protect-32, themselves-33)
-
-(inflation-36, the-35)
-
-(protect-32, inflation-36)
-
-(gained-13, tax-37)
+(ROOT-0, great-6)
 
 (ROOT
   (S
-    (S
-      (NP
-        (NP (DT The) (NN problem))
-        (PP (IN of)
-          (NP (NNP Latin) (NNP America))))
-      (VP (VBZ lies)
-        (PP (IN in)
-          (NP
-            (NP
-              (NP (PRP$ its) (JJ high) (NN level))
-              (PP (IN of)
-                (NP (NN government) (NN spending))))
-            (, ,)
-            (NP
-              (NP (DT the) (NN lack))
-              (PP (IN of)
-                (NP (DT a) (JJ solid) (JJ upper))))
-            (CC and)
-            (NP
-              (NP (JJ middle) (NN class))
-              (ADJP (JJ ready)
-                (S
-                  (VP (TO to)
-                    (VP (VB pay)
-                      (S
-                        (NP (NNS taxes))
-                        (VP (TO to)
-                          (VP (VB support)
-                            (NP (PRP it))))))))))))))
-    (, ,)
-    (CC and)
-    (S
-      (NP (DT the) (NN inability)
+    (NP (DT The) (NN need)
+      (S
+        (VP (TO to)
+          (VP
+            (VB
+              B
+              provide)
+            (NP (NNS tents))))))
+    (VP
+      (VB
+        D
+        was)
+      (ADJP (JJ great)))
+    (. .)))
+
+(need-2, The-1)
+
+(great-7, need-2)
+
+(provide-4, to-3)
+
+(need-2, provide-4)
+
+(provide-4, tents-5)
+
+(great-7, was-6)
+
+(ROOT-0, great-7)
+
+(ROOT
+  (S
+    (NP (DT The) (NN energy) (NN requirement))
+    (VP
+      (VB
+        D
+        was)
+      (NP (NN immense)))
+    (. .)))
+
+(requirement-3, The-1)
+
+(requirement-3, energy-2)
+
+(immense-5, requirement-3)
+
+(immense-5, was-4)
+
+(ROOT-0, immense-5)
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VB
+        P
+        require)
+      (SBAR (IN that)
         (S
-          (VP (TO to)
-            (VP (VB produce)
-              (S
-                (NP (NNS politicians))
-                (ADJP
-                  (JJ
-                    TrigAble
-                    able)
-                  (S
-                    (VP (TO to)
-                      (VP
-                        (VB
-                          use
-                          TargAble)
-                        (NP (NN tax) (NNS revenues))
-                        (ADVP (RB prudently)
-                          (CC and)
-                          (RB so)))))))))))
-      (VP (VBP break)
-        (NP
-          (NP (DT the) (NN cycle))
-          (PP (IN of)
-            (NP (JJ populist) (NN demagoguery))))))
+          (NP (PRP they))
+          (VP
+            (VB
+              P
+              go)))))
     (. .)))
 
-(problem-2, The-1)
+(require-2, We-1)
 
-(lies-6, problem-2)
+(ROOT-0, require-2)
 
-(America-5, Latin-4)
+(go-5, that-3)
 
-(problem-2, America-5)
+(go-5, they-4)
 
-(ROOT-0, lies-6)
+(require-2, go-5)
 
-(level-10, its-8)
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        wished)
+      (S
+        (NP (PRP him))
+        (ADJP (JJ dead))))
+    (. .)))
 
-(level-10, high-9)
+(wished-2, They-1)
 
-(lies-6, level-10)
+(ROOT-0, wished-2)
 
-(spending-13, government-12)
+(dead-4, him-3)
 
-(level-10, spending-13)
+(wished-2, dead-4)
 
-(lack-16, the-15)
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        wished)
+      (NP (PRP him))
+      (ADVP (RB away)))
+    (. .)))
 
-(lies-6, lack-16)
+(wished-2, They-1)
 
-(level-10, lack-16)
+(ROOT-0, wished-2)
 
-(upper-20, a-18)
+(wished-2, him-3)
 
-(upper-20, solid-19)
+(wished-2, away-4)
 
-(lack-16, upper-20)
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        made)
+      (S
+        (NP (PRP him))
+        (ADJP (JJ aware))))
+    (. .)))
 
-(class-23, middle-22)
+(made-2, They-1)
 
-(lies-6, class-23)
+(ROOT-0, made-2)
 
-(level-10, class-23)
+(aware-4, him-3)
 
-(class-23, ready-24)
+(made-2, aware-4)
 
-(pay-26, to-25)
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VB
+        D
+        AUX
+        was)
+      (VP
+        (VB
+          N
+          VoicePassive
+          made)
+        (S
+          (ADJP (JJ aware)))))
+    (. .)))
 
-(ready-24, pay-26)
+(made-3, He-1)
 
-(support-29, taxes-27)
+(made-3, was-2)
 
-(support-29, to-28)
+(ROOT-0, made-3)
 
-(pay-26, support-29)
+(made-3, aware-4)
 
-(support-29, it-30)
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VB
+        D
+        appeared)
+      (ADJP (JJ unwilling)))
+    (. .)))
 
-(inability-34, the-33)
+(unwilling-3, They-1)
 
-(break-46, inability-34)
+(unwilling-3, appeared-2)
 
-(produce-36, to-35)
+(ROOT-0, unwilling-3)
 
-(inability-34, produce-36)
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (MD must)
+      (VP
+        (VB
+          B
+          go)))
+    (. .)))
 
-(able-38, politicians-37)
+(go-3, He-1)
 
-(produce-36, able-38)
+(go-3, must-2)
 
-(use-40, to-39)
-
-(able-38, use-40)
-
-(revenues-42, tax-41)
-
-(use-40, revenues-42)
-
-(use-40, prudently-43)
-
-(use-40, so-45)
-
-(prudently-43, so-45)
-
-(lies-6, break-46)
-
-(cycle-48, the-47)
-
-(break-46, cycle-48)
-
-(demagoguery-51, populist-50)
-
-(cycle-48, demagoguery-51)
+(ROOT-0, go-3)
 

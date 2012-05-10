@@ -1,21 +1,32 @@
 #!/bin/sh
 
-template=$1
+# usage: first arg name of pattern file, second arg sentence to test it on.
+
+pattern=$1
+sentence=$2
 
 # root directory of project file; change this if need be
 root=/Users/matthewfiorillo/Documents/school/tsurgeon
+test_dir=$root/modality-tagger/test
+prep_dir=$root/modality-tagger/modality-patterns/idiosyncratic
+pattern_dir=$root/modality-tagger/modality-patterns/instantiated-templates
+output_dir=$root/output
 cd $root
 
-# load up order of preprocessing and other idiosyncratic patterns
-# shell is FUCKED right now, so i just put everything on one line...
-order=`cat modality-tagger/modality-patterns/idiosyncratic/command.txt | sed -e 's/ / \/Users\/matthewfiorillo\/Documents\/school\/tsurgeon\/modality-tagger\/modality-patterns\/idiosyncratic\//g'`
+# create test file using $sentence
+echo $sentence > $test_dir/$pattern.txt
 
-echo $order
+# parse the file
+$root/stanford-parser-2012-0106/lexparser.sh $test_dir/$pattern.txt > $test_dir/$pattern.txt.parsed
+
+# load up order of preprocessing and other idiosyncratic patterns
+# shell is being FUCKED right now, so i just put everything on one line...
+order=`cat $prep_dir/command.txt | sed -e 's/ / \/Users\/matthewfiorillo\/Documents\/school\/tsurgeon\/modality-tagger\/modality-patterns\/idiosyncratic\//g'`
+
+#echo $order
 
 # run those patterns, in order, and then the user-selected pattern
 cd $root/stanford-tregex-2012-03-09
-./tsurgeon.sh -treeFile $root/modality-tagger/test/templates.txt.parsed $order > $root/modality-tagger/test/templates.txt.prepped
-
-# run the desired template here...but not sure how so i'm just going to do it manually for now
+./tsurgeon.sh -treeFile $test_dir/templates.txt.parsed $order $pattern_dir/$pattern.txt > $output_dir/$pattern.txt
 
 exit 0
