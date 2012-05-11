@@ -1,5 +1,4 @@
-/^JJ/=trigger !< /^Trig/ < ** $.. (PP < (IN < of) [ < /^NN/=target | < PRP=target ])
+/^JJ/=trigger !< /^Trig/ < ** $.. (PP < (IN < of) < (NP [ < /^NN/=target | < PRP=target ]))
 
 insert (TrigLabel) >1 trigger
-
 insert (TargLabel) >1 target

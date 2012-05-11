@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < hating  $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/  < hating  $.. (S < (VP < (VP < (VB=target !< AUX))))
 
 insert (TargNotWant) >2 target
-
 insert (TrigNotWant) >2 trigger

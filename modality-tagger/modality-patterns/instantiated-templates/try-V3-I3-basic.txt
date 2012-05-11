@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < try  $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/  < try  $.. (S < (VP < (VP < (VB=target !< AUX))))
 
 insert (TargEffort) >2 target
-
 insert (TrigEffort) >2 trigger

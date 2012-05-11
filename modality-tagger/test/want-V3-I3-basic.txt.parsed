@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB go)))))))
+
+nsubj(want-2, i-1)
+xsubj(go-4, i-1)
+root(ROOT-0, want-2)
+aux(go-4, to-3)
+xcomp(want-2, go-4)
+

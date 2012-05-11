@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < trusts  $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/  < trusts  $.. (S < (VP < (VP < (VB=target !< AUX))))
 
 insert (TargBelief) >2 target
-
 insert (TrigBelief) >2 trigger

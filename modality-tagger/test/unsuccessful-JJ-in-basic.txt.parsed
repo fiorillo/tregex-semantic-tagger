@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD were)
+      (ADJP (JJ unsuccessful)
+        (PP (IN in)
+          (NP (PRP$ their) (NN effort)))))))
+
+nsubj(unsuccessful-3, they-1)
+cop(unsuccessful-3, were-2)
+root(ROOT-0, unsuccessful-3)
+poss(effort-6, their-5)
+prep_in(unsuccessful-3, effort-6)
+

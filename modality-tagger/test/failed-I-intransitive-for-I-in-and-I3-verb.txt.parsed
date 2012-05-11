@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (DT the) (NN plan))
+    (VP (VBD failed))))
+
+det(plan-2, the-1)
+nsubj(failed-3, plan-2)
+root(ROOT-0, failed-3)
+

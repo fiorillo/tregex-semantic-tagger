@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < permit $,, (NP [ < /^NN/=target | < PRP=target ]) !$.. S 
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < permit !$ S)) $,, (NP [ < /^NN/=target | < PRP=target ])
 
 insert (TargPermit) >1 target
-
 insert (TrigPermit) >2 trigger

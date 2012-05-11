@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (MD might)
+      (VP (VB go)))))
+
+nsubj(go-3, he-1)
+aux(go-3, might-2)
+root(ROOT-0, go-3)
+

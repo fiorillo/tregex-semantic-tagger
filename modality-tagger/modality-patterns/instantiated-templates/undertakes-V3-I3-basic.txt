@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < undertakes  $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/  < undertakes  $.. (S < (VP < (VP < (VB=target !< AUX))))
 
 insert (TargEffort) >2 target
-
 insert (TrigEffort) >2 trigger

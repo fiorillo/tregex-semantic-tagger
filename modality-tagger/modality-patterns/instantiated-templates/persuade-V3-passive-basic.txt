@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < persuade $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/ < VoicePassive < persuade $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
 
 insert (TrigBelief) >2 trigger
-
 insert (TargBelief) >2 target

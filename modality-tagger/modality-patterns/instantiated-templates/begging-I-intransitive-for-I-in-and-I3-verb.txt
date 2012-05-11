@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < begging  $,, (NP [ < /^NN/=target | < PRP=target ]) !$.. S !$ (PP < (IN < in))
+VP < (VB=trigger !< /^Trig/  < begging)  $,, (NP [ < /^NN/=target | < PRP=target ]) !< (PP < (IN < in) < S)
 
 insert (TargWant) >1 target
-
 insert (TrigWant) >2 trigger

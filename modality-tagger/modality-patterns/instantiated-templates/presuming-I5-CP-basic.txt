@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < presuming  $.. (SBAR < (S < (VB=target !< AUX)))
+VB=trigger !< /^Trig/ < presuming  $.. (SBAR < (S < (VP < (VB=target !< AUX))))
 
 insert (TargBelief) >2 target
-
 insert (TrigBelief) >2 trigger

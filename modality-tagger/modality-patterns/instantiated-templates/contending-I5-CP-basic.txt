@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < contending  $.. (SBAR < (S < (VB=target !< AUX)))
+VB=trigger !< /^Trig/ < contending  $.. (SBAR < (S < (VP < (VB=target !< AUX))))
 
 insert (TargEffort) >2 target
-
 insert (TrigEffort) >2 trigger

@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < obligate  $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/  < obligate  $.. (S < (VP < (VP < (VB=target !< AUX))))
 
 insert (TargRequire) >2 target
-
 insert (TrigRequire) >2 trigger

@@ -1,5 +1,4 @@
-/^JJ/=trigger !< /^Trig/ < capable $.. (PP < (IN < of) < (VB=target !< AUX))
+/^JJ/=trigger !< /^Trig/ < capable $.. (PP < (IN < of) < (S < (VP < (VB=target !< AUX))))
 
 insert (TrigAble) >1 trigger
-
 insert (TargAble) >2 target

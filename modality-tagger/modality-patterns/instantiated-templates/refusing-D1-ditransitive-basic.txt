@@ -1,4 +1,4 @@
-VB=trigger !< /^Trig/ < refusing  $.. (NP < /^NN/ $.. (NP [ < /^NN/=target | < PRP=target ]))
+VB=trigger !< /^Trig/ < refusing  $.. (NP [ < /^NN/ | < PRP ] $.. (NP [ < /^NN/=target | < PRP=target ]))
 
 insert (TargNotPermit) >1 target
 insert (TrigNotPermit) >2 trigger

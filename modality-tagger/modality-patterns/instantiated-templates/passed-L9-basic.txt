@@ -1,5 +1,4 @@
 VB=trigger !< /^Trig/  < passed $.. (ADJP < JJ=target)
 
 insert (TargNotEffort) >1 target
-
 insert (TrigNotEffort) >2 trigger

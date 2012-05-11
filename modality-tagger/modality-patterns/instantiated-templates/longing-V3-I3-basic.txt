@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < longing  $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/  < longing  $.. (S < (VP < (VP < (VB=target !< AUX))))
 
 insert (TargWant) >2 target
-
 insert (TrigWant) >2 trigger

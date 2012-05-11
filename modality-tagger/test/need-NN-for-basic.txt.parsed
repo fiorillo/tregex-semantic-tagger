@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (DT the) (NN need))
+    (VP (TO to)
+      (VP (VB go)))))
+
+det(need-2, the-1)
+nsubj(go-4, need-2)
+aux(go-4, to-3)
+root(ROOT-0, go-4)
+

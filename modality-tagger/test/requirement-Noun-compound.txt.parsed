@@ -1,0 +1,7 @@
+(ROOT
+  (NP (DT the) (NN energy) (NN requirement)))
+
+det(requirement-3, the-1)
+nn(requirement-3, energy-2)
+root(ROOT-0, requirement-3)
+

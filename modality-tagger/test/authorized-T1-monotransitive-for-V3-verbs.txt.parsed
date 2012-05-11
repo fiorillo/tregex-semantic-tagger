@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD authorized)
+      (S
+        (NP (PRP them))
+        (VP (TO to)
+          (VP (VB leave)))))))
+
+nsubj(authorized-2, they-1)
+root(ROOT-0, authorized-2)
+nsubj(leave-5, them-3)
+aux(leave-5, to-4)
+xcomp(authorized-2, leave-5)
+

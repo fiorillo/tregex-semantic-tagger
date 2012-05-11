@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < hates $,, (NP [ < /^NN/=target | < PRP=target ]) !$.. S 
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < hates !$ S)) $,, (NP [ < /^NN/=target | < PRP=target ])
 
 insert (TargNotWant) >1 target
-
 insert (TrigNotWant) >2 trigger

@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < intend  $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/  < intend  $.. (S < (VP < (VP < (VB=target !< AUX))))
 
 insert (TargIntend) >2 target
-
 insert (TrigIntend) >2 trigger

@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < wished  $.. (SBAR < (S < (VB=target !< AUX)))
+VB=trigger !< /^Trig/ < wished  $.. (SBAR < (S < (VP < (VB=target !< AUX))))
 
 insert (TargWant) >2 target
-
 insert (TrigWant) >2 trigger

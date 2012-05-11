@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD made)
+      (S
+        (NP (PRP him))
+        (ADJP (JJ aware))))))
+
+nsubj(made-2, they-1)
+root(ROOT-0, made-2)
+nsubj(aware-4, him-3)
+xcomp(made-2, aware-4)
+

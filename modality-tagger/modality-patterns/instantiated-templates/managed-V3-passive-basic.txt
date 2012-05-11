@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < managed $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/ < VoicePassive < managed $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
 
 insert (TrigSucceed) >2 trigger
-
 insert (TargSucceed) >2 target

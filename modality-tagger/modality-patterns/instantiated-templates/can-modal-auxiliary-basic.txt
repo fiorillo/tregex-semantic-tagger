@@ -1,6 +1,4 @@
-MD=modal !< /^Trig/ < can $ (VB=verb !< AUX)
+MD=modal !< /^Trig/ < can $ (VP < (VB=verb !< AUX))
 
 insert  (TargAble) >2 verb
-
 insert (TrigAble) >1 modal
-

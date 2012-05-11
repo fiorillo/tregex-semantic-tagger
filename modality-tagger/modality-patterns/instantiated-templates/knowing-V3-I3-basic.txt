@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/  < knowing  $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/  < knowing  $.. (S < (VP < (VP < (VB=target !< AUX))))
 
 insert (TargFirmBelief) >2 target
-
 insert (TrigFirmBelief) >2 trigger

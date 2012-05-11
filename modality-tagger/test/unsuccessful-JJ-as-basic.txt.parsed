@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ useless)
+        (PP (IN as)
+          (NP (DT a) (NN plan)))))))
+
+nsubj(useless-3, it-1)
+cop(useless-3, was-2)
+root(ROOT-0, useless-3)
+det(plan-6, a-5)
+prep_as(useless-3, plan-6)
+

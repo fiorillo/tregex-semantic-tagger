@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < plot $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/ < VoicePassive < plot $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
 
 insert (TrigIntend) >2 trigger
-
 insert (TargIntend) >2 target

@@ -1,0 +1,8 @@
+(ROOT
+  (FRAG
+    (NP (DT the) (JJ required) (NNS plans))))
+
+det(plans-3, the-1)
+amod(plans-3, required-2)
+root(ROOT-0, plans-3)
+

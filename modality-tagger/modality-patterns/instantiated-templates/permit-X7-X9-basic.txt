@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < permit $.. (S [< JJ=target | < ADVP=target] !< VB)
+VB=trigger !< /^Trig/ < permit [$.. (S < (ADJP < JJ=target) !< VB) | $.. (ADVP < RB=target)]
 
 insert (TargPermit) >1 target
-
 insert (TrigPermit) >2 trigger

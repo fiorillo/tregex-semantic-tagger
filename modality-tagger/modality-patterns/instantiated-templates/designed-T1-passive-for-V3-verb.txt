@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < designed $,, (NP [ < /^NN/=target | < PRP=target ]) !$.. S 
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < designed !$ S)) $,, (NP [ < /^NN/=target | < PRP=target ])
 
 insert (TargIntend) >1 target
-
 insert (TrigIntend) >2 trigger

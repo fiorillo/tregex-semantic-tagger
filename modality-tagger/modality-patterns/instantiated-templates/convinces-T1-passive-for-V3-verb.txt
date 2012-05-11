@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < convinces $,, (NP [ < /^NN/=target | < PRP=target ]) !$.. S 
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < convinces !$ S)) $,, (NP [ < /^NN/=target | < PRP=target ])
 
 insert (TargFirmBelief) >1 target
-
 insert (TrigFirmBelief) >2 trigger

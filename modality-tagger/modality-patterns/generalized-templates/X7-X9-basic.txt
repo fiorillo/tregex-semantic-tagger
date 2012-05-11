@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < ** $.. (S [< JJ=target | < ADVP=target] !< VB)
+VB=trigger !< /^Trig/ < ** [$.. (S < (ADJP < JJ=target) !< VB) | $.. (ADVP < RB=target)]
 
 insert (TargLabel) >1 target
-
 insert (TrigLabel) >2 trigger

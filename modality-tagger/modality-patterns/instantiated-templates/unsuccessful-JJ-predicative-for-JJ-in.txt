@@ -1,5 +1,4 @@
-ADJP < (JJ=trigger !< /^Trig/ < unsuccessful) $,, (NP [ < /^NN/=target | < PRP=target ]) !$.. S !$ (PP < (IN < in))
+VP < (ADJP < (JJ=trigger !< /^Trig/ < unsuccessful) !< (PP < (IN < in))) $,, (NP [ < /^NN/=target | < PRP=target ])
 
 insert (TargNotSucceed) >1 target
-
 insert (TrigNotSucceed) >1 trigger

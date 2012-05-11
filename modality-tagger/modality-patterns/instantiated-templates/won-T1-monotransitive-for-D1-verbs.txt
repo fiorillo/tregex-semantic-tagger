@@ -1,4 +1,4 @@
-VB=trigger !< /^Trig/  < won  $.. (NP [ < /^NN/=target | < PRP=target ] !$.. NP)
+VB=trigger !< /^Trig/  < won  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
 
 insert (TargSucceed) >1 target
 insert (TrigSucceed) >2 trigger

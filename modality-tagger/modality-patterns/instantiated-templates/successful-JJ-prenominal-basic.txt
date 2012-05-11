@@ -1,5 +1,4 @@
-JJ=trigger !< /^Trig/ < successful [ $.. /^NN/=target | $.. PRP=target ]
+JJ=trigger !< /^Trig/ < successful $.. /^NN/=target
 
 insert (TargSucceed) >1 target
-
 insert (TrigSucceed) >1 trigger

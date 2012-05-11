@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBP require)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP go)))))))
+
+nsubj(require-2, we-1)
+root(ROOT-0, require-2)
+complm(go-5, that-3)
+nsubj(go-5, they-4)
+ccomp(require-2, go-5)
+

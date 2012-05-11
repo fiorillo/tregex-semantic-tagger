@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < VoicePassive < obligates $.. (S < (VB=target !< AUX))
+VB=trigger !< /^Trig/ < VoicePassive < obligates $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
 
 insert (TrigRequire) >2 trigger
-
 insert (TargRequire) >2 target

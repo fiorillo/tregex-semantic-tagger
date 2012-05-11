@@ -1,5 +1,4 @@
-VB=trigger !< /^Trig/ < order  $.. (SBAR < (S < (VB=target !< AUX)))
+VB=trigger !< /^Trig/ < order  $.. (SBAR < (S < (VP < (VB=target !< AUX))))
 
 insert (TargRequire) >2 target
-
 insert (TrigRequire) >2 trigger

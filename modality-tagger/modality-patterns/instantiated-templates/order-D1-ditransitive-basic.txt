@@ -1,4 +1,4 @@
-VB=trigger !< /^Trig/ < order  $.. (NP < /^NN/ $.. (NP [ < /^NN/=target | < PRP=target ]))
+VB=trigger !< /^Trig/ < order  $.. (NP [ < /^NN/ | < PRP ] $.. (NP [ < /^NN/=target | < PRP=target ]))
 
 insert (TargRequire) >1 target
 insert (TrigRequire) >2 trigger

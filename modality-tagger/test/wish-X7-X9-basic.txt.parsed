@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP wish)
+      (S
+        (NP (PRP him))
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ dead))))))))
+
+nsubj(wish-2, they-1)
+root(ROOT-0, wish-2)
+nsubj(dead-6, him-3)
+aux(dead-6, to-4)
+cop(dead-6, be-5)
+xcomp(wish-2, dead-6)
+

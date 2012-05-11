@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD fell)
+      (NP
+        (NP (JJ short))
+        (PP (IN of)
+          (NP (JJ terrorist) (NNS attacks)))))))
+
+nsubj(fell-2, they-1)
+root(ROOT-0, fell-2)
+dobj(fell-2, short-3)
+amod(attacks-6, terrorist-5)
+prep_of(short-3, attacks-6)
+
