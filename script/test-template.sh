@@ -1,6 +1,7 @@
 #!/bin/sh
 
-# usage: first arg name of pattern file, second arg sentence to test it on.
+# tests a specific pattern on a given test sentence, and prints the parse tree to stdout
+# usage: ./test-template.sh [name of pattern i.e. able-JJ-infinitive] [test sentence to use]
 
 pattern=$1
 sentence=$2
@@ -20,7 +21,8 @@ echo $sentence > $test_dir/$pattern.txt
 $root/stanford-parser-2012-01-06/lexparser.sh $test_dir/$pattern.txt > $test_dir/$pattern.txt.parsed
 
 # load up order of preprocessing and other idiosyncratic patterns
-# shell is being FUCKED right now, so i just put everything on one line...
+# for whatever reason, i can't get the sed-pattern to work without typing it literally and escaping everything
+# so if you want to change the directory, do that.
 order=`cat $prep_dir/command.txt | sed -e 's/ / \/Users\/matthewfiorillo\/Documents\/school\/tsurgeon\/modality-tagger\/modality-patterns\/idiosyncratic\//g'`
 
 #echo $order
