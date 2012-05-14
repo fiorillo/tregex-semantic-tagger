@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# this doesn't work as well as test-template.sh; use that instead.
+
 pattern_name=$1
 
 # root directory of project file; change this if need be
