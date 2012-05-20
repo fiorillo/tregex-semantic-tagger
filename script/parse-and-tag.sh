@@ -4,7 +4,7 @@
 # relative paths only, please
 # usage: ./parse-and-tag.sh [text file] > [output file]
 
-textfile=`pwd`/$1
+textfile=$1
 
 # root directory of project file; change this if need be
 root=/Users/matthewfiorillo/Documents/work/tsurgeon
