@@ -28,6 +28,8 @@ run after any changes are made to the templates. This will populate
 instantiated-templates with new versions of the patterns, based on the 
 lexicon. I should probably move the rebuild script to the script directory.
 
+The lexicon is in modality-tagger/final-modality-morph-variants.txt.
+
 Information about the generalized templates and examples can be found in 
 modality-tagger/modality-patterns/attic-misc.
 
