@@ -1,12 +1,13 @@
 #!/bin/sh
 
-# tests a specific pattern on a given test sentence, and prints the parse tree to stdout
-# usage: ./tag.sh < [parsed file] > [output file]
+# runs all the patterns on the given parsed file, and prints the modified parse tree to stdout
+# usage: ./tag.sh [parsed-text-file] > [output file]
 
-treefile=$@
+treefile=`pwd`/$1
+echo $treefile
 
 # root directory of project file; change this if need be
-root=/Users/matthewfiorillo/Documents/school/tsurgeon
+root=/Users/matthewfiorillo/Documents/work/tsurgeon
 test_dir=$root/modality-tagger/test
 prep_dir=$root/modality-tagger/modality-patterns/idiosyncratic
 pattern_dir=$root/modality-tagger/modality-patterns/instantiated-templates
