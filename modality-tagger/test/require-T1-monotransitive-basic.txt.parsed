@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP require)
+      (NP (NNS tents)))))
+
+nsubj(require-2, they-1)
+root(ROOT-0, require-2)
+dobj(require-2, tents-3)
+
