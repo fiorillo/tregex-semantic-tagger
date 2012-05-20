@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < acquiring $,, (NP [ < /^NN/=target | < PRP=target ])
-
-insert (TargSucceed) >1 target
-
-insert (TrigSucceed) >2 trigger

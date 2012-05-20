@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ < doubts  $.. (SBAR < (S < (VB=target !< AUX)))
-
-insert (TargNotBelief) >2 target
-
-insert (TrigNotBelief) >2 trigger

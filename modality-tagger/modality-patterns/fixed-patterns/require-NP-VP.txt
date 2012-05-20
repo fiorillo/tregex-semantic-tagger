@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ & [ < require | < required | < requiring | < requires ] $.. (S < (VP < (VB=target !< AUX)))
-
-insert (TargReq) >2 target
-insert (TrigReq) >2 trigger

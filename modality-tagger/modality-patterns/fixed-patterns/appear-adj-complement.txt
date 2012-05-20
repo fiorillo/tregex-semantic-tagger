@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ [ < appear | < appears | < appearing | < appeared ] $.. (ADJP < JJ=target)
-
-insert (TargBelieve) >1 target
-
-insert (TrigBelieve) >2 trigger

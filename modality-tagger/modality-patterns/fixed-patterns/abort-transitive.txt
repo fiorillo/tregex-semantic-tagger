@@ -1,7 +1,0 @@
-VB=trigger !< /^Trig/ & [ < abort | < aborted | < aborting | < aborts] $.. (NP  [< /^NN/=target | < PRP=target])
-
-insert (TargNotSucc) >1 target
-
-insert (TrigNotSucc) >2 trigger
-
-

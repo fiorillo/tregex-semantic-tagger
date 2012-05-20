@@ -1,4 +1,0 @@
-VBZ=verb
-
-relabel verb VB
-insert (Z) >1 verb

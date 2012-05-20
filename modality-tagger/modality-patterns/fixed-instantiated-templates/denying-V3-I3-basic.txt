@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/  < denying  $.. (S < (VB=target !< AUX))
-
-insert (TargNotPermit) >2 target
-
-insert (TrigNotPermit) >2 trigger

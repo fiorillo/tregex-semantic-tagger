@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/  < ventured  $.. (S < (VB=target !< AUX))
-
-insert (TargEffort) >2 target
-
-insert (TrigEffort) >2 trigger

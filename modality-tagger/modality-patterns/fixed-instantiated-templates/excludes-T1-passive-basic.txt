@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < excludes $,, (NP [ < /^NN/=target | < PRP=target ])
-
-insert (TargNotPermit) >1 target
-
-insert (TrigNotPermit) >2 trigger

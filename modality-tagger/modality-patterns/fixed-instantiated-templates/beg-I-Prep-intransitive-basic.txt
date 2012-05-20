@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < beg  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) [ < /^NN/=target | < PRP=target ])
-
-insert (TargWant) >1 target
-
-insert (TrigWant) >2 trigger
-

@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < signify $,, (NP [ < /^NN/=target | < PRP=target ])
-
-insert (TargIntend) >1 target
-
-insert (TrigIntend) >2 trigger
