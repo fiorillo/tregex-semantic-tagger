@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# usage: ./test-patter.sh [name-of-pattern-w/o-.txt] "[test-sentence]"
+# usage: ./test-pattern.sh [name-of-pattern-w/o-.txt] "[test-sentence]"
 
 pattern=$1
 sentence=$2
