@@ -3,10 +3,11 @@ README: MURI Modality Tagging System
 Included in this package are the following directories:
 
   modality-tagger: the actual system, including all the patterns
-  newscomm-en: a sample corpus for testing
+  data: a sample corpus for testing
   script: some useful scripts
-  stanford-parser-X-Y-Z: an up-to-date version of the stanford parser
-  stanford-tregex-X-Y-Z: an up-to-date version of tregex/tsurgeon
+  tools: stanford parser and tregex
+  doc: documentation (currently empty)
+  tmp: any temp files created by the scripts
 
 I. MODALITY-TAGGER AND PATTERNS
 
@@ -36,8 +37,8 @@ modality-tagger/modality-patterns/attic-misc.
 
 II. SCRIPTS
 
-I've included two useful scripts: tag.sh and parse-and-tag.sh. To tag a file 
-that has already been parsed, use tag.sh as follows:
+There are two ways to use the system: tag.sh and parse-and-tag.sh. To tag 
+a file that has already been parsed, use:
 
 $ script/tag.sh parsed-input.txt > tagged-output.txt
 
@@ -45,6 +46,17 @@ To parse and then tag an unparsed text file, do:
 
 $ script/parse-and-tag.sh input.txt > tagged-output.txt
 
+For quick testing of a single pattern (from the instantiated-templates dir), 
+use:
+
+$ script/test-pattern.sh [name-of-pattern-w/o-extension] "example sentence"
+
+For example, to test the pattern able-JJ-infinitive.txt, run:
+
+$ script/test-pattern.sh able-JJ-infinitive "they were able to go"
+
+This will still run all the preprocessing patterns, but not any of the other 
+patterns in the instantiated-templates directory, so it goes a bit faster.
 
 III. TODO
 
