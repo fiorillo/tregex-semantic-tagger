@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < order [$.. (S < (ADJP < JJ=target) !< VB) | $.. (ADVP < RB=target)]
-
-insert (TargRequire) >1 target
-insert (TrigRequire) >2 trigger

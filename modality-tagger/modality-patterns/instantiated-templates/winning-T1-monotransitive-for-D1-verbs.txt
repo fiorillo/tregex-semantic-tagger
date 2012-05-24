@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/  < winning  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >2 trigger

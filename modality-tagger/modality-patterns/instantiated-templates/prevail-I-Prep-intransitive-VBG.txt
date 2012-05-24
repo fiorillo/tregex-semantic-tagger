@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < prevail  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (S < (VP < (VB=target !< AUX))))
-
-insert (TargSucceed) >2 target
-insert (TrigSucceed) >2 trigger

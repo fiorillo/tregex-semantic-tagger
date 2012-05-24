@@ -1,4 +1,0 @@
-/^JJ/=trigger !< /^Trig/ < capable $.. (PP < (IN < of) < (NP [ < /^NN/=target | < PRP=target ]))
-
-insert (TrigAble) >1 trigger
-insert (TargAble) >1 target

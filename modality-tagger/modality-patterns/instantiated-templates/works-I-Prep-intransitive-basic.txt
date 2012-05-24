@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/  < works  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (NP [ < /^NN/=target | < PRP=target ]))
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger

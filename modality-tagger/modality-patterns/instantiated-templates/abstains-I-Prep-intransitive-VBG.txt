@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < abstains  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (S < (VP < (VB=target !< AUX))))
-
-insert (TargNotEffort) >2 target
-insert (TrigNotEffort) >2 trigger

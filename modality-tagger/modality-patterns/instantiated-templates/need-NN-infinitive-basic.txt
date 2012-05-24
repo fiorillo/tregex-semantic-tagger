@@ -1,4 +1,0 @@
-NP < (/^NN/=trigger !< /^Trig/  < need) < (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
-
-insert (TargRequire) >2 target
-insert (TrigRequire) >1 trigger

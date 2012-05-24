@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/  < resolve $.. (ADJP < JJ=target)
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger

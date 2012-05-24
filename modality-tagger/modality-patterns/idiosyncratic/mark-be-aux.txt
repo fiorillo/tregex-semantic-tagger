@@ -1,3 +1,0 @@
-VB=be-verb [ < is | < am | < are | < was | < were | < be | < being | <been  ]  &  [$ (VP < (VB < N)) | $ (VP < (VB < G))]  & [ !< AUX ]
-
-insert (AUX) >2 be-verb

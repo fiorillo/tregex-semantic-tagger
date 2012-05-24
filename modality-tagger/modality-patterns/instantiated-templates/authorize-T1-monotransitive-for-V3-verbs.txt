@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/  < authorize  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
-
-insert (TargPermit) >1 target
-insert (TrigPermit) >2 trigger

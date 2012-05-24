@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < passes [$.. (S < (ADJP < JJ=target) !< VB) | $.. (ADVP < RB=target)]
-
-insert (TargNotEffort) >1 target
-insert (TrigNotEffort) >2 trigger

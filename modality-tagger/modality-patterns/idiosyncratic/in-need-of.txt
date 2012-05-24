@@ -1,4 +1,0 @@
-IN < in $.. (NP < (NP < (/^NN/=trigger !< /^Trig/ < need)) < (PP < (IN < of) < (NP [ < /^NN/=target | < PRP=target ])))
-
-insert (TrigRequire) >1 trigger
-insert (TargRequire) >1 target

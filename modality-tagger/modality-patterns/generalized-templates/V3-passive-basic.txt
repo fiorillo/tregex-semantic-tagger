@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < ** $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
-
-insert (TrigLabel) >2 trigger
-insert (TargLabel) >2 target

@@ -1,4 +1,0 @@
-JJ=trigger !< /^Trig/ < need $.. /^NN/=target
-
-insert (TargRequire) >1 target
-insert (TrigRequire) >1 trigger

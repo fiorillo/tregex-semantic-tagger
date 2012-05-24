@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < despairing  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (S < (VP < (VB=target !< AUX))))
-
-insert (TargNotWant) >2 target
-insert (TrigNotWant) >2 trigger

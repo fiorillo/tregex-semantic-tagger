@@ -1,4 +1,0 @@
-VBP=verb
-
-relabel verb VB
-insert (P) >1 verb

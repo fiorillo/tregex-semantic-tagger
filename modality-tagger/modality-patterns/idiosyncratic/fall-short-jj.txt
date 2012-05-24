@@ -1,4 +1,0 @@
-VB  [ < fall | < falls | < falling | < fell ] $.. (ADJP < (JJ=trigger < short !< /^Trig/)) > (VP $,, (NP [< /^NN/=target | < PRP=target ] !< (PP < (IN < of))))
-
-insert (TargNotSucceed) >1 target
-insert (TrigNotSucceed) >1 trigger

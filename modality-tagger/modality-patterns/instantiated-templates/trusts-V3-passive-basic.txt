@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < trusts $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
-
-insert (TrigBelief) >2 trigger
-insert (TargBelief) >2 target

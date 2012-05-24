@@ -1,4 +1,0 @@
-VP < (ADJP < (JJ=trigger !< /^Trig/ < successful) !< (PP < (IN < in))) $,, (NP [ < /^NN/=target | < PRP=target ])
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >1 trigger

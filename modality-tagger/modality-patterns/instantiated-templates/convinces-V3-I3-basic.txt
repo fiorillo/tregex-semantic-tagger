@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/  < convinces  $.. (S < (VP < (VP < (VB=target !< AUX))))
-
-insert (TargFirmBelief) >2 target
-insert (TrigFirmBelief) >2 trigger

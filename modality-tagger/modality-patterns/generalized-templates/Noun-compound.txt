@@ -1,4 +1,0 @@
-NP <` (/^NN/=trigger < **  !< /^Trig/ $, /^NN/=target)
-
-insert (TargLabel) >1 target
-insert (TrigLabel) >1 trigger

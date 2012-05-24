@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/  < admits  $.. (S < (VP < (VP < (VB=target !< AUX))))
-
-insert (TargBelief) >2 target
-insert (TrigBelief) >2 trigger

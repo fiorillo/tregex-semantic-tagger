@@ -1,4 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < requires !$ S)) $,, (NP [ < /^NN/=target | < PRP=target ])
-
-insert (TargRequire) >1 target
-insert (TrigRequire) >2 trigger

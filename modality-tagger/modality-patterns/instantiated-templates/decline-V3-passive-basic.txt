@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < decline $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
-
-insert (TrigNotEffort) >2 trigger
-insert (TargNotEffort) >2 target

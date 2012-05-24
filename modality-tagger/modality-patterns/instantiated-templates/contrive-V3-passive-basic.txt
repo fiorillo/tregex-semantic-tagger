@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < contrive $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
-
-insert (TrigIntend) >2 trigger
-insert (TargIntend) >2 target

@@ -1,4 +1,0 @@
-VB=trigger !< /^Trig/ < wish [$.. (S < (ADJP < JJ=target) !< VB) | $.. (ADVP < RB=target)]
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
