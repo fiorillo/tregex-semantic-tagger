@@ -1,9 +1,0 @@
-(ROOT
-  (S
-    (NP (DT the) (NN plan))
-    (VP (VBD fizzled))))
-
-det(plan-2, the-1)
-nsubj(fizzled-3, plan-2)
-root(ROOT-0, fizzled-3)
-
