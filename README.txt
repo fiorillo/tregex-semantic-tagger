@@ -2,52 +2,48 @@ README: MURI Modality Tagging System
 
 Included in this package are the following directories:
 
-  modality-tagger: the actual system, including all the patterns
+  modality-patterns: all the patterns and templates that the system uses
   data: a sample corpus for testing
   script: some useful scripts
   tools: stanford parser and tregex
-  doc: documentation (currently empty)
-  tmp: any temp files created by the scripts
+  doc: documentation
+  tmp: any temp files created by the scripts (also a good place to stick test files)
+  attic: old, unused files, or files that I don't know what to do with
 
-I. MODALITY-TAGGER AND PATTERNS
-
-In the modality-tagger directory, there is an older version of tregex. The 
-patterns will not work with that version. I will reorganize this soon. 
-All of the patterns are in the modality-patterns directory. The important 
-directories in there are idiosyncratic, generalized-templates, and 
-instantiated-templates. 
+I. MODALITY-PATTERNS
 
 The files in idiosyncratic are all preprocessing patterns that run before the 
-other patterns. A description of them can be found in 
-modality-tagger/modality-patterns/attic-misc/README.txt. Some of the 
-information there is a little out of date, and I will update it in the future. 
+other patterns. A description of them can be found in doc/attic-misc/README.txt. 
+Some of the information there is a little out of date, and I will update it in 
+the future. 
 
 The files in generalized-templates generate the patterns in the 
 instantiated-templates directory. The script 
-modality-tagger/modality-patterns/rebuild_instantiated_templates.sh should be 
-run after any changes are made to the templates. This will populate 
-instantiated-templates with new versions of the patterns, based on the 
-lexicon. I should probably move the rebuild script to the script directory.
+script/rebuild_instantiated_templates.sh should be run after any changes are made 
+to the templates. This will populate instantiated-templates with new versions of 
+the patterns, based on the lexicon.
 
-The lexicon is in modality-tagger/final-modality-morph-variants.txt.
+The lexicon is in final-modality-morph-variants.txt (which is in the root directory 
+now, but should probably be moved elsewhere).
 
 Information about the generalized templates and examples can be found in 
-modality-tagger/modality-patterns/attic-misc.
+doc/attic-misc.
 
 
 II. SCRIPTS
 
-There are two ways to use the system: tag.sh and parse-and-tag.sh. To tag 
-a file that has already been parsed, use:
+There are a few ways to use the system. 
+
+1. tag.sh: to tag a file that has already been parsed, use:
 
 $ script/tag.sh parsed-input.txt > tagged-output.txt
 
-To parse and then tag an unparsed text file, do:
+2. parse-and-tag.sh: to parse and then tag an unparsed text file, do:
 
 $ script/parse-and-tag.sh input.txt > tagged-output.txt
 
-For quick testing of a single pattern (from the instantiated-templates dir), 
-use:
+3. test-template.sh: for quick testing of a single pattern (from the 
+instantiated-templates dir), use:
 
 $ script/test-pattern.sh [name-of-pattern-w/o-extension] "example sentence"
 
@@ -58,8 +54,18 @@ $ script/test-pattern.sh able-JJ-infinitive "they were able to go"
 This will still run all the preprocessing patterns, but not any of the other 
 patterns in the instantiated-templates directory, so it goes a bit faster.
 
+4. test-word.sh: this is similar to test-pattern, but runs all the patterns that 
+start with a specified word:
+
+$ script/test-word.sh able "they were able to go"
+
+5. parse.sh: just a shortcut for using the stanford parser to parse a text file.
+
+$ script/parse.sh unparsed-file.txt
+
 III. TODO
 
-Expect a reorganized version, with more useful scripts, soon.
+I'd like to put the location of the root dir in a centralized location so all the 
+scripts can read from that instead of instantiating it themselves.
 
 Matt Fiorillo 2012-05-20
