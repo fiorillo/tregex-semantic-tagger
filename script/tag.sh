@@ -7,8 +7,8 @@ treefile=$1
 
 # root directory of project file; change this if need be
 root=/Users/matthewfiorillo/Documents/work/tsurgeon
-prep_dir=$root/modality-tagger/modality-patterns/idiosyncratic
-pattern_dir=$root/modality-tagger/modality-patterns/instantiated-templates
+prep_dir=$root/modality-patterns/idiosyncratic
+pattern_dir=$root/modality-patterns/instantiated-templates
 tregex_dir=$root/tools/stanford-tregex
 
 # run the patterns, in order

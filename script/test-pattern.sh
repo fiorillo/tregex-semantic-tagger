@@ -6,8 +6,8 @@ pattern=$1
 sentence=$2
 
 root=/Users/matthewfiorillo/Documents/work/tsurgeon
-prep_dir=$root/modality-tagger/modality-patterns/idiosyncratic
-pattern_dir=$root/modality-tagger/modality-patterns/instantiated-templates
+prep_dir=$root/modality-patterns/idiosyncratic
+pattern_dir=$root/modality-patterns/instantiated-templates
 tmp_dir=$root/tmp
 parser_dir=$root/tools/stanford-parser
 tregex_dir=$root/tools/stanford-tregex
