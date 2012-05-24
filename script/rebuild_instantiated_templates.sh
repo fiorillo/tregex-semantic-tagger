@@ -1,11 +1,12 @@
 #!/bin/sh
 
-SCALEROOT=/export/projects/SCALE/2009_SIMT
-EVALSCRIPTS=${SCALEROOT}/source_code/eval_scripts/
-MODALCLASSES=${SCALEROOT}/data/processed/modality/modalityclasses
+SCALEROOT=/Users/matthewfiorillo/Documents/work/tsurgeon
+EVALSCRIPTS=${SCALEROOT}/script/eval_scripts/
+MODALCLASSES=${SCALEROOT}
+PATTERN_DIR=${SCALEROOT}/modality-patterns
 
+cd $PATTERN_DIR
 rm -rf instantiated-templates
-
 mkdir instantiated-templates
 
 ${EVALSCRIPTS}/instantiate_tsurgeon_templates.pl generalized-templates instantiated-templates \
