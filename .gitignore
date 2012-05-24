@@ -1,2 +1,4 @@
 output/*
 modality-patterns/*
+tmp/*
+.git*
