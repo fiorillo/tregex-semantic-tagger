@@ -1,0 +1,7 @@
+JJ=trigger !< /^Trig/ < unsuccessful [ $.. /^NN/=target | $.. PRP=target ]
+
+insert (TargNotSucc) >1 target
+
+insert (TrigNotSucc) >1 trigger
+
+

@@ -1,0 +1,13 @@
+VB=trigger !< /^Trig/ & [ < fail | < fails | < failing | < failed ] $.. (PP < (IN < in) [ < /^NN/=target | < PRP=target ] )
+
+insert (TargNotSucc) >1 target
+
+insert (TrigNotSucc) >2 trigger
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+VB=trigger !< /^Trig/ < VoicePassive < allowed $,, (NP  [< /^NN/=target | < PRP=target]) !$.. S 
+
+insert (TrigPerm) >2 trigger
+
+insert (TargPerm) >1 target
+
+
+
+
+
+

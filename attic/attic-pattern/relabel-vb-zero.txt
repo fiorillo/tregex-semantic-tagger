@@ -1,0 +1,3 @@
+VB=verb !< N !< D !< P !< Z !< G !< B
+
+insert (B) >1 verb

@@ -1,0 +1,14 @@
+VB=trigger !< /^Trig/ & [ < authorize | < authorized | < authorizing | < authorized ] $.. (NP  [< /^NN/=target | < PRP=target]) !$ S
+
+insert (TargPerm) >1 target
+
+insert (TrigPerm) >2 trigger
+
+
+
+
+
+
+
+
+

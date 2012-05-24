@@ -1,0 +1,8 @@
+VB=trigger !< /^Trig/ & [ < deny | < denied | < denying | < denied ] $.. (NP [ < /^NN/=target | < PRP=target] !$.. NP)
+
+insert (TargZEBelieve) >1 target
+
+insert (TrigZEBelieve) >2 trigger
+
+
+
