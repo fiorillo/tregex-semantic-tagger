@@ -1,9 +1,11 @@
 #!/bin/bash
 
-SCALEROOT=/export/projects/SCALE/2009_SIMT
-EVALSCRIPTS=${SCALEROOT}/source_code/eval_scripts/
-TSURGEON=${SCALEROOT}/external_tools/stanford-tregex-2008-05-08.nwf
-MODALPATTERNS=${SCALEROOT}/source_code/modality/modality-patterns-version-controlled/
+# this absolutely WILL NOT WORK right now.  I'll get to it though.
+
+PROJECT_ROOT=`cat script/project-root.txt`
+EVALSCRIPTS=${PROJECT_ROOT}/source_code/eval_scripts/
+TSURGEON=${PROJECT_ROOT}/external_tools/stanford-tregex-2008-05-08.nwf
+MODALPATTERNS=${PROJECT_ROOT}/source_code/modality/modality-patterns-version-controlled/
 
 sed -e 's/^()$/(TOP parserfailure)/' training.en.tok.flattened | \
 	 perl ${EVALSCRIPTS}/pipeline.pl \
