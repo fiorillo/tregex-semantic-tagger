@@ -64,7 +64,11 @@ start with a specified word:
 
 $ script/test-word.sh able "they were able to go"
 
-5. parse.sh: just a shortcut for using the stanford parser to parse a text file.
+5. test-prep.sh: essentially the same thing, but only runs the preprocessing scripts:
+
+$ script/test-prep.sh "they were able to go"
+
+6. parse.sh: just a shortcut for using the stanford parser to parse a text file.
 
 $ script/parse.sh unparsed-file.txt
 
