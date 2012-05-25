@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# usage: ./test-pattern.sh [word-to-test] "[test-sentence]"
+# usage: script/test-word.sh [word-to-test] "[test-sentence]"
 
 word=$1
 sentence=$2
