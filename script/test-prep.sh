@@ -2,8 +2,7 @@
 
 # usage: script/test-prep.sh "[test-sentence]"
 
-word=$1
-sentence=$2
+sentence=$1
 
 PROJECT_ROOT=`cat script/project-root.txt`
 prep_dir=$PROJECT_ROOT/modality-patterns/idiosyncratic
