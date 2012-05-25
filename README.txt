@@ -32,7 +32,12 @@ doc/attic-misc.
 
 II. SCRIPTS
 
-There are a few ways to use the system. 
+There are a few ways to use the system. All of the scripts read the location of the 
+project root from the file script/project-root.txt.  Make sure you change this file 
+before running any of these scripts. This also means that all the scripts have to be run 
+from the main directory (the one that has this readme in it). I will change this as soon 
+as I come up with a better solution and have time (probably just by writing a setup 
+script).
 
 1. tag.sh: to tag a file that has already been parsed, use:
 
@@ -64,8 +69,5 @@ $ script/test-word.sh able "they were able to go"
 $ script/parse.sh unparsed-file.txt
 
 III. TODO
-
-I'd like to put the location of the root dir in a centralized location so all the 
-scripts can read from that instead of instantiating it themselves.
 
 Matt Fiorillo 2012-05-20
