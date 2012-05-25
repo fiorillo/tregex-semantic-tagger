@@ -5,8 +5,7 @@
 word=$1
 sentence=$2
 
-#PROJECT_ROOT=/Users/matthewfiorillo/Documents/work/tsurgeon
-script/set-vars.sh
+PROJECT_ROOT=`cat script/project-root.txt`
 prep_dir=$PROJECT_ROOT/modality-patterns/idiosyncratic
 pattern_dir=$PROJECT_ROOT/modality-patterns/instantiated-templates
 tmp_dir=$PROJECT_ROOT/tmp
