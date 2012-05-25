@@ -1,9 +1,9 @@
 #!/bin/sh
 
-SCALEROOT=/Users/matthewfiorillo/Documents/work/tsurgeon
-EVALSCRIPTS=${SCALEROOT}/script/eval_scripts/
-MODALCLASSES=${SCALEROOT}
-PATTERN_DIR=${SCALEROOT}/modality-patterns
+PROJECT_ROOT=`cat script/project-root.txt`
+EVALSCRIPTS=${PROJECT_ROOT}/script/eval_scripts/
+MODALCLASSES=${PROJECT_ROOT}
+PATTERN_DIR=${PROJECT_ROOT}/modality-patterns
 
 cd $PATTERN_DIR
 rm -rf instantiated-templates
