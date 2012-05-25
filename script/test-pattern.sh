@@ -1,11 +1,11 @@
 #!/bin/sh
 
-# usage: ./test-pattern.sh [name-of-pattern-w/o-.txt] "[test-sentence]"
+# usage: script/test-pattern.sh [name-of-pattern-w/o-.txt] "[test-sentence]"
 
 pattern=$1
 sentence=$2
 
-root=/Users/matthewfiorillo/Documents/work/tsurgeon
+root=`cat script/project-root.txt`
 prep_dir=$root/modality-patterns/idiosyncratic
 pattern_dir=$root/modality-patterns/instantiated-templates
 tmp_dir=$root/tmp

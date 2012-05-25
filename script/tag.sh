@@ -1,12 +1,11 @@
 #!/bin/sh
 
 # runs all the patterns on the given parsed file, and prints the modified parse tree to stdout
-# usage: ./tag.sh [parsed-text-file] > [output file]
+# usage: script/tag.sh [parsed-text-file] > [output file]
 
 treefile=$1
 
-# root directory of project file; change this if need be
-root=/Users/matthewfiorillo/Documents/work/tsurgeon
+root=`cat script/project-root.txt`
 prep_dir=$root/modality-patterns/idiosyncratic
 pattern_dir=$root/modality-patterns/instantiated-templates
 tregex_dir=$root/tools/stanford-tregex

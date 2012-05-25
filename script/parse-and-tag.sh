@@ -2,12 +2,12 @@
 
 # parses the textfile, then runs the modality tagger on it and prints the modified parse tree to stdout
 # relative paths only, please
-# usage: ./parse-and-tag.sh [text file] > [output file]
+# usage: script/parse-and-tag.sh [text file] > [output file]
 
 textfile=$1
 
 # root directory of project file; change this if need be
-root=/Users/matthewfiorillo/Documents/work/tsurgeon
+root=`cat script/project-root.txt`
 prep_dir=$root/modality-patterns/idiosyncratic
 pattern_dir=$root/modality-patterns/instantiated-templates
 tmp_dir=$root/tmp

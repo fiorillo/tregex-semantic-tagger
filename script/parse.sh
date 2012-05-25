@@ -4,8 +4,8 @@
 
 $file=$1
 
-$root=/Users/matthewfiorillo/Documents/work/tsurgeon
-$parser_dir=$root/tools/stanford-parser
+root=`script/project-root.txt`
+parser_dir=$root/tools/stanford-parser
 
 $parser_dir/lexparser.sh $file
 
