@@ -5,12 +5,13 @@
 word=$1
 sentence=$2
 
-root=/Users/matthewfiorillo/Documents/work/tsurgeon
-prep_dir=$root/modality-patterns/idiosyncratic
-pattern_dir=$root/modality-patterns/instantiated-templates
-tmp_dir=$root/tmp
-parser_dir=$root/tools/stanford-parser
-tregex_dir=$root/tools/stanford-tregex
+#PROJECT_ROOT=/Users/matthewfiorillo/Documents/work/tsurgeon
+script/set-vars.sh
+prep_dir=$PROJECT_ROOT/modality-patterns/idiosyncratic
+pattern_dir=$PROJECT_ROOT/modality-patterns/instantiated-templates
+tmp_dir=$PROJECT_ROOT/tmp
+parser_dir=$PROJECT_ROOT/tools/stanford-parser
+tregex_dir=$PROJECT_ROOT/tools/stanford-tregex
 
 # parse the sentence
 echo $sentence > $tmp_dir/$pattern.txt
