@@ -7,18 +7,18 @@ requiring''VBG$Require &requiring, V3-passive-basic, V3-I3-basic, T1-monotransit
 requirement''NN$Require &requirement, Noun-compound, NN-for-basic
 required''JJ$Require &required, JJ-prenominal-basic
 should''MD$Require &should, modal-auxiliary-basic
-have''VB to''TO$Require &have, have-to
-had''VBD to''TO$Require &had, have-to
-had''VBN to''TO$Require &had, have-to
-has''VBZ to''TO$Require &has, have-to
-having''VB to''TO$Require &having, have-to
-must''MD$Require &must, must-without-have
-have''VB the''DT need''NN$Require &have, have-need-of
-had''VBD the''DT need''NN$Require &had, have-need-of
-had''VBN the''DT need''NN$Require &had, have-need-of
-has''VBZ the''DT need''NN$Require &has, have-need-of
-having''VBG the''DT need''NN$Require &having, have-need-of
-in''IN need''NN of''IN$Require &need, in-need-of
+#have''VB to''TO$Require &have, have-to
+#had''VBD to''TO$Require &had, have-to
+#had''VBN to''TO$Require &had, have-to
+#has''VBZ to''TO$Require &has, have-to
+#having''VB to''TO$Require &having, have-to
+#must''MD$Require &must, must-without-have
+#have''VB the''DT need''NN$Require &have, have-need-of
+#had''VBD the''DT need''NN$Require &had, have-need-of
+#had''VBN the''DT need''NN$Require &had, have-need-of
+#has''VBZ the''DT need''NN$Require &has, have-need-of
+#having''VBG the''DT need''NN$Require &having, have-need-of
+#in''IN need''NN of''IN$Require &need, in-need-of
 need''VB$Require &need, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
 needed''VBD$Require &needed, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
 needed''VBN$Require &needed, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
@@ -74,11 +74,11 @@ gave''VBD leave''NN$Permit &**NOT DONE**
 given''VBN leave''NN$Permit &**NOT DONE**
 gives''VBZ permission''NN$Permit &**NOT DONE**
 giving''VBG permission''NN$Permit &**NOT DONE**
-let''VB$Permit & let, let-s, let-vp
-let''VBD$Permit & let, let-s, let-vp
-let''VBN$Permit & let, let-s, let-vp
-lets''VBZ$Permit & lets, let-s, let-vp
-letting''VBG$Permit & letting, let-s, let-vp
+#let''VB$Permit & let, let-s, let-vp
+#let''VBD$Permit & let, let-s, let-vp
+#let''VBN$Permit & let, let-s, let-vp
+#lets''VBZ$Permit & lets, let-s, let-vp
+#letting''VBG$Permit & letting, let-s, let-vp
 okay''VB$Permit &okay, T1-monotransitive-basic, T1-passive-basic
 okayed''VBD$Permit &okayed, T1-monotransitive-basic, T1-passive-basic
 okayed''VBN$Permit &okayed, T1-monotransitive-basic, T1-passive-basic
@@ -241,11 +241,11 @@ aborted''VBD$NotSucceed &aborted, T1-monotransitive-basic, T1-passive-basic
 aborted''VBN$NotSucceed &aborted, T1-monotransitive-basic, T1-passive-basic
 aborts''VBZ$NotSucceed &aborts, T1-monotransitive-basic, T1-passive-basic
 aborting''VBG$NotSucceed &aborting, T1-monotransitive-basic, T1-passive-basic
-fall''VB short''JJ$NotSucceed & fall, fall-short
-fell''VBD short''JJ$NotSucceed & fell, fall-short
-fallen''VBN short''JJ$NotSucceed & fallen, fall-short
-falls''VBZ short''JJ$NotSucceed & falls, fall-short
-falling''VBG short''JJ$NotSucceed & falling, fall-short
+#fall''VB short''JJ$NotSucceed & fall, fall-short
+#fell''VBD short''JJ$NotSucceed & fell, fall-short
+#fallen''VBN short''JJ$NotSucceed & fallen, fall-short
+#falls''VBZ short''JJ$NotSucceed & falls, fall-short
+#falling''VBG short''JJ$NotSucceed & falling, fall-short
 fizzle''VB$NotSucceed &fizzle, I-intransitive-basic
 fizzled''VBD$NotSucceed &fizzled, I-intransitive-basic
 fizzled''VBN$NotSucceed &fizzled, I-intransitive-basic
