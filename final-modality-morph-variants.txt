@@ -68,12 +68,12 @@ give''VB leave''NN$Permit &**NOT DONE*
 gave''VBD leave''NN$Permit &**NOT DONE**
 given''VBN leave''NN$Permit &**NOT DONE**
 gives''VBZ permission''NN$Permit &permission, VB-NN-infinitive
-giving''VBG permission''NN$Permit &**NOT DONE**
+giving''VBG permission''NN$Permit &permission, VB-NN-infinitive
 give''VB leave''NN$Permit &**NOT DONE**
 gave''VBD leave''NN$Permit &**NOT DONE**
 given''VBN leave''NN$Permit &**NOT DONE**
-gives''VBZ permission''NN$Permit &**NOT DONE**
-giving''VBG permission''NN$Permit &**NOT DONE**
+gives''VBZ permission''NN$Permit &permission, VB-NN-infinitive
+giving''VBG permission''NN$Permit &permission, VB-NN-infinitive
 #let''VB$Permit & let, let-s, let-vp
 #let''VBD$Permit & let, let-s, let-vp
 #let''VBN$Permit & let, let-s, let-vp
