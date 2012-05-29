@@ -64,16 +64,17 @@ endorsed''VBD$Permit &endorsed, T1-monotransitive-basic, T1-passive-basic
 endorsed''VBN$Permit &endorsed, T1-monotransitive-basic, T1-passive-basic
 endorses''VBZ$Permit &endorses, T1-monotransitive-basic, T1-passive-basic
 endorsing''VBG$Permit &endorsing, T1-monotransitive-basic, T1-passive-basic
-give''VB leave''NN$Permit &**NOT DONE*
-gave''VBD leave''NN$Permit &**NOT DONE**
-given''VBN leave''NN$Permit &**NOT DONE**
+give''VB leave''NN$Permit &leave, VB-NN-infinitive
+gave''VBD leave''NN$Permit &leave, VB-NN-infinitive
+given''VBN leave''NN$Permit &leave, VB-NN-infinitive
+give''VB leave''NN$Permit &leave, VB-NN-infinitive
+gave''VBD leave''NN$Permit &leave, VB-NN-infinitive
+given''VBN leave''NN$Permit &leave, VB-NN-infinitive
 gives''VBZ permission''NN$Permit &permission, VB-NN-infinitive
 giving''VBG permission''NN$Permit &permission, VB-NN-infinitive
-give''VB leave''NN$Permit &**NOT DONE**
-gave''VBD leave''NN$Permit &**NOT DONE**
-given''VBN leave''NN$Permit &**NOT DONE**
 gives''VBZ permission''NN$Permit &permission, VB-NN-infinitive
 giving''VBG permission''NN$Permit &permission, VB-NN-infinitive
+given''VBG permission''NN$Permit &permission, VB-NN-infinitive
 #let''VB$Permit & let, let-s, let-vp
 #let''VBD$Permit & let, let-s, let-vp
 #let''VBN$Permit & let, let-s, let-vp
