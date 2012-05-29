@@ -1,4 +1,4 @@
 output/*
-modality-patterns/*
+modality-patterns/instantiated-templates/*
 tmp/*
 .git*

@@ -1,0 +1,11 @@
+VB=get-verb [ < get | < gets | < got | < getting | < gotten ]   $ (VP < (VB < N)) !< AUX 
+
+insert (AUX) >2 get-verb
+
+
+
+
+
+
+
+

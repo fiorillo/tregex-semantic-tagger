@@ -1,0 +1,3 @@
+VB < AUX & [ < is | < am | < are | < was | < were | < be | < being | < been | < get | < gets | < got | < gotten | < getting ] & $.. (VP < (VB=passive < N !< VoicePassive))
+
+insert (VoicePassive) >2 passive

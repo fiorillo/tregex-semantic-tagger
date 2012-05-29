@@ -1,0 +1,4 @@
+VBN=verb
+
+relabel verb VB
+insert (N) >1 verb

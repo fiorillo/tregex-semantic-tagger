@@ -1,0 +1,4 @@
+RB=trigger  !< /^TrigNeg/  < never  >  (ADVP $.. (VP < (VB=target < N !< AUX)))
+
+insert (TrigNegation) >1 trigger
+insert (TargNegation) >2 target

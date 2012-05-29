@@ -1,0 +1,4 @@
+VB=trigger !< /^Trig/ [< let | < lets | < letting ]  $.. (NP !< (PRP [ < me | < us | < 's ])) $.. (VP < (VB=target !< AUX))
+
+insert (TargPermit) >2 target
+insert (TrigPermit) >2 trigger
