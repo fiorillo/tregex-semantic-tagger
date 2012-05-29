@@ -64,10 +64,10 @@ endorsed''VBD$Permit &endorsed, T1-monotransitive-basic, T1-passive-basic
 endorsed''VBN$Permit &endorsed, T1-monotransitive-basic, T1-passive-basic
 endorses''VBZ$Permit &endorses, T1-monotransitive-basic, T1-passive-basic
 endorsing''VBG$Permit &endorsing, T1-monotransitive-basic, T1-passive-basic
-give''VB leave''NN$Permit &**NOT DONE**
+give''VB leave''NN$Permit &**NOT DONE*
 gave''VBD leave''NN$Permit &**NOT DONE**
 given''VBN leave''NN$Permit &**NOT DONE**
-gives''VBZ permission''NN$Permit &**NOT DONE**
+gives''VBZ permission''NN$Permit &permission, VB-NN-infinitive
 giving''VBG permission''NN$Permit &**NOT DONE**
 give''VB leave''NN$Permit &**NOT DONE**
 gave''VBD leave''NN$Permit &**NOT DONE**
