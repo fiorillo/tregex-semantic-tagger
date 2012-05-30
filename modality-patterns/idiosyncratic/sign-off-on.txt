@@ -1,4 +1,4 @@
 VP < (VB=trigger !< /^Trig/ [ < sign | < signs | < signing | < signed ]) < (PRT < (RP < off)) < (PP < (IN < on) < (NP < (NN=target)))
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >2 trigger
+insert (TargPermit) >1 target
+insert (TrigPermit) >2 trigger
