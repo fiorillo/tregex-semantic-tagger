@@ -15,13 +15,13 @@ parser_dir=$root/tools/stanford-parser
 tregex_dir=$root/tools/stanford-tregex
 
 # parse the textfile. outputs to a tempfile which will be deleted at the end.
-$parser_dir/lexparser.sh $textfile > $tmp_dir/$textfile.parsed
+$parser_dir/lexparser.sh $textfile > $tmp_dir/parse-and-tag.parsed
 
 # run the patterns, in order
 cd $tregex_dir
-./tsurgeon.sh -treeFile $tmp_dir/$textfile.tmp $prep_dir/*.txt $pattern_dir/*.txt
+./tsurgeon.sh -treeFile $tmp_dir/parse-and-tag.parsed $prep_dir/*.txt $pattern_dir/*.txt
 
 # clean up tempfile
-rm $tmp_dir/$textfile.parsed
+rm $tmp_dir/parse-and-tag.parsed
 
 exit 0
