@@ -2,7 +2,7 @@
 
 # usage: script/parse.sh [file.txt]
 
-$file=$1
+file=$1
 
 root=`cat script/project-root.txt`
 parser_dir=$root/tools/stanford-parser
