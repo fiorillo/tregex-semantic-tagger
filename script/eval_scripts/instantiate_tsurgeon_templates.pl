@@ -87,7 +87,7 @@ while (my $line = <STDIN>) {
 		      xor next TEMPL);
 		my $didsubst = 0;
                 while (<TEMPLATE>) {
-                        s/\*\*\*/$words[1]/;
+                        s/\*\*\*/$words[2]/;
                         s/\*\*/$headword/ and $didsubst++;
                         s/TrigLabel/Trig$class/ and $didsubst++;
                         s/TargLabel/Targ$class/ and $didsubst++;
