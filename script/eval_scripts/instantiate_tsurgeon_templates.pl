@@ -63,7 +63,7 @@ while (my $line = <STDIN>) {
 		next;
 	}
         my @wordstags = split /\s+/,$wordtagged ;
-	my @words = map { split /$hive_terp_separator/, $_, 1 } (@wordstags);
+	my @words = map { split /$hive_terp_separator/, $_} (@wordstags);
         my ($headword, @temps) = split /(?<!\\),\s*/, $additional;
 
 	my $prettywords = join " ", @words;
