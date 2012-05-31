@@ -137,7 +137,7 @@ excluded''VBD$NotPermit &excluded, T1-monotransitive-basic, T1-passive-basic
 excluded''VBN$NotPermit &excluded, T1-monotransitive-basic, T1-passive-basic
 excludes''VBZ$NotPermit &excludes, T1-monotransitive-basic, T1-passive-basic
 excluding''VBG$NotPermit &excluding, T1-monotransitive-basic, T1-passive-basic
-enjoin''VB from''IN$NotPermit &enjoin, I-Prep-intransitive-VBG
+enjoin''VB from''IN$NotPermit &enjoin, I-Prep-intransitive-VBG, two-word-test
 enjoined''VBD from''IN$NotPermit &enjoined, I-Prep-intransitive-VBG
 enjoins''VBZ from''IN$NotPermit &enjoins, I-Prep-intransitive-VBG
 enjoining''VBG from''IN$NotPermit &enjoining, I-Prep-intransitive-VBG
