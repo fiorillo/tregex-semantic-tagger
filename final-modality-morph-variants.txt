@@ -69,7 +69,7 @@ gave''VBD leave''NN$Permit &gave-leave, VB-NN-infinitive
 given''VBN leave''NN$Permit &given-leave, VB-NN-infinitive
 gives''VB leave''NN$Permit &gives-leave, VB-NN-infinitive
 gives''VBZ permission''NN$Permit &gives-permission, VB-NN-infinitive
-giving''VBG permission''NN$Permit &giving-permission, VB-NN-infinitive
+give''VBG permission''NN$Permit &give-permission, VB-NN-infinitive
 gives''VBZ permission''NN$Permit &gives-permission, VB-NN-infinitive
 giving''VBG permission''NN$Permit &giving-permission, VB-NN-infinitive
 given''VBG permission''NN$Permit &given-permission, VB-NN-infinitive
