@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/ < **  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (S < (VP < (VB=target !< AUX))))
+VB=trigger !< /^Trig/ < **  $.. (PP < (IN < ***) < (S < (VP < (VB=target !< AUX))))
 
 insert (TargLabel) >2 target
 insert (TrigLabel) >2 trigger
 
-% they ** (trigger) in helping (target) the refugees
+% they ** (trigger) *** helping (target) the refugees
