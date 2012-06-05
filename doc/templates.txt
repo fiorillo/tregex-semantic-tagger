@@ -1,0 +1,258 @@
+D1-ditransitive-basic
+
+VB=trigger !< /^Trig/ < **  $.. (NP [ < /^NN/ | < PRP ] $.. (NP [ < /^NN/=target | < PRP=target ]))
+
+allow (trigger) them those luxuries (target)
+
+--------------------
+
+I-Prep-intransitive-VBG
+
+VB=trigger !< /^Trig/ < **  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (S < (VP < (VB=target !< AUX))))
+
+they failed (trigger) in helping (target) the refugees
+
+*this one will probably changed soon to allow two words instead of just listing all possible preps.
+
+---------------------
+
+I-Prep-intransitive-basic
+
+VB=trigger !< /^Trig/  < **  $.. (PP < (IN < in | < for | < with | < after | < among | < over | < on | < from | < against | < of) < (NP [ < /^NN/=target | < PRP=target ]))
+
+they failed (trigger) in their efforts (target)
+
+*same thing here.
+
+---------------------
+
+I-Prep-monotransitive-VBG
+
+VB=trigger !< /^Trig/ < **  $.. (PP < (IN < ***) < (S < (VP < (VB=target !< AUX))))
+
+they enjoined (trigger) him from killing (target)
+
+-----------------------
+
+I-intransitive-basic
+
+VP < (VB=trigger !< /^Trig/ < **)  $,, (NP [ < /^NN/=target | < PRP=target ])
+
+the plan (target) fizzled (trigger)
+
+------------------------
+
+I-intransitive-for-I-in-and-I3-verb
+
+VP < (VB=trigger !< /^Trig/  < **)  $,, (NP [ < /^NN/=target | < PRP=target ]) !< (PP < (IN < in) < S)
+
+the plan (target) failed (trigger)
+BUT NOT: they (wrong target) failed (trigger) in providing (right trigger) aid
+
+*there could be a better way to deal with this, i think. some kind of priority for patterns.
+
+-------------------------
+
+I5-CP-basic
+
+VB=trigger !< /^Trig/ < **  $.. (SBAR < (S < (VP < (VB=target !< AUX))))
+
+require (trigger) that they go (target)
+
+--------------------------
+
+JJ-as-basic
+
+ADJP < (JJ=trigger !< /^Trig/ < **) < (PP < (IN < as) < (NP [ < /^NN/=target | < PRP=target ]))
+
+unsuccessful (trigger) in that effort (target)
+
+*this doesn't actually cover the example sentence. needs to be multiword, i.e. JJ-Prep-basic
+
+---------------------------
+
+JJ-in-VBG
+
+ADJP < (JJ=trigger !< /^Trig/ < **) < (PP < (IN < in) < (S < (VP < (VB=target !< AUX))))
+
+unsuccessful (trigger) in providing (target) aid
+
+--------------------------
+
+JJ-in-basic
+
+ADJP < (JJ=trigger !< /^Trig/ < **) < (PP < (IN < in) < (NP [ < /^NN/=target | < PRP=target ]))
+
+unsuccessful (trigger) in that effort (target)
+
+--------------------------
+
+JJ-infinitive
+
+JJ=trigger !< /^Trig/ < ** $.. (S < (VP < TO < (VP < (VB=target !< AUX))))
+
+unable (trigger) to go (target)
+
+---------------------------
+
+JJ-of-VBG
+
+/^JJ/=trigger !< /^Trig/ < ** $.. (PP < (IN < of) < (S < (VP < (VB=target !< AUX))))
+
+incapable (trigger) of leaving (target)
+
+*redundant.
+
+---------------------------
+
+JJ-of-basic
+
+/^JJ/=trigger !< /^Trig/ < ** $.. (PP < (IN < of) < (NP [ < /^NN/=target | < PRP=target ]))
+
+incapable (trigger) of such an action (target)
+
+*doubly redundant.
+
+---------------------------
+
+JJ-predicative-for-JJ-in
+
+VP < (ADJP < (JJ=trigger !< /^Trig/ < **) !< (PP < (IN < in))) $,, (NP [ < /^NN/=target | < PRP=target ])
+
+the effort (target) was unsuccessful (trigger)
+BUT NOT: the government (wrong target) was unsuccessful (trigger) in that effort (right target)
+
+---------------------------
+
+JJ-prenominal-basic
+
+JJ=trigger !< /^Trig/ < ** $.. /^NN/=target
+
+the required (trigger) plans (target)
+
+----------------------------
+
+L9-basic
+
+VB=trigger !< /^Trig/  < ** $.. (ADJP < JJ=target)
+
+they appeared (trigger) unwilling (target)
+
+*"appeared to be unwilling" would be covered by V3-I3-basic, i think.
+
+-----------------------------
+
+NN-for-basic
+
+NP < (/^NN/=trigger !< /^Trig/  < **)  $.. (PP < (IN < for) < (NP [ < /^NN/=target | < PRP=target ]))
+
+the need (trigger) for tents (target)
+
+-----------------------------
+
+NN-infinitive-basic
+
+NP < (/^NN/=trigger !< /^Trig/  < **) < (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
+
+the need (trigger) to provide (target) tents
+
+-----------------------------
+
+Noun-compound
+
+NP <` (/^NN/=trigger < **  !< /^Trig/ $, /^NN/=target)
+
+the energy (target) requirement (trigger)
+
+-----------------------------
+
+T1-monotransitive-basic
+
+VB=trigger !< /^Trig/  < **  $.. (NP [ < /^NN/=target | < PRP=target ])
+
+they need (trigger) tents (target)
+
+------------------------------
+
+T1-monotransitive-for-D1-verbs
+
+VB=trigger !< /^Trig/  < **  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
+
+they allowed (trigger) the attack (target)
+BUT NOT: they allowed (trigger) them (wrong target) those luxuries (right target)
+
+*again, i think if we just make sure the patterns are always ordered correctly (admittedly this might be difficult), then all these extra patterns aren't necessary.
+
+------------------------------
+
+T1-monotransitive-for-V3-verbs
+
+VB=trigger !< /^Trig/  < **  $.. (NP [ < /^NN/=target | < PRP=target ]) !$ S
+
+they authorized (trigger) tents (target)
+BUT NOT: they authorized (trigger) them (wrong target) to leave (right target)
+
+------------------------------
+
+T1-passive-basic
+
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < **)) $,, (NP [ < /^NN/=target | < PRP=target ])
+
+the attacks (target) were aborted (trigger)
+
+------------------------------
+
+T1-passive-for-V3-verb
+
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < ** !$ S)) $,, (NP [ < /^NN/=target | < PRP=target ])
+
+the attacks (target) were allowed (trigger)
+BUT NOT: the attackers (wrong target) were allowed (trigger) to leave (right target)
+
+------------------------------
+
+V3-I3-basic
+
+VB=trigger !< /^Trig/  < **  $.. (S < (VP < (VP < (VB=target !< AUX))))
+
+want (trigger) him to go (target)
+want (trigger) to go (target)
+
+*i believe this still works for both, but i need to test it again.
+
+------------------------------
+
+V3-passive-basic
+
+VB=trigger !< /^Trig/ < VoicePassive < ** $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
+
+the attackers were allowed (trigger) to leave (target)
+
+-------------------------------
+
+VB-NN-infinitive
+
+VB < ** $.. NP $.. ((NP < (NN=trigger !< /^Trig/ < ***)) [$.. (S < (VP < TO < (VP < VB=target))) | < (S < (VP < TO < ( VP < VB=target)))] )
+
+they gave him permission (trigger) to go (target)
+
+*obviously this needs a better name.  it's tough to find one, though, since the stanford parser is very iffy on these. i'll ask an expert.
+
+-------------------------------
+
+X7-X9-basic
+
+VB=trigger !< /^Trig/ < ** [$.. (S < (ADJP < JJ=target) !< VB) | $.. (ADVP < RB=target)]
+
+wish (trigger) him dead (target)
+wish (trigger) him away (target)
+
+--------------------------------
+
+modal-auxiliary-basic
+
+MD=modal !< /^Trig/ < ** $ (VP < (VB=verb !< AUX))
+
+he might (trigger) go (target)
+
+---------------------------------
