@@ -2,3 +2,5 @@ VP < (ADJP < (JJ=trigger !< /^Trig/ < **) !< (PP < (IN < in))) $,, (NP [ < /^NN/
 
 insert (TargLabel) >1 target
 insert (TrigLabel) >1 trigger
+
+% the effort (target) was ** (trigger)

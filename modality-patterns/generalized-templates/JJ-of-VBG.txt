@@ -2,3 +2,5 @@
 
 insert (TrigLabel) >1 trigger
 insert (TargLabel) >2 target
+
+% ** (trigger) of acting (target)

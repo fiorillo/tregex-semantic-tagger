@@ -2,3 +2,5 @@ VP < (VB=trigger !< /^Trig/ < **)  $,, (NP [ < /^NN/=target | < PRP=target ])
 
 insert (TargLabel) >1 target
 insert (TrigLabel) >2 trigger
+
+% the plan (target) ** (trigger)

@@ -2,3 +2,5 @@ VB=trigger !< /^Trig/ < **  $.. (NP [ < /^NN/ | < PRP ] $.. (NP [ < /^NN/=target
 
 insert (TargLabel) >1 target
 insert (TrigLabel) >2 trigger
+
+% ** (trigger) them those luxuries (target)

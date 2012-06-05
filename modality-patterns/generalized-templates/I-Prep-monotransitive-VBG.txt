@@ -2,3 +2,5 @@ VB=trigger !< /^Trig/ < **  $.. (PP < (IN < ***) < (S < (VP < (VB=target !< AUX)
 
 insert (TargLabel) >2 target
 insert (TrigLabel) >2 trigger
+
+% they ** (trigger) him *** killing (target)

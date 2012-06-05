@@ -2,3 +2,5 @@ NP < (/^NN/=trigger !< /^Trig/  < **) < (S < (VP < (TO < to) < (VP < (VB=target 
 
 insert (TargLabel) >2 target
 insert (TrigLabel) >1 trigger
+
+% the ** (trigger) to go (target)

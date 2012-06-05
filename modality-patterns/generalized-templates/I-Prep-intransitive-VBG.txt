@@ -2,3 +2,5 @@ VB=trigger !< /^Trig/ < **  $.. (PP < (IN < in | < for | < with | < after | < am
 
 insert (TargLabel) >2 target
 insert (TrigLabel) >2 trigger
+
+% they ** (trigger) in helping (target) the refugees

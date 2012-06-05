@@ -2,3 +2,5 @@ VB < ** $.. NP $.. ((NP < (NN=trigger !< /^Trig/ < ***)) [$.. (S < (VP < TO < (V
 
 insert (TargLabel) >1 target
 insert (TrigLabel) >1 trigger
+
+% they ** him *** (trigger) to go (target)
