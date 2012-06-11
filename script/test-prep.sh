@@ -5,7 +5,7 @@
 sentence=$1
 
 PROJECT_ROOT=`cat script/project-root.txt`
-prep_dir=$PROJECT_ROOT/modality-patterns/idiosyncratic
+prep_dir=$PROJECT_ROOT/modality-patterns/preparatory
 pattern_dir=$PROJECT_ROOT/modality-patterns/instantiated-templates
 tmp_dir=$PROJECT_ROOT/tmp
 parser_dir=$PROJECT_ROOT/tools/stanford-parser
