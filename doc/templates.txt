@@ -237,6 +237,7 @@ VB < ** $.. NP $.. ((NP < (NN=trigger !< /^Trig/ < ***)) [$.. (S < (VP < TO < (V
 they gave him permission (trigger) to go (target)
 
 *obviously this needs a better name.  it's tough to find one, though, since the stanford parser is very iffy on these. i'll ask an expert.
+*also, note that the same pattern covers both the active and passive forms.
 
 -------------------------------
 
