@@ -1,0 +1,3 @@
+CC $ (/^NN/ < /^Targ/=label) $ (/^NN/=target !< /^Targ/)
+
+insert label >1 two
