@@ -650,6 +650,10 @@ solicited''VBN$Want &solicited, T1-monotransitive-basic, T1-passive-basic
 solicits''VBZ$Want &solicits, T1-monotransitive-basic, T1-passive-basic
 soliciting''VBG$Want &soliciting, T1-monotransitive-basic, T1-passive-basic
 
+# added by Matt, 6/12/2012
+desperate''JJ$Want &desperate, JJ-infinitive
+desperate''JJ for''IN$Want &desperate-for, JJ-Prep-basic
+
 # NotWant
 despise''VB$NotWant &despise, T1-monotransitive-basic, T1-passive-basic
 despised''VBD$NotWant &despised, T1-monotransitive-basic, T1-passive-basic
