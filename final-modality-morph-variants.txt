@@ -373,6 +373,9 @@ organized''VBN$Effort &organized, T1-monotransitive-for-V3-verbs, V3-I3-basic, T
 organizes''VBZ$Effort &organizes, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 organizing''VBG$Effort &organizing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 
+# added by Matt, 6/12/2012:
+effort''JJ$Effort &effort, JJ-infinitive
+
 # NotEffort
 abstain''VB from''IN$NotEffort &abstain, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 abstained''VBD from''IN$NotEffort &abstained, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
@@ -653,6 +656,13 @@ soliciting''VBG$Want &soliciting, T1-monotransitive-basic, T1-passive-basic
 # added by Matt, 6/12/2012
 desperate''JJ$Want &desperate, JJ-infinitive
 desperate''JJ for''IN$Want &desperate-for, JJ-Prep-basic
+demand''VB$Want &demand, T1-monotransitive-basic, T1-passive-basic
+demands''VBZ$Want &demands, T1-monotransitive-basic, T1-passive-basic
+demanded''VBD$Want &demanded, T1-monotransitive-basic, T1-passive-basic
+demanded''VBN$Want &demanded, T1-monotransitive-basic, T1-passive-basic
+demanding''VBG$want &demanding, T1-monotransitive-basic, T1-passive-basic
+demand''NN$Want &demand-for, NN-for-basic, Noun-compound
+demands''NNP$Want &demands-for, NN-for-basic, Noun-compound
 
 # NotWant
 despise''VB$NotWant &despise, T1-monotransitive-basic, T1-passive-basic
