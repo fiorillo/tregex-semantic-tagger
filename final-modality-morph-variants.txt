@@ -24,9 +24,9 @@ needed''VBD$Require &needed, V3-passive-basic, V3-I3-basic, T1-monotransitive-fo
 needed''VBN$Require &needed, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
 needs''VBZ$Require &needs, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
 needing''VBG$Require &needing, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
-needed''JJ$Require &need, JJ-prenominal-basic
+needed''JJ$Require &needed, JJ-prenominal-basic
 need''NN$Require &need, NN-for-basic,  NN-infinitive-basic
-needs''NNS$Require &need, NN-for-basic, NN-infinitive-basic
+needs''NNS$Require &needs, NN-for-basic, NN-infinitive-basic
 obligate''VB$Require &obligate, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
 obligated''VBD$Require &obligated, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
 obligated''VBN$Require &obligated, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
@@ -267,7 +267,7 @@ flops''VBZ$NotSucceed &flops, I-intransitive-basic, L9-basic
 flopping''VBG$NotSucceed &flopping, I-intransitive-basic, L9-basic
 short''JJ of''IN$NotSucceed & short, short-of, short-of-vbg
 unsuccessful''JJ$NotSucceed & unsuccessful, JJ-prenominal-basic, JJ-predicative-for-JJ-in
-unsuccessful''JJ in''IN &unsuccessful-in, JJ-Prep-basic, JJ-Prep-VBG
+unsuccessful''JJ in''IN$NotSucceed &unsuccessful-in, JJ-Prep-basic, JJ-Prep-VBG
 useless''JJ in''IN$NotSucceed &useless-in, JJ-Prep-basic
 useless''JJ in''IN$NotSucceed &useless-as, JJ-Prep-basic
 
@@ -754,7 +754,7 @@ probably''RB$Belief &**NOT DONE**
 think''VB$Belief &think, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
 thought''VBD$Belief &thought, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
 thought''VBN$Belief &thought, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
-thinks''VBZ$Belief &thinks, L9-basic, T1-monotransitive-basic, T1-passive-basicV3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
+thinks''VBZ$Belief &thinks, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
 thinking''VBG$Belief &thinking, L9-basic, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
 trust''VB$Belief &trust, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
 trusted''VBD$Belief &trusted, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic, I5-CP-basic 
