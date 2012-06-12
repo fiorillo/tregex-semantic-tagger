@@ -1,0 +1,6 @@
+ADJP < (JJ=trigger !< /^Trig/ < **) < (PP < (IN < as) < (NP [ < /^NN/=target | < PRP=target ]))
+
+insert (TargLabel) >1 target
+insert (TrigLabel) >1 trigger
+
+% ** (trigger) as a performer (target)
