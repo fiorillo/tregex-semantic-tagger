@@ -1,0 +1,3 @@
+CC $ (VP <+(VP) (VB < /^Targ/=label)) $ (VP <+(VP) (VB=target !< /^Targ/))
+
+insert label >1 target
