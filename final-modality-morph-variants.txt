@@ -186,7 +186,8 @@ succeeded''VBD$Succeed &succeeded, T1-monotransitive-basic, T1-passive-basic, V3
 succeeded''VBN$Succeed &succeeded, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
 succeeds''VBZ$Succeed &succeeds, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
 succeeding''VBG$Succeed &succeeding, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
-successful''JJ$Succeed & successful, JJ-prenominal-basic, JJ-predicative-for-JJ-in, JJ-in-basic, JJ-in-VBG
+successful''JJ$Succeed & successful, JJ-prenominal-basic, JJ-predicative-for-JJ-in
+successful''JJ in''IN$Succeed &successful-in, JJ-Prep-basic, JJ-Prep-VBG
 accomplish''VB$Succeed &accomplish, T1-monotransitive-basic, T1-passive-basic
 accomplished''VBD$Succeed &accomplished, T1-monotransitive-basic, T1-passive-basic
 accomplished''VBN$Succeed &accomplished, T1-monotransitive-basic, T1-passive-basic
@@ -265,7 +266,7 @@ flopped''VBN$NotSucceed &flopped, I-intransitive-basic, L9-basic
 flops''VBZ$NotSucceed &flops, I-intransitive-basic, L9-basic
 flopping''VBG$NotSucceed &flopping, I-intransitive-basic, L9-basic
 short''JJ of''IN$NotSucceed & short, short-of, short-of-vbg
-unsuccessful''JJ$NotSucceed & unsuccessful, JJ-prenominal-basic, JJ-predicative-for-JJ-in, JJ-in-basic, JJ-in-VBG
+unsuccessful''JJ$NotSucceed & unsuccessful, JJ-prenominal-basic, JJ-predicative-for-JJ-in
 unsuccessful''JJ in''IN &unsuccessful-in, JJ-Prep-basic, JJ-Prep-VBG
 useless''JJ in''IN$NotSucceed &useless-in, JJ-Prep-basic
 useless''JJ in''IN$NotSucceed &useless-as, JJ-Prep-basic
@@ -497,7 +498,7 @@ devises''VBZ$Intend &devises, T1-monotransitive-basic, T1-passive-basic
 devising''VBG$Intend &devising, T1-monotransitive-basic, T1-passive-basic
 
 # Able
-capable''JJ of''IN$Able& capable, JJ-of-basic, JJ-of-VBG
+capable''JJ of''IN$Able& capable-of, JJ-Prep-basic, JJ-Prep-VBG
 able''JJ to''TO$Able & able, JJ-infinitive
 can''MD$Able & can, modal-auxiliary-basic
 could''MD$Able & could, modal-auxiliary-basic
