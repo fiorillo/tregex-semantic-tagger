@@ -1,3 +1,3 @@
-CC $ (NP <+(NP) (/^NN/=label < /^Targ/)) $ (NP <+(NP) (/^NN/=target !< /^Targ/))
+CC $ (NP <+(NP) (/^NN/ < /^Targ/=label)) $ (NP <+(NP) (/^NN/=target !< /^Targ/))
 
-insert (foundlabel) >1 label
+insert label >1 target
