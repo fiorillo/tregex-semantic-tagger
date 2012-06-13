@@ -1,4 +1,4 @@
-NP < (/^NN/=trigger !< /^Trig/  < **) < (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
+NP <+(NP) (/^NN/=trigger !< /^Trig/  < **) < (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
 
 insert (TargLabel) >2 target
 insert (TrigLabel) >1 trigger

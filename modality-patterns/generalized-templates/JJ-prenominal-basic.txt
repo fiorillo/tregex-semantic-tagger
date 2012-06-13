@@ -1,4 +1,4 @@
-JJ=trigger !< /^Trig/ < ** $.. /^NN/=target
+JJ=trigger !< /^Trig/ < ** [$.. /^NN/=target | <+(NP) /^NN/=target]
 
 insert (TargLabel) >1 target
 insert (TrigLabel) >1 trigger
