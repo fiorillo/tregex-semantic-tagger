@@ -702,7 +702,7 @@ fears''VBZ$NotWant &fears, T1-monotransitive-basic, T1-passive-basic
 fearing''VBG$NotWant &fearing, T1-monotransitive-basic, T1-passive-basic
 
 # FirmBelief
-certain''JJ$FirmBelief &**NOT DONE**
+certain''JJ$FirmBelief &certain, JJ-SBAR
 convinced''VB$FirmBelief &convinced, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 convinced''VBD$FirmBelief &convinced, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 convinced''VBN$FirmBelief &convinced, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
@@ -713,16 +713,16 @@ knew''VBD$FirmBelief &knew, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-pass
 knew''VBN$FirmBelief &knew, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 knows''VBZ$FirmBelief &knows, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 knowing''VBG$FirmBelief &knowing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
-sure''JJ$FirmBelief &**NOT DONE**
-destined''JJ$FirmBelief &**NOT DONE**
+sure''JJ$FirmBelief &sure, JJ-infinitive
+destined''JJ$FirmBelief &destined, JJ-infinitive
 determined''VB$FirmBelief &**NOT DONE**
 infallible''JJ$FirmBelief &**NOT DONE**
-irrefutable''JJ$FirmBelief &**NOT DONE**
-unambiguous''JJ$FirmBelief &**NOT DONE**
-undeniable''JJ$FirmBelief &**NOT DONE**
+irrefutable''JJ$FirmBelief &irrefutable, JJ-prenominal-basic, JJ-SBAR
+unambiguous''JJ$FirmBelief &unambiguous, JJ-prenominal-basic
+undeniable''JJ$FirmBelief &undeniable, JJ-prenominal-basic, JJ-SBAR
 unerring''JJ$FirmBelief &**NOT DONE**
 unmistakable''JJ$FirmBelief &**NOT DONE**
-verifiable''JJ$FirmBelief &**NOT DONE**
+verifiable''JJ$FirmBelief &verifiable, JJ-prenominal-basic, JJ-SBAR
 assure''VB$FirmBelief &assure, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
 assured''VBD$FirmBelief &assured, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
 assured''VBN$FirmBelief &assured, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
@@ -755,7 +755,7 @@ expected''VBD$Belief &expected, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-
 expected''VBN$Belief &expected, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 expects''VBZ$Belief &expects, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 expecting''VBG$Belief &expecting, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
-likely''JJ$Belief &**NOT DONE**
+likely''JJ$Belief &likely, JJ-SBAR
 maybe''RB$Belief &**NOT DONE**
 may''MD$Belief &may, modal-auxiliary-basic
 might''MD$Belief &might, modal-auxiliary-basic
@@ -868,11 +868,11 @@ doubted''VBD$NotBelief &doubted, T1-monotransitive-basic, T1-passive-basic, I5-C
 doubted''VBN$NotBelief &doubted, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 doubts''VBZ$NotBelief &doubts, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 doubting''VBG$NotBelief &doubting, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
-improbable''JJ$NotBelief &**NOT DONE**
-questionable''JJ$NotBelief &**NOT DONE**
-uncertain''JJ$NotBelief &**NOT DONE**
-unreliable''JJ$NotBelief &**NOT DONE**
-unsure''JJ$NotBelief &**NOT DONE**
+improbable''JJ$NotBelief &improbable, JJ-SBAR
+questionable''JJ$NotBelief &questionable, JJ-prenominal-basic, JJ-SBAR
+uncertain''JJ$NotBelief &uncertain, JJ-SBAR
+unreliable''JJ$NotBelief &unreliable, JJ-prenominal-basic, JJ-SBAR
+unsure''JJ$NotBelief &unsure, JJ-SBAR
 disbelieve''VB$NotBelief &disbelieve, T1-monotransitive-basic, T1-passive-basic
 disbelieved''VBD$NotBelief &disbelieved, T1-monotransitive-basic, T1-passive-basic
 disbelieved''VBN$NotBelief &disbelieved, T1-monotransitive-basic, T1-passive-basic
