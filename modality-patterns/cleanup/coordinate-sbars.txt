@@ -1,0 +1,3 @@
+CC $ (SBAR <+(SBAR) (S <+(VP) (VB < /^Targ/=label))) $ (SBAR <+(SBAR) (S <+(VP) (VB=target !< /^Targ/)))
+
+insert label >1 target
