@@ -474,11 +474,16 @@ signified''VBD$Intend &signified, T1-monotransitive-basic, T1-passive-basic, I5-
 signified''VBN$Intend &signified, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 signifies''VBZ$Intend &signifies, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 signifying''VBG$Intend &signifying, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
-strive''VB$Intend &strive, L9-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-strived''VBD$Intend &strived, L9-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-strived''VBN$Intend &strived, L9-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-strives''VBZ$Intend &strives, L9-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-striving''VBG$Intend &striving, L9-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+strive''VB$Intend &strive, L9-basic
+strived''VBD$Intend &strived, L9-basic
+strived''VBN$Intend &strived, L9-basic
+strives''VBZ$Intend &strives, L9-basic
+striving''VBG$Intend &striving, L9-basic
+strive''VB for''IN$Intend &strive-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+strived''VBD for''IN$Intend &strived-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+strived''VBN for''IN$Intend &strived-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+strives''VBZ for''IN$Intend &strives-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+striving''VBG for''IN$Intend &striving-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 concoct''VB$Intend &concoct, T1-monotransitive-basic, T1-passive-basic
 concocted''VBD$Intend &concocted, T1-monotransitive-basic, T1-passive-basic
 concocted''VBN$Intend &concocted, T1-monotransitive-basic, T1-passive-basic
