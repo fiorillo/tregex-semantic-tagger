@@ -1,0 +1,4 @@
+ADJP <+(ADJP) (JJ=trigger < ** !< /^Trig/) $.. (SBAR < (S <+(VP) < (VB=target)))
+
+insert (TargLabel) >2 target
+insert (TrigLabel) >2 trigger
