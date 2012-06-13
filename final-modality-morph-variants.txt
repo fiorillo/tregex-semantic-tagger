@@ -755,7 +755,7 @@ expected''VBD$Belief &expected, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-
 expected''VBN$Belief &expected, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 expects''VBZ$Belief &expects, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 expecting''VBG$Belief &expecting, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
-likely''JJ$Belief &likely, JJ-SBAR
+likely''JJ$Belief &likely, JJ-infinitive, JJ-SBAR
 maybe''RB$Belief &**NOT DONE**
 may''MD$Belief &may, modal-auxiliary-basic
 might''MD$Belief &might, modal-auxiliary-basic
