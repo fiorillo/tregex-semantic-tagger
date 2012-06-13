@@ -1,4 +1,0 @@
-VB=trigger < ** !< /^Trig/ $.. (PP < (IN=target < ***))
-
-insert (TwoStar) >1 trigger
-insert (ThreeStar) >1 target
