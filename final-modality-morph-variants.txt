@@ -532,11 +532,16 @@ requests''VBD$Want &requests, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-pa
 requests''VBN$Want &requests, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 requested''VBZ$Want &requested, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 requesting''VBG$Want &requesting, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
-aspire''VB$Want &aspire, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-aspires''VBD$Want &aspires, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-aspires''VBN$Want &aspires, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-aspired''VBZ$Want &aspired, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-aspiring''VBG$Want &aspiring, V3-passive-basic, V3-I3-basic, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspire''VB$Want &aspire, V3-passive-basic, V3-I3-basic
+aspires''VBD$Want &aspires, V3-passive-basic, V3-I3-basic
+aspires''VBN$Want &aspires, V3-passive-basic, V3-I3-basic
+aspired''VBZ$Want &aspired, V3-passive-basic, V3-I3-basic
+aspiring''VBG$Want &aspiring, V3-passive-basic, V3-I3-basic
+aspire''VB for''IN$Want &aspire-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspires''VBD for''IN$Want &aspires-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspires''VBN for''IN$Want &aspires-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspired''VBZ for''IN$Want &aspired-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspiring''VBG for''IN$Want &aspiring-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 covet''VB$Want &covet, T1-monotransitive-basic, T1-passive-basic
 covets''VBD$Want &covets, T1-monotransitive-basic, T1-passive-basic
 covets''VBN$Want &covets, T1-monotransitive-basic, T1-passive-basic
