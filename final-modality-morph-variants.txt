@@ -287,11 +287,11 @@ aspired''VBD$Effort &aspires, V3-passive-basic, V3-I3-basic
 aspired''VBN$Effort &aspired, V3-passive-basic, V3-I3-basic
 aspires''VBZ$Effort &aspires, V3-passive-basic, V3-I3-basic
 aspiring''VBG$Effort &aspiring, V3-passive-basic, V3-I3-basic
-aspire''VB for''IN$Effort &aspire, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-aspired''VBD for''IN$Effort &aspires, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-aspired''VBN for''IN$Effort &aspired, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-aspires''VBZ for''IN$Effort &aspires, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-aspiring''VBG for''IN$Effort &aspiring, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspire''VB for''IN$Effort &aspire-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspired''VBD for''IN$Effort &aspires-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspired''VBN for''IN$Effort &aspired-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspires''VBZ for''IN$Effort &aspires-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+aspiring''VBG for''IN$Effort &aspiring-for, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 attack''VB$Effort &attack, T1-monotransitive-basic, T1-passive-basic
 attacked''VBD$Effort &attacked, T1-monotransitive-basic, T1-passive-basic
 attacked''VBN$Effort &attacked, T1-monotransitive-basic, T1-passive-basic
