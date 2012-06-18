@@ -1,4 +1,4 @@
-SINV < (CC=trigger < nor) < (MD=target)
+SINV < (CC=trigger < nor !< /^Trig/) < (MD=target)
 
-insert (TrigNegation) >2 trigger
-insert (TargNegation) >2 target
+insert (TrigNegation) >1 trigger
+insert (TargNegation) >1 target
