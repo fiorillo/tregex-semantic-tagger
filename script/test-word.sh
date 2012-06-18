@@ -8,7 +8,7 @@ if [ $# -eq 2 ]; then
 #elif [ $# -eq 1 ]; then
 #  sentence=$1
 else
-  echo "usage: script/$0 [word-to-test] \"[sentence]\""
+  echo "usage: $0 [word-to-test] \"[sentence]\""
   exit 1
 fi
 
