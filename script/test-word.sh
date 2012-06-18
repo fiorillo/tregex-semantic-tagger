@@ -2,8 +2,15 @@
 
 # usage: script/test-word.sh [word-to-test] "[test-sentence]"
 
-word=$1
-sentence=$2
+if [ $# -eq 2 ]; then
+  word=$1
+  sentence=$2
+#elif [ $# -eq 1 ]; then
+#  sentence=$1
+else
+  echo "usage: script/$0 [word-to-test] \"[sentence]\""
+  exit 1
+fi
 
 PROJECT_ROOT=`cat script/project-root.txt`
 prep_dir=$PROJECT_ROOT/modality-patterns/preparatory
