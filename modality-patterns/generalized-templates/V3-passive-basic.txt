@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/ < VoicePassive < ** $.. (S < (VP < (TO < to) < (VP < (VB=target !< AUX))))
+VB=trigger !< /^Trig/ < VoicePassive < ** $.. (S < (VP=target < (TO < to) < (VP < (VB !< AUX))))
 
 insert (TrigLabel) >2 trigger
-insert (TargLabel) >2 target
+insert (TargLabel) >1 target
 
 % the attackers were ** (trigger) to leave (target)

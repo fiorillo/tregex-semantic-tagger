@@ -1,4 +1,6 @@
-ADJP <+(ADJP) (JJ=trigger < ** !< /^Trig/) $.. (SBAR <+(SBAR) (S <+(VP) (VB=target)))
+ADJP <+(ADJP) (JJ=trigger < ** !< /^Trig/) $.. (SBAR <+(SBAR) (S=target))
 
-insert (TargLabel) >2 target
-insert (TrigLabel) >2 trigger
+insert (TargLabel) >1 target
+insert (TrigLabel) >1 trigger
+
+% ** (trigger) that he will succeed (target)

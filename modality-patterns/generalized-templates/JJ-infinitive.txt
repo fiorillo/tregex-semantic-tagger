@@ -1,6 +1,6 @@
-JJ=trigger !< /^Trig/ < ** $.. (S < (VP < TO < (VP < (VB=target !< AUX))))
+JJ=trigger !< /^Trig/ < ** $.. (S < (VP=target < TO < (VP < (VB !< AUX))))
 
-insert (TargLabel) >2 target
+insert (TargLabel) >1 target
 insert (TrigLabel) >1 trigger
 
 % ** (trigger) to go (target)

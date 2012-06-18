@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/ < **  $.. (PP < (IN < ***) < (S < (VP < (VB=target !< AUX))))
+VB=trigger !< /^Trig/ < **  $.. (PP < (IN < ***) < (S < (VP=target < (VB !< AUX))))
 
-insert (TargLabel) >2 target
+insert (TargLabel) >1 target
 insert (TrigLabel) >2 trigger
 
 % they ** (trigger) him *** killing (target)
