@@ -873,6 +873,7 @@ questionable''JJ$NotBelief &questionable, JJ-prenominal-basic, JJ-SBAR
 uncertain''JJ$NotBelief &uncertain, JJ-SBAR
 unreliable''JJ$NotBelief &unreliable, JJ-prenominal-basic, JJ-SBAR
 unsure''JJ$NotBelief &unsure, JJ-SBAR
+unlikely''JJ$NotBelief &unlikely, JJ-SBAR
 disbelieve''VB$NotBelief &disbelieve, T1-monotransitive-basic, T1-passive-basic
 disbelieved''VBD$NotBelief &disbelieved, T1-monotransitive-basic, T1-passive-basic
 disbelieved''VBN$NotBelief &disbelieved, T1-monotransitive-basic, T1-passive-basic
