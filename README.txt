@@ -9,22 +9,27 @@ Included in this package are the following directories:
   doc: documentation
   tmp: any temp files created by the scripts (also a good place to stick test files)
   attic: old, unused files, or files that I don't know what to do with
+  output: various outputs from the system at different times for comparison.
 
 I. MODALITY-PATTERNS
 
-The files in idiosyncratic are all preprocessing patterns that run before the 
-other patterns. A description of them can be found in doc/attic-misc/README.txt. 
-Some of the information there is a little out of date, and I will update it in 
-the future. 
+There are five sub-directories of modality-patterns:
 
-The files in generalized-templates generate the patterns in the 
-instantiated-templates directory. The script 
-script/rebuild_instantiated_templates.sh should be run after any changes are made 
-to the templates. This will populate instantiated-templates with new versions of 
-the patterns, based on the lexicon.
+-preparatory: these are run before everything else, to get the input into a state 
+that the other patterns can use.
 
-The lexicon is in final-modality-morph-variants.txt (which is in the root directory 
-now, but should probably be moved elsewhere).
+-idiosyncratic: these are run next. Anything that can't be generalized, basically.
+
+-generalized-templates: these are all the patterns with wildcards (** or ***) in 
+them. They are used to generate the patterns in instantiated-templates.
+
+-instantiated-templates: the vast majority of patterns are here. They are 
+templates from generalized-templates with the wildcards filled in with specific 
+words from final-modality-morph-variants.txt.
+
+-cleanup: a couple patterns that need to be run after everything else.
+
+Templates can be re-instantiated with script/rebuild_instantiated_templates.sh.
 
 Information about the generalized templates and examples can be found in 
 doc/attic-misc.
