@@ -1,4 +1,4 @@
-JJ=trigger !< /^Trig/ < ** $.. (S < (VP=target < TO < (VP < (VB !< AUX))))
+JJ=trigger !< /^Trig/ < ** $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
 
 insert (TargLabel) >1 target
 insert (TrigLabel) >1 trigger
