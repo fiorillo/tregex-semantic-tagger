@@ -188,6 +188,7 @@ succeeds''VBZ$Succeed &succeeds, T1-monotransitive-basic, T1-passive-basic, V3-I
 succeeding''VBG$Succeed &succeeding, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
 successful''JJ$Succeed & successful, JJ-prenominal-basic, JJ-predicative-for-JJ-in
 successful''JJ in''IN$Succeed &successful-in, JJ-Prep-basic, JJ-Prep-VBG
+successful''JJ at''IN&Succeed &successful-at, JJ-Prep-VBG
 accomplish''VB$Succeed &accomplish, T1-monotransitive-basic, T1-passive-basic
 accomplished''VBD$Succeed &accomplished, T1-monotransitive-basic, T1-passive-basic
 accomplished''VBN$Succeed &accomplished, T1-monotransitive-basic, T1-passive-basic
@@ -269,6 +270,7 @@ short''JJ of''IN$NotSucceed & short, short-of, short-of-vbg
 unsuccessful''JJ$NotSucceed & unsuccessful, JJ-prenominal-basic, JJ-predicative-for-JJ-in
 unsuccessful''JJ in''IN$NotSucceed &unsuccessful-in, JJ-Prep-basic, JJ-Prep-VBG
 unsuccessful''JJ as''IN$NotSucceed &unsuccessful-as, JJ-Prep-basic, JJ-Prep-VBG
+unsuccessful''JJ at''IN$NotSucceed &unsuccessful-at, JJ-Prep-VBG
 useless''JJ in''IN$NotSucceed &useless-in, JJ-Prep-basic
 useless''JJ in''IN$NotSucceed &useless-as, JJ-Prep-basic
 
