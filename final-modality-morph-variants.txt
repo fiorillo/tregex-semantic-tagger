@@ -374,7 +374,7 @@ organizes''VBZ$Effort &organizes, T1-monotransitive-for-V3-verbs, V3-I3-basic, T
 organizing''VBG$Effort &organizing, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 
 # added by Matt, 6/12/2012:
-effort''JJ$Effort &effort, JJ-infinitive
+effort''NN$Effort &effort, NN-infinitive-basic
 
 # NotEffort
 abstain''VB from''IN$NotEffort &abstain, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
