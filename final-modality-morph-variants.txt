@@ -268,6 +268,7 @@ flopping''VBG$NotSucceed &flopping, I-intransitive-basic, L9-basic
 short''JJ of''IN$NotSucceed & short, short-of, short-of-vbg
 unsuccessful''JJ$NotSucceed & unsuccessful, JJ-prenominal-basic, JJ-predicative-for-JJ-in
 unsuccessful''JJ in''IN$NotSucceed &unsuccessful-in, JJ-Prep-basic, JJ-Prep-VBG
+unsuccessful''JJ as''IN$NotSucceed &unsuccessful-as, JJ-Prep-basic, JJ-Prep-VBG
 useless''JJ in''IN$NotSucceed &useless-in, JJ-Prep-basic
 useless''JJ in''IN$NotSucceed &useless-as, JJ-Prep-basic
 
