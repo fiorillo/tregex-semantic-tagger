@@ -37,12 +37,10 @@ doc/attic-misc.
 
 II. SCRIPTS
 
-There are a few ways to use the system. All of the scripts read the location of the 
-project root from the file script/project-root.txt.  Make sure you change this file 
-before running any of these scripts. This also means that all the scripts have to be run 
-from the main directory (the one that has this readme in it). I will change this as soon 
-as I come up with a better solution and have time (probably just by writing a setup 
-script).
+There are a few ways to use the system. Just make sure to run ./configure.sh before 
+running any of these. Right now that script just fills in the project root, but more 
+configuration options are forthcoming. Run the scripts from the root directory, as in 
+the examples below.
 
 1. tag.sh: to tag a file that has already been parsed, use:
 
@@ -52,7 +50,11 @@ $ script/tag.sh parsed-input.txt > tagged-output.txt
 
 $ script/parse-and-tag.sh input.txt > tagged-output.txt
 
-3. test-template.sh: for quick testing of a single pattern (from the 
+3. test.sh: parse and tag a single quoted sentence:
+
+$ script/test.sh "example sentence"
+
+4. test-template.sh: for quick testing of a single pattern (from the 
 instantiated-templates dir), use:
 
 $ script/test-pattern.sh [name-of-pattern-w/o-extension] "example sentence"
@@ -64,19 +66,18 @@ $ script/test-pattern.sh able-JJ-infinitive "they were able to go"
 This will still run all the preprocessing patterns, but not any of the other 
 patterns in the instantiated-templates directory, so it goes a bit faster.
 
-4. test-word.sh: this is similar to test-pattern, but runs all the patterns that 
+5. test-word.sh: this is similar to test-pattern, but runs all the patterns that 
 start with a specified word:
 
 $ script/test-word.sh able "they were able to go"
 
-5. test-prep.sh: essentially the same thing, but only runs the preprocessing scripts:
+6. test-prep.sh: essentially the same thing, but only runs the preprocessing scripts:
 
 $ script/test-prep.sh "they were able to go"
 
-6. parse.sh: just a shortcut for using the stanford parser to parse a text file.
+7. parse.sh: just a shortcut for using the stanford parser to parse a text file.
 
 $ script/parse.sh unparsed-file.txt
 
-III. TODO
 
-Matt Fiorillo 2012-05-20
+Matt Fiorillo 2012-07-22
