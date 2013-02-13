@@ -1,5 +1,0 @@
-VB=trigger !< /^Trig/ [< make | < makes | < made | < making ] $.. (S [< JJ=target | < ADVP=target] !< VB)
-
-insert (TargRequire) >1 target
-
-insert (TrigRequire) >2 trigger

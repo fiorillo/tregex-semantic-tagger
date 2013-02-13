@@ -1,5 +1,0 @@
-/^NN/=trigger !< /^Trig/ [ < requirement | < requirements ] $.. (PP < (IN < for) [ < /^NN/=target | < PRP=target ])
-
-insert (TargRequire) >1 target
-
-insert (TrigRequire) >1 trigger

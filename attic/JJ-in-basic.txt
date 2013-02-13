@@ -1,6 +1,0 @@
-ADJP < (JJ=trigger !< /^Trig/ < **) < (PP < (IN < in) < (NP [ <+(NP) /^NN/=target | < PRP=target ]))
-
-insert (TargLabel) >1 target
-insert (TrigLabel) >1 trigger
-
-% ** (trigger) in that effort (target)

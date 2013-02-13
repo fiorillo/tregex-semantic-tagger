@@ -1,7 +1,0 @@
-VB=trigger !< /^Trig/ & [ < require | < required | < requiring | < requires ] $.. (NP  [< /^NN/=target | < PRP=target])
-
-insert (TargReq) >1 target
-
-insert (TrigReq) >2 trigger
-
-
