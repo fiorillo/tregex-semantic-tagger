@@ -5,7 +5,7 @@
 
 treefile=$1
 
-root=`cat project-root.txt`
+root=`pwd`
 prep_dir=$root/modality-patterns/preparatory
 idio_dir=$root/modality-patterns/idiosyncratic
 pattern_dir=$root/modality-patterns/instantiated-templates
