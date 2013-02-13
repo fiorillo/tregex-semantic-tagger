@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # runs all the patterns on the given parsed file, and prints the modified parse tree to stdout
-# usage: script/tag.sh [parsed-text-file] > [output file]
+# usage: tag.sh [parsed-text-file] > [output file]
 
 treefile=$1
 
