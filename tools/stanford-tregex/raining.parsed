@@ -1,0 +1,18 @@
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ believes)
+      (SBAR (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (VP (VBG raining))))))
+    (. .)))
+
+nsubj(believes-2, He-1)
+root(ROOT-0, believes-2)
+complm(raining-6, that-3)
+nsubj(raining-6, it-4)
+aux(raining-6, is-5)
+ccomp(believes-2, raining-6)
+
