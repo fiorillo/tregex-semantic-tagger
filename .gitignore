@@ -2,3 +2,5 @@ output/*
 modality-patterns/instantiated-templates/*
 tmp/*
 .git*
+.gitignore
+project-root.txt
