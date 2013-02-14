@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/ < **  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
+VB=trigger !< /^Trig/ < $verb  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >2 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >2 trigger
 
-% ** (trigger) them those luxuries (target)
+% $verb (trigger) them those luxuries (target)

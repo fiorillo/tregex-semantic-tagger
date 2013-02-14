@@ -1,6 +1,6 @@
-NP <` (/^NN/=trigger < **  !< /^Trig/ $, /^NN/=target)
+NP <` (/^NN/=trigger < $noun  !< /^Trig/ $, /^NN/=target)
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >1 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >1 trigger
 
-% the energy (target) ** (trigger)
+% the energy (target) $noun (trigger)

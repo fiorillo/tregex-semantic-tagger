@@ -1,6 +1,6 @@
-JJ=trigger !< /^Trig/ < ** [$.. /^NN/=target | <+(NP) /^NN/=target]
+JJ=trigger !< /^Trig/ < $adj [$.. /^NN/=target | <+(NP) /^NN/=target]
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >1 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >1 trigger
 
-% the ** (trigger) plans (target)
+% the $adj (trigger) plans (target)

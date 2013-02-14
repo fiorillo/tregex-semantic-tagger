@@ -1,6 +1,6 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < **)) $,, (NP=target)
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < $verb)) $,, (NP=target)
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >2 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >2 trigger
 
-% the attacks (target) were ** (trigger)
+% the attacks (target) were $verb (trigger)

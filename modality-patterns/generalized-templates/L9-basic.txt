@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < ** $.. (ADJP=target)
+VB=trigger !< /^Trig/  < $verb $.. (ADJP=target)
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >2 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >2 trigger
 
-% they ** (trigger) unwilling (target)
+% they $verb (trigger) unwilling (target)

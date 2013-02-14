@@ -1,6 +1,6 @@
-VB < ** $.. NP $.. ((NP <+(NP) (NN=trigger !< /^Trig/ < ***)) [$.. (S < (VP < TO < (VP < VB=target))) | < (S < (VP < TO < (VP=target < VB)))] )
+VB < $verb $.. NP $.. ((NP <+(NP) (NN=trigger !< /^Trig/ < $noun)) [$.. (S < (VP < TO < (VP < VB=target))) | < (S < (VP < TO < (VP=target < VB)))] )
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >1 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >1 trigger
 
-% they ** him *** (trigger) to go (target)
+% they $verb him $noun (trigger) to go (target)

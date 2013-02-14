@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/ < **  $.. (PP < (IN < ***) < (S=target <+(VP) (VB < G !< AUX)))
+VB=trigger !< /^Trig/ < $verb  $.. (PP < (IN < $prep) < (S=target <+(VP) (VB < G !< AUX)))
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >2 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >2 trigger
 
-% they ** (trigger) *** helping (target) the refugees
+% they $verb (trigger) $prep helping (target) the refugees

@@ -1,6 +1,6 @@
-ADJP < (JJ=trigger !< /^Trig/ < **) < (PP < (IN < ***) < (NP=target))
+ADJP < (JJ=trigger !< /^Trig/ < $adj) < (PP < (IN < $prep) < (NP=target))
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >1 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >1 trigger
 
-% ** (trigger) *** a performer (target)
+% $adj (trigger) $prep a performer (target)

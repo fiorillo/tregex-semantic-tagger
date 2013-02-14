@@ -1,6 +1,6 @@
-VP < (ADJP < (JJ=trigger !< /^Trig/ < **) !< (PP < IN)) $,, (NP=target)
+VP < (ADJP < (JJ=trigger !< /^Trig/ < $adj) !< (PP < IN)) $,, (NP=target)
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >1 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >1 trigger
 
-% the effort (target) was ** (trigger)
+% the effort (target) was $adj (trigger)

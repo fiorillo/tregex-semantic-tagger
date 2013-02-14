@@ -1,6 +1,6 @@
-NP <+(NP) (/^NN/=trigger !< /^Trig/  < **)  $.. (PP < (IN < for) < (NP=target))
+NP <+(NP) (/^NN/=trigger !< /^Trig/  < $noun)  $.. (PP < (IN < for) < (NP=target))
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >1 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >1 trigger
 
-% the ** (trigger) for tents (target)
+% the $noun (trigger) for tents (target)

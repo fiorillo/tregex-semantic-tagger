@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/ < **  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+VB=trigger !< /^Trig/ < $verb  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >2 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >2 trigger
 
-% ** (trigger) that they go (target)
+% $verb (trigger) that they go (target)

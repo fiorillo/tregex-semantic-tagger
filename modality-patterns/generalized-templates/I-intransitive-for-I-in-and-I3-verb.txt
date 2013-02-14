@@ -1,6 +1,6 @@
-VP < (VB=trigger !< /^Trig/  < **)  $,, (NP=target) !< (PP < (IN < in) < S)
+VP < (VB=trigger !< /^Trig/  < $verb)  $,, (NP=target) !< (PP < (IN < in) < S)
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >2 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >2 trigger
 
-% the plan (target) ** (trigger)
+% the plan (target) $verb (trigger)

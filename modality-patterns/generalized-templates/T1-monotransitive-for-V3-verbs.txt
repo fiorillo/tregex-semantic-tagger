@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < **  $.. (NP=target) !$ S
+VB=trigger !< /^Trig/  < $verb  $.. (NP=target) !$ S
 
-insert (TargLabel) >1 target
-insert (TrigLabel) >2 trigger
+insert (Targ$label) >1 target
+insert (Trig$label) >2 trigger
 
-% they ** (trigger) tents (target)
+% they $verb (trigger) tents (target)

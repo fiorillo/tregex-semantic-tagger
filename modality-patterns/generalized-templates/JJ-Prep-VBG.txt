@@ -1,6 +1,6 @@
-/^JJ/=trigger !< /^Trig/ < ** $.. (PP < (IN < ***) < (S=target < (VP < (VB !< AUX))))
+/^JJ/=trigger !< /^Trig/ < $adj $.. (PP < (IN < $prep) < (S=target < (VP < (VB !< AUX))))
 
-insert (TrigLabel) >1 trigger
-insert (TargLabel) >1 target
+insert (Trig$label) >1 trigger
+insert (Targ$label) >1 target
 
-% ** (trigger) *** acting (target)
+% $adj (trigger) $prep acting (target)
