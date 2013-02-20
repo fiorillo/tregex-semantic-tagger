@@ -1,0 +1,3 @@
+VP=trigger !< (TrigFinite) < (VB=target [< 's | < is | < am | < are | < were | < was])
+
+insert (TrigFinite) >1 trigger
