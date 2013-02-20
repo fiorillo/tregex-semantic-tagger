@@ -3,10 +3,9 @@
 # runs all the patterns on the given parsed file, and prints the modified parse tree to stdout
 # usage: tag.sh [pattern-to-test] [parsed-text-file] > [output file]
 
-pattern=$1
-treefile=$2
-
 root=`pwd`
+pattern=$root/$1
+treefile=$root/$2
 prep_dir=$root/modality-patterns/preparatory
 cleanup_dir=$root/modality-patterns/cleanup
 tregex_dir=$root/tools/stanford-tregex
