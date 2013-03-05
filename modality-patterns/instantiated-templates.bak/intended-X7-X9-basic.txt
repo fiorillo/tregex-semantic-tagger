@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < intended [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% intended (trigger) him dead/away (target)

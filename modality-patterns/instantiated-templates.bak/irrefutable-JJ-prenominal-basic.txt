@@ -1,0 +1,6 @@
+JJ=trigger !< /^Trig/ < irrefutable [$.. /^NN/=target | <+(NP) /^NN/=target]
+
+insert (TargFirmBelief) >1 target
+insert (TrigFirmBelief) >1 trigger
+
+% the irrefutable (trigger) plans (target)

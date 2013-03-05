@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < hating  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargNotWant) >1 target
+insert (TrigNotWant) >2 trigger
+
+% hating (trigger) [him] to go (target)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < attempts  $.. (NP=target)
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% they attempts (trigger) tents (target)

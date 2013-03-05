@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < allows  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargPermit) >1 target
+insert (TrigPermit) >2 trigger
+
+% allows (trigger) [him] to go (target)

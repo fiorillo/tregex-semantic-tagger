@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < organizes  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% organizes (trigger) [him] to go (target)

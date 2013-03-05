@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < passing $.. (ADJP=target)
+
+insert (TargNotEffort) >1 target
+insert (TrigNotEffort) >2 trigger
+
+% they passing (trigger) unwilling (target)

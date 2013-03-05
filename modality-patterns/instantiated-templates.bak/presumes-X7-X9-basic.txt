@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < presumes [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% presumes (trigger) him dead/away (target)

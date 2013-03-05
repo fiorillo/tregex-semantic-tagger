@@ -1,0 +1,6 @@
+JJ=trigger !< /^Trig/ < sure $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargFirmBelief) >1 target
+insert (TrigFirmBelief) >1 trigger
+
+% sure (trigger) to go (target)

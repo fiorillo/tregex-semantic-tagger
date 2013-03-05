@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < arrive  $.. (PP < (IN < at) < (NP=target))
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% they arrive (trigger) at their efforts (target)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < petitioning  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% petitioning (trigger) that they go (target)

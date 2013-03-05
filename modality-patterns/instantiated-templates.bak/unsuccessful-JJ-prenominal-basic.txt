@@ -1,0 +1,6 @@
+JJ=trigger !< /^Trig/ < unsuccessful [$.. /^NN/=target | <+(NP) /^NN/=target]
+
+insert (TargNotSucceed) >1 target
+insert (TrigNotSucceed) >1 trigger
+
+% the unsuccessful (trigger) plans (target)

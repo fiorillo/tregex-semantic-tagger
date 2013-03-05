@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < credits  $.. (NP=target)
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% they credits (trigger) tents (target)

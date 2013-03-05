@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < managed $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigSucceed) >2 trigger
+insert (TargSucceed) >1 target
+
+% the attackers were managed (trigger) to leave (target)

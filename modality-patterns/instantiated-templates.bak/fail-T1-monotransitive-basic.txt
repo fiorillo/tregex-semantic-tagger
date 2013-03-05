@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < fail  $.. (NP=target)
+
+insert (TargNotSucceed) >1 target
+insert (TrigNotSucceed) >2 trigger
+
+% they fail (trigger) tents (target)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < signifying  $.. (NP=target)
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they signifying (trigger) tents (target)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < aspire  $.. (PP < (IN < for) < (S=target <+(VP) (VB < G !< AUX)))
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% they aspire (trigger) for helping (target) the refugees

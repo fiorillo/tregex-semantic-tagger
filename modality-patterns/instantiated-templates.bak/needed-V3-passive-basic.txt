@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < needed $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigWant) >2 trigger
+insert (TargWant) >1 target
+
+% the attackers were needed (trigger) to leave (target)

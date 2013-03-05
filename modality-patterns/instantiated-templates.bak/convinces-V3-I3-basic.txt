@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < convinces  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargFirmBelief) >1 target
+insert (TrigFirmBelief) >2 trigger
+
+% convinces (trigger) [him] to go (target)

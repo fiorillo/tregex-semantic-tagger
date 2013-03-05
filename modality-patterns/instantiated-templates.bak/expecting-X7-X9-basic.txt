@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < expecting [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% expecting (trigger) him dead/away (target)

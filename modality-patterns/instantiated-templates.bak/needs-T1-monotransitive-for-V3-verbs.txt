@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < needs  $.. (NP=target) !$ S
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% they needs (trigger) tents (target)

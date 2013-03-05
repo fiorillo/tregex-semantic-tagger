@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < envisage  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% envisage (trigger) that they go (target)

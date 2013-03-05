@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < obtains  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% obtains (trigger) them those luxuries (target)

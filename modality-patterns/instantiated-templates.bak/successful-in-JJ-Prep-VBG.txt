@@ -1,0 +1,6 @@
+/^JJ/=trigger !< /^Trig/ < successful $.. (PP < (IN < in) < (S=target < (VP < (VB !< AUX))))
+
+insert (TrigSucceed) >1 trigger
+insert (TargSucceed) >1 target
+
+% successful (trigger) in acting (target)

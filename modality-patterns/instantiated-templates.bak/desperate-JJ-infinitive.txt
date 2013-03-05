@@ -1,0 +1,6 @@
+JJ=trigger !< /^Trig/ < desperate $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargWant) >1 target
+insert (TrigWant) >1 trigger
+
+% desperate (trigger) to go (target)

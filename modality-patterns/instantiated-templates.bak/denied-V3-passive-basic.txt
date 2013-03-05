@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < denied $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigNotPermit) >2 trigger
+insert (TargNotPermit) >1 target
+
+% the attackers were denied (trigger) to leave (target)

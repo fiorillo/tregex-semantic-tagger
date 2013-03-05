@@ -1,0 +1,6 @@
+ADJP <+(ADJP) (JJ=trigger < questionable !< /^Trig/) $.. (SBAR <+(SBAR) (S=target))
+
+insert (TargNotBelief) >1 target
+insert (TrigNotBelief) >1 trigger
+
+% questionable (trigger) that he will succeed (target)

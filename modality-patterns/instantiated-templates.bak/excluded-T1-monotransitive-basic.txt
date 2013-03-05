@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < excluded  $.. (NP=target)
+
+insert (TargNotPermit) >1 target
+insert (TrigNotPermit) >2 trigger
+
+% they excluded (trigger) tents (target)

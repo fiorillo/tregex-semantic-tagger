@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < postulating  $.. (NP=target)
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% they postulating (trigger) tents (target)

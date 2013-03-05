@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < suffer $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigPermit) >2 trigger
+insert (TargPermit) >1 target
+
+% the attackers were suffer (trigger) to leave (target)

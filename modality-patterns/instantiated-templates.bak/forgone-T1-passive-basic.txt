@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < forgone)) $,, (NP=target)
+
+insert (TargNotEffort) >1 target
+insert (TrigNotEffort) >2 trigger
+
+% the attacks (target) were forgone (trigger)

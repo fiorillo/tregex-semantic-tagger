@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < orders  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargRequire) >1 target
+insert (TrigRequire) >2 trigger
+
+% orders (trigger) [him] to go (target)

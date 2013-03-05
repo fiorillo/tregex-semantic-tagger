@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < strives  $.. (PP < (IN < for) < (NP=target))
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they strives (trigger) for their efforts (target)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < fails $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigNotSucceed) >2 trigger
+insert (TargNotSucceed) >1 target
+
+% the attackers were fails (trigger) to leave (target)

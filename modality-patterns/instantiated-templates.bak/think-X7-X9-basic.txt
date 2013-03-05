@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < think [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% think (trigger) him dead/away (target)

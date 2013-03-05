@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < forgone  $.. (NP=target)
+
+insert (TargNotEffort) >1 target
+insert (TrigNotEffort) >2 trigger
+
+% they forgone (trigger) tents (target)

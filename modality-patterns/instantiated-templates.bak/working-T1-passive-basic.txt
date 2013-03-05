@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < working)) $,, (NP=target)
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% the attacks (target) were working (trigger)

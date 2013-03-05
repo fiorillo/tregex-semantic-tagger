@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < wishes [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% wishes (trigger) him dead/away (target)

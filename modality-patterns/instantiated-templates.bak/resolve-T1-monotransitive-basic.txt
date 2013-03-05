@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < resolve  $.. (NP=target)
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they resolve (trigger) tents (target)

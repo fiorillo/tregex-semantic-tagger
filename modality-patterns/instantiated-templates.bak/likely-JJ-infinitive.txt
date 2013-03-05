@@ -1,0 +1,6 @@
+JJ=trigger !< /^Trig/ < likely $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >1 trigger
+
+% likely (trigger) to go (target)

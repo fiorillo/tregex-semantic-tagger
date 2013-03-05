@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < assumed  $.. (NP=target)
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% they assumed (trigger) tents (target)

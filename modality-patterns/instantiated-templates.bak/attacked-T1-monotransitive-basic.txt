@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < attacked  $.. (NP=target)
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% they attacked (trigger) tents (target)

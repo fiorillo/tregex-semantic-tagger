@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < wrangling  $.. (PP < (IN < with) < (NP=target))
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% they wrangling (trigger) with their efforts (target)

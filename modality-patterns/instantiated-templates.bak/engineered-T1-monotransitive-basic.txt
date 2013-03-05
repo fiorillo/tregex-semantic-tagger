@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < engineered  $.. (NP=target)
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% they engineered (trigger) tents (target)
