@@ -7,8 +7,8 @@ pattern=$1
 treefile=$2
 
 root=`pwd`
-prep_dir=$root/modality-patterns/preparatory
-cleanup_dir=$root/modality-patterns/cleanup
+prep_dir=$root/patterns/preparatory
+cleanup_dir=$root/patterns/cleanup
 tregex_dir=$root/tools/stanford-tregex
 
 # run the patterns, in order
