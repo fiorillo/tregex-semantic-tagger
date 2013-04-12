@@ -1,6 +1,6 @@
-JJ=trigger !< /^Trig/ < $adj [$.. /^NN/=target | <+(NP) /^NN/=target]
+JJ=trigger !< /^Trig/ < undeniable [$.. /^NN/=target | <+(NP) /^NN/=target]
 
 insert (TargFirmBelief) >1 target
 insert (TrigFirmBelief) >1 trigger
 
-% the $adj (trigger) plans (target)
+% the undeniable (trigger) plans (target)

@@ -3,17 +3,17 @@ verb:required, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-f
 verb:required, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, I5-CP-basic
 verb:requires, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, I5-CP-basic
 verb:requiring, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, I5-CP-basic
-verb:requirement, label:Require, Noun-compound, NN-for-basic
-verb:required, label:Require, JJ-prenominal-basic
+noun:requirement, label:Require, Noun-compound, NN-for-basic
+adj:required, label:Require, JJ-prenominal-basic
 verb:should, label:Require, modal-auxiliary-basic
 verb:need, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
 verb:needed, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
 verb:needed, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
 verb:needs, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
 verb:needing, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, modal-auxiliary-basic
-verb:needed, label:Require, JJ-prenominal-basic
-verb:need, label:Require, NN-for-basic, NN-infinitive-basic
-verb:needs, label:Require, NN-for-basic, NN-infinitive-basic
+adj:needed, label:Require, JJ-prenominal-basic
+noun:need, label:Require, NN-for-basic, NN-infinitive-basic
+noun:needs, label:Require, NN-for-basic, NN-infinitive-basic
 verb:obligate, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
 verb:obligated, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
 verb:obligated, label:Require, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb
@@ -50,14 +50,14 @@ verb:endorsed, label:Permit, T1-monotransitive-basic, T1-passive-basic
 verb:endorsed, label:Permit, T1-monotransitive-basic, T1-passive-basic
 verb:endorses, label:Permit, T1-monotransitive-basic, T1-passive-basic
 verb:endorsing, label:Permit, T1-monotransitive-basic, T1-passive-basic
-verb:give, label:Permit, VB-NN-infinitive
-verb:gave, label:Permit, VB-NN-infinitive
-verb:given, label:Permit, VB-NN-infinitive
-verb:gives, label:Permit, VB-NN-infinitive
-verb:gives, label:Permit, VB-NN-infinitive
-verb:give, label:Permit, VB-NN-infinitive
-verb:gives, label:Permit, VB-NN-infinitive
-verb:giving, label:Permit, VB-NN-infinitive
+verb:give, noun:leave, label:Permit, VB-NN-infinitive
+verb:gave, noun:leave, label:Permit, VB-NN-infinitive
+verb:given, noun:leave, label:Permit, VB-NN-infinitive
+verb:gives, noun:leave, label:Permit, VB-NN-infinitive
+verb:gives, noun:leave, label:Permit, VB-NN-infinitive
+verb:give, noun:permission, label:Permit, VB-NN-infinitive
+verb:gives, noun:permission, label:Permit, VB-NN-infinitive
+verb:giving, noun:permission, label:Permit, VB-NN-infinitive
 verb:given, label:Permit, VB-NN-infinitive
 verb:okay, label:Permit, T1-monotransitive-basic, T1-passive-basic
 verb:okayed, label:Permit, T1-monotransitive-basic, T1-passive-basic
@@ -105,10 +105,10 @@ verb:excluded, label:NotPermit, T1-monotransitive-basic, T1-passive-basic
 verb:excluded, label:NotPermit, T1-monotransitive-basic, T1-passive-basic
 verb:excludes, label:NotPermit, T1-monotransitive-basic, T1-passive-basic
 verb:excluding, label:NotPermit, T1-monotransitive-basic, T1-passive-basic
-verb:enjoin, label:NotPermit, T1-Prep-monotransitive-VBG
-verb:enjoined, label:NotPermit, T1-Prep-monotransitive-VBG
-verb:enjoins, label:NotPermit, T1-Prep-monotransitive-VBG
-verb:enjoining, label:NotPermit, T1-Prep-monotransitive-VBG
+verb:enjoin, prep:from, label:NotPermit, T1-Prep-monotransitive-VBG
+verb:enjoined, prep:from, label:NotPermit, T1-Prep-monotransitive-VBG
+verb:enjoins, prep:from, label:NotPermit, T1-Prep-monotransitive-VBG
+verb:enjoining, prep:from, label:NotPermit, T1-Prep-monotransitive-VBG
 verb:restrain, label:NotPermit, T1-monotransitive-basic, T1-passive-basic
 verb:restrained, label:NotPermit, T1-monotransitive-basic, T1-passive-basic
 verb:restrained, label:NotPermit, T1-monotransitive-basic, T1-passive-basic
@@ -125,11 +125,11 @@ verb:attained, label:Succeed, T1-monotransitive-basic, T1-passive-basic
 verb:attained, label:Succeed, T1-monotransitive-basic, T1-passive-basic
 verb:attains, label:Succeed, T1-monotransitive-basic, T1-passive-basic
 verb:attaining, label:Succeed, T1-monotransitive-basic, T1-passive-basic
-verb:arrive, label:Succeed, I-Prep-intransitive-basic.txt
-verb:arrived, label:Succeed, I-Prep-intransitive-basic.txt
-verb:arrived, label:Succeed, I-Prep-intransitive-basic.txt
-verb:arrives, label:Succeed, I-Prep-intransitive-basic.txt
-verb:arriving, label:Succeed, I-Prep-intransitive-basic.txt
+verb:arrive, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
+verb:arrived, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
+verb:arrived, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
+verb:arrives, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
+verb:arriving, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
 verb:manage, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
 verb:managed, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
 verb:managed, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
@@ -145,9 +145,9 @@ verb:succeeded, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-I3-
 verb:succeeded, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
 verb:succeeds, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
 verb:succeeding, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
-verb:successful, label:Succeed, JJ-prenominal-basic, JJ-predicative-for-JJ-in
-verb:successful, label:Succeed, JJ-Prep-basic, JJ-Prep-VBG
-verb:successful, label:successful''JJ, JJ-Prep-VBG
+adj:successful, label:Succeed, JJ-prenominal-basic, JJ-predicative-for-JJ-in
+adj:successful, prep:at, label:Succeed, JJ-Prep-basic, JJ-Prep-VBG
+adj:successful, prep:in, label:Succeed, JJ-Prep-basic, JJ-Prep-VBG
 verb:accomplish, label:Succeed, T1-monotransitive-basic, T1-passive-basic
 verb:accomplished, label:Succeed, T1-monotransitive-basic, T1-passive-basic
 verb:accomplished, label:Succeed, T1-monotransitive-basic, T1-passive-basic
@@ -173,11 +173,31 @@ verb:obtained, label:Succeed, T1-monotransitive-for-D1-verbs, D1-ditransitive-ba
 verb:obtained, label:Succeed, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
 verb:obtains, label:Succeed, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
 verb:obtaining, label:Succeed, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, L9-basic
-verb:prevail, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:prevailed, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:prevailed, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:prevails, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:prevailing, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevail, prep:against, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:against, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:against, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevails, prep:against, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailing, prep:against, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevail, prep:over, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:over, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:over, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevails, prep:over, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailing, prep:over, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevail, prep:on, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:on, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:on, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevails, prep:on, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailing, prep:on, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevail, prep:upon, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:upon, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:upon, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevails, prep:upon, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailing, prep:upon, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevail, prep:with, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:with, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailed, prep:with, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevails, prep:with, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:prevailing, prep:with, label:Succeed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:win, label:Succeed, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
 verb:won, label:Succeed, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
 verb:won, label:Succeed, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
@@ -189,16 +209,16 @@ verb:failed, label:NotSucceed, V3-passive-basic, V3-I3-basic, I-intransitive-for
 verb:failed, label:NotSucceed, V3-passive-basic, V3-I3-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic
 verb:fails, label:NotSucceed, V3-passive-basic, V3-I3-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic
 verb:failing, label:NotSucceed, V3-passive-basic, V3-I3-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic
-verb:fail, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:failed, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:failed, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:fails, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:failing, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:fail, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:failed, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:failed, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:fails, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:failing, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:fail, prep:in, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:failed, prep:in,  label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:failed, prep:in, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:fails, prep:in, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:failing, prep:in, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:fail, prep:at, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:failed, prep:in, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:failed, prep:in, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:fails, prep:in, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:failing, prep:in, label:NotSucceed, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:abort, label:NotSucceed, T1-monotransitive-basic, T1-passive-basic
 verb:aborted, label:NotSucceed, T1-monotransitive-basic, T1-passive-basic
 verb:aborted, label:NotSucceed, T1-monotransitive-basic, T1-passive-basic
@@ -215,12 +235,13 @@ verb:flopped, label:NotSucceed, I-intransitive-basic, L9-basic
 verb:flops, label:NotSucceed, I-intransitive-basic, L9-basic
 verb:flopping, label:NotSucceed, I-intransitive-basic, L9-basic
 verb:short, label:NotSucceed, short-of, short-of-vbg
-verb:unsuccessful, label:NotSucceed, JJ-prenominal-basic, JJ-predicative-for-JJ-in
-verb:unsuccessful, label:NotSucceed, JJ-Prep-basic, JJ-Prep-VBG
-verb:unsuccessful, label:NotSucceed, JJ-Prep-basic, JJ-Prep-VBG
-verb:unsuccessful, label:NotSucceed, JJ-Prep-basic, JJ-Prep-VBG
-verb:useless, label:NotSucceed, JJ-Prep-basic
-verb:useless, label:NotSucceed, JJ-Prep-basic
+adj:unsuccessful, label:NotSucceed, JJ-prenominal-basic, JJ-predicative-for-JJ-in
+adj:unsuccessful, prep:in, label:NotSucceed, JJ-Prep-basic, JJ-Prep-VBG
+adj:unsuccessful, prep:with, label:NotSucceed, JJ-Prep-basic, JJ-Prep-VBG
+adj:unsuccessful, prep:at, label:NotSucceed, JJ-Prep-basic, JJ-Prep-VBG
+adj:useless, prep:at, label:NotSucceed, JJ-Prep-basic
+adj:useless, prep:in, label:NotSucceed, JJ-Prep-basic
+adj:useless, prep:with, label:NotSucceed, JJ-Prep-basic
 
 verb:try, label:Effort, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
 verb:tried, label:Effort, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
@@ -237,11 +258,6 @@ verb:aspired, label:Effort, V3-passive-basic, V3-I3-basic
 verb:aspired, label:Effort, V3-passive-basic, V3-I3-basic
 verb:aspires, label:Effort, V3-passive-basic, V3-I3-basic
 verb:aspiring, label:Effort, V3-passive-basic, V3-I3-basic
-verb:aspire, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspired, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspired, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspires, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspiring, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:attack, label:Effort, T1-monotransitive-basic, T1-passive-basic
 verb:attacked, label:Effort, T1-monotransitive-basic, T1-passive-basic
 verb:attacked, label:Effort, T1-monotransitive-basic, T1-passive-basic
@@ -257,16 +273,16 @@ verb:contended, label:Effort, I5-CP-basic
 verb:contended, label:Effort, I5-CP-basic
 verb:contends, label:Effort, I5-CP-basic
 verb:contending, label:Effort, I5-CP-basic
-verb:contend, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:contended, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:contended, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:contends, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:contending, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:endeavor, label:Effort,endeavor''VB$Effort &**NOT DONE**
-verb:endeavored, label:Effort,endeavored''VBD$Effort &**NOT DONE**
-verb:endeavored, label:Effort,endeavored''VBN$Effort &**NOT DONE**
-verb:endeavors, label:Effort,endeavors''VBZ$Effort &**NOT DONE**
-verb:endeavoring, label:Effort,endeavoring''VBG$Effort &**NOT DONE**
+verb:contend, prep:for, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:contended, prep:for, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:contended, prep:for, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:contends, prep:for, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:contending, prep:for, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:endeavor, label:Effort, V3-I3-basic
+verb:endeavored, label:Effort, V3-I3-basic
+verb:endeavored, label:Effort, V3-I3-basic
+verb:endeavors, label:Effort, V3-I3-basic
+verb:endeavoring, label:Effort, V3-I3-basic
 verb:seek, label:Effort, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic 
 verb:sought, label:Effort, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
 verb:sought, label:Effort, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
@@ -277,11 +293,6 @@ verb:strove, label:Effort, L9-basic
 verb:strove, label:Effort, L9-basic
 verb:strives, label:Effort, L9-basic
 verb:striving, label:Effort, L9-basic
-verb:strive, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:strove, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:strove, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:strives, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:striving, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:tackle, label:Effort, T1-monotransitive-basic, T1-passive-basic
 verb:tackled, label:Effort, T1-monotransitive-basic, T1-passive-basic
 verb:tackled, label:Effort, T1-monotransitive-basic, T1-passive-basic
@@ -302,16 +313,26 @@ verb:worked, label:Effort, L9-basic, T1-monotransitive-basic, T1-passive-basic, 
 verb:worked, label:Effort, L9-basic, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic
 verb:works, label:Effort, L9-basic, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic
 verb:working, label:Effort, L9-basic, T1-monotransitive-basic, T1-passive-basic, X7-X9-basic
-verb:work, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:worked, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:worked, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:works, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:working, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:wrangle, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:wrangled, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:wrangled, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:wrangles, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:wrangling, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:work, prep:towards, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:worked, prep:towards, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:worked, prep:towards, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:works, prep:towards, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:working, prep:towards, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:work, prep:at, label:Effort, I-Prep-intransitive-VBG
+verb:worked, prep:at, label:Effort, I-Prep-intransitive-VBG
+verb:worked, prep:at, label:Effort, I-Prep-intransitive-VBG
+verb:works, prep:at, label:Effort, I-Prep-intransitive-VBG
+verb:working, prep:at, label:Effort, I-Prep-intransitive-VBG
+verb:work, prep:toward, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:worked, prep:toward, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:worked, prep:toward, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:works, prep:toward, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:working, prep:toward, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:wrangle, prep:with, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:wrangled, prep:with, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:wrangled, prep:with, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:wrangles, prep:with, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:wrangling, prep:with, label:Effort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:engineer, label:Effort, T1-monotransitive-basic, T1-passive-basic
 verb:engineered, label:Effort, T1-monotransitive-basic, T1-passive-basic
 verb:engineered, label:Effort, T1-monotransitive-basic, T1-passive-basic
@@ -323,13 +344,13 @@ verb:organized, label:Effort, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-pa
 verb:organizes, label:Effort, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:organizing, label:Effort, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 
-verb:effort, label:Effort, NN-infinitive-basic
+noun:effort, label:Effort, NN-infinitive-basic
 
-verb:abstain, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:abstained, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:abstained, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:abstains, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:abstaining, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:abstain, prep:from, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:abstained, prep:from, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:abstained, prep:from, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:abstains, prep:from, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:abstaining, prep:from, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:avoid, label:NotEffort, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
 verb:avoided, label:NotEffort, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
 verb:avoided, label:NotEffort, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
@@ -350,11 +371,11 @@ verb:passed, label:NotEffort, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditra
 verb:passed, label:NotEffort, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, X7-X9-basic, V3-I3-basic
 verb:passes, label:NotEffort, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, X7-X9-basic, V3-I3-basic
 verb:passing, label:NotEffort, L9-basic, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, X7-X9-basic, V3-I3-basic
-verb:pass, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:passed, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:passed, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:passes, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:passing, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:pass, prep:on, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:passed, prep:on, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:passed, prep:on, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:passes, prep:on, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:passing, prep:on, label:NotEffort, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 
 verb:intend, label:Intend, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
 verb:intended, label:Intend, V3-passive-basic, V3-I3-basic, X7-X9-basic, I5-CP-basic 
@@ -417,15 +438,35 @@ verb:signified, label:Intend, T1-monotransitive-basic, T1-passive-basic, I5-CP-b
 verb:signifies, label:Intend, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 verb:signifying, label:Intend, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 verb:strive, label:Intend, L9-basic
+verb:strove, label:Intend, L9-basic
 verb:strived, label:Intend, L9-basic
-verb:strived, label:Intend, L9-basic
+verb:striven, label:Intend, L9-basic
 verb:strives, label:Intend, L9-basic
 verb:striving, label:Intend, L9-basic
-verb:strive, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:strived, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:strived, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:strives, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:striving, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strive, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strived, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strove, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strives, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:striven, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:striving, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strive, prep:toward, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strived, prep:toward, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:striven, prep:toward, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strove, prep:toward, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strives, prep:toward, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:striving, prep:toward, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strive, prep:towards, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strove, prep:towards, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strived, prep:towards, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:striven, prep:towards, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strives, prep:towards, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:striving, prep:towards, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strive, prep:to, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strove, prep:to, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:striven, prep:to, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strived, prep:to, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:strives, prep:to, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:striving, prep:to, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:concoct, label:Intend, T1-monotransitive-basic, T1-passive-basic
 verb:concocted, label:Intend, T1-monotransitive-basic, T1-passive-basic
 verb:concocted, label:Intend, T1-monotransitive-basic, T1-passive-basic
@@ -447,14 +488,14 @@ verb:devised, label:Intend, T1-monotransitive-basic, T1-passive-basic
 verb:devises, label:Intend, T1-monotransitive-basic, T1-passive-basic
 verb:devising, label:Intend, T1-monotransitive-basic, T1-passive-basic
 
-verb:capable, label:Able, JJ-Prep-basic, JJ-Prep-VBG
-verb:able, label:Able, JJ-infinitive
-verb:can, label:Able, modal-auxiliary-basic
-verb:could, label:Able, modal-auxiliary-basic
-verb:ready, label:Able, JJ-infinitive
+adj:capable, prep:of, label:Able, JJ-Prep-basic, JJ-Prep-VBG
+adj:able, label:Able, JJ-infinitive
+adj:can, label:Able, modal-auxiliary-basic
+adj:could, label:Able, modal-auxiliary-basic
+adj:ready, label:Able, JJ-infinitive
 
-verb:powerless, label:NotAble, JJ-infinitive
-verb:unable, label:NotAble, JJ-infinitive
+adj:powerless, label:NotAble, JJ-infinitive
+adj:unable, label:NotAble, JJ-infinitive
 
 verb:want, label:Want, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
 verb:wanted, label:Want, V3-passive-basic, V3-I3-basic, T1-monotransitive-for-V3-verbs, T1-passive-for-V3-verb, X7-X9-basic
@@ -481,11 +522,11 @@ verb:aspires, label:Want, V3-passive-basic, V3-I3-basic
 verb:aspires, label:Want, V3-passive-basic, V3-I3-basic
 verb:aspired, label:Want, V3-passive-basic, V3-I3-basic
 verb:aspiring, label:Want, V3-passive-basic, V3-I3-basic
-verb:aspire, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspires, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspires, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspired, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspiring, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aspire, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aspires, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aspires, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aspired, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aspiring, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:covet, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:covets, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:covets, label:Want, T1-monotransitive-basic, T1-passive-basic
@@ -501,47 +542,47 @@ verb:fancied, label:Want, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic
 verb:fancied, label:Want, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 verb:fancies, label:Want, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 verb:fancying, label:Want, V3-I3-basic, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
-verb:hunger, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:hungered, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:hungered, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:hungers, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:hungering, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:hunger, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:hungered, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:hungered, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:hungers, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:hungering, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 
 verb:long, label:Want, V3-I3-basic
 verb:longed, label:Want, V3-I3-basic
 verb:longed, label:Want, V3-I3-basic
 verb:longs, label:Want, V3-I3-basic
 verb:longing, label:Want, V3-I3-basic
-verb:long, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:longed, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:longed, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:longs, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:longing, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:long, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:longed, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:longed, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:longs, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:longing, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:lust, label:Want, V3-I3-basic
 verb:lusted, label:Want, V3-I3-basic
 verb:lusted, label:Want, V3-I3-basic
 verb:lusts, label:Want, V3-I3-basic
 verb:lusting, label:Want, V3-I3-basic
-verb:lust, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lusted, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lusted, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lusts, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lusting, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lust, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lusted, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lusted, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lusts, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:lusting, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lust, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lusted, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lusted, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lusts, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lusting, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lust, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lusted, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lusted, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lusts, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:lusting, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:need, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
 verb:needed, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
 verb:needed, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
 verb:needs, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
 verb:needing, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
-verb:pine, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:pined, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:pined, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:pines, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:pining, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:pine, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:pined, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:pined, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:pines, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:pining, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:pine, label:Want, L9-basic, V3-I3-basic
 verb:pined, label:Want, L9-basic, V3-I3-basic
 verb:pined, label:Want, L9-basic, V3-I3-basic
@@ -557,12 +598,12 @@ verb:begged, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive
 verb:begged, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
 verb:begs, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
 verb:begging, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
-verb:beg, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:begged, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:begged, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:begs, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:begging, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:beseech, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
+verb:beg, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
+verb:begged, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
+verb:begged, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
+verb:begs, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
+verb:begging, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
+verb:beseech, prep:for, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:beseeched, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:beseeched, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:beseeches, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
@@ -588,15 +629,16 @@ verb:solicited, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:solicits, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:soliciting, label:Want, T1-monotransitive-basic, T1-passive-basic
 
-verb:desperate, label:Want, JJ-infinitive
-verb:desperate, label:Want, JJ-Prep-basic
+adj:desperate, label:Want, JJ-infinitive
+adj:desperate, prep:for, label:Want, JJ-Prep-basic
+adj:desperate, prep:to, label:Want, JJ-Prep-basic
 verb:demand, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:demands, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:demanded, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:demanded, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:demanding, label:want, T1-monotransitive-basic, T1-passive-basic
-verb:demand, label:Want, NN-for-basic, Noun-compound
-verb:demands, label:Want, NN-for-basic, Noun-compound
+noun:demand, label:Want, NN-for-basic, Noun-compound
+noun:demands, label:Want, NN-for-basic, Noun-compound
 
 verb:despise, label:NotWant, T1-monotransitive-basic, T1-passive-basic
 verb:despised, label:NotWant, T1-monotransitive-basic, T1-passive-basic
@@ -613,18 +655,18 @@ verb:hated, label:NotWant, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passi
 verb:hated, label:NotWant, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:hates, label:NotWant, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:hating, label:NotWant, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
-verb:despair, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:despaired, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:despaired, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:despairs, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:despairing, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:despair, prep:of, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:despaired, prep:of, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:despaired, prep:of, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:despairs, prep:of, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:despairing, prep:of, label:NotWant, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:fear, label:NotWant, T1-monotransitive-basic, T1-passive-basic
 verb:feared, label:NotWant, T1-monotransitive-basic, T1-passive-basic
 verb:feared, label:NotWant, T1-monotransitive-basic, T1-passive-basic
 verb:fears, label:NotWant, T1-monotransitive-basic, T1-passive-basic
 verb:fearing, label:NotWant, T1-monotransitive-basic, T1-passive-basic
 
-verb:certain, label:FirmBelief, JJ-SBAR
+adj:certain, label:FirmBelief, JJ-SBAR
 verb:convinced, label:FirmBelief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:convinced, label:FirmBelief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:convinced, label:FirmBelief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
@@ -635,16 +677,16 @@ verb:knew, label:FirmBelief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-pas
 verb:knew, label:FirmBelief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 verb:knows, label:FirmBelief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 verb:knowing, label:FirmBelief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
-verb:sure, label:FirmBelief, JJ-infinitive
-verb:destined, label:FirmBelief, JJ-infinitive
-verb:determined, label:FirmBelief,determined''VB$FirmBelief &**NOT DONE**
-verb:infallible, label:FirmBelief,infallible''JJ$FirmBelief &**NOT DONE**
-verb:irrefutable, label:FirmBelief, JJ-prenominal-basic, JJ-SBAR
-verb:unambiguous, label:FirmBelief, JJ-prenominal-basic
-verb:undeniable, label:FirmBelief, JJ-prenominal-basic, JJ-SBAR
-verb:unerring, label:FirmBelief,unerring''JJ$FirmBelief &**NOT DONE**
-verb:unmistakable, label:FirmBelief,unmistakable''JJ$FirmBelief &**NOT DONE**
-verb:verifiable, label:FirmBelief, JJ-prenominal-basic, JJ-SBAR
+adj:sure, label:FirmBelief, JJ-infinitive
+adj:destined, label:FirmBelief, JJ-infinitive
+adj:determined, label:FirmBelief,determined''VB$FirmBelief &**NOT DONE**
+adj:infallible, label:FirmBelief,infallible''JJ$FirmBelief &**NOT DONE**
+adj:irrefutable, label:FirmBelief, JJ-prenominal-basic, JJ-SBAR
+adj:unambiguous, label:FirmBelief, JJ-prenominal-basic
+adj:undeniable, label:FirmBelief, JJ-prenominal-basic, JJ-SBAR
+adj:unerring, label:FirmBelief,unerring''JJ$FirmBelief &**NOT DONE**
+adj:unmistakable, label:FirmBelief,unmistakable''JJ$FirmBelief &**NOT DONE**
+adj:verifiable, label:FirmBelief, JJ-prenominal-basic, JJ-SBAR
 verb:assure, label:FirmBelief, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
 verb:assured, label:FirmBelief, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
 verb:assured, label:FirmBelief, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic
@@ -676,7 +718,7 @@ verb:expected, label:Belief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-pas
 verb:expected, label:Belief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 verb:expects, label:Belief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 verb:expecting, label:Belief, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
-verb:likely, label:Belief, JJ-infinitive, JJ-SBAR
+adj:likely, label:Belief, JJ-infinitive, JJ-SBAR
 verb:may, label:Belief, modal-auxiliary-basic
 verb:might, label:Belief, modal-auxiliary-basic
 verb:must, label:Belief, modal-auxiliary-basic
@@ -771,12 +813,12 @@ verb:doubted, label:NotBelief, T1-monotransitive-basic, T1-passive-basic, I5-CP-
 verb:doubted, label:NotBelief, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 verb:doubts, label:NotBelief, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
 verb:doubting, label:NotBelief, T1-monotransitive-basic, T1-passive-basic, I5-CP-basic 
-verb:improbable, label:NotBelief, JJ-SBAR
-verb:questionable, label:NotBelief, JJ-prenominal-basic, JJ-SBAR
-verb:uncertain, label:NotBelief, JJ-SBAR
-verb:unreliable, label:NotBelief, JJ-prenominal-basic, JJ-SBAR
-verb:unsure, label:NotBelief, JJ-SBAR
-verb:unlikely, label:NotBelief, JJ-SBAR
+adj:improbable, label:NotBelief, JJ-SBAR
+adj:questionable, label:NotBelief, JJ-prenominal-basic, JJ-SBAR
+adj:uncertain, label:NotBelief, JJ-SBAR
+adj:unreliable, label:NotBelief, JJ-prenominal-basic, JJ-SBAR
+adj:unsure, label:NotBelief, JJ-SBAR
+adj:unlikely, label:NotBelief, JJ-SBAR
 verb:disbelieve, label:NotBelief, T1-monotransitive-basic, T1-passive-basic
 verb:disbelieved, label:NotBelief, T1-monotransitive-basic, T1-passive-basic
 verb:disbelieved, label:NotBelief, T1-monotransitive-basic, T1-passive-basic

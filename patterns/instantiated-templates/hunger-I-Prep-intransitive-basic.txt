@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < hunger  $.. (PP < (IN < $prep) < (NP=target))
+VB=trigger !< /^Trig/  < hunger  $.. (PP < (IN < for) < (NP=target))
 
 insert (TargWant) >1 target
 insert (TrigWant) >2 trigger
 
-% they hunger (trigger) $prep their efforts (target)
+% they hunger (trigger) for their efforts (target)

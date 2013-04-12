@@ -1,6 +1,6 @@
-JJ=trigger !< /^Trig/ < $adj [$.. /^NN/=target | <+(NP) /^NN/=target]
+JJ=trigger !< /^Trig/ < successful [$.. /^NN/=target | <+(NP) /^NN/=target]
 
 insert (TargSucceed) >1 target
 insert (TrigSucceed) >1 trigger
 
-% the $adj (trigger) plans (target)
+% the successful (trigger) plans (target)

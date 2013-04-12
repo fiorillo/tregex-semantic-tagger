@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < passes  $.. (PP < (IN < $prep) < (NP=target))
+VB=trigger !< /^Trig/  < passes  $.. (PP < (IN < on) < (NP=target))
 
 insert (TargNotEffort) >1 target
 insert (TrigNotEffort) >2 trigger
 
-% they passes (trigger) $prep their efforts (target)
+% they passes (trigger) on their efforts (target)

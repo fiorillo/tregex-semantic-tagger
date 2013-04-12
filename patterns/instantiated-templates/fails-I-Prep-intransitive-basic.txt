@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < fails  $.. (PP < (IN < $prep) < (NP=target))
+VB=trigger !< /^Trig/  < fails  $.. (PP < (IN < in) < (NP=target))
 
 insert (TargNotSucceed) >1 target
 insert (TrigNotSucceed) >2 trigger
 
-% they fails (trigger) $prep their efforts (target)
+% they fails (trigger) in their efforts (target)

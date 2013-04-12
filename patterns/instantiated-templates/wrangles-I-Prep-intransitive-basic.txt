@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < wrangles  $.. (PP < (IN < $prep) < (NP=target))
+VB=trigger !< /^Trig/  < wrangles  $.. (PP < (IN < with) < (NP=target))
 
 insert (TargEffort) >1 target
 insert (TrigEffort) >2 trigger
 
-% they wrangles (trigger) $prep their efforts (target)
+% they wrangles (trigger) with their efforts (target)

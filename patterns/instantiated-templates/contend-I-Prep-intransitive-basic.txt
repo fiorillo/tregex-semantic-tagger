@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < contend  $.. (PP < (IN < $prep) < (NP=target))
+VB=trigger !< /^Trig/  < contend  $.. (PP < (IN < for) < (NP=target))
 
 insert (TargEffort) >1 target
 insert (TrigEffort) >2 trigger
 
-% they contend (trigger) $prep their efforts (target)
+% they contend (trigger) for their efforts (target)

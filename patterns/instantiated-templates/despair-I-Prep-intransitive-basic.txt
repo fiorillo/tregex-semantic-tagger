@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < despair  $.. (PP < (IN < $prep) < (NP=target))
+VB=trigger !< /^Trig/  < despair  $.. (PP < (IN < of) < (NP=target))
 
 insert (TargNotWant) >1 target
 insert (TrigNotWant) >2 trigger
 
-% they despair (trigger) $prep their efforts (target)
+% they despair (trigger) of their efforts (target)
