@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < contrive  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% contrive (trigger) [him] to go (target)

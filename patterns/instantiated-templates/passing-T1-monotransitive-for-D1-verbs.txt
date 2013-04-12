@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < passing  $.. (NP=target) !$ S
+
+insert (TargNotEffort) >1 target
+insert (TrigNotEffort) >2 trigger
+
+% they passing (trigger) tents (target)

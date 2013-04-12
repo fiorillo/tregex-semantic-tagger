@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < decline  $.. (NP=target)
+
+insert (TargNotEffort) >1 target
+insert (TrigNotEffort) >2 trigger
+
+% they decline (trigger) tents (target)

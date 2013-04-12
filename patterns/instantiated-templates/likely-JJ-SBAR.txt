@@ -1,0 +1,6 @@
+ADJP <+(ADJP) (JJ=trigger < likely !< /^Trig/) $.. (SBAR <+(SBAR) (S=target))
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >1 trigger
+
+% likely (trigger) that he will succeed (target)

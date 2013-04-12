@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < aiming  $.. (NP=target)
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they aiming (trigger) tents (target)

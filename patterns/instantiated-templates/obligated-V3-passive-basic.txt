@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < obligated $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigRequire) >2 trigger
+insert (TargRequire) >1 target
+
+% the attackers were obligated (trigger) to leave (target)

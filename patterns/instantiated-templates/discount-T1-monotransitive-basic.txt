@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < discount  $.. (NP=target)
+
+insert (TargNotBelief) >1 target
+insert (TrigNotBelief) >2 trigger
+
+% they discount (trigger) tents (target)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < prevail  $.. (PP < (IN < INVB) < (NP=target))
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% they prevail (trigger) INVB their efforts (target)

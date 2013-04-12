@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < obligates !$ S)) $,, (NP=target)
+
+insert (TargRequire) >1 target
+insert (TrigRequire) >2 trigger
+
+% the attacks (target) were obligates (trigger)

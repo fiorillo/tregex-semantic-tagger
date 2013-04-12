@@ -1,0 +1,6 @@
+ADJP < (JJ=trigger !< /^Trig/ < capable) < (PP < (IN < of) < (NP=target))
+
+insert (TargAble) >1 target
+insert (TrigAble) >1 trigger
+
+% capable (trigger) of a performer (target)

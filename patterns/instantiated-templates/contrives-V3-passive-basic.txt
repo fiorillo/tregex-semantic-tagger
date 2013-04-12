@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < contrives $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigIntend) >2 trigger
+insert (TargIntend) >1 target
+
+% the attackers were contrives (trigger) to leave (target)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < enabled  $.. (NP=target) !$ S
+
+insert (TargPermit) >1 target
+insert (TrigPermit) >2 trigger
+
+% they enabled (trigger) tents (target)

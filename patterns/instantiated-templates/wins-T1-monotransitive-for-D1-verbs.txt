@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < wins  $.. (NP=target) !$ S
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% they wins (trigger) tents (target)

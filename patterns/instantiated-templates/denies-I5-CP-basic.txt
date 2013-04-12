@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < denies  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+
+insert (TargNotPermit) >1 target
+insert (TrigNotPermit) >2 trigger
+
+% denies (trigger) that they go (target)

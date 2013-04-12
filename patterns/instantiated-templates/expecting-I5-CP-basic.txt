@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < expecting  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% expecting (trigger) that they go (target)

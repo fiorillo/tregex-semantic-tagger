@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < designs  $.. (NP=target) !$ S
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they designs (trigger) tents (target)

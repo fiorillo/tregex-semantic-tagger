@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < knows  $.. (NP=target) !$ S
+
+insert (TargFirmBelief) >1 target
+insert (TrigFirmBelief) >2 trigger
+
+% they knows (trigger) tents (target)

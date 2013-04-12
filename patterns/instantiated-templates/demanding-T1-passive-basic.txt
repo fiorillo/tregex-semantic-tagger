@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < demanding)) $,, (NP=target)
+
+insert (Targwant) >1 target
+insert (Trigwant) >2 trigger
+
+% the attacks (target) were demanding (trigger)

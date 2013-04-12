@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < suspected  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% suspected (trigger) that they go (target)

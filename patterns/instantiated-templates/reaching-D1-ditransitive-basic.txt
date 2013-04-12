@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < reaching  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% reaching (trigger) them those luxuries (target)

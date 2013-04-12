@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < accomplishing)) $,, (NP=target)
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% the attacks (target) were accomplishing (trigger)

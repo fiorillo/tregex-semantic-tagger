@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < thinking $.. (ADJP=target)
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% they thinking (trigger) unwilling (target)

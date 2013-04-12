@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < manage  $.. (NP=target)
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% they manage (trigger) tents (target)

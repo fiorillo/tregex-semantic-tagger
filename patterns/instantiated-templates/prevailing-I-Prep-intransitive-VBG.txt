@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < prevailing  $.. (PP < (IN < in) < (S=target <+(VP) (VB < G !< AUX)))
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% they prevailing (trigger) in helping (target) the refugees

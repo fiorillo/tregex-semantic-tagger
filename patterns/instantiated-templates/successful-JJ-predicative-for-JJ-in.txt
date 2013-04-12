@@ -1,0 +1,6 @@
+VP < (ADJP < (JJ=trigger !< /^Trig/ < successful) !< (PP < IN)) $,, (NP=target)
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >1 trigger
+
+% the effort (target) was successful (trigger)

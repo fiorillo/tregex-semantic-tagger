@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < requesting  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% requesting (trigger) that they go (target)

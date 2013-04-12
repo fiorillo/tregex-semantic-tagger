@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < excludes)) $,, (NP=target)
+
+insert (TargNotPermit) >1 target
+insert (TrigNotPermit) >2 trigger
+
+% the attacks (target) were excludes (trigger)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < tackling  $.. (NP=target)
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% they tackling (trigger) tents (target)

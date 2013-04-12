@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < considering $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigBelief) >2 trigger
+insert (TargBelief) >1 target
+
+% the attackers were considering (trigger) to leave (target)

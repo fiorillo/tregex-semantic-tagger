@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < petitioning  $.. (NP=target) !$ S
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% they petitioning (trigger) tents (target)

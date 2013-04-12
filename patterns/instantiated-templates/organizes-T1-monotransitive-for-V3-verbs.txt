@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < organizes  $.. (NP=target) !$ S
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% they organizes (trigger) tents (target)

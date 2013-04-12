@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < considered  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% considered (trigger) [him] to go (target)

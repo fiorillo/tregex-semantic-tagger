@@ -1,0 +1,6 @@
+NP <+(NP) (/^NN/=trigger !< /^Trig/  < needs)  $.. (PP < (IN < for) < (NP=target))
+
+insert (TargRequire) >1 target
+insert (TrigRequire) >1 trigger
+
+% the needs (trigger) for tents (target)

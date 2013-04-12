@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < devising  $.. (NP=target)
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they devising (trigger) tents (target)

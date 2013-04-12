@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < lusting  $.. (PP < (IN < after) < (S=target <+(VP) (VB < G !< AUX)))
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% they lusting (trigger) after helping (target) the refugees

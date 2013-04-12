@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < hope  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% hope (trigger) that they go (target)

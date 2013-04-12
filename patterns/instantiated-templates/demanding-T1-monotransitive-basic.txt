@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < demanding  $.. (NP=target)
+
+insert (Targwant) >1 target
+insert (Trigwant) >2 trigger
+
+% they demanding (trigger) tents (target)

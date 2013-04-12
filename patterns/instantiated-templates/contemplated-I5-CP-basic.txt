@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < contemplated  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% contemplated (trigger) that they go (target)

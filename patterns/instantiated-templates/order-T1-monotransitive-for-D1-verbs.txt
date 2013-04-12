@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < order  $.. (NP=target) !$ S
+
+insert (TargRequire) >1 target
+insert (TrigRequire) >2 trigger
+
+% they order (trigger) tents (target)

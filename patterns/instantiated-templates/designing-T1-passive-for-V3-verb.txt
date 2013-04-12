@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < designing !$ S)) $,, (NP=target)
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% the attacks (target) were designing (trigger)

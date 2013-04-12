@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < fears  $.. (NP=target)
+
+insert (TargNotWant) >1 target
+insert (TrigNotWant) >2 trigger
+
+% they fears (trigger) tents (target)

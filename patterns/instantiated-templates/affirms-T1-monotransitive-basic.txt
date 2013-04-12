@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < affirms  $.. (NP=target)
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% they affirms (trigger) tents (target)

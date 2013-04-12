@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < VoicePassive < plotting $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TrigIntend) >2 trigger
+insert (TargIntend) >1 target
+
+% the attackers were plotting (trigger) to leave (target)

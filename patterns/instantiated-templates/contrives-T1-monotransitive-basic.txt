@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < contrives  $.. (NP=target)
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they contrives (trigger) tents (target)

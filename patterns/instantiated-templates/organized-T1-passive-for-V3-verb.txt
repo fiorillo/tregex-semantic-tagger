@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < organized !$ S)) $,, (NP=target)
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% the attacks (target) were organized (trigger)

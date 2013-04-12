@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < succeeded  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% succeeded (trigger) [him] to go (target)

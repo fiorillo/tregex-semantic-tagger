@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < attained  $.. (NP=target)
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% they attained (trigger) tents (target)

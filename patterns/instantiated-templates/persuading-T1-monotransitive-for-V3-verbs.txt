@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < persuading  $.. (NP=target) !$ S
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% they persuading (trigger) tents (target)

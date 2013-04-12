@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < craves)) $,, (NP=target)
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% the attacks (target) were craves (trigger)

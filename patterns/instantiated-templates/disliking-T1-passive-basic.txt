@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < disliking)) $,, (NP=target)
+
+insert (TargNotWant) >1 target
+insert (TrigNotWant) >2 trigger
+
+% the attacks (target) were disliking (trigger)

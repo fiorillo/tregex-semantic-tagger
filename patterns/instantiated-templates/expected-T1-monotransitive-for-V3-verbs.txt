@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < expected  $.. (NP=target) !$ S
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% they expected (trigger) tents (target)
