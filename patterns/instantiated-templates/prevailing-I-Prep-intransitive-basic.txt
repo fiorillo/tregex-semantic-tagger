@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < prevailing  $.. (PP < (IN < in) < (NP=target))
+VB=trigger !< /^Trig/  < prevailing  $.. (PP < (IN < $prep) < (NP=target))
 
 insert (TargSucceed) >1 target
 insert (TrigSucceed) >2 trigger
 
-% they prevailing (trigger) in their efforts (target)
+% they prevailing (trigger) $prep their efforts (target)

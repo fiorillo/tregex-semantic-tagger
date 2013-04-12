@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < longs  $.. (PP < (IN < for) < (NP=target))
+VB=trigger !< /^Trig/  < longs  $.. (PP < (IN < $prep) < (NP=target))
 
 insert (TargWant) >1 target
 insert (TrigWant) >2 trigger
 
-% they longs (trigger) for their efforts (target)
+% they longs (trigger) $prep their efforts (target)

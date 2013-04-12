@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < won  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >2 trigger
-
-% won (trigger) them those luxuries (target)

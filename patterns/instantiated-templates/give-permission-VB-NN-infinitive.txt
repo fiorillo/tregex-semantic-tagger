@@ -1,6 +1,0 @@
-VB < give $.. NP $.. ((NP <+(NP) (NN=trigger !< /^Trig/ < permission)) [$.. (S < (VP < TO < (VP < VB=target))) | < (S < (VP < TO < (VP=target < VB)))] )
-
-insert (TargPermit) >1 target
-insert (TrigPermit) >1 trigger
-
-% they give him permission (trigger) to go (target)

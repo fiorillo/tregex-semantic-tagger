@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < strove  $.. (PP < (IN < for) < (NP=target))
+VB=trigger !< /^Trig/  < strove  $.. (PP < (IN < $prep) < (NP=target))
 
 insert (TargEffort) >1 target
 insert (TrigEffort) >2 trigger
 
-% they strove (trigger) for their efforts (target)
+% they strove (trigger) $prep their efforts (target)

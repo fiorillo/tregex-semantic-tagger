@@ -1,6 +1,6 @@
-JJ=trigger !< /^Trig/ < questionable [$.. /^NN/=target | <+(NP) /^NN/=target]
+JJ=trigger !< /^Trig/ < $adj [$.. /^NN/=target | <+(NP) /^NN/=target]
 
 insert (TargNotBelief) >1 target
 insert (TrigNotBelief) >1 trigger
 
-% the questionable (trigger) plans (target)
+% the $adj (trigger) plans (target)

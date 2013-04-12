@@ -1,6 +1,0 @@
-JJ=trigger !< /^Trig/ < destined $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargFirmBelief) >1 target
-insert (TrigFirmBelief) >1 trigger
-
-% destined (trigger) to go (target)

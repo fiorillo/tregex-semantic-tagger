@@ -1,6 +1,0 @@
-NP <` (/^NN/=trigger < demand  !< /^Trig/ $, /^NN/=target)
-
-insert (TargWant) >1 target
-insert (TrigWant) >1 trigger
-
-% the energy (target) demand (trigger)

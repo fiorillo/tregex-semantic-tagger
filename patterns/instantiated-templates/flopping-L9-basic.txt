@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < flopping $.. (ADJP=target)
-
-insert (TargNotSucceed) >1 target
-insert (TrigNotSucceed) >2 trigger
-
-% they flopping (trigger) unwilling (target)

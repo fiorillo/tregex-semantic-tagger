@@ -1,6 +1,0 @@
-/^JJ/=trigger !< /^Trig/ < unsuccessful $.. (PP < (IN < in) < (S=target < (VP < (VB !< AUX))))
-
-insert (TrigNotSucceed) >1 trigger
-insert (TargNotSucceed) >1 target
-
-% unsuccessful (trigger) in acting (target)

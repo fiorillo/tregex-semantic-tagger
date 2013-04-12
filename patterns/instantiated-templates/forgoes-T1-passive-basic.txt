@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < forgoes)) $,, (NP=target)
-
-insert (TargNotEffort) >1 target
-insert (TrigNotEffort) >2 trigger
-
-% the attacks (target) were forgoes (trigger)

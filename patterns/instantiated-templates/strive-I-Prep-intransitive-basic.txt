@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < strive  $.. (PP < (IN < for) < (NP=target))
+VB=trigger !< /^Trig/  < strive  $.. (PP < (IN < $prep) < (NP=target))
 
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
 
-% they strive (trigger) for their efforts (target)
+% they strive (trigger) $prep their efforts (target)

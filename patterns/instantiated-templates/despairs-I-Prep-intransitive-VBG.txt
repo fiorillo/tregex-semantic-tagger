@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < despairs  $.. (PP < (IN < of) < (S=target <+(VP) (VB < G !< AUX)))
-
-insert (TargNotWant) >1 target
-insert (TrigNotWant) >2 trigger
-
-% they despairs (trigger) of helping (target) the refugees

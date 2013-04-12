@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < indicate  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% indicate (trigger) that they go (target)

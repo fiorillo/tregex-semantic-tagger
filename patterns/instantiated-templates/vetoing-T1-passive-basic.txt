@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < vetoing)) $,, (NP=target)
-
-insert (TargNotPermit) >1 target
-insert (TrigNotPermit) >2 trigger
-
-% the attacks (target) were vetoing (trigger)

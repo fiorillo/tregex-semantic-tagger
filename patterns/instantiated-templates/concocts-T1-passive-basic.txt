@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < concocts)) $,, (NP=target)
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% the attacks (target) were concocts (trigger)

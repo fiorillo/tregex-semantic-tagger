@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < restrains)) $,, (NP=target)
-
-insert (TargNotPermit) >1 target
-insert (TrigNotPermit) >2 trigger
-
-% the attacks (target) were restrains (trigger)

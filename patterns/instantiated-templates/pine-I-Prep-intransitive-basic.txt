@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/  < pine  $.. (PP < (IN < for) < (NP=target))
+VB=trigger !< /^Trig/  < pine  $.. (PP < (IN < $prep) < (NP=target))
 
 insert (TargWant) >1 target
 insert (TrigWant) >2 trigger
 
-% they pine (trigger) for their efforts (target)
+% they pine (trigger) $prep their efforts (target)

@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < crave)) $,, (NP=target)
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% the attacks (target) were crave (trigger)

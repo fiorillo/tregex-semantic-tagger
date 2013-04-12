@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < require  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargRequire) >1 target
-insert (TrigRequire) >2 trigger
-
-% require (trigger) that they go (target)

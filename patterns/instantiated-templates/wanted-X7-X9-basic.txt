@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < wanted [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% wanted (trigger) him dead/away (target)

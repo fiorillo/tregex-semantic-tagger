@@ -1,6 +1,0 @@
-JJ=trigger !< /^Trig/ < needed [$.. /^NN/=target | <+(NP) /^NN/=target]
-
-insert (TargRequire) >1 target
-insert (TrigRequire) >1 trigger
-
-% the needed (trigger) plans (target)

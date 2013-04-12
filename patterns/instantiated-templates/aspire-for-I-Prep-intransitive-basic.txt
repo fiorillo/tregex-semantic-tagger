@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < aspire  $.. (PP < (IN < for) < (NP=target))
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% they aspire (trigger) for their efforts (target)

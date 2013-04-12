@@ -1,4 +1,4 @@
-VP < (VB=trigger !< /^Trig/ < flopped)  $,, (NP=target) 
+VP < (VB=trigger !< /^Trig/ < flopped)  $,, (NP=target)
 
 insert (TargNotSucceed) >1 target
 insert (TrigNotSucceed) >2 trigger

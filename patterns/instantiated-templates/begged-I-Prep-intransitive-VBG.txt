@@ -1,6 +1,6 @@
-VB=trigger !< /^Trig/ < begged  $.. (PP < (IN < for) < (S=target <+(VP) (VB < G !< AUX)))
+VB=trigger !< /^Trig/ < begged  $.. (PP < (IN < $prep) < (S=target <+(VP) (VB < G !< AUX)))
 
 insert (TargWant) >1 target
 insert (TrigWant) >2 trigger
 
-% they begged (trigger) for helping (target) the refugees
+% they begged (trigger) $prep helping (target) the refugees

@@ -2,7 +2,7 @@
 
 set -- `getopt hl:t:o: $*`
 
-if [ $? == 0 ]; then
+if [ $# != 7 ]; then
   echo "usage: $0 -l [lexicon file] -t [template directory] -o [output directory]"
   exit 1
 fi

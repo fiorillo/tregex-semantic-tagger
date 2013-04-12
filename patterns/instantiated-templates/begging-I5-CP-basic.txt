@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < begging  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% begging (trigger) that they go (target)
