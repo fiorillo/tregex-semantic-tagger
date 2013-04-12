@@ -801,4 +801,55 @@ verb:discrediting, label:NotBelief, T1-monotransitive-basic, T1-passive-basic
 verb:not, label:Negation,
 verb:never, label:Negation,
 verb:n, label:Negation,
-verb:, label:,
+
+verb:appear, raising-verb
+verb:appears, raising-verb
+verb:appearing, raising-verb
+verb:appeared, raising-verb
+
+verb:begin, raising-verb
+verb:begins, raising-verb
+verb:beginning, raising-verb
+verb:began, raising-verb
+verb:begun, raising-verb
+
+verb:continue, raising-verb
+verb:continues, raising-verb
+verb:continuing, raising-verb
+verb:continued, raising-verb
+
+verb:fail, raising-verb
+verb:fails, raising-verb
+verb:failing, raising-verb
+verb:failed, raising-verb
+
+verb:figure, raising-verb
+verb:figures, raising-verb
+verb:figuring, raising-verb
+verb:figured, raising-verb
+
+verb:happen, raising-verb
+verb:happens, raising-verb
+verb:happening, raising-verb
+verb:happened, raising-verb
+
+verb:fail, raising-verb
+verb:fails, raising-verb
+verb:failing, raising-verb
+verb:failed, raising-verb
+
+verb:fail, raising-verb
+verb:fails, raising-verb
+verb:failing, raising-verb
+verb:failed, raising-verb
+
+verb:fail, raising-verb
+verb:fails, raising-verb
+verb:failing, raising-verb
+verb:failed, raising-verb
+
+verb:seem, raising-verb
+verb:seems, raising-verb
+verb:seeming, raising-verb
+verb:seemed, raising-verb
+

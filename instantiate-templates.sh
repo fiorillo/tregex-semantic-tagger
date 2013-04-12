@@ -37,14 +37,14 @@ cat $lexicon | while read line; do
   prefix=`echo $line | cut -d, -f1 | cut -d: -f2`
 
   for template in $templates; do
-    command="cat $template_dir/$template.ts"
+    command="cat $template_dir/$template.txt"
     for pair in $pairs; do
       label=`echo $pair | cut -d: -f1`
       value=`echo $pair | cut -d: -f2`
       command="$command | sed s/\\\$$label/$value/g"
     done
     echo $command
-    eval $command > $output_dir/$prefix-$template.ts
+    eval $command > $output_dir/$prefix-$template.txt
   done
 done
 

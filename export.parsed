@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN export))
+      (PP (IN of)
+        (NP (JJ high-tech) (NNS products))))
+    (VP (VBZ has)
+      (ADVP (RB frequently))
+      (VP (VBN been)
+        (PP (IN in)
+          (NP (DT the) (NN spotlight)))
+        (, ,)
+        (S
+          (VP (VBG making)
+            (NP (DT a) (JJ significant) (NN contribution))
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN growth))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ foreign) (NN trade))
+                    (PP (IN in)
+                      (NP (NN guangdong)))))))))))
+    (. .)))
+
