@@ -1,5 +1,6 @@
 output/*
-modality-patterns/instantiated-templates/*
+patterns/instantiated-templates/*
+*.bak
 tmp/*
 .git*
 .gitignore
