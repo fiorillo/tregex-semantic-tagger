@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < failed)) $,, (NP=target)
-
-insert (TargNotSucceed) >1 target
-insert (TrigNotSucceed) >2 trigger
-
-% the attacks (target) were failed (trigger)

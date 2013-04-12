@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < persuade !$ S)) $,, (NP=target)
-
-insert (TargBelief) >1 target
-insert (TrigBelief) >2 trigger
-
-% the attacks (target) were persuade (trigger)

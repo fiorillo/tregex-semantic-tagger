@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < beg  $.. (NP=target) !$ S
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% they beg (trigger) tents (target)

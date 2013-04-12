@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < contemplating  $.. (NP=target)
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% they contemplating (trigger) tents (target)

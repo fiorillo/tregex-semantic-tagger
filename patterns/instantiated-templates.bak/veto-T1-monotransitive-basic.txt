@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < veto  $.. (NP=target)
-
-insert (TargNotPermit) >1 target
-insert (TrigNotPermit) >2 trigger
-
-% they veto (trigger) tents (target)

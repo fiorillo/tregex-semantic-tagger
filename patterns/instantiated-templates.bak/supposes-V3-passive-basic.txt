@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < supposes $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TrigBelief) >2 trigger
-insert (TargBelief) >1 target
-
-% the attackers were supposes (trigger) to leave (target)

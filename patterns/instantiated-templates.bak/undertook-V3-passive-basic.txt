@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < undertook $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TrigEffort) >2 trigger
-insert (TargEffort) >1 target
-
-% the attackers were undertook (trigger) to leave (target)

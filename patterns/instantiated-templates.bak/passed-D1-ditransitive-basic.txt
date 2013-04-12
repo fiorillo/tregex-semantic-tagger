@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < passed  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
-
-insert (TargNotEffort) >1 target
-insert (TrigNotEffort) >2 trigger
-
-% passed (trigger) them those luxuries (target)

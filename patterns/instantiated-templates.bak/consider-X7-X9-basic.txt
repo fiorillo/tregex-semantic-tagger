@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < consider [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
-
-insert (TargBelief) >1 target
-insert (TrigBelief) >2 trigger
-
-% consider (trigger) him dead/away (target)

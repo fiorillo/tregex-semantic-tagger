@@ -1,6 +1,0 @@
-MD=trigger !< /^Trig/ < must $ (VP=target < (VB !< AUX))
-
-insert  (TargBelief) >1 target
-insert (TrigBelief) >1 trigger
-
-% he must (trigger) go (target)

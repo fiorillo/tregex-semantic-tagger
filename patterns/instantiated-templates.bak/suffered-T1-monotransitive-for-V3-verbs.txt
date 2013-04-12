@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < suffered  $.. (NP=target) !$ S
-
-insert (TargPermit) >1 target
-insert (TrigPermit) >2 trigger
-
-% they suffered (trigger) tents (target)

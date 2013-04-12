@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < endorsing  $.. (NP=target)
-
-insert (TargPermit) >1 target
-insert (TrigPermit) >2 trigger
-
-% they endorsing (trigger) tents (target)

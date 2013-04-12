@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < lust  $.. (PP < (IN < after) < (NP=target))
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% they lust (trigger) after their efforts (target)

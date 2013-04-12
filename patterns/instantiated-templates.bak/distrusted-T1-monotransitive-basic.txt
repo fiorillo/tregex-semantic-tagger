@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < distrusted  $.. (NP=target)
-
-insert (TargNotBelief) >1 target
-insert (TrigNotBelief) >2 trigger
-
-% they distrusted (trigger) tents (target)

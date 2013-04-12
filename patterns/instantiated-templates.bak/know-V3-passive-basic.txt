@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < know $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TrigFirmBelief) >2 trigger
-insert (TargFirmBelief) >1 target
-
-% the attackers were know (trigger) to leave (target)

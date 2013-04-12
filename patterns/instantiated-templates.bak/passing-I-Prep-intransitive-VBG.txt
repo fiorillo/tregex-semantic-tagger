@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < passing  $.. (PP < (IN < on) < (S=target <+(VP) (VB < G !< AUX)))
-
-insert (TargNotEffort) >1 target
-insert (TrigNotEffort) >2 trigger
-
-% they passing (trigger) on helping (target) the refugees

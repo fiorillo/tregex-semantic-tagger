@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < schemed  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% schemed (trigger) [him] to go (target)

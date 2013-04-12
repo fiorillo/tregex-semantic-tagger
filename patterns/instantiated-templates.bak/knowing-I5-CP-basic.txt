@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < knowing  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargFirmBelief) >1 target
-insert (TrigFirmBelief) >2 trigger
-
-% knowing (trigger) that they go (target)

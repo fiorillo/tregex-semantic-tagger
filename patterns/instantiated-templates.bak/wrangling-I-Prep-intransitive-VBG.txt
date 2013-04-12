@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < wrangling  $.. (PP < (IN < with) < (S=target <+(VP) (VB < G !< AUX)))
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
-
-% they wrangling (trigger) with helping (target) the refugees

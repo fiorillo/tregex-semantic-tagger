@@ -1,6 +1,0 @@
-JJ=trigger !< /^Trig/ < successful [$.. /^NN/=target | <+(NP) /^NN/=target]
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >1 trigger
-
-% the successful (trigger) plans (target)

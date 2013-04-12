@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < passed  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargNotEffort) >1 target
-insert (TrigNotEffort) >2 trigger
-
-% passed (trigger) [him] to go (target)

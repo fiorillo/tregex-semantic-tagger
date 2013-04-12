@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < abstaining  $.. (PP < (IN < from) < (NP=target))
-
-insert (TargNotEffort) >1 target
-insert (TrigNotEffort) >2 trigger
-
-% they abstaining (trigger) from their efforts (target)

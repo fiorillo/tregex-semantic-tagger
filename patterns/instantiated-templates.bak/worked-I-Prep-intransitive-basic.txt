@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < worked  $.. (PP < (IN < towards) < (NP=target))
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
-
-% they worked (trigger) towards their efforts (target)

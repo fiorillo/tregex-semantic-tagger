@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < ordained  $.. (NP=target)
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% they ordained (trigger) tents (target)

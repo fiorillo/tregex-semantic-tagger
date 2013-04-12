@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < fail  $.. (PP < (IN < in) < (NP=target))
-
-insert (TargNotSucceed) >1 target
-insert (TrigNotSucceed) >2 trigger
-
-% they fail (trigger) in their efforts (target)

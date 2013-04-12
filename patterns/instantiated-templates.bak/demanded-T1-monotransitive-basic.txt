@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < demanded  $.. (NP=target)
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% they demanded (trigger) tents (target)

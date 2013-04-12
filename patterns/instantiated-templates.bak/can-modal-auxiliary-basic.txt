@@ -1,6 +1,0 @@
-MD=trigger !< /^Trig/ < can $ (VP=target < (VB !< AUX))
-
-insert  (TargAble) >1 target
-insert (TrigAble) >1 trigger
-
-% he can (trigger) go (target)

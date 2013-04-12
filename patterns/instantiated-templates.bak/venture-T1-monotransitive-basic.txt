@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < venture  $.. (NP=target)
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
-
-% they venture (trigger) tents (target)

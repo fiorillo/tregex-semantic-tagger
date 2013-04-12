@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < allowing  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
-
-insert (TargPermit) >1 target
-insert (TrigPermit) >2 trigger
-
-% allowing (trigger) them those luxuries (target)

@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < trust  $.. (NP=target)
-
-insert (TargBelief) >1 target
-insert (TrigBelief) >2 trigger
-
-% they trust (trigger) tents (target)

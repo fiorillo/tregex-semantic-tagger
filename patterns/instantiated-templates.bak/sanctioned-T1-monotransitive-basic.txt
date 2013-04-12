@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < sanctioned  $.. (NP=target)
-
-insert (TargPermit) >1 target
-insert (TrigPermit) >2 trigger
-
-% they sanctioned (trigger) tents (target)

@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < undertook  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
-
-% undertook (trigger) that they go (target)

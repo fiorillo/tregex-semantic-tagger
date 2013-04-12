@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < works $.. (ADJP=target)
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
-
-% they works (trigger) unwilling (target)

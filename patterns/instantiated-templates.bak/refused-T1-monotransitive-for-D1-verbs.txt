@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < refused  $.. (NP=target) !$ S
-
-insert (TargNotPermit) >1 target
-insert (TrigNotPermit) >2 trigger
-
-% they refused (trigger) tents (target)

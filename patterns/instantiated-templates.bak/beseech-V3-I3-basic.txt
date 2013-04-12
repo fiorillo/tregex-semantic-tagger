@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < beseech  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% beseech (trigger) [him] to go (target)

@@ -1,6 +1,0 @@
-VP < (VB=trigger !< /^Trig/  < beg)  $,, (NP=target) !< (PP < (IN < in) < S)
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% the plan (target) beg (trigger)

@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < managed  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >2 trigger
-
-% managed (trigger) [him] to go (target)

@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < concoct  $.. (NP=target)
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% they concoct (trigger) tents (target)

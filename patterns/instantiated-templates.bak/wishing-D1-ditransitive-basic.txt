@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < wishing  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% wishing (trigger) them those luxuries (target)

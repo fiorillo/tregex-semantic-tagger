@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < orders [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
-
-insert (TargRequire) >1 target
-insert (TrigRequire) >2 trigger
-
-% orders (trigger) him dead/away (target)

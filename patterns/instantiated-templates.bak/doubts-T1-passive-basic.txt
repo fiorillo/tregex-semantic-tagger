@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < doubts)) $,, (NP=target)
-
-insert (TargNotBelief) >1 target
-insert (TrigNotBelief) >2 trigger
-
-% the attacks (target) were doubts (trigger)

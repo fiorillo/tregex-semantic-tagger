@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < obtain  $.. (NP=target) !$ S
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >2 trigger
-
-% they obtain (trigger) tents (target)

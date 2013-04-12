@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < entreated  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
-
-% entreated (trigger) that they go (target)

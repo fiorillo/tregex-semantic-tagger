@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < disliking  $.. (NP=target)
-
-insert (TargNotWant) >1 target
-insert (TrigNotWant) >2 trigger
-
-% they disliking (trigger) tents (target)

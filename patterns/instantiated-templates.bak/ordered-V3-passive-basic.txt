@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < ordered $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TrigRequire) >2 trigger
-insert (TargRequire) >1 target
-
-% the attackers were ordered (trigger) to leave (target)

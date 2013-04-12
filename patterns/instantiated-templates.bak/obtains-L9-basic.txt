@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < obtains $.. (ADJP=target)
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >2 trigger
-
-% they obtains (trigger) unwilling (target)

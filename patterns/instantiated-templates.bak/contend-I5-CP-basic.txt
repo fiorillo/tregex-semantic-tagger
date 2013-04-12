@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < contend  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
-
-% contend (trigger) that they go (target)

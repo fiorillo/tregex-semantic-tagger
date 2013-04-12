@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < ordered  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargRequire) >1 target
-insert (TrigRequire) >2 trigger
-
-% ordered (trigger) [him] to go (target)

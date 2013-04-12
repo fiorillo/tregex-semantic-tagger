@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < ordaining  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% ordaining (trigger) that they go (target)

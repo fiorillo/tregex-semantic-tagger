@@ -1,6 +1,0 @@
-VP < (VB=trigger !< /^Trig/ < flops)  $,, (NP=target) 
-
-insert (TargNotSucceed) >1 target
-insert (TrigNotSucceed) >2 trigger
-
-% the plan (target) flops (trigger)

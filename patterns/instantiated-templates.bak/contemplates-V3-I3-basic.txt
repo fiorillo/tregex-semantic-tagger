@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < contemplates  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% contemplates (trigger) [him] to go (target)

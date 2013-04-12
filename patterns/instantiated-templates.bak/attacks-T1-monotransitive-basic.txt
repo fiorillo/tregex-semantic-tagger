@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < attacks  $.. (NP=target)
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
-
-% they attacks (trigger) tents (target)

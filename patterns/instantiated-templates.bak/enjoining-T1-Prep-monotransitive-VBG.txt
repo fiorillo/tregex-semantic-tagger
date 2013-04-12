@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < enjoining  $.. (PP < (IN < from) < (S=target < (VP < (VB !< AUX))))
-
-insert (TargNotPermit) >1 target
-insert (TrigNotPermit) >2 trigger
-
-% they enjoining (trigger) him from killing (target)

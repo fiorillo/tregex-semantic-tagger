@@ -1,6 +1,0 @@
-ADJP < (JJ=trigger !< /^Trig/ < desperate) < (PP < (IN < for) < (NP=target))
-
-insert (TargWant) >1 target
-insert (TrigWant) >1 trigger
-
-% desperate (trigger) for a performer (target)

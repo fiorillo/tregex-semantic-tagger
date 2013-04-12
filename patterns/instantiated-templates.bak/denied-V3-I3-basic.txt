@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < denied  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargNotPermit) >1 target
-insert (TrigNotPermit) >2 trigger
-
-% denied (trigger) [him] to go (target)

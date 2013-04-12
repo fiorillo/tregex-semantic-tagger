@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < permits  $.. (NP=target) !$ S
-
-insert (TargPermit) >1 target
-insert (TrigPermit) >2 trigger
-
-% they permits (trigger) tents (target)

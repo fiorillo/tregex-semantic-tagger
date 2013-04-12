@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < seek $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TrigEffort) >2 trigger
-insert (TargEffort) >1 target
-
-% the attackers were seek (trigger) to leave (target)

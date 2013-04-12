@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < plotted  $.. (NP=target)
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% they plotted (trigger) tents (target)

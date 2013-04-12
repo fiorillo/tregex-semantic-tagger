@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < succeeded  $.. (NP=target)
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >2 trigger
-
-% they succeeded (trigger) tents (target)

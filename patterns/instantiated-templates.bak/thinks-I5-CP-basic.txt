@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < thinks  $.. (SBAR < (S=target < (VP < (VB !< AUX))))
-
-insert (TargBelief) >1 target
-insert (TrigBelief) >2 trigger
-
-% thinks (trigger) that they go (target)

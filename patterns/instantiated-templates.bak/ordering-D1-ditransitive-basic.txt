@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < ordering  $.. (NP [ <+(NP) /^NN/ | < PRP ] $.. (NP=target))
-
-insert (TargRequire) >1 target
-insert (TrigRequire) >2 trigger
-
-% ordering (trigger) them those luxuries (target)

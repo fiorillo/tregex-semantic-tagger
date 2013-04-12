@@ -1,6 +1,0 @@
-JJ=trigger !< /^Trig/ < unambiguous [$.. /^NN/=target | <+(NP) /^NN/=target]
-
-insert (TargFirmBelief) >1 target
-insert (TrigFirmBelief) >1 trigger
-
-% the unambiguous (trigger) plans (target)

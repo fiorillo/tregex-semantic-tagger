@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < reached $.. (ADJP=target)
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >2 trigger
-
-% they reached (trigger) unwilling (target)

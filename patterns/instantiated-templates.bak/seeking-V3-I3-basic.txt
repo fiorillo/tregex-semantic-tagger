@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < seeking  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargEffort) >1 target
-insert (TrigEffort) >2 trigger
-
-% seeking (trigger) [him] to go (target)

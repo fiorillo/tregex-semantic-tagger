@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < resolves $.. (ADJP=target)
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% they resolves (trigger) unwilling (target)

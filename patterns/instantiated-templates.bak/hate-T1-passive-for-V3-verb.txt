@@ -1,6 +1,0 @@
-VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < hate !$ S)) $,, (NP=target)
-
-insert (TargNotWant) >1 target
-insert (TrigNotWant) >2 trigger
-
-% the attacks (target) were hate (trigger)

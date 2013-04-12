@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < plotting  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargIntend) >1 target
-insert (TrigIntend) >2 trigger
-
-% plotting (trigger) [him] to go (target)

@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/ < VoicePassive < expect $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TrigBelief) >2 trigger
-insert (TargBelief) >1 target
-
-% the attackers were expect (trigger) to leave (target)

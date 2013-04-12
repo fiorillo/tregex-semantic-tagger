@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < appears $.. (ADJP=target)
-
-insert (TargBelief) >1 target
-insert (TrigBelief) >2 trigger
-
-% they appears (trigger) unwilling (target)

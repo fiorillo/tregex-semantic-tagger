@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < attains  $.. (NP=target)
-
-insert (TargSucceed) >1 target
-insert (TrigSucceed) >2 trigger
-
-% they attains (trigger) tents (target)

@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < presumes  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargBelief) >1 target
-insert (TrigBelief) >2 trigger
-
-% presumes (trigger) [him] to go (target)

@@ -1,6 +1,0 @@
-VB=trigger !< /^Trig/  < thinking  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
-
-insert (TargBelief) >1 target
-insert (TrigBelief) >2 trigger
-
-% thinking (trigger) [him] to go (target)

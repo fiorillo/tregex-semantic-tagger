@@ -1,6 +1,0 @@
-VB < gives $.. NP $.. ((NP <+(NP) (NN=trigger !< /^Trig/ < leave)) [$.. (S < (VP < TO < (VP < VB=target))) | < (S < (VP < TO < (VP=target < VB)))] )
-
-insert (TargPermit) >1 target
-insert (TrigPermit) >1 trigger
-
-% they gives him leave (trigger) to go (target)
