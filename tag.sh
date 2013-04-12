@@ -6,10 +6,10 @@
 treefile=$1
 
 root=`pwd`
-prep_dir=$root/modality-patterns/preparatory
-idio_dir=$root/modality-patterns/idiosyncratic
-pattern_dir=$root/modality-patterns/instantiated-templates
-cleanup_dir=$root/modality-patterns/cleanup
+prep_dir=$root/patterns/preparatory
+idio_dir=$root/patterns/idiosyncratic
+pattern_dir=$root/patterns/instantiated-templates
+cleanup_dir=$root/patterns/cleanup
 tregex_dir=$root/tools/stanford-tregex
 
 # run the patterns, in order
