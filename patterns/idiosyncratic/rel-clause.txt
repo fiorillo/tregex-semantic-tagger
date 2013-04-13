@@ -1,0 +1,4 @@
+NP < (NP=target $ (SBAR=trigger !< /^Relclause/ !< (IN < that)))
+
+insert (Relclause) >1 trigger
+insert (RelclauseModifiee) >1 target
