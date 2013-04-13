@@ -1,0 +1,4 @@
+VB=pref < G=suff
+
+rename pref (VBG)
+delete suff

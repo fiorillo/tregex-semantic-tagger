@@ -1,0 +1,4 @@
+VB=pref < N=suff
+
+rename pref (VBN)
+delete suff

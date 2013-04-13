@@ -1,0 +1,4 @@
+VB=pref < D=suff
+
+rename pref (VBD)
+delete suff

@@ -1,0 +1,4 @@
+VB=pref < Z=suff
+
+rename pref (VBZ)
+delete suff
