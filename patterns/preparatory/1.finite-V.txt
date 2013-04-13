@@ -1,0 +1,8 @@
+VP=trigger !< (Finite) [ <+(VP) (VB [< P | < Z | < D]) | <+(VP) MD ]
+
+insert (Finite) >1 trigger
+
+
+
+
+% VP=trigger !< (Finite) < (VB=target [< 's | < is | < am | < are | < were | < was | < 're | < 'm])

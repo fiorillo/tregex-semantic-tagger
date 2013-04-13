@@ -15,5 +15,6 @@ tregex_dir=$root/tools/stanford-tregex
 # run the patterns, in order
 cd $tregex_dir
 ./tsurgeon.sh -treeFile $root/$treefile $prep_dir/*.txt $idio_dir/*.txt $pattern_dir/*.txt $cleanup_dir/*.txt
+###find "$root/$treefile" "$prep_dir/*.txt" "$idio_dir/*.txt" "$pattern_dir/*.txt" "$cleanup_dir/*.txt" -print0 | xargs -0 ./tsurgeon.sh -treeFile
 
 exit 0
