@@ -3,3 +3,5 @@ output/*
 tmp/*
 .git*
 .gitignore
+*.etrees
+*.tagged

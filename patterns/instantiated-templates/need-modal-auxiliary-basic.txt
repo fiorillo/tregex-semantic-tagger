@@ -1,6 +1,6 @@
-MD=trigger !< /^Trig/ < $mod $ (VP=target < (VB !< AUX))
+MD=trigger !< /^Trig/ < need $ (VP=target < (VB !< AUX))
 
 insert  (TargWant) >1 target
 insert (TrigWant) >1 trigger
 
-% he $mod (trigger) go (target)
+% he need (trigger) go (target)

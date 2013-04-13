@@ -58,7 +58,7 @@ verb:gives, noun:leave, label:Permit, VB-NN-infinitive
 verb:give, noun:permission, label:Permit, VB-NN-infinitive
 verb:gives, noun:permission, label:Permit, VB-NN-infinitive
 verb:giving, noun:permission, label:Permit, VB-NN-infinitive
-verb:given, label:Permit, VB-NN-infinitive
+verb:given, noun:permission, label:Permit, VB-NN-infinitive
 verb:okay, label:Permit, T1-monotransitive-basic, T1-passive-basic
 verb:okayed, label:Permit, T1-monotransitive-basic, T1-passive-basic
 verb:okayed, label:Permit, T1-monotransitive-basic, T1-passive-basic
@@ -490,8 +490,8 @@ verb:devising, label:Intend, T1-monotransitive-basic, T1-passive-basic
 
 adj:capable, prep:of, label:Able, JJ-Prep-basic, JJ-Prep-VBG
 adj:able, label:Able, JJ-infinitive
-adj:can, label:Able, modal-auxiliary-basic
-adj:could, label:Able, modal-auxiliary-basic
+verb:can, label:Able, modal-auxiliary-basic
+verb:could, label:Able, modal-auxiliary-basic
 adj:ready, label:Able, JJ-infinitive
 
 adj:powerless, label:NotAble, JJ-infinitive

@@ -34,7 +34,6 @@ cat $lexicon | while read line; do
   mid=`echo $line | rev | cut -d: -f1 | rev | cut -d, -f1`
   pairs=`echo "$first:$mid" | sed s/,/\ /g`
   templates=`echo $line | rev | cut -d: -f1 | rev | cut -d, -f2- | sed s/,/\ /g | tr '\r' ' '`
-  echo $templates
 
   prefix=`echo $line | cut -d, -f1 | cut -d: -f2`
 
