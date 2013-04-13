@@ -1,4 +1,0 @@
-VP=targ < (NP=trig !< TrigMeasure <+(NP) CD <+(NP) /^NN/ < (PP < (IN < of) < NP))
-
-insert (TrigMeasure) >1 trig
-insert (TargMeasure) >1 targ

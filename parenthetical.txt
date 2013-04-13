@@ -1,3 +1,0 @@
-VP < (S=paren !< Parenthetical !< NP !< TO)
-
-insert (Parenthetical) >1 paren
