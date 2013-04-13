@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < failing  $.. (PP < (IN < in) < (S=target <+(VP) (VB < G !< AUX)))
+
+insert (TargNotSucceed) >1 target
+insert (TrigNotSucceed) >2 trigger
+
+% they failing (trigger) in helping (target) the refugees

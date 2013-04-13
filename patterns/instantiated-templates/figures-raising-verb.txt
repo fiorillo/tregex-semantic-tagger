@@ -1,0 +1,3 @@
+NP $.. (VP < (/^VB/=verb < figures) < (S < TO))
+
+insert RaisingVerb >1 verb

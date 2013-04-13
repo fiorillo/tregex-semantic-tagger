@@ -33,7 +33,8 @@ cat $lexicon | while read line; do
   first=`echo $line | rev | cut -d: -f2- | rev`
   mid=`echo $line | rev | cut -d: -f1 | rev | cut -d, -f1`
   pairs=`echo "$first:$mid" | sed s/,/\ /g`
-  templates=`echo $line | sed s/\n//g | rev | cut -d: -f1 | rev | cut -d, -f2- | sed s/,/\ /g`
+  templates=`echo $line | rev | cut -d: -f1 | rev | cut -d, -f2- | sed s/,/\ /g | tr '\r' ' '`
+  echo $templates
 
   prefix=`echo $line | cut -d, -f1 | cut -d: -f2`
 
@@ -44,7 +45,7 @@ cat $lexicon | while read line; do
       value=`echo $pair | cut -d: -f2`
       command="$command | sed s/\\\$$label/$value/g"
     done
-    echo $command
+#    echo $command
     eval $command > $output_dir/$prefix-$template.txt
   done
 done

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < striven $.. (ADJP=target)
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they striven (trigger) unwilling (target)

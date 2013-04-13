@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < manages  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargSucceed) >1 target
+insert (TrigSucceed) >2 trigger
+
+% manages (trigger) [him] to go (target)

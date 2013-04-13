@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < worked [$.. (S < ADJP=target !< VB) | $.. ADVP=target]
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% worked (trigger) him dead/away (target)

@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < abstained  $.. (PP < (IN < from) < (S=target <+(VP) (VB < G !< AUX)))
+
+insert (TargNotEffort) >1 target
+insert (TrigNotEffort) >2 trigger
+
+% they abstained (trigger) from helping (target) the refugees

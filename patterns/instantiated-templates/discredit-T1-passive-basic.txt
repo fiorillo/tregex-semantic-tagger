@@ -1,0 +1,6 @@
+VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < discredit)) $,, (NP=target)
+
+insert (TargNotBelief) >1 target
+insert (TrigNotBelief) >2 trigger
+
+% the attacks (target) were discredit (trigger)

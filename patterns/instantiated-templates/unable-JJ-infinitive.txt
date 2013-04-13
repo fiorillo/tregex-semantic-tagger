@@ -1,0 +1,6 @@
+JJ=trigger !< /^Trig/ < unable $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargNotAble) >1 target
+insert (TrigNotAble) >1 trigger
+
+% unable (trigger) to go (target)

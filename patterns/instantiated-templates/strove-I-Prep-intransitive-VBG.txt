@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/ < strove  $.. (PP < (IN < to) < (S=target <+(VP) (VB < G !< AUX)))
+
+insert (TargIntend) >1 target
+insert (TrigIntend) >2 trigger
+
+% they strove (trigger) to helping (target) the refugees

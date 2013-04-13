@@ -1,0 +1,6 @@
+VP < (VB=trigger !< /^Trig/ < fizzle)  $,, (NP=target)
+
+insert (TargNotSucceed) >1 target
+insert (TrigNotSucceed) >2 trigger
+
+% the plan (target) fizzle (trigger)

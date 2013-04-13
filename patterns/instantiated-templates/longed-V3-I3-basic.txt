@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < longed  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% longed (trigger) [him] to go (target)

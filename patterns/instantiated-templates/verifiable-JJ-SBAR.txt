@@ -1,0 +1,6 @@
+ADJP <+(ADJP) (JJ=trigger < verifiable !< /^Trig/) $.. (SBAR <+(SBAR) (S=target))
+
+insert (TargFirmBelief) >1 target
+insert (TrigFirmBelief) >1 trigger
+
+% verifiable (trigger) that he will succeed (target)

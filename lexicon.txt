@@ -125,11 +125,11 @@ verb:attained, label:Succeed, T1-monotransitive-basic, T1-passive-basic
 verb:attained, label:Succeed, T1-monotransitive-basic, T1-passive-basic
 verb:attains, label:Succeed, T1-monotransitive-basic, T1-passive-basic
 verb:attaining, label:Succeed, T1-monotransitive-basic, T1-passive-basic
-verb:arrive, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
-verb:arrived, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
-verb:arrived, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
-verb:arrives, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
-verb:arriving, prep:at, label:Succeed, I-Prep-intransitive-basic.txt
+verb:arrive, prep:at, label:Succeed, I-Prep-intransitive-basic
+verb:arrived, prep:at, label:Succeed, I-Prep-intransitive-basic
+verb:arrived, prep:at, label:Succeed, I-Prep-intransitive-basic
+verb:arrives, prep:at, label:Succeed, I-Prep-intransitive-basic
+verb:arriving, prep:at, label:Succeed, I-Prep-intransitive-basic
 verb:manage, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
 verb:managed, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic
 verb:managed, label:Succeed, T1-monotransitive-basic, T1-passive-basic, V3-passive-basic, V3-I3-basic

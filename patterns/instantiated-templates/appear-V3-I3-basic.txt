@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < appear  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargBelief) >1 target
+insert (TrigBelief) >2 trigger
+
+% appear (trigger) [him] to go (target)

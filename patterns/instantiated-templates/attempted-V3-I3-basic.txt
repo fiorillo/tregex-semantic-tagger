@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < attempted  $.. (S < (VP < TO < (VP=target < (VB !< AUX))))
+
+insert (TargEffort) >1 target
+insert (TrigEffort) >2 trigger
+
+% attempted (trigger) [him] to go (target)
