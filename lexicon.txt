@@ -538,7 +538,7 @@ verb:aspires, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitiv
 verb:aspires, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:aspired, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:aspiring, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:aspiration, label:Want, noun-predicate
+noun:aspiration, label:Want, noun-predicate
 verb:covet, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:covets, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:covets, label:Want, T1-monotransitive-basic, T1-passive-basic
@@ -600,7 +600,7 @@ verb:preferred, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-pass
 verb:preferred, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 verb:prefers, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 verb:preferring, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
-verb:preference, label:Want, noun-predicate
+noun:preference, label:Want, noun-predicate
 verb:beg, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
 verb:begged, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
 verb:begged, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
