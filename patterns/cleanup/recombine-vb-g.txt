@@ -1,4 +1,4 @@
 VB=pref < G=suff
 
-relabel pref (VBG)
+relabel pref VBG
 delete suff
