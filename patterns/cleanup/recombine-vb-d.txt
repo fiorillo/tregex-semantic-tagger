@@ -1,4 +1,4 @@
 VB=pref < D=suff
 
-rename pref (VBD)
+relabel pref (VBD)
 delete suff
