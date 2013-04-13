@@ -1,0 +1,6 @@
+ADJP < (JJ=trigger !< /^Trig/ < unsuccessful) < (PP < (IN < at) < (NP=target))
+
+insert (TargNotSucceed) >1 target
+insert (TrigNotSucceed) >1 trigger
+
+% unsuccessful (trigger) at a performer (target)

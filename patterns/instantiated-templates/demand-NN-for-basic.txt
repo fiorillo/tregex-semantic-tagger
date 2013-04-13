@@ -1,0 +1,6 @@
+NP <+(NP) (/^NN/=trigger !< /^Trig/  < demand)  $.. (PP < (IN < for) < (NP=target))
+
+insert (TargWant) >1 target
+insert (TrigWant) >1 trigger
+
+% the demand (trigger) for tents (target)

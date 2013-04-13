@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (NN japan))
+    (VP (VBD exported)
+      (NP
+        (NP (CD 15) (NNS tons))
+        (PP (IN of)
+          (NP (NN flax)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBD ran)
+      (NP (NN fifteen) (NNS miles))
+      (NP (NN today)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN japan) (POS 's))
+      (NN flax) (NNS exports))
+    (VP (VBD totaled)
+      (NP (CD 15) (NNS tons)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN japan))
+    (VP (VBD exported)
+      (NP
+        (NP (DT a) (JJ good) (CD 15) (NNS tons))
+        (PP (IN of)
+          (NP (NN flax)))))
+    (. .)))
+

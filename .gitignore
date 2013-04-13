@@ -1,5 +1,4 @@
 output/*
-patterns/instantiated-templates/*.txt
 *.bak
 tmp/*
 .git*

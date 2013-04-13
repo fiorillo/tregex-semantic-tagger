@@ -33,7 +33,7 @@ cat $lexicon | while read line; do
   first=`echo $line | rev | cut -d: -f2- | rev`
   mid=`echo $line | rev | cut -d: -f1 | rev | cut -d, -f1`
   pairs=`echo "$first:$mid" | sed s/,/\ /g`
-  templates=`echo $line | rev | cut -d: -f1 | rev | cut -d, -f2- | sed s/,/\ /g`
+  templates=`echo $line | sed s/\n//g | rev | cut -d: -f1 | rev | cut -d, -f2- | sed s/,/\ /g`
 
   prefix=`echo $line | cut -d, -f1 | cut -d: -f2`
 

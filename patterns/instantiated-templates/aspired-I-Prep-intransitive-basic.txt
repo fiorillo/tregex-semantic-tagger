@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < aspired  $.. (PP < (IN < to) < (NP=target))
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% they aspired (trigger) to their efforts (target)
