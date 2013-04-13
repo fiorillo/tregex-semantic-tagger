@@ -1,0 +1,4 @@
+S <+(NP) (NN=trig < demand !< /^TrigWant/) <+(VP) (VB < Finite [< is | < was | < are | < 's | < 're] $ (S=targ <+(NP) TO))
+
+insert (TrigWant) >1 trig
+insert (TargWant) >1 targ

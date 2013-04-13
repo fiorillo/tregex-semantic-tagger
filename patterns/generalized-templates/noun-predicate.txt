@@ -1,0 +1,4 @@
+S <+(NP) (NN=trig < $noun !< /^Trig$label/) <+(VP) (VB < Finite [< is | < was | < are | < 's | < 're] $ (S=targ <+(NP) TO))
+
+insert (Trig$label) >1 trig
+insert (Targ$label) >1 targ

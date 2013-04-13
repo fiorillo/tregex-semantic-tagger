@@ -1,6 +1,6 @@
 MD=trigger !< /^Trig/ < needs $ (VP=target < (VB !< AUX))
 
-insert  (TargWant) >1 target
-insert (TrigWant) >1 trigger
+insert  (TargRequire) >1 target
+insert (TrigRequire) >1 trigger
 
 % he needs (trigger) go (target)

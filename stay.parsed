@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (FW i))
+    (VP (VBP know)
+      (SBAR (IN whether)
+        (S
+          (VP (TO to)
+            (VP (VB stay)
+              (CC or)
+              (VB go))))))))
+

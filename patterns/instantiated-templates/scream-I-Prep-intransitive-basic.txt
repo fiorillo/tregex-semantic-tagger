@@ -1,0 +1,6 @@
+VB=trigger !< /^Trig/  < scream  $.. (PP < (IN < for) < (NP=target))
+
+insert (TargWant) >1 target
+insert (TrigWant) >2 trigger
+
+% they scream (trigger) for their efforts (target)

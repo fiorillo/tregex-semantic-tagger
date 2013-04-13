@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (PRP$ their) (NN intent))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB win)))))))
+

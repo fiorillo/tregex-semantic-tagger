@@ -1,6 +1,6 @@
 VP < (VP < (VB=trigger !< /^Trig/ < VoicePassive < needs !$ S)) $,, (NP=target)
 
-insert (TargWant) >1 target
-insert (TrigWant) >2 trigger
+insert (TargRequire) >1 target
+insert (TrigRequire) >2 trigger
 
 % the attacks (target) were needs (trigger)

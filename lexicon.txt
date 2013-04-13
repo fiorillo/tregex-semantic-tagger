@@ -392,6 +392,15 @@ verb:aimed, label:Intend, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic
 verb:aimed, label:Intend, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic 
 verb:aims, label:Intend, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic 
 verb:aiming, label:Intend, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic 
+verb:aim, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aimed, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aims, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aiming, prep:for, label:Intend, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+noun:goal, label:Intend, noun-predicate
+noun:aim, label:Intend, noun-predicate
+noun:desire, label:Want, noun-predicate
+noun:intent, label:Intend, noun-predicate
+noun:intention, label:Intend, noun-predicate
 verb:contemplate, label:Intend, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, I5-CP-basic
 verb:contemplated, label:Intend, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, I5-CP-basic
 verb:contemplated, label:Intend, T1-monotransitive-basic, T1-passive-basic, V3-I3-basic, I5-CP-basic
@@ -507,11 +516,13 @@ verb:hopes, label:Want, V3-passive-basic, V3-I3-basic, I5-CP-basic
 verb:hopes, label:Want, V3-passive-basic, V3-I3-basic, I5-CP-basic 
 verb:hoped, label:Want, V3-passive-basic, V3-I3-basic, I5-CP-basic 
 verb:hoping, label:Want, V3-passive-basic, V3-I3-basic, I5-CP-basic 
+noun:hope, label:Want, noun-predicate
 verb:wish, label:Want, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 verb:wishes, label:Want, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 verb:wishes, label:Want, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 verb:wished, label:Want, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
 verb:wishing, label:Want, T1-monotransitive-for-D1-verbs, D1-ditransitive-basic, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, X7-X9-basic, I5-CP-basic 
+noun:wish, label:Want, noun-predicate
 verb:request, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 verb:requests, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 verb:requests, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
@@ -527,6 +538,7 @@ verb:aspires, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitiv
 verb:aspires, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:aspired, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:aspiring, prep:to, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:aspiration, label:Want, noun-predicate
 verb:covet, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:covets, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:covets, label:Want, T1-monotransitive-basic, T1-passive-basic
@@ -573,11 +585,6 @@ verb:lusted, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransit
 verb:lusted, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:lusts, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:lusting, prep:after, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
-verb:need, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
-verb:needed, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
-verb:needed, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
-verb:needs, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
-verb:needing, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, modal-auxiliary-basic
 verb:pine, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:pined, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:pined, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
@@ -593,16 +600,21 @@ verb:preferred, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-pass
 verb:preferred, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 verb:prefers, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
 verb:preferring, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I5-CP-basic 
+verb:preference, label:Want, noun-predicate
 verb:beg, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
 verb:begged, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
 verb:begged, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
 verb:begs, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
 verb:begging, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic, I-intransitive-for-I-in-and-I3-verb, V3-I3-basic, I5-CP-basic
-verb:beg, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:begged, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:begged, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:begs, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
-verb:begging, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG 
+verb:beg, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:begged, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:begged, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:begs, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:begging, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:scream, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:screams, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:screamed, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
+verb:screaming, prep:for, label:Want, I-Prep-intransitive-basic, I-Prep-intransitive-VBG
 verb:beseech, prep:for, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:beseeched, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
 verb:beseeched, label:Want, T1-monotransitive-for-V3-verbs, V3-I3-basic, T1-passive-for-V3-verb, V3-passive-basic 
@@ -637,8 +649,8 @@ verb:demands, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:demanded, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:demanded, label:Want, T1-monotransitive-basic, T1-passive-basic
 verb:demanding, label:want, T1-monotransitive-basic, T1-passive-basic
-noun:demand, label:Want, NN-for-basic, Noun-compound
-noun:demands, label:Want, NN-for-basic, Noun-compound
+noun:demand, label:Want, NN-for-basic, Noun-compound, noun-predicate
+noun:demands, label:Want, NN-for-basic, Noun-compound, noun-predicate
 
 verb:despise, label:NotWant, T1-monotransitive-basic, T1-passive-basic
 verb:despised, label:NotWant, T1-monotransitive-basic, T1-passive-basic

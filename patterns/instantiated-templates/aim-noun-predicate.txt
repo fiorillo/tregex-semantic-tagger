@@ -1,0 +1,4 @@
+S <+(NP) (NN=trig < aim !< /^TrigIntend/) <+(VP) (VB < Finite [< is | < was | < are | < 's | < 're] $ (S=targ <+(NP) TO))
+
+insert (TrigIntend) >1 trig
+insert (TargIntend) >1 targ
